@@ -1,0 +1,1087 @@
+,id,name,artist,genre,acousticness,danceability,valence,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature
+0,769s9mFyge2Oi4yUuCQFiA,Sentient,Anyma,proghouse_melodic,0.0852,0.769,0.0396,274148,0.58,0.907,10,0.109,-13.436,0,0.0599,123.014,4
+1,4KzLbHlhTEjk47JtkTqbeu,Reminding,Anyma,proghouse_melodic,0.0737,0.605,0.443,323535,0.666,0.593,0,0.0962,-11.745,1,0.041,128.002,4
+2,1C5CkF7tKYLDCdqUVqP7oi,Fragments,Anyma,proghouse_melodic,0.165,0.597,0.44,230277,0.695,0.819,7,0.095,-9.144,1,0.0473,127.955,4
+3,7eLFbEviNFKMmiRFLXuN7B,Omnia,Anyma,proghouse_melodic,0.00715,0.664,0.413,286124,0.735,0.881,10,0.115,-10.11,0,0.0421,125.984,4
+4,0MjVztKL0FI9oU6L9QKzLf,Bird,Recondite,proghouse_melodic,0.089,0.672,0.45,350047,0.637,0.889,6,0.14,-10.117,0,0.052,125.8,4
+5,6oJYJ6Ae2yMSPG8w10kAqb,Secluded,Recondite,proghouse_melodic,0.0358,0.804,0.236,398011,0.864,0.872,6,0.0945,-8.059,1,0.0394,126.999,4
+6,3qhW02v4Yo6d5lPhxE6iZb,New Era,Yotto,proghouse_melodic,0.0658,0.588,0.0589,221066,0.92,0.717,8,0.107,-10.149,0,0.0388,122.026,4
+7,54uUoTLCTeGyiydCllw5IK,Only One,Yotto,proghouse_melodic,0.0698,0.68,0.287,236033,0.743,0.79,6,0.131,-10.528,0,0.0324,121.011,4
+8,2Qr2rffbdKrZbJhuO7sdZm,Walls,Tone Depth,proghouse_melodic,0.00331,0.623,0.032,252795,0.806,0.635,10,0.111,-12.205,0,0.0417,121.99,4
+9,3Jprui7pqTR2lZSJ4ev4Y8,Nero,Tone Depth,proghouse_melodic,0.00361,0.645,0.039,383083,0.5,0.904,10,0.0785,-13.798,0,0.0351,123.009,3
+10,7Avh3byWou0CdhGeLAc9Kn,Terra,Tone Depth,proghouse_melodic,0.247,0.697,0.394,375499,0.59,0.92,7,0.0741,-13.299,0,0.0461,122.999,4
+11,3yVrtQpetcmAsVZRykj0Sk,Isolate,Mind Against,proghouse_melodic,0.0613,0.723,0.164,383800,0.528,0.932,8,0.103,-12.323,0,0.0678,119.983,4
+12,3WwCDLhxNuN16HYge7Mrto,Signs Of Change,Colyn,proghouse_melodic,0.000195,0.812,0.239,378237,0.542,0.914,10,0.0585,-11.17,0,0.121,120.01,4
+13,60HJTqEFhLo0IMxogwzQXv,Volador,Ae:ther,proghouse_melodic,0.00283,0.358,0.0381,362953,0.623,0.487,10,0.297,-11.022,0,0.0428,126.024,4
+14,3KGQwAvlZVtrItl8W3FyFs,Paloma,Woo York,proghouse_melodic,0.055,0.8,0.119,391525,0.636,0.884,0,0.0868,-10.665,1,0.0642,124.005,4
+15,72Hbjaq9QvLGitWMcqHPfA,Going To Mars,Nandu,proghouse_melodic,0.0731,0.744,0.498,399610,0.493,0.93,7,0.109,-10.693,1,0.0402,116.986,4
+16,65bMFgIYR9rxMR9GeYraIh,A Declaration of Love,Stephan Jolk,proghouse_melodic,0.0124,0.66,0.0883,334433,0.676,0.877,7,0.0886,-10.05,0,0.0343,126.0,4
+17,5k9JC4apQfkADSizXjbacn,The Verge,Innellea,proghouse_melodic,0.031,0.669,0.104,350401,0.563,0.697,6,0.115,-11.742,0,0.0367,121.997,4
+18,7lc6kGBWIiseOkCUTa8FOG,Origins,ENØS,proghouse_melodic,0.0201,0.731,0.0333,396468,0.629,0.902,2,0.552,-11.212,1,0.0439,125.994,4
+19,214KVkLPQCSqUJQ9IGHYJc,Dal Tramonto All’Alba,Lehar,proghouse_melodic,0.000782,0.779,0.2,445201,0.575,0.807,7,0.0998,-9.326,1,0.082,127.012,4
+20,2TGj9n6nQ12mdhpiWVB32D,Polar Peak,Kevin de Vries,proghouse_melodic,0.00436,0.802,0.135,424459,0.468,0.924,0,0.0969,-8.998,1,0.0572,125.007,4
+21,61lD99ZxDD9X9wI7yBOnSW,Overflow,ANNA,proghouse_melodic,0.0975,0.609,0.116,484434,0.743,0.909,1,0.0671,-9.913,1,0.0278,129.993,4
+22,03AOPd7ZJbE9LPIA8oZMsA,Vanishing,Tale Of Us,proghouse_melodic,0.00236,0.764,0.0671,372906,0.497,0.916,0,0.0968,-9.931,1,0.0417,122.006,4
+23,6knx7wtg7lkLUkeHV70inL,Swarm Storm,Mathame,proghouse_melodic,0.0222,0.728,0.235,366151,0.807,0.832,10,0.108,-9.667,0,0.0421,126.008,4
+24,770zzJRmEN0sudaxuD7GkB,Fading,ARTBAT,proghouse_melodic,0.0924,0.615,0.0543,487869,0.655,0.8,7,0.144,-9.968,0,0.0412,122.002,4
+25,7epOiR0canW82HG99n4CYD,Tangible Fear Of The Unknown,SOEL,proghouse_melodic,0.175,0.808,0.281,421344,0.618,0.899,0,0.115,-11.812,0,0.0471,122.999,4
+26,4Tedm64nMsxHCbf1l4nlqK,Rain,Coeus,proghouse_melodic,0.00344,0.765,0.0387,409037,0.682,0.932,1,0.0812,-10.396,1,0.0443,123.002,4
+27,2ySHXBpa7Oodnb5qnaOn6S,Pancho Villa,Kiko,proghouse_melodic,0.000396,0.788,0.0399,439717,0.761,0.885,10,0.0942,-9.732,0,0.0402,124.99,4
+28,0lDaX2TnvCytz9aFV8i9Li,Solitude,Massano,proghouse_melodic,0.0244,0.668,0.382,411080,0.535,0.863,7,0.119,-9.735,1,0.0416,123.001,4
+29,5KmbHadg7bswBrNPI49isy,Impersonation,VNTM,proghouse_melodic,0.0702,0.742,0.11,387548,0.542,0.826,7,0.112,-12.307,1,0.0723,123.967,4
+30,2Rwru1on3vZr1oikuJRzvG,The Day Before Tomorrow,Adana Twins,proghouse_melodic,0.119,0.664,0.197,428273,0.952,0.782,0,0.111,-8.313,0,0.0418,126.006,4
+31,7pcgoLttKOyvylFONNTydj,Lonely Train,Alfa Romero,proghouse_melodic,0.465,0.731,0.188,480791,0.577,0.877,10,0.0994,-14.196,0,0.0503,123.017,4
+32,7xtxzUJDHhJ7qdY6ZtF6fq,"Two Worlds, One Sun",Antonio Ruscito,proghouse_melodic,0.0205,0.601,0.0389,451944,0.815,0.878,11,0.0969,-12.345,1,0.0489,126.08,4
+33,5VGdOYcyLIVgRb9MjN8PDj,In Trust We Trust,Avidus,proghouse_melodic,0.00356,0.796,0.0718,418388,0.693,0.937,1,0.1,-11.214,1,0.0604,119.989,4
+34,24jFhzUCn4aNlQ8JYe2dvo,Polynate,Franky Wah,proghouse_melodic,0.0328,0.278,0.0764,480204,0.37,0.904,2,0.101,-13.778,1,0.0404,172.301,3
+35,5EQywsDi3UpzZa3Lumzx2q,Triumphant,Ivory (IT),proghouse_melodic,0.00495,0.736,0.167,408458,0.511,0.814,10,0.0649,-11.654,0,0.0501,118.001,4
+36,28c6w0lX8d0TbK26fwLS8z,The Gate,KAS:ST,proghouse_melodic,0.804,0.218,0.168,140000,0.563,0.628,8,0.489,-14.437,0,0.0709,126.254,3
+37,3qT2I1Z2R1mlR1bUC5fHyx,A Magic World,KAS:ST,proghouse_melodic,0.0487,0.583,0.039,366346,0.705,0.372,7,0.715,-11.345,1,0.0439,124.975,3
+38,0hJe1vYGNravpYXAzRA3mx,VTOPIA,KAS:ST,proghouse_melodic,0.00291,0.62,0.0399,382944,0.787,0.839,8,0.113,-9.869,0,0.0475,128.01,4
+39,2pzLId1X5tQmfOFbnv6d59,Mirrors,KAS:ST,proghouse_melodic,0.137,0.445,0.0635,244746,0.507,0.263,11,0.0964,-12.773,0,0.0415,119.743,4
+40,5y8BjMLri6kOFCCSC7atl5,Our Last Dance,KAS:ST,proghouse_melodic,0.0102,0.543,0.0385,321262,0.846,0.853,0,0.112,-9.369,1,0.0384,124.992,4
+41,6qv4w6xHCcDN3NArpORlTO,Letters,KAS:ST,proghouse_melodic,0.769,0.293,0.0391,200249,0.301,0.000398,4,0.225,-11.702,0,0.0344,118.947,4
+42,4vn2amrvydbs4i4GsAASfg,Who's to Say What's Real,KAS:ST,proghouse_melodic,0.0277,0.464,0.0337,185040,0.521,0.249,2,0.0986,-10.783,1,0.054,124.976,4
+43,30ZmoYq68DGiegG4zhBVxB,Siren,KAS:ST,proghouse_melodic,0.0723,0.644,0.123,248965,0.637,0.52,6,0.0702,-9.718,0,0.0478,145.004,4
+44,2dMhoqYzJQzaZ3X4bEzVw9,Earth on Hell,KAS:ST,proghouse_melodic,0.491,0.24,0.0618,398677,0.452,0.852,6,0.205,-14.746,1,0.0415,122.282,4
+45,1NTxMBS1vbRc3E48bsa9K5,Blood in Your Eyes,KAS:ST,proghouse_melodic,0.716,0.331,0.108,184469,0.137,0.845,2,0.0823,-17.6,1,0.0387,69.157,4
+46,7w6Qt3Yl6dIsVxHcy0nEi7,75ZOO,KAS:ST,proghouse_melodic,0.0384,0.511,0.0894,349672,0.786,0.756,2,0.125,-11.158,1,0.0384,150.002,4
+47,6fmLwPiQSlhQ8emPlb253n,Hope I'm Alone,KAS:ST,proghouse_melodic,0.0665,0.397,0.0767,273580,0.584,0.0076,2,0.444,-9.85,1,0.043,79.937,4
+48,6aRRAthndj3jqN2pPn0OPY,Never Look Away,KAS:ST,proghouse_melodic,0.809,0.528,0.0723,168414,0.5,0.192,11,0.373,-12.558,0,0.061,83.323,4
+49,0hRfA6AsUZZNwjBsVOekFH,You Thought It Was the End,KAS:ST,proghouse_melodic,0.513,0.45,0.112,189403,0.477,0.889,3,0.165,-13.752,0,0.0394,152.229,4
+50,1uP4NxIrmoZvBje2JOKr3d,Outomorrow,KAS:ST,proghouse_melodic,0.0886,0.33,0.0398,251544,0.723,0.678,2,0.13,-10.595,0,0.0446,129.938,4
+51,4td58LU39TUuZ5ksh5nkiF,Santiago,Agents Of Time,proghouse_melodic,0.356,0.766,0.226,374093,0.756,0.873,1,0.0794,-8.431,0,0.0524,124.992,4
+52,3FT4bkfdje6bZcgOYQ7BAz,Midnight Drive,Agents Of Time,proghouse_melodic,0.000986,0.661,0.356,335733,0.831,0.888,11,0.26,-8.344,0,0.0426,127.987,4
+53,5J9h4bGpmNFHzK8MLUZHqd,Chain Reaction,Agents Of Time,proghouse_melodic,0.0892,0.684,0.336,334123,0.685,0.877,2,0.111,-10.801,1,0.0588,129.002,4
+54,5TEwm8Z55K6cIdpt6bJHLG,Out Of Format,Agents Of Time,proghouse_melodic,0.0787,0.513,0.512,220606,0.621,0.918,4,0.153,-8.44,0,0.0427,144.952,4
+55,5sV6YuXW0Cherbpb6PEpTo,VTOPIA,KAS:ST,proghouse_melodic,0.00291,0.62,0.0399,382944,0.787,0.839,8,0.113,-9.869,0,0.0475,128.01,4
+56,0GK9xiFTnKiij0GglIijfQ,Patterns,Colyn,proghouse_melodic,0.0155,0.809,0.321,484000,0.58,0.911,11,0.0834,-8.483,0,0.0533,120.008,4
+57,5LDp8LtVS0jRImKkzEbsvq,Merging Realities,Colyn,proghouse_melodic,0.0192,0.785,0.0392,437173,0.774,0.938,6,0.114,-10.558,0,0.046,123.017,4
+58,2lhTGEDtJAnbPX0y94NIqA,Protect Me,Colyn,proghouse_melodic,0.0024,0.806,0.0532,495610,0.831,0.921,2,0.11,-12.11,1,0.0583,123.009,4
+59,4MWOuxB42TyxOlMNiwnRi9,Exo,Colyn,proghouse_melodic,0.00519,0.785,0.0356,495460,0.588,0.911,1,0.115,-12.636,1,0.0442,124.986,4
+60,1WljSh5UwyuPGxu08F3jMY,Das Licht,Innellea,proghouse_melodic,0.0758,0.746,0.0803,388987,0.519,0.689,1,0.0798,-9.364,1,0.0473,122.028,4
+61,0oPkb31xP0VwBkIuNMVN9D,Mondfinsternis,Innellea,proghouse_melodic,0.181,0.732,0.285,361032,0.541,0.915,1,0.111,-10.698,0,0.0637,125.006,4
+62,4deba2jLItEN6synngRl8o,Hoffnungsschimmer,Innellea,proghouse_melodic,0.103,0.749,0.812,286190,0.842,0.817,8,0.244,-7.222,0,0.0742,120.026,4
+63,0JK7YPMYooXLW6ddI37fJx,Horizon,Coeus,proghouse_melodic,0.000594,0.777,0.131,474235,0.777,0.873,7,0.0918,-9.072,1,0.0655,121.004,4
+64,01lPkKliivglQvvwJka5CQ,Lucent,Coeus,proghouse_melodic,0.039,0.808,0.242,413108,0.781,0.925,7,0.0818,-8.515,1,0.0455,121.004,4
+65,4z2m2B72ZTpyYHSA78N87g,Momentum,Coeus,proghouse_melodic,0.0166,0.803,0.181,410040,0.644,0.854,7,0.0873,-9.534,1,0.0453,122.001,3
+66,4ycVEwOSWiFTzGdewbMNlL,Beyond Dreaming,Coeus,proghouse_melodic,0.00021,0.63,0.0697,545213,0.701,0.937,2,0.196,-8.329,1,0.0336,121.988,4
+67,4bVLCwwYONEdE7rl50pIcn,1001 Nights,Alfa Romero,proghouse_melodic,0.166,0.742,0.033,454013,0.675,0.937,2,0.111,-12.964,1,0.0462,126.056,3
+68,2rJ6tqhA4tZLHGmvBpHBnb,Learning To Fly,Alfa Romero,proghouse_melodic,0.254,0.613,0.363,442212,0.519,0.917,7,0.102,-13.025,0,0.0331,125.989,3
+69,5kN3KytO8lTpT2IpZ2nAls,Once And Forever,Alfa Romero,proghouse_melodic,0.0734,0.74,0.245,465487,0.73,0.9,1,0.0942,-13.323,0,0.0621,126.012,3
+70,5fuOR6iCuZJsbvvPGcRpYO,Long Time Running,Alfa Romero,proghouse_melodic,0.232,0.64,0.208,458382,0.677,0.811,9,0.116,-11.349,1,0.0331,126.012,4
+71,1i5QmkKe2O5L9gxVU3Auvi,Moonlight Tide,Alfa Romero,proghouse_melodic,0.835,0.738,0.0397,525368,0.46,0.945,1,0.11,-17.252,0,0.0506,122.988,4
+72,5ptcq5y8q2FKrQU7IqdZgz,The Seagull,Alfa Romero,proghouse_melodic,0.68,0.727,0.0345,475185,0.496,0.921,6,0.365,-14.779,0,0.0385,125.991,4
+73,4JnkXaluAkzeFASpfdLAI7,Analogy,Stephan Jolk,proghouse_melodic,0.0475,0.75,0.187,400427,0.617,0.918,11,0.114,-11.167,0,0.0384,123.005,4
+74,0xjrAGEwftT21zpLLgVUak,Cylon,Stephan Jolk,proghouse_melodic,0.000229,0.79,0.419,330103,0.746,0.904,2,0.0868,-11.185,1,0.0559,124.989,4
+75,5xMiaHKtCXYjqvDBkeLIiR,Esplora,Stephan Jolk,proghouse_melodic,0.0195,0.5,0.101,329560,0.292,0.869,4,0.102,-13.121,0,0.0672,125.993,4
+76,7m5LwXRCcvrRAtrz5U4XB3,Kalea,Stephan Jolk,proghouse_melodic,0.00109,0.803,0.12,374924,0.735,0.873,0,0.0957,-9.995,0,0.0471,123.997,4
+77,5ehRGTe0TWpurd9V9r9Uzf,Inhibition,Stephan Jolk,proghouse_melodic,0.00232,0.708,0.0329,423279,0.526,0.894,10,0.142,-11.967,0,0.0439,123.985,4
+78,6t7hWH4j5QpxthkK76SDMW,Enlighted,Stephan Jolk,proghouse_melodic,0.0191,0.67,0.166,407838,0.474,0.793,10,0.135,-12.096,0,0.053,124.0,4
+79,6jGq7sz1EvrrwugYRBSERl,Circle Of Harmony,Stephan Jolk,proghouse_melodic,0.0616,0.744,0.0397,479735,0.575,0.867,1,0.114,-14.993,1,0.0486,125.024,4
+80,3urn4ZNknWXIEriS5wlp5T,Echoes From Beyond,Woo York,proghouse_melodic,0.00287,0.803,0.0317,458246,0.728,0.909,5,0.111,-11.937,0,0.0541,123.955,4
+81,3vhVccGRgEq4z8izObHEYS,Dancing With Sirens,Woo York,proghouse_melodic,0.0486,0.793,0.314,368770,0.492,0.892,7,0.11,-9.64,1,0.0663,125.991,4
+82,3QKY640pSzJ5LCh4TfMrIb,Minimalism,Woo York,proghouse_melodic,0.0322,0.774,0.172,341271,0.497,0.892,7,0.09,-12.48,1,0.0945,124.009,4
+83,0oBOpMbxFn3pfXrKhpLIKM,Epilogue,Woo York,proghouse_melodic,0.0208,0.705,0.0394,329500,0.535,0.903,7,0.112,-12.36,1,0.0474,129.004,3
+84,71QzpNzL1Q6KPOV5ilyBVW,Alone,Tale Of Us,proghouse_melodic,0.0341,0.802,0.0371,333570,0.556,0.914,8,0.079,-12.989,1,0.0437,126.001,4
+85,43rDuH34QjdwDBeM8Fw3mt,He does it,Ae:ther,proghouse_melodic,0.00305,0.702,0.0766,498934,0.544,0.874,11,0.188,-9.847,0,0.0385,127.013,4
+86,4cP5jwoBdvoSIjXvKmut54,MT1,ANII,proghouse_melodic,0.197,0.801,0.121,445677,0.807,0.901,1,0.358,-10.425,1,0.0459,124.993,4
+87,53VUWNrejoLMSbbJRZk3fD,It's All Over,Colyn,proghouse_melodic,0.00603,0.796,0.0574,462956,0.791,0.895,10,0.0997,-12.611,0,0.0412,124.988,4
+88,4F9SgvPLsxFLVhJiyBb6Ae,Dark Aster,Hunter/Game,proghouse_melodic,0.0101,0.699,0.297,320236,0.578,0.822,1,0.118,-12.879,1,0.0403,126.008,4
+89,53ynuUWSqBomfgAsYxn2u9,Together,Tale Of Us,proghouse_melodic,0.0172,0.739,0.322,319122,0.815,0.899,1,0.0998,-10.512,1,0.0448,126.969,4
+90,0cxoO7uk5FoTxQpNAAN6fo,Vangelis,Avidus,proghouse_melodic,0.00574,0.764,0.034,508216,0.831,0.882,7,0.0954,-9.631,1,0.0479,124.992,4
+91,3ZFRMmkZIyGq2r8eDxiY8n,Rebirth,Coeus,proghouse_melodic,1.61e-05,0.786,0.12,485125,0.854,0.941,8,0.0485,-8.816,0,0.0727,123.002,4
+92,1FCiJpIq40NrVuz1Dp50Ij,Perpetual,Denis Horvat,proghouse_melodic,6.12e-05,0.772,0.569,492517,0.777,0.899,4,0.0795,-11.288,1,0.05,117.994,4
+93,1WCjQMeH8ajJAnt8ukugk6,Wave Rider,Fideles,proghouse_melodic,0.00252,0.671,0.309,359271,0.655,0.907,2,0.114,-10.405,0,0.0404,123.016,4
+94,3xaYNulG8k2OZaAOpPbvbu,Doubts,Stephan Jolk,proghouse_melodic,0.000479,0.733,0.221,340831,0.508,0.882,7,0.0923,-11.183,0,0.0386,126.002,4
+95,4umLzOBGXqKqNVAuYJqAGi,Diamant,Stephan Bodzin,proghouse_melodic,0.74,0.656,0.0384,547915,0.834,0.877,0,0.103,-13.942,1,0.0488,124.999,4
+96,2LPEw0ftIfS4G7rmm4F716,The First Time,KAS:ST,proghouse_melodic,0.00152,0.544,0.03,452835,0.856,0.728,4,0.622,-8.871,0,0.0391,125.003,4
+97,56hIBKDYQrra3laJF9X13c,Astra,Agents Of Time,proghouse_melodic,0.00133,0.726,0.29,348307,0.609,0.838,2,0.11,-11.804,1,0.0653,126.986,4
+98,2zsRuCIXNgmcLjeW2ie1yy,Moonwar,Lyke,proghouse_melodic,0.00357,0.793,0.0318,323246,0.693,0.897,2,0.101,-12.266,1,0.0464,126.006,4
+99,6WAPyLK5BqYgAJnsbuyQ20,Behind Us,Glowal,proghouse_melodic,9.78e-05,0.745,0.411,457614,0.616,0.575,7,0.0995,-9.224,1,0.0444,121.999,4
+100,2e9kdlRrnJijW6GPVBChGP,A True Connection,Anyma,proghouse_melodic,0.00964,0.732,0.0384,360036,0.609,0.857,2,0.0831,-12.73,1,0.052,125.995,4
+101,7pVadgvaJIPrQStHnYnJvj,Immigrant,Woo York,proghouse_melodic,0.0309,0.745,0.0308,375208,0.778,0.848,2,0.0801,-10.716,1,0.0578,123.995,4
+102,4xyHbBaX31iw4hY2w7EkC7,Tunnel,Recondite,proghouse_melodic,0.214,0.707,0.161,402484,0.656,0.922,7,0.0985,-13.08,1,0.0716,127.004,4
+103,4UDXhoa2uEPXCAbEFtExSh,Chrysalis,Josh Wink,proghouse_melodic,0.105,0.746,0.237,477145,0.59,0.915,3,0.105,-9.141,0,0.0455,130.996,3
+104,4oraMWzhvL6YOrTxrD5bYd,Wir kommen,Marcel Fengler,proghouse_melodic,0.00173,0.735,0.0384,494918,0.822,0.84,7,0.217,-9.228,1,0.0434,130.007,4
+105,33tst8Hm6AIS0fKkU4y55o,Omertà,Kevin de Vries,proghouse_melodic,0.00519,0.848,0.0692,361204,0.458,0.911,6,0.105,-10.208,1,0.0775,124.998,4
+106,7FwtDWtkxZhJ7RSTzCtfyH,Fiorire D'inverno,SOEL,proghouse_melodic,0.00772,0.67,0.0727,411944,0.684,0.537,3,0.666,-10.55,0,0.0427,122.994,4
+107,1T1orC7JTlWF9xoF6ZkGMj,Dust Planet,Innellea,proghouse_melodic,0.000845,0.49,0.032,389745,0.718,0.854,8,0.112,-8.662,1,0.0565,121.886,4
+108,61Aj0F4ZUrQq6wZUufPqPU,Magia,Mathame,proghouse_melodic,0.141,0.83,0.0372,373570,0.516,0.737,5,0.102,-11.505,0,0.0529,126.001,4
+109,0YlxqQGHEJvL3jSfy5QUR1,Ryder,The Element MT,proghouse_melodic,0.0558,0.439,0.0438,405237,0.383,0.914,1,0.12,-13.737,1,0.0772,128.026,3
+110,4GksRSVYfvytcw8IIfdtJS,Unfold,Marino Canal,proghouse_melodic,0.443,0.699,0.147,460524,0.23,0.903,1,0.102,-16.186,0,0.0489,123.013,4
+111,1ZxOZ9O8mrEdi0knc5HgoT,Last Call,In Anima,proghouse_melodic,0.0813,0.7,0.0382,410315,0.56,0.907,1,0.0797,-11.15,0,0.0387,127.006,4
+112,0ra2KycIylOc1NDTVkIUcv,Claim Your Love,Alfa Romero,proghouse_melodic,0.616,0.504,0.226,440388,0.502,0.919,6,0.112,-14.355,0,0.0554,124.987,3
+113,4nKCEaOCVl9D7VqqTuKFwU,Aftertime,Franky Wah,proghouse_melodic,0.00172,0.351,0.346,474990,0.769,0.89,1,0.0833,-9.729,0,0.0391,124.017,4
+114,5AS5XR6Kf2nD04B7Deqh6G,Above It All,Mind Against,proghouse_melodic,0.00376,0.757,0.428,209524,0.691,0.94,9,0.0814,-11.623,0,0.0895,126.025,4
+115,6j0ao2DgHem5dpnGeHwufi,Walking Away,Mind Against,proghouse_melodic,0.00305,0.636,0.0686,425907,0.519,0.847,1,0.0933,-10.363,1,0.0581,119.995,4
+116,2eLNQSXNIwPwKy5O1OSPkD,Bloom,Mind Against,proghouse_melodic,0.349,0.74,0.0357,456667,0.519,0.885,1,0.154,-13.994,0,0.0447,122.999,4
+117,7ehBoh9FIeIiEnORzexRZ2,For Every Forever,Mathame,proghouse_melodic,0.00237,0.713,0.0556,382500,0.537,0.387,4,0.0856,-8.741,0,0.0421,128.034,4
+118,6P9PEjOq9scfMKFJhFSWAw,For Every Forever - Dub Mix,Mathame,proghouse_melodic,0.00187,0.708,0.0393,382500,0.521,0.86,4,0.0853,-9.09,0,0.0406,128.004,4
+119,1jR69sehqHjAmjDIp4BZM8,Stairway 3000,Mathame,proghouse_melodic,0.0232,0.845,0.188,453543,0.644,0.868,4,0.137,-11.384,0,0.118,127.037,4
+120,1ioIFdghF95eP2XcgFv98P,Sender,Patrice Bäumel,proghouse_melodic,3e-05,0.8,0.196,402114,0.951,0.902,1,0.0394,-9.021,1,0.0482,126.002,3
+121,3CHjrfCED2KkkX0WK4TVMN,Receiver,Patrice Bäumel,proghouse_melodic,0.000173,0.796,0.128,399090,0.608,0.937,9,0.061,-11.318,0,0.049,126.999,4
+122,4drvFlu300lN8mDhz3SFXA,Hold Me To The Light,KAS:ST,proghouse_melodic,0.177,0.467,0.0371,505565,0.602,0.538,7,0.141,-11.079,1,0.0477,121.218,3
+123,3Allgqu3MaHE8QFvzoP90S,Hold Me To The Light - Tale Of Us Remix,KAS:ST,proghouse_melodic,0.00363,0.643,0.0854,398095,0.822,0.749,7,0.13,-9.29,1,0.0497,125.969,4
+124,5o6XskFbO8jYabXJZIah8l,The Hymn Of Fallen Dreams,KAS:ST,proghouse_melodic,0.0862,0.414,0.0325,474143,0.698,0.92,11,0.092,-9.867,0,0.0405,122.982,4
+125,14UOIUQ7aFApVtGBlsUaqk,Be Yourself,KAS:ST,proghouse_melodic,0.302,0.593,0.199,397790,0.753,0.783,8,0.433,-9.118,0,0.0781,125.997,3
+126,38hebarNfiAhQaO2uPWYCB,White Blanket,Innellea,proghouse_melodic,0.00624,0.756,0.303,372036,0.497,0.209,9,0.059,-8.912,1,0.0378,119.999,4
+127,4fUPVwqgZ81Zkv4EknyDTF,The World Returns,Innellea,proghouse_melodic,0.000983,0.632,0.0392,381676,0.571,0.827,7,0.111,-8.743,1,0.0311,121.976,4
+128,61sVNnkqIfPnr5zOmb6yEJ,Visionquest,Innellea,proghouse_melodic,0.00756,0.755,0.246,470036,0.789,0.928,1,0.0885,-9.103,1,0.0385,120.004,4
+129,63OggidJPEUjR8WDxBW5fu,We Thrive,Innellea,proghouse_melodic,0.00697,0.777,0.26,413115,0.69,0.904,10,0.0975,-9.809,0,0.0685,121.998,4
+130,3fdXEMBTjHNJ5Bug5c7rZi,Mystery - Tale Of Us & Mathame Remix,Adriatique,proghouse_melodic,0.017,0.728,0.0367,424431,0.579,0.682,5,0.0654,-9.778,0,0.0525,124.005,4
+131,0tEXw5WFaX9QpSVB8T7U1f,Nude - Solomun Remix,Adriatique,proghouse_melodic,0.000203,0.755,0.28,484299,0.735,0.866,10,0.102,-5.698,0,0.0413,124.988,4
+132,4k7b4gCqMdY1MVE705dJB2,Tachykardia - Kobosil Remix,Adriatique,proghouse_melodic,0.00103,0.756,0.0377,315447,0.755,0.903,7,0.112,-6.855,1,0.0733,124.996,4
+133,0VbGn4Js7m73eVPtwKfY4O,Nude - Rampa Remix,Adriatique,proghouse_melodic,0.00148,0.608,0.264,472395,0.706,0.659,1,0.109,-9.629,0,0.0372,123.02,4
+134,1mYec87UIcT1vcVOEHItOe,Buchla’s Dreaming - Agents Of Time Remix,Adriatique,proghouse_melodic,0.072,0.703,0.198,463963,0.716,0.738,4,0.109,-10.184,0,0.0338,126.006,4
+135,7g74j448WButOGI5poA09e,Ray - Johannes Brecht Remix,Adriatique,proghouse_melodic,0.0628,0.72,0.195,549129,0.788,0.919,0,0.107,-8.643,1,0.0669,123.021,4
+136,2f7vHZAGUK3X6maiTDE7lx,Mystery - Isolée Remix,Adriatique,proghouse_melodic,0.0106,0.86,0.623,432793,0.545,0.699,5,0.0537,-13.852,0,0.0659,121.01,4
+137,0GOxBVl062KmJt4Spnvjuu,Resolve,Colyn,proghouse_melodic,0.0149,0.781,0.175,442827,0.555,0.943,6,0.0921,-10.598,0,0.0464,123.015,4
+138,02HWfHF9GjUDwxioGCmdZj,Eriador,Colyn,proghouse_melodic,0.00804,0.799,0.0383,470272,0.573,0.878,1,0.0944,-12.462,1,0.0469,126.019,4
+139,2i34fJtPWzeUKKseKFHiq6,Exchange,Colyn,proghouse_melodic,0.0175,0.803,0.0322,405437,0.577,0.892,1,0.0607,-13.987,1,0.056,124.996,4
+140,6iUA4unvbTOYq2HkAfbB1e,Gravity,Colyn,proghouse_melodic,0.00797,0.788,0.0292,465108,0.749,0.893,9,0.103,-12.549,1,0.0421,126.007,4
+141,3n8LrZPZnob8mBoypOiNwx,Lonely Tribe,Maceo Plex,proghouse_melodic,0.0145,0.707,0.162,457502,0.884,0.616,1,0.0819,-8.124,0,0.0555,128.001,4
+142,0Yn40yzwqCwaKc7RDqaj5L,Lonely Tribe - Fango Remix,Maceo Plex,proghouse_melodic,0.031,0.782,0.09,458947,0.811,0.876,1,0.105,-9.912,0,0.0548,126.0,4
+143,2x02KLrDZNXPsUOQiAh4qE,Savaaq,Recondite,proghouse_melodic,0.0326,0.801,0.202,377765,0.294,0.947,9,0.102,-15.382,0,0.0914,123.995,4
+144,2W1c6SMZlVMsBZpQ7iYIKe,Hound,Adriatique,proghouse_melodic,0.0137,0.688,0.0679,395959,0.962,0.93,1,0.114,-10.894,0,0.0459,122.001,4
+145,6qbPbq9VIeJAZtjrnBQN1V,Last Promises,Adamant,proghouse_melodic,0.0147,0.729,0.289,379355,0.489,0.903,0,0.0949,-10.761,1,0.0511,124.013,4
+146,7txNZAjrgrt9ogQSXJW0Sb,Trust My Eyes,Mind Against,proghouse_melodic,0.00945,0.71,0.323,476160,0.493,0.757,7,0.0831,-9.606,1,0.0689,125.001,3
+147,0SDexja2ROnkduvrrzv9Mu,Amor,Colyn,proghouse_melodic,0.00903,0.787,0.161,514765,0.433,0.876,7,0.0849,-14.136,1,0.0558,124.013,4
+148,7Bc5rDpxUbwgB4vZ22x17r,Discovery,Woo York,proghouse_melodic,0.0869,0.641,0.0376,393785,0.629,0.754,5,0.147,-9.859,0,0.0421,125.987,4
+149,1i2FEnJcvXm5Se9gb6q3Hx,Arteon (Dealing With God),Ae:ther,proghouse_melodic,0.225,0.742,0.0393,412564,0.559,0.887,5,0.135,-11.969,0,0.0503,123.009,4
+150,0eXxJzIXUck6U3jFTFqP5Q,Spectral,ANNA,proghouse_melodic,0.0132,0.659,0.237,350942,0.816,0.932,10,0.11,-10.309,0,0.0488,128.002,4
+151,1fUZTxtVAQq8jpd8p02RKk,Element,ARTBAT,proghouse_melodic,0.0353,0.647,0.0397,444878,0.502,0.895,2,0.612,-8.169,1,0.0386,122.994,4
+152,1DFCY0GXE4pl42BvMlqcQa,Farewell,Mathame,proghouse_melodic,0.0266,0.697,0.0743,485834,0.662,0.798,5,0.128,-10.05,0,0.0436,129.009,3
+153,3Cp8sCZjh96MOzBy9HSqpJ,Superia,Agents Of Time,proghouse_melodic,0.0105,0.608,0.176,407798,0.576,0.835,5,0.163,-11.334,0,0.0311,123.984,4
+154,4Uv7BqWnnEZXqCoJuNL35q,Weakness Pays,Vaal,proghouse_melodic,0.00198,0.54,0.279,322490,0.78,0.914,1,0.111,-7.493,1,0.0291,117.985,4
+155,5m2GDEZmGZErpMZ3sGxvoX,Lost In Fades,Innellea,proghouse_melodic,0.0893,0.773,0.438,338269,0.381,0.657,0,0.109,-12.31,1,0.0385,117.998,4
+156,77hkwtbbh3pGuNFkXwfVkB,The Last Glow,Fideles,proghouse_melodic,0.0269,0.74,0.0319,410634,0.722,0.882,11,0.706,-11.115,0,0.043,124.043,4
+157,120dAD0j3Qdu6r7ykSqAXB,Phoenix,Kevin de Vries,proghouse_melodic,0.121,0.689,0.114,400476,0.515,0.809,5,0.111,-9.323,1,0.0711,125.006,4
+158,3NYF2Wsb6amcyrda9eOesn,Eden,Coeus,proghouse_melodic,0.00206,0.799,0.26,410498,0.864,0.89,9,0.098,-10.475,1,0.0458,121.997,4
+159,3ddhNzVl5YRLaMjfsq7PIE,Lem,Lyke,proghouse_melodic,0.00574,0.818,0.0328,323121,0.443,0.829,5,0.087,-12.719,0,0.0533,125.044,3
+160,0NFx8SZ1IJhdHHr7nmVXfM,Abetone,Murat Uncuoğlu,proghouse_melodic,0.0127,0.701,0.0369,481136,0.441,0.861,2,0.108,-11.153,1,0.0596,119.986,4
+161,37HoR7OQNBaNyVXMjowbyH,Da Levante,Lehar,proghouse_melodic,0.00813,0.684,0.0808,402361,0.875,0.866,7,0.0976,-9.532,1,0.0383,117.007,4
+162,5tKyymzkMBRtZeBwiNstTD,Neptune,ENØS,proghouse_melodic,0.00401,0.629,0.0657,381501,0.849,0.857,10,0.0992,-11.31,0,0.0333,126.01,4
+163,5DN4n2iVwdVk1GGrwt60AE,Brighten Up Bunny,Rod,proghouse_melodic,0.000921,0.757,0.391,375518,0.735,0.836,9,0.111,-10.998,1,0.0581,127.998,4
+164,3uDZPWWoSY8dPSm1qeWJer,Welcome Back Mama,Rod,proghouse_melodic,0.00109,0.779,0.633,305931,0.752,0.892,10,0.111,-11.029,0,0.0624,131.998,4
+165,0iKBMWBrhqnZYCtWv0DOMl,Melodi,Rod,proghouse_melodic,0.0186,0.697,0.573,303099,0.593,0.871,1,0.112,-12.39,0,0.0608,127.028,5
+166,4jcBUBPHAGCKU71FjaVfoK,Welcome Back Mama - FJAAK Remix,Rod,proghouse_melodic,0.485,0.628,0.527,360760,0.783,0.936,8,0.111,-10.273,0,0.0619,132.011,4
+167,0pcFsOq2tH5K0NmbSINzet,Noise,Denis Horvat,proghouse_melodic,0.00503,0.556,0.0394,441499,0.703,0.833,10,0.106,-10.164,0,0.0841,122.982,3
+168,3Tw7T1en0fIwM5RzKPVvCi,Miracle Of The Rose,Denis Horvat,proghouse_melodic,0.139,0.806,0.0661,331486,0.401,0.883,1,0.109,-13.321,1,0.0559,123.014,3
+169,11BrPvOAiYkziBRFnRJMX4,Divin,Denis Horvat,proghouse_melodic,0.0166,0.799,0.0394,425336,0.661,0.887,2,0.0935,-13.168,1,0.0585,121.992,4
+170,7K3crqMjkGbrgodeRRwTP3,Royale - Bonus Track,Denis Horvat,proghouse_melodic,0.034,0.809,0.16,429104,0.512,0.749,6,0.111,-13.177,1,0.0677,120.019,4
+171,0so587BGO1K3OU3fMqF25I,Skywalking,Mathame,proghouse_melodic,0.0215,0.683,0.0308,374721,0.824,0.918,8,0.0661,-7.779,1,0.0882,127.411,4
+172,00UcM1MkE18GfBns9vkxRm,Departure - Tale Of Us Intro Edit,Mathame,proghouse_melodic,0.155,0.545,0.104,394987,0.711,0.299,11,0.0711,-7.615,0,0.139,124.678,4
+173,2gbQR2XJlZy461hu9FOrZL,Heading North,Fideles,proghouse_melodic,0.0012,0.797,0.0375,437653,0.702,0.673,2,0.0951,-9.564,1,0.0521,124.99,4
+174,2UCDEXstmpgvf1akDnYRSh,Harmed,Fideles,proghouse_melodic,0.00465,0.804,0.0501,435894,0.779,0.909,0,0.111,-9.117,1,0.054,124.0,4
+175,1MBNeVki4hD8QVuxnAInzj,Endless Sacrifice,Fideles,proghouse_melodic,2.14e-05,0.807,0.0344,454827,0.83,0.946,4,0.108,-7.889,0,0.0526,124.004,4
+176,3DGG953ZwNEMbyVsl3nMWD,Tynos,Fideles,proghouse_melodic,0.01,0.655,0.0739,397820,0.67,0.752,7,0.0865,-9.837,1,0.0448,123.028,3
+177,2Cj8mUKq7MnfkdkiwtQMk8,Vigilans,Innellea,proghouse_melodic,0.0149,0.738,0.224,362453,0.942,0.808,2,0.108,-8.06,1,0.0647,119.982,4
+178,4vitPW40SuLVOfLWuvwVFM,Impurity,Innellea,proghouse_melodic,0.00462,0.734,0.0372,398333,0.939,0.827,11,0.0999,-11.015,0,0.0526,122.003,4
+179,5W6U6jQ3CNP9evw8j7nTxS,Rhytidome,Innellea,proghouse_melodic,0.00373,0.673,0.152,424101,0.872,0.858,11,0.113,-9.24,1,0.0493,119.985,4
+180,24x07NsYBkWQxphdjbvRqj,Weigela,Innellea,proghouse_melodic,0.0109,0.728,0.191,398747,0.7,0.93,7,0.111,-12.272,1,0.0558,122.008,4
+181,1NB8HcUSulY9WexgXms8ff,Dream Vision,Agents Of Time,proghouse_melodic,0.00831,0.71,0.255,385000,0.817,0.895,5,0.129,-8.785,0,0.0463,124.997,4
+182,0GO2CwvN7MRATQgTf8NSBK,Floating Time,Agents Of Time,proghouse_melodic,0.00764,0.703,0.441,312280,0.908,0.868,8,0.104,-6.223,1,0.0423,124.989,4
+183,47daSq9Qjf7PbLxxfJ5eqE,Pro Music,Agents Of Time,proghouse_melodic,0.00146,0.771,0.0784,435467,0.737,0.865,6,0.104,-8.692,0,0.0928,127.993,4
+184,76vkLcvHm3K7cnTs2zHqaE,Vapor Floor,Agents Of Time,proghouse_melodic,0.229,0.734,0.0564,388667,0.85,0.563,11,0.12,-9.764,0,0.047,128.983,4
+185,6Z5bWSCgfgYc3MjqvFOAeb,Dawning,Adriatique,proghouse_melodic,0.492,0.351,0.0942,242056,0.362,0.846,11,0.126,-10.666,1,0.0448,61.172,4
+186,0JOk9J79Sj7qn3GIrNixY1,Awakening Machines,Adriatique,proghouse_melodic,0.000693,0.515,0.367,366944,0.88,0.856,10,0.115,-9.644,0,0.0461,94.999,5
+187,3Cl60gu4WlHSnOhBwVr0tg,Random Notes Orchestra,Adriatique,proghouse_melodic,0.00317,0.714,0.0486,414984,0.728,0.899,4,0.0808,-10.06,0,0.0486,121.997,4
+188,0zqbmlfewhUnvXdUZ3jVIi,Nude,Adriatique,proghouse_melodic,0.0305,0.6,0.249,218000,0.532,0.0894,3,0.457,-8.627,0,0.0309,136.508,4
+189,6BStYTVQ4IrimCVbhRzZ5X,Panchromatic,Adriatique,proghouse_melodic,0.000255,0.672,0.0675,507402,0.871,0.805,11,0.0975,-8.371,0,0.0375,119.999,4
+190,0HtpvICdObj4BkgIErXnuW,Tachykardia,Adriatique,proghouse_melodic,0.219,0.496,0.0642,256206,0.64,0.812,5,0.0997,-9.008,0,0.0321,89.994,4
+191,0nuPchVmlTFVj6LeqqIDLX,Point Of No Return,Adriatique,proghouse_melodic,0.00978,0.557,0.0303,335199,0.775,0.906,5,0.311,-9.201,0,0.0357,116.002,4
+192,2nYhHkWKgJZ0QHzyIDgjEO,Buchla's Dreaming,Adriatique,proghouse_melodic,0.0516,0.661,0.0983,226880,0.656,0.738,0,0.0951,-10.122,1,0.0365,123.008,4
+193,2lObMVH9UXvTE9JBfxaI3r,Studies In Dance Theory,Adriatique,proghouse_melodic,0.0585,0.73,0.329,407904,0.674,0.908,2,0.104,-8.168,1,0.0524,123.004,4
+194,00Fx3RRfjbl0NdZVUqAY6D,Mystery,Adriatique,proghouse_melodic,0.226,0.526,0.0368,285695,0.515,0.0539,7,0.0944,-8.255,0,0.0298,103.047,4
+195,11XF9OLSipjEOa1PMDO6SG,Ultraschall,Adriatique,proghouse_melodic,0.392,0.551,0.148,232748,0.739,0.931,4,0.0947,-10.382,0,0.0438,152.598,4
+196,1TgAqIwTCx4mftFIEfnxZV,Ray - Reincarnation,Adriatique,proghouse_melodic,0.162,0.64,0.341,248500,0.532,0.79,9,0.261,-11.455,0,0.0309,123.008,4
+197,3jsVgZ4mOG6mQ2VSE2Y9J1,Golden Bird,Adriatique,proghouse_melodic,0.0237,0.724,0.0584,294967,0.493,0.765,1,0.0956,-13.466,1,0.0478,121.982,4
+198,4VBdMWl1vxeMX4wwkVPdGM,Aratak,Kevin de Vries,proghouse_melodic,0.117,0.827,0.0524,432961,0.452,0.855,5,0.102,-11.174,1,0.0621,125.005,4
+199,2zaAL1DB5RfYLJk4k0dWWa,Sciamachy,Kevin de Vries,proghouse_melodic,0.0281,0.789,0.0997,436213,0.902,0.9,10,0.0975,-11.628,0,0.0731,126.005,4
+200,2SDUB73d6VEXIakQG21hKD,Sciamachy - Konstantin Sibold Remix,Kevin de Vries,proghouse_melodic,0.0141,0.8,0.0387,435747,0.874,0.92,1,0.106,-9.099,1,0.042,123.993,4
+201,6DuTXPpowLA1vk8fzqaLtB,Nothing Around Us,Mathame,proghouse_melodic,0.00369,0.589,0.309,345600,0.889,0.165,10,0.127,-7.62,0,0.0358,124.988,4
+202,1JodrnwZ3jp2lZ99we5TbI,22,Mathame,proghouse_melodic,0.0141,0.864,0.224,378053,0.444,0.862,5,0.0667,-12.561,0,0.11,127.011,4
+203,22tFXsl4XmedYLNMU88qlx,Fade In To You,Mathame,proghouse_melodic,0.0327,0.816,0.111,387197,0.437,0.775,6,0.112,-14.903,0,0.139,124.023,4
+204,57Yb8B63nwpYp3i1sbE6RA,Endeavour,Ae:ther,proghouse_melodic,0.00444,0.807,0.361,394135,0.711,0.893,10,0.111,-10.243,0,0.0556,123.004,4
+205,1Cfvp7vSQTWaGqCGpneYnU,Spectre,Ae:ther,proghouse_melodic,0.00157,0.799,0.319,367760,0.433,0.892,1,0.11,-13.803,0,0.0565,124.006,4
+206,5mWIDc1qe2JeFgagKcCwlN,Raven,Ae:ther,proghouse_melodic,0.00954,0.776,0.219,395160,0.656,0.905,8,0.11,-13.004,0,0.0542,122.991,4
+207,0uKKDJ3L2ayyhrrhT4iI9v,Nova,Tale Of Us,proghouse_melodic,0.504,0.746,0.069,442525,0.394,0.914,8,0.104,-18.059,1,0.0718,123.001,4
+208,1HcsKXJESpP7H6Y79kwOar,Paradigm,Agents Of Time,proghouse_melodic,0.0103,0.8,0.0737,370274,0.725,0.946,8,0.117,-8.645,1,0.0425,124.997,4
+209,03o9urCPQZRfDrSu8bDpMt,Motion,Recondite,proghouse_melodic,0.083,0.808,0.193,368111,0.53,0.867,2,0.0758,-15.515,1,0.0598,122.01,4
+210,1Gk0rfKm4iL6fFU9t92J4J,Nuits Fauves,Ovend,proghouse_melodic,0.21,0.681,0.221,545173,0.533,0.879,0,0.0825,-11.376,0,0.036,124.002,4
+211,1zL5aYXB5G1g4GEvdCMa68,Portal,Mind Against,proghouse_melodic,0.0651,0.659,0.0927,364790,0.623,0.868,1,0.0853,-10.085,1,0.0449,125.022,4
+212,5lTHpRkQtd6L7JMYStC7DB,Lotus,Fideles,proghouse_melodic,0.000937,0.788,0.342,432116,0.624,0.831,7,0.134,-13.042,1,0.0381,123.02,4
+213,6qRPjoBKe40JPbIastQNP7,Tide Slide,SCB,proghouse_melodic,0.00215,0.644,0.102,481022,0.556,0.917,9,0.0983,-9.592,0,0.0466,126.007,4
+214,43oKwzTVah9yN8LV2MDMR8,Quantic,Øostil,proghouse_melodic,0.0387,0.721,0.0354,402007,0.591,0.951,1,0.115,-14.49,1,0.0455,126.009,4
+215,0IIIo4fVxdFJUGXRqQFtkF,Universum,Sterac,proghouse_melodic,0.00293,0.803,0.656,371028,0.682,0.939,10,0.11,-13.933,0,0.0654,129.998,4
+216,3wsW22MRT3KjLCBNVYdBbE,Phase In,Edit Select,proghouse_melodic,0.408,0.517,0.0764,407658,0.626,0.909,7,0.0714,-16.445,1,0.0515,134.005,3
+217,193wklOvnpCUBWcOvUlfWK,Subterrel + Ex Funzione,Luigi Tozzi,proghouse_melodic,0.106,0.543,0.0362,830183,0.564,0.819,10,0.388,-13.315,0,0.0332,126.0,4
+218,2p6Ml3eGXmsDt4NRdsTyyo,Cyclone,Konstantin Sibold,proghouse_melodic,0.00118,0.65,0.102,436191,0.723,0.718,11,0.102,-10.072,1,0.0434,126.025,4
+219,2j0wLB9JXNyxx3WHH6bWNS,Changing Weather,Hunter/Game,proghouse_melodic,0.524,0.777,0.187,341841,0.433,0.853,10,0.107,-16.41,0,0.0738,123.984,4
+220,0AAEzDET0T678jV1wt85Iv,Mágoa,Kevin de Vries,proghouse_melodic,0.00011,0.791,0.132,367378,0.549,0.934,1,0.0806,-11.847,1,0.0792,126.008,4
+221,24Y3Pcws3IDc3SPSyh4THO,Ibn Sina,Tone Depth,proghouse_melodic,0.203,0.758,0.101,499512,0.364,0.843,11,0.0932,-13.807,0,0.0668,123.016,4
+222,0ybE4PFC5rQaSdu9y2ZtEc,Valvate,Recondite,proghouse_melodic,0.188,0.767,0.0368,333973,0.36,0.91,1,0.117,-16.038,0,0.0484,123.016,4
+223,2dDTKI914CYlPdO6UUrESQ,Rainmaker,Recondite,proghouse_melodic,0.0383,0.806,0.0284,398187,0.584,0.955,4,0.111,-20.434,0,0.0651,126.011,4
+224,5r9830XnjyvWJ1LL7HkyEl,Saudade,Recondite,proghouse_melodic,0.186,0.869,0.0714,355853,0.406,0.898,4,0.102,-15.804,0,0.104,121.035,4
+225,6sOqMsUOWb3Av0E2BVxKsk,Rufus,Recondite,proghouse_melodic,0.0431,0.807,0.281,458667,0.432,0.953,11,0.11,-18.616,0,0.0494,122.005,4
+226,4keV7H48VW9PPZorPkmrXQ,Step Back,Recondite,proghouse_melodic,0.0936,0.902,0.137,393640,0.324,0.916,2,0.082,-18.68,1,0.0905,122.004,4
+227,51brYcBzBMlvp5q4zRQVA9,Arcane,Recondite,proghouse_melodic,0.153,0.626,0.0268,378667,0.5,0.915,4,0.0932,-16.337,0,0.0326,124.008,4
+228,32LPDaqWQ5MoHC1TDP9QuV,Inception,Woo York,proghouse_melodic,0.951,0.237,0.0353,205221,0.134,0.913,3,0.0784,-22.377,1,0.0363,167.164,4
+229,4nH5SGXoszXoBbbQpNHOEc,More Than a Feeling,Woo York,proghouse_melodic,0.0687,0.773,0.0836,248458,0.487,0.908,8,0.0861,-13.635,1,0.0732,125.995,4
+230,4Z97AwBqidXaeFhphqqZRn,Through Peaks and Valleys,Woo York,proghouse_melodic,0.146,0.834,0.249,339076,0.589,0.854,7,0.164,-13.35,1,0.0916,125.906,4
+231,6e5YfURTtRYJH9rBUB24Mp,Burning With You,Woo York,proghouse_melodic,0.146,0.757,0.0795,341693,0.51,0.894,7,0.0988,-15.113,1,0.0614,126.057,4
+232,2FyhQvP8k23v99vJGtHM9l,Energy Pulse,Woo York,proghouse_melodic,0.00276,0.805,0.0753,375213,0.703,0.939,10,0.0943,-13.717,0,0.0456,126.006,4
+233,1vcdVpSsJjK6U4mIkbtS68,Kadastre,Woo York,proghouse_melodic,0.312,0.775,0.216,402120,0.362,0.841,4,0.113,-15.663,0,0.135,124.993,4
+234,2jZgsecrfvJxmSu749YWEF,Equilibrium,Woo York,proghouse_melodic,0.363,0.76,0.0516,365873,0.469,0.933,7,0.11,-16.194,1,0.0644,128.005,4
+235,14DHbBvbQOaxykDaxPeLEn,Walk Along The Rainbow,Woo York,proghouse_melodic,0.0376,0.805,0.059,369971,0.462,0.922,7,0.12,-12.69,1,0.0576,124.987,4
+236,7K9cdcf3DbWC6IqkbA0p2A,Second Breath,Woo York,proghouse_melodic,0.0257,0.442,0.245,366280,0.444,0.878,7,0.17,-13.36,1,0.141,126.006,4
+237,12wa4DWJXbaBcaXhEIoi37,Chasing The Dream,Woo York,proghouse_melodic,0.167,0.799,0.141,358347,0.676,0.874,11,0.0767,-13.297,0,0.0726,121.996,4
+238,6OZVUhvRWAOMK8YBPUgmUT,There is a Light,Woo York,proghouse_melodic,0.102,0.758,0.402,375320,0.593,0.899,7,0.0963,-13.105,1,0.0686,125.003,4
+239,2HOHlBct5O45kjGE0HDSCw,Rise,Woo York,proghouse_melodic,0.744,0.529,0.0429,311680,0.27,0.945,7,0.086,-18.918,1,0.0375,125.914,4
+240,6plWxzX89sqtajF4QA9NFh,The Hatchet,Patrice Bäumel,proghouse_melodic,0.018,0.741,0.856,406435,0.907,0.822,0,0.111,-9.941,1,0.057,122.985,4
+241,2FpNAzNlcq1sgwPg1dX6Hj,Serpent,Patrice Bäumel,proghouse_melodic,0.000826,0.8,0.0648,470344,0.917,0.929,7,0.109,-10.022,1,0.0475,123.011,4
+242,4ukLAzXMLNzr9yxjlH7mJF,Voices From The Dawn,Adriatique,proghouse_melodic,9.66e-05,0.716,0.0278,428940,0.778,0.876,5,0.0964,-10.031,1,0.0331,121.011,4
+243,1W34fm437pe2u3mWBpGyx0,Ray,Adriatique,proghouse_melodic,0.012,0.807,0.469,392674,0.497,0.886,7,0.112,-11.137,1,0.0415,123.009,4
+244,0BjetNSdK4FAuuCVtgLimz,Modelo,Denis Horvat,proghouse_melodic,0.000251,0.552,0.0336,568628,0.743,0.844,1,0.378,-11.981,0,0.0584,122.003,4
+245,104PPmi5hDJjyxKZH82rxz,The Bender,Denis Horvat,proghouse_melodic,0.000221,0.667,0.378,502974,0.638,0.868,9,0.235,-9.393,1,0.109,123.005,4
+246,1CqdvktqEtll6qUg50WCLT,Natural Causes,Denis Horvat,proghouse_melodic,0.0284,0.838,0.109,465472,0.601,0.91,10,0.107,-6.858,0,0.177,120.125,4
+247,6u0A0WjtFsLAyNSyYjaPjK,Days Gone,Mind Against,proghouse_melodic,0.00732,0.609,0.0459,381832,0.629,0.935,1,0.103,-8.702,0,0.0334,124.018,4
+248,7D0sJIi62joQzcMpvhkf9A,Cloud Nine,Mind Against,proghouse_melodic,0.0425,0.78,0.16,413586,0.543,0.846,1,0.0903,-11.038,1,0.0498,125.992,4
+249,0Eg6FaVKUE392vWAsjrLaZ,Cloud Nine - Alex.Do Remix,Mind Against,proghouse_melodic,0.00225,0.709,0.671,460013,0.578,0.78,8,0.108,-10.435,0,0.0453,127.494,4
+250,7enI1KbQAwrMcu6Zf5FScf,Strand,Stephan Bodzin,proghouse_melodic,0.0227,0.727,0.0785,468514,0.82,0.915,11,0.101,-11.369,1,0.0473,122.001,4
+251,3E8J2JmkdGiTBldoqJ5yEB,Catamaran,Stephan Bodzin,proghouse_melodic,0.0296,0.768,0.17,499490,0.551,0.831,1,0.0736,-13.985,0,0.0587,125.019,4
+252,3simdb33cqrSnEn5tr6Ps5,Impressum,Fideles,proghouse_melodic,0.423,0.772,0.0884,396488,0.426,0.841,2,0.107,-15.59,1,0.0545,124.015,4
+253,3gH7dvV8N7nAbcvndrXl1X,Hadar,Fideles,proghouse_melodic,0.00165,0.734,0.105,408623,0.505,0.836,2,0.479,-18.215,0,0.0444,125.0,4
+254,4jpt3geF6TY58LZjzfI446,The Tensior,Fideles,proghouse_melodic,0.11,0.795,0.0351,407139,0.479,0.792,4,0.0746,-11.148,0,0.0614,120.001,4
+255,1EjHEhTIKNrtubWLHQP4wY,Avior,Fideles,proghouse_melodic,0.494,0.768,0.308,437860,0.386,0.928,2,0.111,-16.638,1,0.0703,124.993,4
+256,193UIb8skS5Hz3TFbfvx3w,Kalotypse,Fideles,proghouse_melodic,0.0575,0.791,0.0437,490184,0.736,0.903,0,0.0973,-12.839,1,0.0419,118.997,4
+257,1bTsBoRovfCaJ2L7uH42pw,Monument,Tale Of Us,proghouse_melodic,0.000555,0.75,0.151,360787,0.912,0.877,6,0.0919,-10.066,1,0.0402,124.996,4
+258,3lvVoXVA0KOMzRhy6nyMR6,The Hangar,Tale Of Us,proghouse_melodic,0.0444,0.795,0.1,368760,0.627,0.889,0,0.11,-9.659,1,0.0437,125.0,4
+259,3veaRocpNihtbSwkAHefGp,Monument - Barnt Remix,Tale Of Us,proghouse_melodic,5.27e-05,0.713,0.0389,588653,0.847,0.865,6,0.112,-10.167,1,0.044,125.013,4
+260,3VwUw2BsgZ9D1U3uti1oRt,Monument - Stephan Bodzin Remix,Tale Of Us,proghouse_melodic,0.0122,0.66,0.0352,452920,0.673,0.863,4,0.119,-12.146,1,0.0443,125.001,4
+261,4zyJe3fPe3cRKpT9i9D4wT,Monument - Adriatique Remix,Tale Of Us,proghouse_melodic,0.00442,0.795,0.252,479529,0.772,0.904,11,0.106,-10.698,1,0.053,124.984,4
+262,4VUihUOGVQdMjtM6dTIZsv,Beyond The Lights,Ae:ther,proghouse_melodic,0.34,0.742,0.374,378196,0.425,0.934,8,0.079,-16.197,1,0.0593,123.99,4
+263,1yOY12LfkzG9lHFlac2tub,Red Sky,Tale Of Us,proghouse_melodic,0.113,0.741,0.13,408400,0.604,0.868,1,0.135,-12.379,1,0.0867,123.979,4
+264,32RPDCQJQsuRejunoanSev,Bruto,Denis Horvat,proghouse_melodic,0.0062,0.537,0.0815,496164,0.671,0.876,4,0.0922,-12.874,0,0.0853,120.021,3
+265,2UnjcM8nDvwCZhttzhvSd9,Cloudy Monday,Keith Carnal,proghouse_melodic,0.0872,0.822,0.278,549003,0.584,0.905,1,0.0792,-13.666,1,0.0501,128.002,3
+266,7ewrQzPjNG6d2ApvxSyLkW,Hundred1,Recondite,proghouse_melodic,0.00137,0.811,0.0383,441164,0.639,0.899,2,0.0959,-11.034,1,0.0485,120.007,4
+267,34GwcV2HATDaBCQniIUATF,393,Per:sona,proghouse_melodic,0.36,0.754,0.622,473845,0.807,0.949,9,0.1,-12.496,0,0.0472,123.997,4
+268,6z6gsh87rai342i0Bb9Hyz,The Prophet,Mathew Jonson,proghouse_melodic,0.0632,0.799,0.538,548680,0.649,0.887,2,0.117,-10.974,1,0.0735,126.008,3
+269,6xmv8wcJVMqDNhAEdLESbz,Avenue B,Black Peters,proghouse_melodic,0.000489,0.804,0.0809,445987,0.729,0.906,2,0.111,-12.315,1,0.0673,126.004,4
+270,6WaiPRpehOMCx1o74qTq0M,Horus,DARSE,proghouse_melodic,0.554,0.699,0.0704,479733,0.514,0.904,11,0.1,-16.72,0,0.0666,122.0,4
+271,2gJZU8AmcPdaVShT7FANnn,Timeshift,Mathame,proghouse_melodic,0.0136,0.827,0.0374,449524,0.411,0.918,10,0.109,-10.787,0,0.0845,126.015,4
+272,1rmfqdxlwvksAUFiTPnXH7,Illusion,Hunter/Game,proghouse_melodic,0.0544,0.733,0.247,383807,0.459,0.898,0,0.107,-11.842,1,0.0587,121.987,5
+273,4pyCt4j9PLcKCzCYZAnqcU,Hypernova,Woo York,proghouse_melodic,0.106,0.807,0.0379,368858,0.483,0.936,7,0.112,-13.238,1,0.0732,126.015,4
+274,6n85CqZrqbMjwQImS02tQx,Glutes,Patrice Bäumel,proghouse_melodic,0.018,0.85,0.0603,449871,0.592,0.944,5,0.11,-10.726,0,0.157,127.009,4
+275,1vlAQLAeoXMxvk627E463v,Engage,Patrice Bäumel,proghouse_melodic,0.00155,0.794,0.04,395960,0.936,0.929,7,0.109,-11.956,1,0.0423,127.001,4
+276,6AXUbT2OLpXFQpbBYRfr3m,Solaris,Mind Against,proghouse_melodic,0.0653,0.617,0.128,365480,0.555,0.89,1,0.104,-12.555,1,0.0388,125.0,4
+277,4SKMrPrW8frZEI8AyqYXsv,Eclipse,Mind Against,proghouse_melodic,0.00716,0.801,0.0757,357394,0.495,0.903,4,0.0866,-11.698,1,0.0899,125.002,4
+278,2UK210IYDea0L1ufQc6NH6,Event Horizon,Mind Against,proghouse_melodic,0.0105,0.673,0.0905,493503,0.563,0.872,5,0.0814,-13.899,0,0.0547,125.978,4
+279,1IKWiC7cgo1VkP6hMeaMCU,Wander To Hell,Vaal,proghouse_melodic,0.116,0.546,0.26,357495,0.379,0.57,10,0.0967,-13.723,1,0.0388,124.018,4
+280,2grmW7b7QgrfTCRNumHq65,Wander To Hell - Locked Groove Remix,Vaal,proghouse_melodic,0.0128,0.778,0.0265,386967,0.675,0.931,1,0.102,-13.168,0,0.0519,121.008,3
+281,1VhQi5oSIwUV6UOBZC29Ly,Wander To Hell - Baikal Remix,Vaal,proghouse_melodic,0.00293,0.795,0.0251,490974,0.725,0.822,5,0.0802,-12.451,1,0.0732,125.979,4
+282,3ITz7EuikyRkS8FL9dVJoB,Lies,Tale Of Us,proghouse_melodic,0.774,0.602,0.142,340658,0.313,0.884,9,0.0929,-17.531,0,0.0812,117.703,4
+283,0cPuHIBSAyIP7zhUYLYGMl,Phoenix,Monoloc,proghouse_melodic,0.436,0.685,0.07,368732,0.437,0.906,6,0.138,-15.596,0,0.0734,124.0,4
+284,6CIMbI7TXduyOMPz9amDHy,Murphy's Law,Recondite,proghouse_melodic,0.0715,0.803,0.111,375044,0.398,0.916,10,0.1,-12.636,0,0.0464,124.007,4
+285,6NxkiFKxOypeY7hqwQR7Eq,Poseidon,Woo York,proghouse_melodic,0.174,0.808,0.0471,373011,0.509,0.96,2,0.111,-14.092,1,0.0629,126.012,5
+286,13L4HXOAsJ2aSV5IQhesTO,Triangle,Somne,proghouse_melodic,0.00202,0.769,0.068,431160,0.846,0.904,0,0.0938,-10.056,1,0.155,128.004,4
+287,0HKpDOzCCfg64zHMJuGfb1,Logan,Jon Hester,proghouse_melodic,6.83e-06,0.741,0.186,356901,0.714,0.907,7,0.104,-11.149,1,0.0546,130.0,4
+288,6oQ9m6yhqXptlzbduAMLvv,Emeralds,Locked Groove,proghouse_melodic,0.000967,0.809,0.152,491324,0.32,0.941,10,0.121,-10.816,0,0.05,122.001,4
+289,5S1L06rsSURL8UQw3sXFgT,Toree Bahrstad,Ryan James Ford,proghouse_melodic,0.132,0.729,0.0316,335565,0.664,0.942,7,0.0963,-10.024,1,0.0462,131.001,4
+290,1FFs89EYigAJFhd49OwJmo,Die Wiederkehr,Obscure Shape,proghouse_melodic,0.00572,0.637,0.0377,398023,0.61,0.921,7,0.111,-12.03,1,0.0498,129.005,4
+291,0dgBjsvYaUq0IvXLO82Xce,Gravity,Mind Against,proghouse_melodic,0.652,0.632,0.0368,449122,0.471,0.915,1,0.559,-14.814,1,0.0334,123.013,4
+292,0pcFsOq2tH5K0NmbSINzet,Noise,Denis Horvat,proghouse_melodic,0.00503,0.556,0.0394,441499,0.703,0.833,10,0.106,-10.164,0,0.0841,122.982,3
+293,0gwNGHcBRYtF7mvgUczVo1,Return to Oz - ARTBAT Remix,Monolink,proghouse_melodic,0.563,0.854,0.192,480000,0.93,0.697,2,0.0815,-7.528,1,0.0439,123.998,4
+294,38l4RKPJEygpn9p7O3JL4O,Tremors :Nemesis - Adriatique Remix,Delhia De France,proghouse_melodic,0.173,0.833,0.0389,460952,0.437,0.595,1,0.111,-8.609,1,0.0383,126.019,4
+295,1Ou1g6tCGdwp2SFnNyfZXw,Atlas - Adriatique Remix,Marc Romboy,proghouse_melodic,0.00177,0.767,0.036,377739,0.688,0.875,6,0.0644,-9.108,0,0.0496,124.002,4
+296,6CGMZijOAZvTXG21T8t6R0,Innerbloom,RÜFÜS DU SOL,proghouse_melodic,0.126,0.729,0.0389,578041,0.72,0.347,3,0.178,-6.692,1,0.037,122.011,4
+297,1rGnpPG0QHfqjDgM8cIf4A,Closer,ARTBAT,proghouse_melodic,0.00527,0.731,0.19,460800,0.592,0.52,10,0.075,-9.577,0,0.0639,125.005,4
+298,1W34fm437pe2u3mWBpGyx0,Ray,Adriatique,proghouse_melodic,0.012,0.807,0.469,392674,0.497,0.886,7,0.112,-11.137,1,0.0415,123.009,4
+299,1vpOY0slxNwm6EO7ykjsfZ,Papillon,ARTBAT,proghouse_melodic,0.0591,0.785,0.0644,426058,0.644,0.915,5,0.0967,-12.324,0,0.0433,122.007,3
+300,7q8xVdmpBJHNOA6pZq1Hhw,Tell Me Are We,Rampa,proghouse_melodic,0.00158,0.62,0.1,413315,0.863,0.705,6,0.113,-8.327,1,0.0377,121.995,4
+301,6omOFaoyf1e5aL3iKvuT4s,Atlas,ARTBAT,proghouse_melodic,0.0279,0.775,0.133,454188,0.666,0.893,10,0.078,-11.376,0,0.058,122.005,4
+302,50MkrUXSXsS1Q1bn95XQcm,Sleepless - Stephan Bodzin Remix,Pan-Pot,proghouse_melodic,0.00022,0.742,0.0845,540000,0.662,0.811,2,0.0869,-8.149,1,0.0462,119.991,4
+303,1Xx1dtxw3AadN4PEplc9tn,Maestro,Adana Twins,proghouse_melodic,0.00144,0.847,0.121,430956,0.466,0.897,10,0.0933,-8.819,0,0.0714,122.004,4
+304,47j9ZFHhItCVcDcJ6MKRkP,Console,Zimmz,proghouse_melodic,0.00114,0.63,0.139,430108,0.651,0.876,4,0.0759,-9.832,0,0.0574,126.997,4
+305,62GdUjdvsExQf239rPZ0cU,Mercy,UNDERHER,proghouse_melodic,0.00015,0.78,0.588,354098,0.627,0.351,6,0.111,-9.52,1,0.0349,122.019,4
+306,7ltfsx1rWZjk8qY6u6z8u1,Frozen - Rodriguez Jr. Remix,Monolink,proghouse_melodic,0.00073,0.729,0.131,337679,0.451,0.89,1,0.126,-11.443,1,0.0515,120.012,4
+307,22bNlvnDQbYAq0Ex2sduSu,Orbital,ARTBAT,proghouse_melodic,0.0443,0.776,0.0325,546341,0.853,0.901,1,0.351,-10.264,0,0.0523,123.032,4
+308,1fUZTxtVAQq8jpd8p02RKk,Element,ARTBAT,proghouse_melodic,0.0353,0.647,0.0397,444878,0.502,0.895,2,0.612,-8.169,1,0.0386,122.994,4
+309,1uftjZnf6nlmp50dVfU9WV,Heads Above - Maceo Plex Remix,WhoMadeWho,proghouse_melodic,0.00142,0.7,0.184,466886,0.544,0.709,11,0.108,-7.364,0,0.055,124.013,4
+310,1NB8HcUSulY9WexgXms8ff,Dream Vision,Agents Of Time,proghouse_melodic,0.00831,0.71,0.255,385000,0.817,0.895,5,0.129,-8.785,0,0.0463,124.997,4
+311,3YBjtUm8Q6cqd5kaKRGEJN,Phaeton,Tim Engelhardt,proghouse_melodic,0.0231,0.76,0.0339,414480,0.793,0.924,8,0.648,-11.14,1,0.0512,124.998,4
+312,476iNCuZzxV3AXQeRlF1qv,Swallow - Tale Of Us Remix,Monolink,proghouse_melodic,0.301,0.737,0.176,445151,0.609,0.756,6,0.0919,-10.034,1,0.0584,124.006,3
+313,2Z2RVWzEq2oOUlQsnBCYOl,All I Need to Get High - Ae:ther Dreaming Dub Remix,Damian Lazarus & The Ancient Moons,proghouse_melodic,0.000117,0.734,0.0325,508732,0.757,0.891,4,0.103,-11.997,0,0.047,125.025,4
+314,5sBIoOu3KTj9TvlQBHfRaX,Aquarius,ARTBAT,proghouse_melodic,0.162,0.729,0.129,472007,0.709,0.89,4,0.029,-8.791,0,0.0597,121.99,4
+315,08Uz2WDG2HpZwCX7qOn7OJ,You're Not Alone - Solomun Remix,Agoria,proghouse_melodic,0.000847,0.771,0.293,503083,0.849,0.768,6,0.0839,-7.241,0,0.0522,119.994,4
+316,2vl9yXYJmoKbv72pUIxoue,Apollo 11,Matador,proghouse_melodic,0.00918,0.75,0.0383,464647,0.652,0.919,3,0.141,-9.402,1,0.0558,125.008,4
+317,2kvVaUw1h9tu1f9edBXBMe,Craft,Adriatique,proghouse_melodic,0.0308,0.741,0.118,422439,0.849,0.921,2,0.11,-8.506,1,0.0465,123.009,3
+318,0FO09rQ0ACkUlLRT7jWFQF,Cafe Del Mar (Tale Of Us Renaissance Remix),Energy 52,proghouse_melodic,0.0077,0.64,0.0465,515760,0.69,0.849,5,0.0841,-9.718,0,0.0528,124.996,4
+319,5BqFpUSAVMnxebiKfEizeP,Tabu,ARTBAT,proghouse_melodic,0.0177,0.757,0.112,493519,0.631,0.8,9,0.659,-11.181,1,0.0521,121.998,4
+320,5noSkaAhiPUZZpKqgFWiLi,Astral,Tale Of Us,proghouse_melodic,0.00735,0.734,0.225,402628,0.858,0.833,7,0.114,-12.001,1,0.0495,123.984,4
+321,4q1e5Gh80PBbyNyh8axUDB,Galactic,Moonwalk,proghouse_melodic,0.00201,0.787,0.0621,397155,0.732,0.888,1,0.126,-10.183,1,0.0485,123.989,4
+322,4ukLAzXMLNzr9yxjlH7mJF,Voices From The Dawn,Adriatique,proghouse_melodic,9.66e-05,0.716,0.0278,428940,0.778,0.876,5,0.0964,-10.031,1,0.0331,121.011,4
+323,0vfZwjKXAvVg6KPOtQTumk,Late Night - Solomun Remix,Foals,proghouse_melodic,0.0242,0.849,0.161,504347,0.574,0.573,7,0.104,-11.77,1,0.0532,122.002,4
+324,0so587BGO1K3OU3fMqF25I,Skywalking,Mathame,proghouse_melodic,0.0215,0.683,0.0308,374721,0.824,0.918,8,0.0661,-7.779,1,0.0882,127.411,4
+325,657KVeLewbh5Z0p2qEt0EJ,Upperground,ARTBAT,proghouse_melodic,0.000142,0.552,0.0799,405737,0.626,0.942,7,0.1,-9.375,1,0.0588,123.003,4
+326,1bTsBoRovfCaJ2L7uH42pw,Monument,Tale Of Us,proghouse_melodic,0.000555,0.75,0.151,360787,0.912,0.877,6,0.0919,-10.066,1,0.0402,124.996,4
+327,6tfmaOWBVvzYALzkwdBHj2,C3PO,Adana Twins,proghouse_melodic,0.0898,0.745,0.039,458837,0.932,0.918,5,0.111,-9.681,1,0.0488,123.999,4
+328,2J2EVlRjkdLZKW5z3QwbhH,In Name Only - Moonwalk Remix,Cristoph,proghouse_melodic,0.000124,0.787,0.159,410323,0.793,0.928,1,0.0984,-9.865,1,0.0543,124.009,4
+329,00UcM1MkE18GfBns9vkxRm,Departure - Tale Of Us Intro Edit,Mathame,proghouse_melodic,0.155,0.545,0.104,394987,0.711,0.299,11,0.0711,-7.615,0,0.139,124.678,4
+330,4UDt2fQ0tO5D4do7bDGXkK,Burning House - Fideles Remix,Vincent & The Barbers,proghouse_melodic,0.0226,0.758,0.0356,481839,0.737,0.341,0,0.111,-9.203,1,0.0551,123.01,4
+331,0EFONrcgPNCnkQSJ7Y3PnI,My Computer,Adana Twins,proghouse_melodic,6.9e-05,0.776,0.346,515087,0.846,0.911,10,0.0627,-8.006,0,0.0558,122.006,4
+332,0KaAzytP1hhuZaKkxBLCWZ,Friend :Kalypso - Fur Coat Remix,Delhia De France,proghouse_melodic,0.00256,0.798,0.0382,437759,0.364,0.889,2,0.107,-13.026,1,0.124,123.998,4
+333,3fdXEMBTjHNJ5Bug5c7rZi,Mystery - Tale Of Us & Mathame Remix,Adriatique,proghouse_melodic,0.017,0.728,0.0367,424431,0.579,0.682,5,0.0654,-9.778,0,0.0525,124.005,4
+334,0GOxBVl062KmJt4Spnvjuu,Resolve,Colyn,proghouse_melodic,0.0149,0.781,0.175,442827,0.555,0.943,6,0.0921,-10.598,0,0.0464,123.015,4
+335,6YmYYfcPdYx6hbY1LbhKzm,Dario's Trip,Ivan Masa,proghouse_melodic,0.00425,0.775,0.228,421616,0.824,0.83,8,0.0914,-9.397,1,0.0434,122.99,4
+336,2zaAL1DB5RfYLJk4k0dWWa,Sciamachy,Kevin de Vries,proghouse_melodic,0.0281,0.789,0.0997,436213,0.902,0.9,10,0.0975,-11.628,0,0.0731,126.005,4
+337,6DuTXPpowLA1vk8fzqaLtB,Nothing Around Us,Mathame,proghouse_melodic,0.00369,0.589,0.309,345600,0.889,0.165,10,0.127,-7.62,0,0.0358,124.988,4
+338,18MlLrfCkYOnKutil99GwY,Alter Ego,NTO,proghouse_melodic,0.00729,0.716,0.271,444878,0.534,0.74,6,0.0682,-9.327,1,0.0531,123.003,4
+339,450hasKvUpkrpqSTRvL0Rn,Sub Zero,Hunter/Game,proghouse_melodic,0.0573,0.643,0.151,427500,0.923,0.935,10,0.0916,-7.855,0,0.0443,128.008,4
+340,7b8FM4CtVc7MUh7PQ6y84p,Polina,Agents Of Time,proghouse_melodic,0.0003,0.762,0.107,472093,0.564,0.898,9,0.104,-9.413,1,0.0401,124.56,4
+341,4VBdMWl1vxeMX4wwkVPdGM,Aratak,Kevin de Vries,proghouse_melodic,0.117,0.827,0.0524,432961,0.452,0.855,5,0.102,-11.174,1,0.0621,125.005,4
+342,6Ox3bcWRbmd6tsB8f9HbCy,Lost,Hunter/Game,proghouse_melodic,0.103,0.74,0.072,391680,0.635,0.831,4,0.108,-12.885,0,0.0391,125.003,4
+343,5S4gVuDLww7pSG9zISqsLj,Die weiße Rose - Tale Of Us & Mind Against Version,SHDW,proghouse_melodic,0.00476,0.798,0.031,378442,0.86,0.854,4,0.0723,-8.439,0,0.0527,126.013,4
+344,6TcpM1p0xHy1smBjxEF73s,Conjure Dreams,Maceo Plex,proghouse_melodic,0.000189,0.687,0.526,441090,0.744,0.875,2,0.0924,-8.085,1,0.0545,124.012,4
+345,2gbQR2XJlZy461hu9FOrZL,Heading North,Fideles,proghouse_melodic,0.0012,0.797,0.0375,437653,0.702,0.673,2,0.0951,-9.564,1,0.0521,124.99,4
+346,3XBdjQJdzC9DBQZvyhpfDt,Keep Control - Hosh Remix,Sono,proghouse_melodic,0.00222,0.8,0.366,510398,0.725,0.573,9,0.0849,-10.566,0,0.0659,116.984,4
+347,5jpe3La1qz7jKxTRv85JE9,Retrida,Angelov,proghouse_melodic,0.00576,0.797,0.339,499208,0.832,0.919,1,0.101,-10.4,1,0.0476,123.001,4
+348,0RMQgXHIBTsAVcaS7qahLq,What To Do - &ME Remix,Guy Gerber,proghouse_melodic,6.54e-05,0.904,0.408,504590,0.727,0.86,7,0.0737,-9.992,0,0.0591,122.001,4
+349,5cWtZM21FH4YL0aWq3Syfv,Roar - Adana Twins Remix,Patrice Bäumel,proghouse_melodic,0.0126,0.803,0.0407,493581,0.871,0.814,8,0.0908,-6.326,0,0.0542,123.01,4
+350,4RCtkqCDhoYVtFbyLqR14h,The Secret of Eos,Fideles,proghouse_melodic,0.00817,0.691,0.037,379391,0.598,0.734,7,0.0935,-11.975,1,0.0409,124.0,3
+351,5YDdtQOtiDI71EUhnA2nzk,Circuit,8Kays,proghouse_melodic,0.0393,0.759,0.0392,393000,0.777,0.861,7,0.0875,-8.448,1,0.0421,123.998,4
+352,2kXiVa8vQ0xPDDTQ93TvqR,Pictures In My Head - Matthias Schuell Remix,Bondi,proghouse_melodic,0.0016,0.779,0.237,417534,0.729,0.819,1,0.111,-9.697,1,0.0653,121.993,4
+353,3Allgqu3MaHE8QFvzoP90S,Hold Me To The Light - Tale Of Us Remix,KAS:ST,proghouse_melodic,0.00363,0.643,0.0854,398095,0.822,0.749,7,0.13,-9.29,1,0.0497,125.969,4
+354,311TzZVI8ueT6v8xBzv6an,Hide U - Chicola Extended Remix,Sandy Rivera,proghouse_melodic,0.0023,0.724,0.138,457882,0.811,0.804,8,0.117,-10.589,0,0.0415,122.003,4
+355,76Cab8Z6rFHPYpnqwgaouI,Jumanji,Adana Twins,proghouse_melodic,0.0018,0.794,0.247,480045,0.94,0.906,8,0.0755,-5.835,1,0.0448,116.967,4
+356,74MjVkTprpPY7e14l1S5p2,Spaceship,Paulor,proghouse_melodic,0.0118,0.8,0.122,427298,0.567,0.871,10,0.134,-9.044,0,0.0401,119.987,4
+357,6WGckkSvqrf2DdpZhWpG70,D.J.A.M.H.,Adana Twins,proghouse_melodic,0.00165,0.69,0.0384,522570,0.918,0.713,7,0.0829,-8.174,1,0.0359,115.998,4
+358,2Cj8mUKq7MnfkdkiwtQMk8,Vigilans,Innellea,proghouse_melodic,0.0149,0.738,0.224,362453,0.942,0.808,2,0.108,-8.06,1,0.0647,119.982,4
+359,4fUPVwqgZ81Zkv4EknyDTF,The World Returns,Innellea,proghouse_melodic,0.000983,0.632,0.0392,381676,0.571,0.827,7,0.111,-8.743,1,0.0311,121.976,4
+360,4BkFVCDaobMOvm56XGdnzQ,Further - Hidden Empire Remix,Rafael Cerato,proghouse_melodic,0.000939,0.804,0.0706,431803,0.686,0.841,7,0.106,-11.976,1,0.0556,122.007,4
+361,6Z1yGU0zcUdlq2pwMGExxc,Venere - Fideles Remix,BOg,proghouse_melodic,0.000152,0.678,0.0538,556752,0.801,0.87,2,0.0822,-8.882,1,0.036,121.998,4
+362,5mznlE2PgBsUemRPQpq6MP,Starting Again,&ME,proghouse_melodic,0.00208,0.763,0.569,475195,0.739,0.809,4,0.106,-9.953,1,0.0471,120.001,4
+363,32Rhgz5G2fuNZUyzX8A6u1,Can't Stop the Future,Bryan Kessler,proghouse_melodic,0.015,0.622,0.0958,406000,0.927,0.611,3,0.0633,-6.521,0,0.0561,119.943,4
+364,3Ogg1BX3qmNCQVKMIA0xn5,The Love Is Over,Paul Anthonee,proghouse_melodic,0.000332,0.632,0.0521,487129,0.889,0.553,11,0.152,-7.627,0,0.0361,124.012,4
+365,35apg1NgXpHp8lGmr1sshT,Reflected Effect,Ivan Masa,proghouse_melodic,0.00151,0.692,0.11,444515,0.513,0.839,8,0.114,-13.701,1,0.052,121.996,4
+366,1KC2Jt5HUUULvBy099yowM,Dynasty - Denis Horvat Remix,WhoMadeWho,proghouse_melodic,0.00806,0.796,0.0701,537943,0.683,0.727,7,0.112,-9.27,1,0.0501,117.991,4
+367,5RRW8mTdeutSNYSmV4om5C,Keep Control - ARTBAT Remix,Sono,proghouse_melodic,0.0151,0.769,0.119,483902,0.762,0.783,7,0.0748,-9.669,1,0.0757,123.002,4
+368,4RU7EBYmu5YsFjinwtV6bL,Call Of The Wild - Glowal Remix,Agoria,proghouse_melodic,0.000151,0.757,0.247,441511,0.577,0.836,1,0.0955,-8.654,1,0.0395,122.006,4
+369,1nDWr0GlZskq1E6KI7Lykl,Narcissus,Juan Sanchez,proghouse_melodic,0.037,0.796,0.358,381980,0.849,0.954,9,0.0973,-11.047,0,0.0654,132.008,4
+370,7wulq0oDGl4MLLs75w0vWN,Skydive - Kevin de Vries Extended Remix,Freefall,proghouse_melodic,0.642,0.741,0.0413,472933,0.758,0.894,10,0.155,-9.718,0,0.0407,126.981,4
+371,5m2GDEZmGZErpMZ3sGxvoX,Lost In Fades,Innellea,proghouse_melodic,0.0893,0.773,0.438,338269,0.381,0.657,0,0.109,-12.31,1,0.0385,117.998,4
+372,6j0ao2DgHem5dpnGeHwufi,Walking Away,Mind Against,proghouse_melodic,0.00305,0.636,0.0686,425907,0.519,0.847,1,0.0933,-10.363,1,0.0581,119.995,4
+373,2DCPy4g8lxYR2e22vhYBxx,Plastic Head TV,Fairmont,proghouse_melodic,0.00349,0.81,0.0362,408870,0.42,0.547,8,0.108,-9.689,1,0.0585,123.008,4
+374,38xlLsYXRmA4h0NFJVZDPQ,Neuromancer - Krystal Klear Remix,Terr,proghouse_melodic,0.0117,0.568,0.799,526787,0.897,0.726,11,0.337,-8.483,0,0.0649,123.999,4
+375,11erd78PxLLisWkQjWYUWt,Tale of Devotion,Terr,proghouse_melodic,0.0135,0.743,0.782,414165,0.907,0.849,7,0.0968,-8.909,0,0.0541,120.006,5
+376,1j1lc5mVF3asBQzxfYXuIQ,Voice Of Silence,Cristoph,proghouse_melodic,0.0163,0.634,0.388,383010,0.587,0.288,11,0.0935,-7.147,0,0.0396,121.003,4
+377,4ZHfD6DH0JsuJkyeXaLMdk,Messiah (feat. HÆLOS),Joris Voorn,proghouse_melodic,0.274,0.498,0.482,347857,0.779,0.93,2,0.124,-10.883,0,0.0344,127.985,4
+378,0ZY9kPt23t9OVMLyybvKCj,HAL,Kölsch,proghouse_melodic,0.08,0.791,0.0326,345360,0.927,0.815,4,0.0912,-10.172,0,0.0499,125.006,4
+379,3xaYNulG8k2OZaAOpPbvbu,Doubts,Stephan Jolk,proghouse_melodic,0.000479,0.733,0.221,340831,0.508,0.882,7,0.0923,-11.183,0,0.0386,126.002,4
+380,2Su2dhqlXe7m0rXAhCaxFE,Dance Alone - Olivier Giacomotto Remix,8Kays,proghouse_melodic,3.41e-05,0.692,0.566,409756,0.872,0.765,10,0.114,-6.459,0,0.0427,123.009,4
+381,6ilhmRo6uJjlPEj2sogEau,Blisters - Einmusik Remix,Rafael Cerato,proghouse_melodic,0.000469,0.752,0.074,441425,0.869,0.866,5,0.0841,-9.086,0,0.0453,123.003,4
+382,3l0Mh5enpLjB0wSvMCZrlX,I Don't Know - Adana Twins Remix,WhoMadeWho,proghouse_melodic,0.0683,0.686,0.185,437717,0.673,0.821,1,0.0998,-11.31,1,0.0667,124.007,4
+383,1Fldv1wQuQ5RJXmDq0XxpO,For a Feeling (feat. RHODES) - Extended Mix,CamelPhat,proghouse_melodic,0.000196,0.742,0.0371,464070,0.875,0.828,7,0.0946,-7.665,1,0.0489,121.986,4
+384,1ekH3NlCixx69QzTnTxANp,Energy Sync - Club Mix,Terr,proghouse_melodic,0.000313,0.782,0.244,397108,0.828,0.801,9,0.0527,-8.6,0,0.0575,123.997,4
+385,2dxiLe0Pq6pG058eYMbrn7,Neutron Dance,Krystal Klear,proghouse_melodic,0.0107,0.74,0.892,396436,0.904,0.911,7,0.923,-7.695,1,0.0461,125.006,4
+386,0TONH6Vjhlxb33ErUNGmHD,Bolting - Renato Cohen Sunrise Remix,Colors & Lambert,proghouse_melodic,0.0034,0.737,0.495,551310,0.842,0.841,11,0.075,-7.687,1,0.0591,123.016,4
+387,3YEeCOk26Oo6F0eXY0i3rI,Breathing - Extended Mix,Ben Böhmer,proghouse_melodic,0.0457,0.387,0.0383,380905,0.506,0.825,11,0.111,-12.832,0,0.0677,182.952,3
+388,3W8KAzaYIKsCSGj8q8ltul,Father Ocean - Ben Böhmer Remix,Monolink,proghouse_melodic,0.385,0.648,0.0381,476193,0.749,0.745,2,0.265,-11.981,1,0.0382,121.986,4
+389,3rgNOUndmbEd55VMx6eAwK,Until The End - Musumeci Rmx,Totoray,proghouse_melodic,0.000999,0.697,0.117,363049,0.608,0.742,7,0.121,-12.124,1,0.0482,123.027,3
+390,3urn4ZNknWXIEriS5wlp5T,Echoes From Beyond,Woo York,proghouse_melodic,0.00287,0.803,0.0317,458246,0.728,0.909,5,0.111,-11.937,0,0.0541,123.955,4
+391,26wBcR6Damyd7l4xGI6DNg,Embrace - Black Coffee + Aquatone Remix,Agoria,proghouse_melodic,0.00238,0.748,0.23,416923,0.79,0.874,5,0.0798,-10.116,1,0.0782,110.003,4
+392,6l5Xe0OOqq56jWEYBoxXdE,Underwater - Yotto's Dawn Remix,RÜFÜS DU SOL,proghouse_melodic,0.000811,0.635,0.0373,338440,0.949,0.48,10,0.195,-7.891,0,0.033,122.027,4
+393,3tCNypL6VBTbUqQCzG5zb9,Burning - Original Mix,Brigado Crew,proghouse_melodic,0.097,0.733,0.0471,417109,0.589,0.855,9,0.116,-9.315,1,0.0725,125.012,3
+394,4YUM6w6KqQLEwxi3ShRA8T,Hunger For Your Vibe - Moonwalk Remix,Arm In Arm,proghouse_melodic,3.01e-05,0.791,0.0418,392625,0.872,0.895,1,0.0912,-9.775,1,0.0465,122.997,4
+395,7m4X62yIJPhkOiDr801TZv,Ethernal,Mila Journée,proghouse_melodic,0.048,0.757,0.0351,391680,0.947,0.616,7,0.107,-8.987,1,0.0376,124.995,4
+396,6bk3eQ89VIU5W7jLtJJLq5,Walk In Clouds - BLANCAh’s Dreamers Fields Mix,BLANCAh,proghouse_melodic,0.0642,0.664,0.212,493066,0.517,0.857,7,0.0815,-15.191,1,0.0422,124.005,4
+397,0VKIilt1Z8oJQ7isTytBDc,Toxic Temptation - Undercatt Remix,Peer Kusiv,proghouse_melodic,0.308,0.822,0.123,420434,0.575,0.766,11,0.107,-12.324,0,0.0659,124.998,4
+398,09TP7vV7N9PAZA7O510cL4,Nocturna,Moonwalk,proghouse_melodic,0.000504,0.797,0.14,403532,0.838,0.893,2,0.113,-10.155,1,0.0541,124.987,4
+399,6opfnfjIqcT4sReARB2XWa,Everlasting World,Four Hands (GER),proghouse_melodic,0.00259,0.697,0.207,420092,0.58,0.908,10,0.121,-11.101,0,0.0464,124.005,4
+400,6jYXP1jrYIHkEYglFgeL2Q,Home,Adriatique,proghouse_melodic,0.33,0.612,0.0458,330500,0.767,0.221,2,0.353,-5.972,0,0.0317,120.018,4
+401,4vb1eb9zYkCqSRirs3ExBQ,Wake Me Up - Tale Of Us Remix,Cubicolor,proghouse_melodic,0.00235,0.732,0.449,381738,0.825,0.758,10,0.0661,-8.825,0,0.0485,120.005,4
+402,6lEZdMyFcbmqfJV3z64BNm,Mirage,Mind Against,proghouse_melodic,0.00695,0.802,0.0573,396255,0.527,0.854,2,0.109,-11.139,1,0.0471,124.993,3
+403,4JnkXaluAkzeFASpfdLAI7,Analogy,Stephan Jolk,proghouse_melodic,0.0475,0.75,0.187,400427,0.617,0.918,11,0.114,-11.167,0,0.0384,123.005,4
+404,7mjqHCHZAgKQJN7EdFu7Nt,Velocita' - Original mix,Massano,proghouse_melodic,0.00739,0.611,0.0296,381750,0.718,0.837,5,0.277,-10.13,0,0.0446,127.001,4
+405,2QgqsZssdGpMsy5ZWtPQlZ,Scio,Binaryh,proghouse_melodic,0.000109,0.808,0.137,464390,0.653,0.944,0,0.171,-11.642,1,0.178,123.017,3
+406,4O4WO1Squm4pHpm83a8KbY,Sweet Disposition - Camille Luciani Mix,The Temper Trap,proghouse_melodic,0.0274,0.664,0.251,405610,0.645,0.616,7,0.086,-10.002,1,0.0375,124.994,4
+407,7ehBoh9FIeIiEnORzexRZ2,For Every Forever,Mathame,proghouse_melodic,0.00237,0.713,0.0556,382500,0.537,0.387,4,0.0856,-8.741,0,0.0421,128.034,4
+408,06PnBIODLj1ZdfIaCUKtsw,Dreams Stay Dreams - Patrice Baumel Remix,Joy Wellboy,proghouse_melodic,0.0207,0.599,0.115,464874,0.785,0.895,6,0.112,-12.106,1,0.0411,124.997,4
+409,4pMcfHYvQvNPeXA9vzzPu7,The Feeling - Original Mix,Massano,proghouse_melodic,0.00207,0.755,0.0592,512000,0.603,0.906,11,0.0881,-12.081,0,0.0761,123.998,4
+410,6QmIAvF3tEBNEZwzKnQxuZ,Head Out to the Trip,Dip Treep,proghouse_melodic,0.315,0.758,0.116,434454,0.394,0.827,2,0.118,-12.882,1,0.045,134.982,4
+411,2GQJEdBTvwbgPR8QbkauVM,She Don't Dance - Lost Frequencies Extended Remix,Everyone You Know,proghouse_melodic,0.00414,0.693,0.383,343041,0.559,0.209,11,0.044,-9.481,0,0.037,121.012,4
+412,0CFqtZVKDgmshQv3Vbqstv,Leave a Trace - Four Tet Remix,CHVRCHES,proghouse_melodic,0.0553,0.738,0.123,409646,0.631,0.648,6,0.101,-11.474,0,0.0421,120.027,4
+413,1mYec87UIcT1vcVOEHItOe,Buchla’s Dreaming - Agents Of Time Remix,Adriatique,proghouse_melodic,0.072,0.703,0.198,463963,0.716,0.738,4,0.109,-10.184,0,0.0338,126.006,4
+414,43rDuH34QjdwDBeM8Fw3mt,He does it,Ae:ther,proghouse_melodic,0.00305,0.702,0.0766,498934,0.544,0.874,11,0.188,-9.847,0,0.0385,127.013,4
+415,4P7mJtzehLCPAa5kk7Jb36,Sinner,Monolink,proghouse_melodic,0.0675,0.667,0.309,463035,0.73,0.158,11,0.112,-10.26,0,0.0435,122.996,4
+416,4oFLew9MKARAeNE2cWwwQx,Through the Thorns,igor Bartyuk,proghouse_melodic,0.0273,0.767,0.1,382851,0.696,0.853,1,0.116,-11.432,1,0.0456,120.995,4
+417,7CbeLEsxE2wzJCu4ilmFG7,Dampfmaschine,Baime,proghouse_melodic,0.0182,0.737,0.179,386313,0.737,0.885,10,0.16,-8.951,0,0.0384,118.991,4
+418,6BLwige2WEDqlEPhHafJoV,Road To Nowhere - Bastinov Remix,KAS:ST,proghouse_melodic,0.00395,0.78,0.0368,411494,0.819,0.777,11,0.11,-8.321,1,0.0593,126.01,4
+419,4bVLCwwYONEdE7rl50pIcn,1001 Nights,Alfa Romero,proghouse_melodic,0.166,0.742,0.033,454013,0.675,0.937,2,0.111,-12.964,1,0.0462,126.056,3
+420,6aSml93kb2gRADFBawf1Me,Good Old Days,Woo York,proghouse_melodic,0.0139,0.676,0.0377,451200,0.704,0.709,7,0.111,-10.196,1,0.039,125.018,3
+421,7FdNxJTStUj6fsWEmSrlPN,Immersion,WhoMadeWho,proghouse_melodic,9.44e-05,0.77,0.374,387744,0.815,0.876,0,0.432,-6.876,1,0.0593,122.004,4
+422,3FjrPIo2CGtyNI9yfzU5md,Hypercolour - ARTBAT Remix,CamelPhat,proghouse_melodic,0.00604,0.572,0.0361,510968,0.63,0.577,6,0.131,-11.4,0,0.0423,124.011,3
+423,5nt8opvt32XjKdgc77rZrY,Dystopia - Original Mix,Ilario Alicante,proghouse_melodic,0.00173,0.725,0.118,439211,0.781,0.918,7,0.107,-9.275,1,0.0526,125.992,4
+424,0ihush2kQPtal6qEMEdJB4,Halos,Hollt,proghouse_melodic,0.0288,0.811,0.0388,411458,0.901,0.84,8,0.0948,-8.515,1,0.0565,122.001,4
+425,6DsJ51gCYwiBvBtEi8VkAw,Underwater Breathtaking - Innellea Remix,Edu Imbernon,proghouse_melodic,0.0754,0.709,0.0394,424187,0.81,0.895,6,0.107,-9.28,0,0.0594,124.0,4
+426,4GsAia8vKny5nOPauLomQW,Never Give Up - Club Version,Mathame,proghouse_melodic,0.00691,0.688,0.119,324448,0.638,0.24,5,0.0842,-8.012,0,0.0469,126.996,4
+427,0bU7RBZ1tkm8XXZzDrdsMC,Need You Now - Adriatique Remix,Howling,proghouse_melodic,0.00262,0.676,0.421,380864,0.604,0.8,5,0.106,-7.078,0,0.0443,123.006,3
+428,5ylvIe7zP3nBiUKqxykeBj,Hunting Ground - Dodi Palese Remix,Jonas Saalbach,proghouse_melodic,0.000647,0.697,0.457,375826,0.673,0.853,5,0.112,-6.927,0,0.0397,123.003,3
+429,0BfWS2LBGYDfMIRKitzbLn,Sinner - Mathame Remix,Monolink,proghouse_melodic,0.00215,0.762,0.401,404078,0.657,0.358,4,0.238,-8.091,0,0.0473,123.004,4
+430,521qEtgolzx8Thro6uf9eP,Hypercolour - Mind Against Remix,CamelPhat,proghouse_melodic,0.000178,0.716,0.0931,425050,0.749,0.819,4,0.115,-6.945,0,0.0404,122.004,4
+431,12LOYGBr0T0IqyuhEILYFh,La clé des champs,NTO,proghouse_melodic,0.00142,0.461,0.0401,416000,0.526,0.861,6,0.108,-10.668,1,0.0506,120.011,4
+432,7lOswwKheYUuvxmJsN2JV4,Dragon of Eden - Original Mix,Kevin de Vries,proghouse_melodic,0.000216,0.702,0.0328,457638,0.678,0.921,10,0.108,-7.769,0,0.0511,125.016,4
+433,0SDexja2ROnkduvrrzv9Mu,Amor,Colyn,proghouse_melodic,0.00903,0.787,0.161,514765,0.433,0.876,7,0.0849,-14.136,1,0.0558,124.013,4
+434,2NUMMw31RuOruuk5tuZbWC,Last Breath - Tim Engelhardt Remix,Lastlings,proghouse_melodic,0.05,0.743,0.0321,413905,0.693,0.835,2,0.0708,-10.901,1,0.0382,123.024,4
+435,7qRqmkHtKgk9B8FTGp9YjL,No Time - RÜFÜS DU SOL Remix,Lastlings,proghouse_melodic,0.000454,0.594,0.039,398969,0.903,0.446,6,0.0573,-6.965,0,0.0332,121.993,4
+436,5TA9P74rjEJ98VYbp0lvxZ,Pink Panther,Solee,proghouse_melodic,0.0313,0.679,0.323,511977,0.708,0.898,6,0.127,-8.937,0,0.0455,123.007,4
+437,4A2u7RmGIQk9bjoKExlqj7,March of the giants,Solee,proghouse_melodic,0.0144,0.684,0.18,457081,0.645,0.875,6,0.105,-12.062,1,0.0462,123.015,4
+438,5IpRsQRQypVnNEVouFTN93,Dark Knight,VNTM,proghouse_melodic,0.00582,0.801,0.109,338706,0.72,0.864,7,0.104,-9.427,1,0.113,126.994,4
+439,42swkx8xgLSTWwDNRaiSSD,Godtripper - Patrice Bäumel Psychoactive Rework,Öona Dahl,proghouse_melodic,0.000196,0.704,0.33,455209,0.902,0.823,7,0.598,-11.249,1,0.0375,124.995,4
+440,4cTIFTmacy3vyi5A5F3YeD,Along Came Polly - Original Mix,Rebūke,proghouse_melodic,0.00107,0.825,0.0781,389039,0.595,0.94,0,0.0578,-9.393,1,0.0669,124.003,4
+441,6VGNzYErt08Rai78mLkIzI,Domino,Oxia,proghouse_melodic,0.00291,0.785,0.215,435267,0.69,0.907,3,0.203,-10.225,0,0.0698,128.879,4
+442,2LPEw0ftIfS4G7rmm4F716,The First Time,KAS:ST,proghouse_melodic,0.00152,0.544,0.03,452835,0.856,0.728,4,0.622,-8.871,0,0.0391,125.003,4
+443,6rGqiK4oKP9RtRdTjGepNH,The Future Is The Past,Colyn,proghouse_melodic,0.000114,0.747,0.331,283867,0.817,0.809,10,0.106,-9.034,0,0.0528,126.041,4
+444,6hsjfyeBzOghY9Ty0sq0lY,Apus,Binaryh,proghouse_melodic,0.119,0.803,0.0543,464516,0.822,0.93,6,0.078,-10.524,1,0.0606,124.004,4
+445,7EPNKGoa44OQro1h698mEp,Mars’s Moon,Innellea,proghouse_melodic,0.0177,0.791,0.0345,413115,0.971,0.811,4,0.0948,-8.716,0,0.0667,121.984,4
+446,4kXxcjJVfHrsIvidynToZY,Electricity,Innellea,proghouse_melodic,0.00198,0.714,0.405,393443,0.572,0.835,9,0.0668,-9.125,1,0.0721,121.998,3
+447,14ZkEgL7Cn6EnvSWF2Mf38,Catanacean,Innellea,proghouse_melodic,0.0637,0.758,0.06,408000,0.861,0.846,5,0.0938,-9.313,0,0.0551,120.004,4
+448,2P6vOS0ltn49bqeKt8Q9JS,Rush,Mulya,proghouse_melodic,0.00309,0.761,0.0273,448762,0.864,0.93,5,0.0749,-8.375,1,0.0882,121.002,4
+449,5N720bYInxSsiUDvBOLM3C,What's a Girl to Do,Fatima Yamaha,proghouse_melodic,0.123,0.808,0.765,446510,0.521,0.906,8,0.336,-9.381,1,0.168,120.021,4
+450,0jruXdfwQtpk4uaPYq0KVv,Terra,Terr,proghouse_melodic,0.000889,0.759,0.32,408960,0.727,0.857,0,0.0665,-9.399,1,0.0425,120.005,4
+451,43FHTY91eZIbIIiCQ55EBv,Rainbow,8Kays,proghouse_melodic,0.000109,0.724,0.231,369250,0.928,0.939,11,0.0885,-7.874,1,0.0736,122.01,4
+452,4YYnqxVSJZN3isQdfH60XT,Face the Sky - Original Mix,Adam Ten,proghouse_melodic,0.0192,0.79,0.12,385575,0.606,0.837,10,0.112,-9.994,0,0.0999,122.0,4
+453,1c67n5z5c373PiKIE284xC,Salza,Angelov,proghouse_melodic,0.00568,0.809,0.137,530010,0.95,0.864,9,0.077,-10.034,1,0.0511,120.005,4
+454,43ra6sCSWB4vttGezXhGG3,Rain,Matteo Bruscagin,proghouse_melodic,0.393,0.583,0.366,318611,0.667,0.228,6,0.0786,-9.658,0,0.0302,121.714,4
+455,2dvaclRTQslBTVGsgcqMG4,Midnight (The Hanging Tree) (feat. Jalja) - Extended,HOSH,proghouse_melodic,0.00638,0.736,0.638,434175,0.627,0.168,9,0.0734,-9.337,0,0.0402,123.994,4
+456,770zzJRmEN0sudaxuD7GkB,Fading,ARTBAT,proghouse_melodic,0.0924,0.615,0.0543,487869,0.655,0.8,7,0.144,-9.968,0,0.0412,122.002,4
+457,5NyQq0g242lwWf55ix0odx,Cramp,Edone,proghouse_melodic,0.0298,0.678,0.0345,422326,0.85,0.873,10,0.106,-10.396,0,0.0374,120.018,4
+458,2s6Vu2qDlQD78oVZSKrywp,Dissection,Edone,proghouse_melodic,0.00935,0.755,0.036,430461,0.827,0.771,10,0.113,-9.116,1,0.0389,120.018,4
+459,0gpTgcGEKpTBSlUa14hMtR,Resurgence,Hidden Empire,proghouse_melodic,0.0116,0.784,0.0352,381259,0.786,0.903,8,0.105,-11.075,1,0.0548,124.005,4
+460,03AOPd7ZJbE9LPIA8oZMsA,Vanishing,Tale Of Us,proghouse_melodic,0.00236,0.764,0.0671,372906,0.497,0.916,0,0.0968,-9.931,1,0.0417,122.006,4
+461,3Jprui7pqTR2lZSJ4ev4Y8,Nero,Tone Depth,proghouse_melodic,0.00361,0.645,0.039,383083,0.5,0.904,10,0.0785,-13.798,0,0.0351,123.009,3
+462,20MfvFzZqCB596yPDOg4N8,Icarus,Binaryh,proghouse_melodic,0.257,0.773,0.248,472381,0.887,0.934,6,0.0896,-12.481,1,0.0657,126.006,4
+463,7hUgRTjqAoWPrmvfjdfTQr,Faded Memories - Mixed,widerberg,proghouse_melodic,0.00462,0.752,0.112,288029,0.671,0.806,5,0.118,-10.291,1,0.0391,120.02,4
+464,4vb1eb9zYkCqSRirs3ExBQ,Wake Me Up - Tale Of Us Remix,Cubicolor,proghouse_melodic,0.00235,0.732,0.449,381738,0.825,0.758,10,0.0661,-8.825,0,0.0485,120.005,4
+465,6j0ao2DgHem5dpnGeHwufi,Walking Away,Mind Against,proghouse_melodic,0.00305,0.636,0.0686,425907,0.519,0.847,1,0.0933,-10.363,1,0.0581,119.995,4
+466,6Ey5lYMyrkmtOq4AynJWqq,Rage,widerberg,proghouse_melodic,0.00106,0.803,0.0322,261639,0.844,0.902,8,0.117,-11.286,1,0.134,121.993,4
+467,4KzLbHlhTEjk47JtkTqbeu,Reminding,Anyma,proghouse_melodic,0.0737,0.605,0.443,323535,0.666,0.593,0,0.0962,-11.745,1,0.041,128.002,4
+468,4UwtgYX9wp4z9zLIfzVviV,Lost Gravity,Tinlicker,proghouse_melodic,0.0018,0.326,0.0317,305402,0.881,0.882,5,0.122,-7.806,1,0.0393,120.319,4
+469,4udxkNP2RbeKCiBl9aMnGZ,Lupine (feat. Haptic) - OMRI. Remix,James Trystan,proghouse_melodic,0.0837,0.727,0.105,442387,0.654,0.749,1,0.0359,-11.207,1,0.0511,123.013,4
+470,2Qwe2qFDTRgYWLFneCB3tw,Seige,Jeremy Olander,proghouse_melodic,0.00685,0.807,0.452,433564,0.577,0.873,10,0.0788,-13.925,0,0.0589,123.994,4
+471,2ae8Zir5qhtyjzlnqtJzX4,For a Feeling (feat. RHODES) - Layton Giordani Remix,CamelPhat,proghouse_melodic,0.00344,0.787,0.0389,484219,0.831,0.698,7,0.0927,-5.137,1,0.059,127.999,4
+472,7emjfh0Yir0Z7kzUDt4be0,Vera,widerberg,proghouse_melodic,0.616,0.802,0.179,383607,0.72,0.903,6,0.0889,-10.309,0,0.0552,121.994,4
+473,54uUoTLCTeGyiydCllw5IK,Only One,Yotto,proghouse_melodic,0.0698,0.68,0.287,236033,0.743,0.79,6,0.131,-10.528,0,0.0324,121.011,4
+474,1Y3yJHrBkkfj3GZKv1MVhF,Abu Simbel,WhoMadeWho,proghouse_melodic,0.0166,0.443,0.073,226653,0.705,0.797,0,0.179,-8.673,0,0.0335,117.991,4
+475,2zdY5H6nsQHSFLNXPwerQF,Too Much Change - Kas:st Remix,Moby,proghouse_melodic,0.0403,0.528,0.0332,448975,0.804,0.815,11,0.291,-12.693,0,0.0491,123.012,4
+476,4Np4NOxEBsYvPNBZ8W0BDu,Home,Solomun,proghouse_melodic,0.00634,0.679,0.258,221091,0.707,0.855,2,0.18,-11.453,1,0.04,120.007,4
+477,7qmj6GXCoataBL3kBYBrII,Bridges In The Sky (feat. Maurits Colijn),Colyn,proghouse_melodic,0.101,0.751,0.641,345366,0.729,0.918,11,0.113,-9.282,0,0.0389,122.988,4
+478,4O4WO1Squm4pHpm83a8KbY,Sweet Disposition - Camille Luciani Mix,The Temper Trap,proghouse_melodic,0.0274,0.664,0.251,405610,0.645,0.616,7,0.086,-10.002,1,0.0375,124.994,4
+479,6q8y9CRGqPCz4Waajo9zAS,Packard - Nora En Pure Remix,Oliver Schories,proghouse_melodic,0.107,0.651,0.28,250732,0.826,0.0738,4,0.159,-7.302,1,0.0682,122.937,4
+480,78rkJWLEiS9xLHoLTvKBMD,One Good Reason,Rezident,proghouse_melodic,0.327,0.585,0.074,246500,0.726,0.831,0,0.224,-7.798,0,0.0442,123.978,4
+481,36TrztfLB7A8Z1VMTDXD9t,Through The Silence,GNTN,proghouse_melodic,0.000419,0.751,0.202,317419,0.652,0.654,11,0.0643,-7.389,1,0.0266,124.013,4
+482,0oJWCVmwFLXbzbRy15PseD,Flammes - Patrice Bäumel Rave Remix,Nico Morano,proghouse_melodic,0.00154,0.581,0.111,230551,0.732,0.821,7,0.104,-11.232,1,0.0398,126.991,4
+483,2GRVZ0YSeiNcXeS3WJHaeC,Player - Dub Mix,Stylo,proghouse_melodic,0.00027,0.789,0.0258,380656,0.692,0.889,6,0.0927,-9.816,1,0.0599,121.981,4
+484,5b5dTSmYg69qnhPPxrccVt,Ocean Deep,Thomas Newson,proghouse_melodic,0.0275,0.624,0.178,207000,0.892,0.0379,6,0.102,-6.644,0,0.035,123.983,4
+485,06Z0ldwAbUuJKlr74lza71,Won't Be As Nice,Ali Bakgor,proghouse_melodic,0.0323,0.7,0.333,203226,0.898,0.0634,6,0.347,-6.852,0,0.0877,123.99,4
+486,4YyTSL5nlHICPyX50Gc4aZ,Glacier 3000,Teho,proghouse_melodic,0.0259,0.562,0.458,329241,0.67,0.185,5,0.052,-10.301,0,0.0374,122.014,4
+487,26IFxF3JZ5FIzjRHyCx1cw,Steady,Xinobi,proghouse_melodic,0.0139,0.611,0.223,241153,0.637,0.813,10,0.23,-9.832,0,0.0303,122.981,4
+488,0HFoDaES8xTBTzsZ9BV5ys,Tyche,Local Dialect,proghouse_melodic,0.0249,0.602,0.291,228543,0.94,0.654,5,0.306,-5.498,0,0.0393,123.006,4
+489,74llFLjM61XSoJOgcVIKRl,Arctic,Can Durmus,proghouse_melodic,0.000136,0.772,0.458,415622,0.663,0.845,1,0.0282,-10.973,0,0.0568,123.001,4
+490,3Z3KrIpINgraA2Dh9WpRMh,Signs - Extended Mix,Robotic Sounds,proghouse_melodic,0.00135,0.734,0.0381,304390,0.91,0.74,2,0.0676,-7.863,1,0.0393,123.009,4
+491,4oyLsDvZWIO8Hjf5lsQByC,Captain Magic,Deniz Kabu,proghouse_melodic,0.00709,0.766,0.0429,401053,0.609,0.881,2,0.0486,-10.253,1,0.0503,123.985,4
+492,3tQnp8Um9RRSGuk7ylhZKU,Deep in the Dark (feat. LENN V) [Fur Coat Remix],D-Nox,proghouse_melodic,0.000494,0.702,0.038,438863,0.762,0.873,8,0.112,-11.022,0,0.0435,123.022,4
+493,2CIqKcaSwhyp4hz5AjLoH7,Nika,S.ONE,proghouse_melodic,0.27,0.775,0.181,378258,0.729,0.941,6,0.11,-11.015,1,0.0426,121.999,4
+494,47VVX0TGIp4ufyOonCZk0t,Trust Me Sometime - Nick Warren & Nicolas Rada Remix,Maga,proghouse_melodic,0.00279,0.792,0.0653,476033,0.545,0.946,10,0.0891,-11.256,0,0.0573,121.003,4
+495,7ijPdgqrIsjgyzgSxGxqoj,Breath - Mathame Remix,Alessandro Martire,proghouse_melodic,0.0221,0.749,0.377,314880,0.641,0.881,1,0.108,-12.407,1,0.054,124.993,4
+496,3hADCmQbOutYxz9jpU0Nbq,Brighter,Mees Salomé,proghouse_melodic,0.0916,0.644,0.154,251675,0.841,0.838,2,0.137,-6.629,1,0.0438,123.015,4
+497,1hSPRXrO20gHxvH2smF0zE,Letter To Lillehammer,Nordfold,proghouse_melodic,0.0621,0.896,0.546,218344,0.747,0.87,4,0.0695,-8.461,0,0.0779,120.997,4
+498,3loG3CKW09AG1eOOcqvF1M,Flourish,Paradoks,proghouse_melodic,0.00065,0.714,0.284,272160,0.841,0.906,1,0.177,-7.122,1,0.0404,124.984,4
+499,5OczPhEGJ00jm8gNxAozcj,Weakness Pays,Paul Hazendonk,proghouse_melodic,0.000804,0.695,0.14,404063,0.736,0.915,4,0.0891,-10.338,0,0.0396,124.002,4
+500,6nj3CfvESZX66BDRmnfmNb,Garden Of Peace - Raphael Mader Remix,Power Circle,proghouse_melodic,0.00479,0.688,0.574,366546,0.507,0.905,10,0.599,-12.808,0,0.0459,120.002,4
+501,7zqZZFSPUL0ok88jTGmfiI,Last Breath - Revision Remix,UNDERHER,proghouse_melodic,0.00115,0.644,0.11,412308,0.802,0.821,8,0.117,-9.621,1,0.0377,117.022,4
+502,6sMGHtkmdTV4eES1MS8t6i,Spacecraft,Seawayz,proghouse_melodic,0.0845,0.577,0.0939,277073,0.974,0.814,4,0.0738,-8.651,0,0.0438,123.004,4
+503,5jsPehy5QbqPbqhTaUzL3Q,Rebirth,Tim Mason,proghouse_melodic,0.0056,0.54,0.0649,219250,0.894,0.88,6,0.222,-5.958,0,0.0364,125.017,4
+504,1PjFPRW9tBjjNUrUy7hX2T,Rapture,Moonwalk,proghouse_melodic,0.00461,0.625,0.149,269153,0.863,0.863,1,0.113,-7.195,1,0.0382,123.998,4
+505,4u79ZlDFwV11jUaiEnXar4,Ascent,Dyzen,proghouse_melodic,0.000519,0.541,0.0298,495868,0.794,0.818,11,0.0933,-8.681,0,0.0363,120.977,3
+506,5Kv1GmIgrlOfm0MKIJlwGA,Call on You,Monastetiq,proghouse_melodic,0.0236,0.643,0.0967,328293,0.694,0.618,1,0.113,-9.219,0,0.0304,122.997,4
+507,3cZI6NZ5u4rc1ISZft6oco,Overtones - PROFF Extended Mix,Frost,proghouse_melodic,0.0622,0.806,0.194,413290,0.683,0.882,1,0.0575,-4.788,0,0.0565,122.004,4
+508,1lMWSzWWjwFsh0xF6IZs8b,Saturday Night - Super Flu Remix,The Pressure,proghouse_melodic,0.0023,0.683,0.421,236098,0.636,0.847,10,0.327,-12.248,0,0.0454,122.989,4
+509,4cF6Pk7YaRtv91mSZa4nVi,Say Hello,Enamour,proghouse_melodic,0.0355,0.745,0.662,207111,0.766,0.636,0,0.153,-8.688,1,0.0335,121.031,4
+510,7icXAokqxdEM8qCjnZkW9M,Nikki - Rodriguez Jr. Remix,Worakls,proghouse_melodic,0.00238,0.685,0.117,329500,0.655,0.788,2,0.125,-7.965,1,0.0354,125.98,4
+511,55GfSkMBypNyu5X4FPrKiP,Midnight Sky - Carlo Whale Remix,Jonas Saalbach,proghouse_melodic,0.0119,0.779,0.0351,409756,0.649,0.908,10,0.106,-13.673,0,0.0584,123.006,4
+512,7xZUNERKmjppBkuQTGktcJ,Stormia,Aalson,proghouse_melodic,0.000424,0.72,0.0638,369836,0.699,0.872,6,0.119,-9.406,0,0.0326,121.979,4
+513,75os5oOzHq03udSB6YA50c,Sun Is Setting,Artaria,proghouse_melodic,0.000218,0.803,0.333,462134,0.675,0.915,9,0.0932,-8.488,1,0.0594,123.987,4
+514,4XwfhoBxa7KY2boXQoka3K,Shooting Arrows - Matt Fax Remix,Lane 8,proghouse_melodic,0.0325,0.613,0.244,276464,0.814,0.592,6,0.345,-8.928,0,0.0411,124.998,4
+515,2Rczayj2tsm1Uga5uQ58Kz,Midnight (The Hanging Tree),HOSH,proghouse_melodic,0.00243,0.655,0.538,178823,0.893,0.00888,7,0.124,-5.127,1,0.0428,123.992,4
+516,0GLYowjKD3TfDWIB34EeoR,Shapes,Thysma,proghouse_melodic,0.0635,0.643,0.0764,356855,0.552,0.879,1,0.109,-11.072,0,0.0464,123.994,4
+517,1J0mAukQsBPxDJu8hVUAdM,Purple Noise - Boris Brejcha Re-Noise Edit 2021,Boris Brejcha,proghouse_melodic,0.000738,0.799,0.269,599520,0.551,0.887,5,0.103,-11.883,1,0.0453,125.0,4
+518,2tZMPODaQpDNur3NH0Fsqq,We Had It All,Marius Drescher,proghouse_melodic,0.0151,0.745,0.31,444807,0.891,0.861,9,0.0747,-7.346,1,0.0622,122.026,4
+519,7teMDlcSgsfKmJHRgqoeOL,Sharks - Jerome Isma-Ae & Alastor Remix,Several Definitions,proghouse_melodic,0.00378,0.572,0.0749,433548,0.784,0.944,2,0.0983,-10.4,1,0.0395,124.005,4
+520,4SHKrAD6nmXqyNrFds0HLL,Memories - Original Mix,Marc DePulse,proghouse_melodic,0.00797,0.786,0.0554,355304,0.556,0.339,10,0.101,-10.247,0,0.052,120.985,3
+521,1IUaqqAlqYrq4KtuPcyYaK,Etna,Hollt,proghouse_melodic,0.00839,0.617,0.263,279024,0.741,0.9,10,0.266,-10.707,0,0.0477,122.0,4
+522,39zV5zT04fDhtCECIoLWZf,Luminous,Fabrication,proghouse_melodic,0.266,0.504,0.544,368380,0.735,0.864,9,0.0958,-11.06,1,0.0726,125.989,4
+523,4nilN27xhbhhBk79LTiBAO,Same - Radio Edit,Mark Tarmonea,proghouse_melodic,0.113,0.787,0.0634,232000,0.551,0.65,7,0.109,-12.803,1,0.0469,120.014,4
+524,655pS6xOEA1Hkvk5jNPr3r,Voyage,Mode Apart,proghouse_melodic,0.0495,0.697,0.6,444939,0.751,0.861,0,0.0941,-7.575,1,0.0572,123.016,4
+525,3eoIdSJXlrWZFd5kqLhsiF,Away With Me - Fideles Remix,Ross Quinn,proghouse_melodic,0.0275,0.603,0.0561,243653,0.738,0.57,5,0.112,-9.097,1,0.0333,123.967,4
+526,73blx18BTQUbED9uxgM6ZY,Counting,Marius M.,proghouse_melodic,0.000419,0.758,0.227,490059,0.86,0.913,6,0.0708,-10.359,0,0.0422,121.999,4
+527,5ll8gP6CyxqIP7PFYXq29A,Duke - Original Mix,Marcus Meinhardt,proghouse_melodic,0.00436,0.8,0.118,418846,0.625,0.805,1,0.13,-8.374,1,0.0475,122.008,4
+528,4gOW43SsE9xheblFANVgrQ,Feel - Oliver Winters Remix,Strinner,proghouse_melodic,0.00682,0.558,0.0601,444878,0.68,0.874,2,0.113,-9.356,1,0.0331,122.992,4
+529,7zfLw3666bWjW8UXaqEagM,Frozen,Blindsmyth,proghouse_melodic,0.0571,0.71,0.129,492786,0.472,0.692,9,0.0869,-10.527,0,0.0339,118.002,4
+530,7fY7uNpeE0Ltj4bRjbC6fe,Autumn's Feathers - Jody Wisternoff & James Grant Remix,Jani R,proghouse_melodic,0.0289,0.666,0.0648,250726,0.63,0.806,5,0.0987,-9.729,0,0.0317,120.001,4
+531,6ykSEXVvNST0JMcoNL8DWY,Re,pølaroit,proghouse_melodic,0.216,0.565,0.133,258750,0.454,0.84,7,0.1,-14.186,1,0.0382,90.02,4
+532,2pOaeeEj3eSRMMLlftPNHX,Last Day - David August Revision,Kollektiv Turmstrasse,proghouse_melodic,0.281,0.674,0.398,404819,0.496,0.929,10,0.11,-14.709,0,0.0357,112.011,4
+533,3raHDUUmdal44zD9BR4Z7N,Echos of Eons - Greenage Remix,K Loveski,proghouse_melodic,0.000506,0.776,0.486,417217,0.765,0.872,2,0.0568,-9.977,1,0.0529,121.981,4
+534,6gYJP2damgDno9Txkd6Pi5,The Fall,Guy J,proghouse_melodic,3.46e-05,0.742,0.441,566000,0.823,0.919,1,0.0674,-9.028,1,0.0486,120.013,4
+535,6eaAGJvzagZCOYVjBDQrJb,Buenos Aires,Nick Warren,proghouse_melodic,0.00117,0.677,0.191,457811,0.73,0.876,11,0.107,-9.005,0,0.0482,125.991,4
+536,5OczPhEGJ00jm8gNxAozcj,Weakness Pays,Paul Hazendonk,proghouse_melodic,0.000804,0.695,0.14,404063,0.736,0.915,4,0.0891,-10.338,0,0.0396,124.002,4
+537,5WGoxpT5kulWjnhIy9Ito8,Some Little Secrets - Original mix,Khen,proghouse_melodic,0.0401,0.812,0.274,444644,0.899,0.876,7,0.0786,-10.437,1,0.0681,121.996,4
+538,7A7ppaO29bWgblc91R2wfB,Dew,Kamilo Sanclemente,proghouse_melodic,0.000104,0.747,0.37,430882,0.787,0.93,8,0.0965,-8.434,0,0.052,121.007,4
+539,5lLRixqsqN9E0zZaubHQBW,Lexion - Ezequiel Arias Remix,Artfaq,proghouse_melodic,0.00311,0.807,0.176,570000,0.671,0.924,1,0.0716,-10.939,1,0.0594,121.999,4
+540,7tj8BiT5B8vPjOExexs6Zf,Player,Stylo,proghouse_melodic,0.000111,0.789,0.028,380656,0.684,0.862,11,0.0912,-10.096,1,0.0525,121.995,4
+541,6TwCRM02zHLhlpeQGXlLOg,Polaris,MeMachine,proghouse_melodic,0.15,0.688,0.0526,384000,0.595,0.898,1,0.0984,-11.182,1,0.0489,120.0,4
+542,1fXDl6IT2iZAg03lwU4vnl,Lost Planet - Juan Deminicis Remix,Pedro Sanmartin,proghouse_melodic,0.00086,0.784,0.817,448004,0.658,0.908,2,0.201,-8.046,0,0.0717,120.007,4
+543,6vWWgbPbBr6yU0V56wi1Fh,Escape - Original Mix,Ivan Berkowitz,proghouse_melodic,0.0362,0.731,0.153,448645,0.704,0.866,7,0.109,-9.273,1,0.0455,119.992,4
+544,0Tonm5UaMayQoyt9TYsYlu,Evoo,David Di Sabato,proghouse_melodic,0.0993,0.69,0.194,390362,0.833,0.841,2,0.116,-10.499,1,0.0511,121.979,4
+545,4qWrLTUxrHqiLkAmX8RDvw,Legacy - Original Mix,Julien Vertigo,proghouse_melodic,0.0795,0.546,0.0468,464262,0.559,0.87,1,0.11,-11.979,0,0.0663,122.019,4
+546,0SHty9krGWAdnDQxIdlzII,Greece 2000,Junior Rush,proghouse_melodic,0.00027,0.624,0.109,410194,0.814,0.656,8,0.0734,-8.437,1,0.0388,124.005,4
+547,0RjtDPnEerO2eF9FWJXPHn,Hope,Innervoix,proghouse_melodic,0.122,0.74,0.0785,452903,0.874,0.881,1,0.105,-9.729,1,0.0469,124.008,4
+548,1ODetWMEyVSaWryCyYd4Dw,Tenaya,David Di Sabato,proghouse_melodic,0.0439,0.768,0.366,500323,0.654,0.856,5,0.111,-14.748,0,0.0506,123.991,4
+549,4Vr5CKH5OPUNqvId3PnUJT,Could You Try,Alex Rymarz,proghouse_melodic,0.167,0.91,0.427,343706,0.715,0.84,3,0.145,-8.09,0,0.207,123.991,4
+550,0NVaocjFdTpEtvbQjRLzzr,Symmetrie - Simos Tagias Remix,Nicolas Benedetti,proghouse_melodic,0.0156,0.73,0.0658,479804,0.939,0.894,2,0.0618,-5.686,0,0.0448,122.008,4
+551,367qJ4oaYUpp0WuxubKEkp,Stranded,Alex O'Rion,proghouse_melodic,0.000698,0.63,0.343,470500,0.972,0.895,5,0.513,-8.616,1,0.0388,120.011,4
+552,3c2uM9CKWj0wS5cri6JRxO,Aardwolf,Audiogenics (UK),proghouse_melodic,0.0118,0.734,0.267,444590,0.954,0.54,6,0.131,-6.732,0,0.0557,122.021,4
+553,0fzsMh6uGsW3k8hZCOPidw,High Priestess - Original Mix,The Yard Woman,proghouse_melodic,0.00516,0.684,0.11,380488,0.693,0.859,7,0.0936,-9.379,1,0.0453,123.002,4
+554,4ke48RhDt1zRAldskhicfa,Jupiter - Original Mix,The Yard Woman,proghouse_melodic,0.00087,0.684,0.352,379357,0.653,0.775,1,0.12,-8.145,0,0.0564,123.98,4
+555,6iEtsXEidgpbcKeCSlPR52,CC147,Audiogenics (UK),proghouse_melodic,0.00922,0.713,0.351,444062,0.921,0.824,3,0.157,-6.962,1,0.0789,122.006,4
+556,0ThPAtLfX0NbibIrEfWFHi,Out Of Reach,Cristoph,proghouse_melodic,0.00102,0.504,0.0317,255992,0.762,0.701,10,0.128,-7.861,0,0.036,123.968,4
+557,5n3gzOcX2VI8pJ9O1JbEWU,Mara - GMJ & Matter Intro Mix,Pole Folder,proghouse_melodic,0.00989,0.668,0.203,498000,0.66,0.866,4,0.11,-10.503,0,0.034,120.005,4
+558,1fpMAIk8xeKnE8RM5UDitB,Mad as Hell - Original Mix,Stan Kolev,proghouse_melodic,0.00406,0.782,0.42,456307,0.479,0.211,1,0.0681,-9.143,1,0.0751,122.978,4
+559,3TtQ0Sy9tu3DnyXoO2Ik66,Reaching The Edge - Extended Mix,Max Freegrant,proghouse_melodic,0.000182,0.652,0.295,449016,0.863,0.831,7,0.109,-8.71,1,0.0408,121.997,4
+560,1sAEpDStinKVXomvMppEjW,At An End - GMJ & Matter Remix,Browncoat,proghouse_melodic,0.0189,0.661,0.773,224132,0.884,0.83,5,0.0661,-8.601,0,0.0496,121.006,4
+561,58Zh9bnli2jHPgjSmnGzXL,Tahiche - Morttagua Remix,Integral Bread,proghouse_melodic,0.0277,0.628,0.314,449032,0.836,0.898,1,0.112,-10.374,1,0.0424,123.983,4
+562,0ODyvj5uEbtcy0KWBwGyMe,Arepo - John Cosani Remix,Anton MAKe,proghouse_melodic,0.012,0.811,0.258,537500,0.676,0.876,7,0.0742,-10.104,1,0.0577,120.007,4
+563,1MCAsWTbtExhPTtABhyt8R,Ethnic Kiss - Original Mix,Nōpi,proghouse_melodic,0.118,0.628,0.312,289587,0.904,0.839,11,0.117,-10.03,0,0.0464,121.007,4
+564,5E6DE1QbDP134ZcWQ4ipvL,Biocosmic Symphony - GMJ Cosmic Space Remix,Kasey Taylor,proghouse_melodic,0.000138,0.733,0.614,576806,0.881,0.9,10,0.0607,-9.308,0,0.0441,120.991,4
+565,5em0cbuj40ilfXNQ3nUCEa,Mirage - Weird Sounding Dude Remix,Sergey Muzarks,proghouse_melodic,0.00903,0.738,0.355,452063,0.901,0.781,0,0.0691,-6.744,0,0.0461,120.002,4
+566,25px3MPqeNUHj7zyMslShg,Zodiac,Santo Adriano,proghouse_melodic,0.000296,0.762,0.52,511542,0.938,0.921,9,0.0829,-6.266,0,0.0445,121.996,4
+567,4xyHBt7gy03TlrB9p4ORL4,Bare Feat - Nick Warren & Nicolas Rada Extended Remix,David Hohme,proghouse_melodic,5.01e-05,0.749,0.26,520000,0.668,0.914,11,0.68,-10.822,1,0.049,120.002,4
+568,69cMjGMbtk655GM1MwlSt1,Ride the Storm - Nick Warren & Nicolas Rada Remix,Makanan,proghouse_melodic,0.000199,0.802,0.507,500000,0.754,0.912,9,0.083,-8.838,1,0.0582,123.013,4
+569,6SsW472pN1t0l7QL0iZBXk,Dunes at Dawn,Sebastian Sellares,proghouse_melodic,0.000677,0.687,0.218,476066,0.727,0.89,9,0.073,-9.396,1,0.0407,122.003,4
+570,4i6Ie1GmvdFCJsbkqaa4Vp,Karma - Paul Deep Remix,Jorgio Kioris,proghouse_melodic,0.0521,0.809,0.196,452969,0.834,0.779,4,0.0528,-7.901,0,0.0655,122.001,4
+571,5FEhDdhzjTqmVw4U5x55PW,Valencia,Oliver & Tom,proghouse_melodic,0.00644,0.765,0.115,515806,0.751,0.86,0,0.0427,-8.667,1,0.0373,119.996,4
+572,6c9Ia5lwuZ8LphCoRXtt8x,Voice of the Soul - EMPHI Remix,Shade Audio,proghouse_melodic,0.0114,0.807,0.22,443000,0.896,0.872,1,0.0443,-8.976,1,0.0703,122.004,4
+573,5VjeaqCEYWmdGrNj4GQrWu,Winds of Change,Dmitry Molosh,proghouse_melodic,0.00645,0.807,0.499,452000,0.816,0.839,1,0.0553,-8.216,1,0.073,120.008,4
+574,64GTQsWnAh3t1ZDKoMQVvi,Ledokol - GMJ & Matter Remix,Forty Cats,proghouse_melodic,0.00713,0.7,0.0716,523636,0.801,0.826,2,0.143,-10.41,1,0.0434,121.005,4
+575,0UV7NQA3a0rzR3Tv63vpTI,The End Comes After Me,Leonel Camp,proghouse_melodic,0.00712,0.743,0.808,437500,0.777,0.916,2,0.0883,-8.685,1,0.0771,120.004,3
+576,71H2pkQtVCytJwH0k5jWFA,Havana - André Moret Remix,Arnold T.,proghouse_melodic,9.88e-05,0.807,0.514,528000,0.914,0.923,11,0.106,-7.153,1,0.051,120.001,4
+577,1z4zRGtmvbIPR3PdLrMxIZ,Un Ave - Teiao Remix,Diego Marchionatti,proghouse_melodic,0.00514,0.712,0.261,576400,0.909,0.877,10,0.0934,-9.764,0,0.0413,123.027,4
+578,0OHZIvTeThb6exB7M8XJSh,Long Gone,David Di Sabato,proghouse_melodic,0.000549,0.734,0.781,427494,0.76,0.773,9,0.0979,-11.351,0,0.0984,123.006,4
+579,5Ukk5Ew6l2UsrBaOiAle0C,The First Ray of Sun - Original Mix,Dmitry Molosh,proghouse_melodic,8.01e-05,0.774,0.2,531570,0.812,0.891,10,0.189,-8.932,0,0.0567,121.002,4
+580,3AtICoi5hU5k3WqrEg9Ip1,Echium,Alex O'Rion,proghouse_melodic,0.00164,0.712,0.242,468250,0.867,0.88,10,0.054,-9.093,1,0.0426,120.017,4
+581,0Xuc0EdbsJhXxTypj59qm6,Perth Fly - Original Mix,Artfaq,proghouse_melodic,0.000555,0.808,0.25,422000,0.664,0.92,8,0.0731,-10.447,0,0.0437,125.0,4
+582,6NuKLSrY1RcDH8omxzj4dm,The Moon,Nohan,proghouse_melodic,0.0924,0.793,0.634,448525,0.792,0.765,7,0.249,-8.036,1,0.0491,122.016,4
+583,3nEisQkCbCRaUXCyPCD3MY,Orfeo - EMPHI Remix,Oliver & Tom,proghouse_melodic,0.0593,0.718,0.138,428852,0.786,0.922,10,0.0894,-8.615,0,0.039,122.01,4
+584,3AsjriH9Hr0O9WHX9YQv4E,Another Long Day,Kamilo Sanclemente,proghouse_melodic,0.143,0.805,0.473,269876,0.798,0.616,11,0.0787,-8.056,0,0.0615,121.017,4
+585,0xQdfh1Dyrwy3VWGRdHgjn,The Balconist - Pavel Petrov Remix,Dimi Mechero,proghouse_melodic,0.00122,0.786,0.311,410610,0.865,0.854,1,0.655,-6.127,1,0.0557,123.034,4
+586,2P2aPnBtZkKS2zF6qPtngV,Peak Machine,Michael Ritter,proghouse_melodic,1.82e-05,0.727,0.36,465732,0.876,0.897,7,0.113,-7.544,1,0.0645,124.001,4
+587,70aAuqSJZG7GPkLrjYYlhh,Satori - Instrumental Mix,Analog Jungs,proghouse_melodic,0.022,0.639,0.0377,532000,0.86,0.902,0,0.0681,-10.194,0,0.0416,119.991,4
+588,4NTqxPis9x9S9fkjjlwP5N,Dead Eyes Opened,Nick Warren,proghouse_melodic,0.00379,0.76,0.906,239823,0.754,0.845,10,0.0786,-12.308,0,0.0562,122.002,4
+589,6MK73LNVGalmbIwT2XZNlI,Ignition - Extended Mix,Q.U.A.K.E.,proghouse_melodic,0.00353,0.736,0.041,421463,0.83,0.927,4,0.219,-9.035,1,0.043,123.019,4
+590,4WC8qLr0L6Wxoec0pBcSiT,Lexion - Original Mix,Artfaq,proghouse_melodic,0.000485,0.807,0.431,492000,0.673,0.883,1,0.0818,-9.075,1,0.0682,123.005,4
+591,2olqGNxHHuVwEkMdINlVEg,Arepo - Dowden Remix,Anton MAKe,proghouse_melodic,0.000126,0.755,0.0895,476033,0.848,0.846,7,0.0625,-8.854,1,0.0442,121.002,4
+592,770zzJRmEN0sudaxuD7GkB,Fading,ARTBAT,proghouse_melodic,0.0924,0.615,0.0543,487869,0.655,0.8,7,0.144,-9.968,0,0.0412,122.002,4
+593,0qfHlMfaKokKyu9tYSz1wC,Keep On - Original Mix,Frømme,proghouse_melodic,0.0323,0.768,0.128,531570,0.781,0.902,10,0.583,-10.173,0,0.0375,121.016,4
+594,1LVPMnPhceM1utCSiuqWYr,Mirianna - EMPHI Remix,Lucas Martinez,proghouse_melodic,0.158,0.803,0.278,430820,0.564,0.881,0,0.0583,-15.644,1,0.0591,122.002,4
+595,6W9ZPdsIzcJnex6HQxxmaQ,The Great Escape,Volen Sentir,proghouse_melodic,0.00204,0.792,0.464,539016,0.728,0.878,10,0.0555,-7.693,1,0.0518,122.001,4
+596,4EFtHadqYwhjTYjQN5gTkA,Pair of Dice,EMPHI,proghouse_melodic,0.00392,0.769,0.225,416529,0.626,0.857,7,0.056,-9.563,1,0.0571,121.003,4
+597,3rws6LMNwghZxxpIuUZWKk,Mime,Oliver & Tom,proghouse_melodic,7.24e-05,0.805,0.117,512903,0.71,0.9,4,0.0924,-8.482,0,0.0593,121.995,4
+598,1RZsJersgItGVEYHTA0gpX,Asiri - Nick Warren & Nicolas Rada Remix,Joep Mencke,proghouse_melodic,0.000209,0.768,0.786,537049,0.954,0.857,11,0.0889,-8.39,0,0.0436,122.008,4
+599,0REQLW1dykX9gUrhwlnABt,Gods Gift - Replicanth Aztech Remix,CANCCI,proghouse_melodic,0.000421,0.796,0.391,438689,0.967,0.882,1,0.0836,-6.554,0,0.0865,124.008,4
+600,6j2j6URdgNQgaNumiWfKMP,Slope - Paul Deep (AR) Remix,Nikko.Z,proghouse_melodic,0.025,0.781,0.412,493178,0.76,0.861,10,0.0827,-8.312,0,0.0461,120.0,4
+601,4CbCJ4HctM0UEIsW9ySy7u,My Last Hope,Mike Griego,proghouse_melodic,0.00119,0.747,0.348,572903,0.842,0.859,4,0.0415,-6.757,0,0.0569,123.994,4
+602,3OgjaEiOZ9VZZcfJOeiJEF,Awakening,Matik (AR),proghouse_melodic,0.00219,0.693,0.153,486485,0.879,0.909,6,0.504,-7.514,1,0.0393,120.007,4
+603,7gVOQhtIwZxyw0ACAKwdA5,Lonely Space - Alex O'Rion Remix,Kamilo Sanclemente,proghouse_melodic,0.00548,0.737,0.584,484015,0.856,0.939,11,0.0469,-7.877,0,0.0769,119.999,4
+604,0KeQaNivHFdVZQftHHjgXV,Ascent,Kamilo Sanclemente,proghouse_melodic,0.000327,0.793,0.106,496937,0.842,0.909,7,0.0595,-7.704,1,0.0633,121.005,4
+605,6iuW3TfMShUo5FTi6NNsRC,Baharat,Jerome Isma-Ae,proghouse_melodic,0.0418,0.733,0.118,241967,0.747,0.905,10,0.0695,-7.857,0,0.0525,121.968,4
+606,4lB61wvtn0gAtKKhP7mcfo,Gave U My Love - Mike Saint-Jules Extended Mix,Tomas Heredia,proghouse_melodic,0.000247,0.682,0.411,468005,0.902,0.872,11,0.091,-5.429,1,0.0437,125.0,4
+607,5tvplkEoO5VIRv8pzOFUOg,Aerology - Andrea Cassino Remix,Kamilo Sanclemente,proghouse_melodic,0.00137,0.744,0.0376,504000,0.829,0.88,5,0.0862,-9.722,1,0.0515,120.004,4
+608,5XQ7xe7wZ4K391mEtRpFvO,Euphoria,Simos Tagias,proghouse_melodic,0.00156,0.64,0.152,483967,0.808,0.873,2,0.0867,-9.433,1,0.0339,122.006,4
+609,4FxOAejayw1OviaHJDtUNH,Algorithm,Julian Nates,proghouse_melodic,0.0667,0.73,0.126,418512,0.847,0.739,7,0.0939,-8.574,1,0.0615,121.001,4
+610,2Yui0Hi9wDmhkUZzB739VF,Story Of Tokay,Budakid,proghouse_melodic,0.000866,0.794,0.218,391795,0.824,0.888,1,0.0378,-9.954,0,0.0421,117.017,4
+611,2iObBy9oeSSjwlXRZr0W5U,This is Love,Nick Warren,proghouse_melodic,0.00261,0.797,0.255,236541,0.904,0.779,6,0.0573,-6.941,0,0.0422,123.011,4
+612,0LCcUrEowlAdABQp915l8t,Empire - Original Mix,Stan Kolev,proghouse_melodic,1.4e-05,0.801,0.124,439449,0.751,0.887,4,0.0915,-10.403,0,0.054,123.011,4
+613,430OCAzq6SczfFNOLCElyg,On My Mind - Kamilo Sanclemente Remix,Pakolive,proghouse_melodic,0.000326,0.74,0.0792,477995,0.652,0.806,7,0.107,-9.555,1,0.0618,121.999,4
+614,4gVgW5a6W7mdrZtKj6TT9E,On The Beach - Kryder Extended Remix,York,proghouse_melodic,0.00183,0.685,0.377,342192,0.75,0.868,1,0.134,-7.598,1,0.0405,123.99,4
+615,57RJpWqstneW8wVAgJZhAe,Overthinking,Mariano Favre,proghouse_melodic,0.0061,0.78,0.634,511573,0.875,0.844,7,0.0552,-8.417,1,0.0612,121.995,4
+616,6IBxV2uTIibFVG9MgFxaJL,Aroma,Roy Rosenfeld,proghouse_melodic,0.0278,0.733,0.169,482483,0.918,0.847,0,0.0824,-9.079,1,0.0405,119.993,4
+617,5MA8smeOStX42TK8OILPSF,Combat,EMPHI,proghouse_melodic,0.00358,0.723,0.0922,460500,0.808,0.944,4,0.102,-11.302,0,0.0469,121.994,4
+618,4mEJqEVRRtH3u162ulh7KR,Destiny - Paul Deep (AR) Remix,Marcelo Vasami,proghouse_melodic,0.00725,0.791,0.261,538625,0.906,0.805,2,0.0931,-9.403,1,0.0406,122.001,4
+619,4koOH7QXd7FG7B0EqIDNrE,The Space Girl,Max Freegrant,proghouse_melodic,0.000145,0.659,0.243,423443,0.907,0.809,10,0.0909,-7.106,0,0.0485,122.0,4
+620,6yFznCToOmluiQumhfCPzH,Solar - Extended Mix,Ezequiel Arias,proghouse_melodic,0.203,0.795,0.0501,520976,0.511,0.934,6,0.0758,-12.143,1,0.0504,122.999,4
+621,0Rbh9wquA6Vfbnz0wIF7jp,White Moon - Alex O'Rion Remix,Antrim,proghouse_melodic,0.00128,0.583,0.819,487000,0.96,0.911,9,0.228,-7.748,0,0.0649,119.999,4
+622,3HZk8QrYVC5arzjzYbjgTs,Beskar - Extended Mix,Fuenka,proghouse_melodic,0.000915,0.672,0.0447,436466,0.619,0.892,7,0.0799,-11.338,1,0.0554,124.004,4
+623,2UBCa5xHaFePSruniI7yYi,When Midnight Comes - Alex O'Rion Remix,RIGOONI,proghouse_melodic,0.00153,0.766,0.521,521000,0.877,0.863,1,0.64,-7.877,1,0.0501,120.0,4
+624,2hrKy3nIDLMmDapPri23Nb,Hikikomori,Matter,proghouse_melodic,4.72e-05,0.711,0.246,424463,0.699,0.873,4,0.0569,-7.416,0,0.0492,121.003,4
+625,0fIYFYeG3HqYOUDe9b74rx,Embarkment,Weird Sounding Dude,proghouse_melodic,0.00186,0.803,0.206,478125,0.944,0.817,2,0.0801,-7.334,1,0.0439,120.994,4
+626,331qLLWyKThtulfOgmvsuN,Wormhole,Matter,proghouse_melodic,0.0104,0.659,0.366,462000,0.909,0.934,1,0.191,-8.548,1,0.043,120.001,4
+627,38bzugUfPHnfHPDT5evUO1,Dusky Moorish,Teklix,proghouse_melodic,0.00974,0.736,0.522,365000,0.793,0.685,0,0.0873,-8.034,1,0.0547,122.956,4
+628,4e0ZHqhmm9KYooF93W4E26,Guardians - Subandrio & Nishan Lee Remix,EANP,proghouse_melodic,0.0036,0.791,0.467,481212,0.946,0.856,7,0.124,-6.353,1,0.0697,122.005,4
+629,72JN9ILeMWalrRuXGEwTsL,Nifty Fifty - Analog Jungs Remix,Francesco Pico,proghouse_melodic,0.00258,0.792,0.245,456000,0.864,0.788,7,0.163,-10.304,1,0.0956,121.011,4
+630,0Sic1yyECZohqdSUKK6qci,Crystal Skulls,Teklix,proghouse_melodic,0.0064,0.711,0.391,420546,0.733,0.716,2,0.0635,-7.99,1,0.0501,121.016,4
+631,4e8Mi7ycSu9a8EvtkoHVfa,Fire Drop,Ivan Aliaga,proghouse_melodic,0.00115,0.803,0.197,448525,0.849,0.86,6,0.0534,-9.169,1,0.0491,121.989,4
+632,5iNxTuGZOsgYmGTZsNafwS,The Bear - Paul Hamilton & DJ Ruby Remix,Geronimo Eguiguren,proghouse_melodic,0.000583,0.617,0.0646,448586,0.968,0.935,2,0.0529,-7.193,1,0.0335,122.021,4
+633,5ZqWdgiIgKF0xxLjjUAg9y,The Bear - D.J. MacIntyre & Juan Ibanez Remix,Geronimo Eguiguren,proghouse_melodic,0.000309,0.772,0.066,467063,0.982,0.846,8,0.0625,-7.376,1,0.0408,119.994,4
+634,4j9tXYPdyi6vhb1kuhrd2f,Urania - Alex O'Rion Remix,Kamilo Sanclemente,proghouse_melodic,0.000874,0.729,0.365,520250,0.777,0.88,1,0.154,-6.928,1,0.0449,119.999,4
+635,1bT69OSqmIj43HLInotNbn,Citadel,Cid Inc.,proghouse_melodic,0.000106,0.724,0.0393,474146,0.748,0.902,6,0.055,-8.359,0,0.0464,122.999,4
+636,2AOV3sWHNQJaVIRDiGhcbU,With You - Original Mix,Alex O'Rion,proghouse_melodic,0.00149,0.775,0.782,474000,0.911,0.924,6,0.0743,-9.477,0,0.0532,120.0,4
+637,15JLPJYZObUHTZLqkL7Ok3,Disorder,Juan Deminicis,proghouse_melodic,0.00402,0.811,0.417,448525,0.512,0.927,0,0.11,-11.923,1,0.0614,122.012,4
+638,118tIoFMeZxGaFAgZLdqDG,Forest Moon - Dmitry Molosh Remix,Quivver,proghouse_melodic,0.00134,0.783,0.821,418500,0.959,0.863,10,0.0329,-8.714,0,0.0828,120.983,4
+639,3a6etuntvS3mNJjqGnqAGk,Bitter Rain - Cid Inc. Remix,D-Nox,proghouse_melodic,0.000524,0.806,0.18,438888,0.857,0.904,7,0.0381,-7.733,1,0.0508,123.011,4
+640,2qTDSQNh1qTTAHI7iTLrfp,Mystic Sea - Imran Khan Remix,GMJ,proghouse_melodic,0.000121,0.71,0.496,555372,0.884,0.948,9,0.0341,-7.469,1,0.041,120.994,4
+641,63Jagm02fXegBe55A7zIk7,Anemona - Deep Mix,Paul Deep (AR),proghouse_melodic,0.00774,0.869,0.34,430000,0.52,0.906,9,0.0429,-8.589,0,0.0641,119.998,4
+642,1FEdcvYRK4ZLeY7Dqwch03,Turquoise,Juan Sapia,proghouse_melodic,0.00646,0.646,0.168,511475,0.79,0.779,9,0.0782,-9.168,1,0.0453,122.0,4
+643,25Jqf2fvcUeWIlr6hBDZZA,Alkima - Juan Sapia Remix,Abity,proghouse_melodic,0.0718,0.725,0.0633,483991,0.902,0.809,1,0.206,-7.404,0,0.039,120.994,4
+644,2PiccUnZ1nTaPI9O86Z76a,Kigelia,Elfenberg,proghouse_melodic,0.231,0.783,0.336,412172,0.718,0.822,2,0.068,-12.023,1,0.0605,122.021,4
+645,2H3iXZxWQrA54b6eRK0Qx7,L'Amour - Alex O'Rion Remix,Galestian,proghouse_melodic,0.000119,0.775,0.414,454920,0.943,0.943,7,0.197,-6.854,1,0.0456,119.99,4
+646,1ErT9GNBEeLf2l43E6QkCN,Solaris - Cid Inc. Remix,Mike Griego,proghouse_melodic,1.49e-05,0.755,0.539,456585,0.807,0.925,10,0.106,-9.064,0,0.0853,123.007,3
+647,65opvHvnsF5hKwDRgu8Nza,Envision - Subandrio Remix,Nach,proghouse_melodic,0.00182,0.745,0.66,513989,0.87,0.84,10,0.28,-9.406,1,0.0695,121.991,3
+648,0XcADHnJUq3qtfK3C5kDf9,Purple,EANP,proghouse_melodic,0.000112,0.715,0.0735,512309,0.702,0.897,7,0.0707,-7.375,1,0.0406,121.992,4
+649,7bkz24EgtbLclIxfj32r5k,Grey Gardens - Leo Perez & Dhany G Remix,D.J. MacIntyre,proghouse_melodic,0.0535,0.806,0.535,547131,0.931,0.827,8,0.112,-7.652,0,0.0457,122.006,4
+650,2iuUOwKC1HHrnhLg37AYw9,White Rain - Dmitry Molosh Remix,Adrian Roman,proghouse_melodic,0.00589,0.782,0.0823,477407,0.732,0.819,7,0.0413,-9.432,1,0.0512,121.002,4
+651,4esAis36Wl3A43jgA218qm,White Rain - Simos Tagias Remix,Adrian Roman,proghouse_melodic,5.61e-05,0.803,0.0385,450809,0.927,0.848,7,0.0728,-7.919,1,0.0437,124.006,4
+652,4Bymecse0ENhPCHwJPM4xg,Once in a Blue Moon - Flowers on Monday Remix,Nils Hoffmann,proghouse_melodic,0.00271,0.655,0.609,389994,0.775,0.853,10,0.136,-9.142,0,0.0357,121.008,4
+653,0bU7RBZ1tkm8XXZzDrdsMC,Need You Now - Adriatique Remix,Howling,proghouse_melodic,0.00262,0.676,0.421,380864,0.604,0.8,5,0.106,-7.078,0,0.0443,123.006,3
+654,6D7zN6AyCPktLh8w4WqHRu,Elision - Original Mix,Dmitry Molosh,proghouse_melodic,0.0377,0.786,0.5,464000,0.939,0.909,4,0.108,-7.512,1,0.055,121.006,4
+655,377ZnkFs7hlAGSD4JYq5Qw,Parallel Words - GMJ & Matter Remix,Nōpi,proghouse_melodic,0.0291,0.66,0.682,454215,0.846,0.911,8,0.73,-8.75,1,0.0443,121.008,4
+656,1ejk7Wi2UnIlReGfkAUXkA,Canis - Morttagua Remix,Dabeat,proghouse_melodic,0.000757,0.664,0.0702,487742,0.863,0.767,7,0.112,-9.118,1,0.0391,123.988,4
+657,0YjH1mMJ0Ijbmz0viLHkc4,Platurno - GMJ Remix,Oliver & Tom,proghouse_melodic,0.000405,0.804,0.64,474098,0.761,0.938,10,0.069,-10.256,0,0.0602,121.999,4
+658,0Y0ojDxvToKl9H2WEuXr2V,All the Lovely Things - Juan Ibañez Remix,AstroPilot,proghouse_melodic,0.00105,0.779,0.037,443643,0.731,0.848,7,0.0935,-9.739,1,0.0477,121.993,4
+659,0ah9i2AperPFT1fkkTIME1,Cordoba,Sebastian Sellares,proghouse_melodic,0.000693,0.776,0.216,532817,0.627,0.925,11,0.104,-12.265,0,0.073,122.995,4
+660,7MjHMjfOEaclIFyx7AgwCf,Lost In Mind - Volen Sentir Extended Vision,Ben Böhmer,proghouse_melodic,0.00444,0.789,0.413,433548,0.748,0.811,10,0.0751,-7.552,0,0.0481,124.01,4
+661,5P1odkficYgpg93pqRnCjC,Metropolis - Original Mix,Simply City,proghouse_melodic,2.36e-05,0.793,0.153,428000,0.827,0.922,10,0.108,-8.394,0,0.0444,121.999,4
+662,3fHWRD98y8tXuOHHT9j10N,Alive is the Meaning - Tripswitch Remix,Luka Sambe,proghouse_melodic,0.00461,0.705,0.402,520250,0.733,0.886,7,0.144,-11.158,1,0.0482,120.002,4
+663,2KLStyJVCZe8Z18O2PbUYK,Scenic Drive,Dustin Husain,proghouse_melodic,0.0513,0.696,0.153,411481,0.879,0.906,6,0.446,-9.144,1,0.0394,126.005,4
+664,5WlEQPhktCtYWXwQXG04Ut,Same Light - Hernan Cattaneo & Martin Garcia Remix,Maaruo,proghouse_melodic,0.0532,0.621,0.092,437325,0.751,0.826,4,0.086,-13.308,0,0.0396,123.009,4
+665,5TbgqaeAlYNCjrPtl566vI,Flying Paper Planes - Rick Pier O'Neil Remix,Airwave,proghouse_melodic,0.0204,0.701,0.526,478525,0.794,0.893,10,0.105,-9.487,0,0.056,121.99,4
+666,7LC3pT4WoFXFZwmDM8f3R9,My Life Rules - GMJ Remix,Kandar,proghouse_melodic,0.00076,0.812,0.573,509752,0.713,0.821,11,0.0387,-9.045,0,0.0737,121.003,4
+667,1Nn0Zi3uUKzjUsBJ9j1spv,Losing Part of Me - Dmitry Molosh Remix,Andrea Cassino,proghouse_melodic,0.0303,0.798,0.595,515265,0.77,0.838,10,0.0824,-10.089,0,0.0535,121.004,4
+668,07Oabgn4GgehhQimQqTTvy,Summer Coffee - Adelphos Remix,Lila Rose (AR),proghouse_melodic,2.89e-05,0.649,0.0563,522000,0.876,0.765,0,0.365,-10.095,0,0.0382,120.006,4
+669,6DnbTlnmNi3gIYMZVxdt1g,Sumeria,Mike Isai,proghouse_melodic,0.000217,0.696,0.0371,468250,0.886,0.866,7,0.0959,-6.714,1,0.0541,119.994,4
+670,4F9FUWmTfz0hjO4xZmFkrP,Stellar,Audiojack,proghouse_melodic,0.000271,0.799,0.355,372054,0.835,0.881,10,0.0293,-9.344,0,0.0599,124.992,4
+671,2pbukHWczk0TMlzRzHSaXO,Midnight Train,Max Freegrant,proghouse_melodic,0.00062,0.637,0.0387,420488,0.835,0.87,0,0.652,-9.39,1,0.0375,123.001,4
+672,75CtbZgaL842db6V7kYCrf,Loco Hermoso - Hernan Cattaneo & Mariano Mellino Remix,Dave Seaman,proghouse_melodic,0.000388,0.789,0.157,458361,0.952,0.81,11,0.104,-8.66,0,0.0566,122.01,4
+673,6IbpYsJagTxSKymGc0JAO9,Sand Waves - Newman (I Love) Extended Remix,Max & Nim,proghouse_melodic,0.00197,0.791,0.0935,468443,0.976,0.904,2,0.0677,-8.531,1,0.0399,123.013,4
+674,7hCDmAWLSWpdGbJ4yNoACt,Edge - Alex O'rion Remix,Dmitry Molosh,proghouse_melodic,0.0183,0.655,0.331,519550,0.892,0.924,10,0.0957,-9.236,1,0.0523,120.008,4
+675,6f57yJKQNbRGU8a4xuF0Jm,Tiger - Taglo Extended Remix,Jerome Isma-Ae,proghouse_melodic,1.29e-05,0.592,0.137,405353,0.706,0.951,5,0.0779,-8.436,0,0.051,124.012,4
+676,5JA4QeezWPzcVmJ9S1PZem,Crater - Original Mix,Simos Tagias,proghouse_melodic,0.00143,0.741,0.524,460000,0.942,0.862,4,0.0472,-10.344,0,0.0456,121.983,4
+677,4pBV0ZiXmWaV0paxvCDPKv,Life Lantern - Anton MAKe Remix,Huminal,proghouse_melodic,0.00167,0.714,0.68,458361,0.632,0.916,1,0.0655,-8.281,1,0.0617,122.01,4
+678,7BPyN55mvPvL0r39PPbXeH,Mood Medicine,GMJ,proghouse_melodic,0.00284,0.752,0.354,517686,0.9,0.891,9,0.177,-8.153,1,0.0544,121.007,4
+679,0TAjzSqAT15LGiWy54tZtG,Mirari - Night Mix,Alex O'Rion,proghouse_melodic,0.000203,0.674,0.15,484063,0.921,0.946,7,0.333,-8.798,0,0.0395,119.992,4
+680,5jQvnZLlpmSxaUNMY4Zt7t,The Rise - GMJ & Matter Remix,Simos Tagias,proghouse_melodic,0.00104,0.677,0.822,483967,0.909,0.884,0,0.0668,-7.966,1,0.0427,121.002,4
+681,72DJYvdItwcnDUzbViU1Kl,Breezeblocks - Tinlicker Extended Mix,alt-J,proghouse_melodic,0.00193,0.683,0.123,411172,0.732,0.366,5,0.0534,-7.222,1,0.0415,123.015,4
+682,0WKhnUjY8JiJ7Y7L70Lef4,Face to Face - Dabeat & Juan Pablo Torrez Remix,Fernando Olaya,proghouse_melodic,0.000256,0.75,0.268,505082,0.769,0.902,9,0.0482,-8.433,1,0.0599,121.999,4
+683,1TRkYOpsLtWpOKno4kw3j7,The Forest - Weird Sounding Dude Remix,Liam Sieker,proghouse_melodic,0.0118,0.76,0.492,414574,0.707,0.901,11,0.0843,-9.305,0,0.0543,121.006,4
+684,5OcEP7YkS9irtk895GX1VX,Tiger - Cid Inc. Extended Remix,Jerome Isma-Ae,proghouse_melodic,0.000199,0.755,0.183,424918,0.815,0.818,3,0.0616,-8.931,0,0.0444,122.003,4
+685,7A4leLhmVAFbu8JJK3zTTZ,The Unbearable Lightness of Being,Stereo Underground,proghouse_melodic,0.0234,0.779,0.806,480000,0.898,0.914,10,0.082,-7.499,0,0.0572,122.005,4
+686,1a0vcBwlphJGAqbR0oCVqq,Morning Station - Matan Caspi Remix,Lemon Blue,proghouse_melodic,0.000438,0.793,0.216,449262,0.822,0.875,3,0.0677,-7.833,0,0.047,122.005,4
+687,3BqZO3Val2Um5N3aKltpiN,Hamada - Sahar Z Remix,Hicky & Kalo,proghouse_melodic,0.00944,0.806,0.277,500656,0.852,0.859,9,0.0891,-9.717,1,0.0552,123.023,4
+688,605E1c3I31iRd6Oz0JFQo1,Elephant Dust,Clarian,proghouse_melodic,0.00293,0.734,0.201,403200,0.727,0.877,0,0.0895,-10.198,1,0.0395,125.0,4
+689,7JDJCjyyQBlPu6zxrmSktS,The Moths - Nicholas Van Orton Remix,Gux Jimenez,proghouse_melodic,0.00766,0.709,0.266,422000,0.776,0.862,11,0.303,-11.302,1,0.0474,120.003,4
+690,5BXPhgI7Vsq9fskeXiOeyl,Miles - Malandra Jr: Remix,Shamans,proghouse_melodic,0.0111,0.697,0.0372,424918,0.665,0.84,3,0.11,-12.232,0,0.0424,121.991,4
+691,6uKKHqWIG2MBkk7Jib4Z3j,Wonder Way - Kamilo Sanclemente Remix,Golan Zocher,proghouse_melodic,6.65e-05,0.808,0.133,472902,0.852,0.837,10,0.0867,-9.261,0,0.0486,122.001,4
+692,5K3Rv1b65GaGB7Bnou0Tbw,Fantastic Playground - Sebastian Busto Remix,Mariner + Domingo,proghouse_melodic,0.00756,0.781,0.731,456000,0.714,0.821,8,0.0734,-8.871,0,0.0378,121.005,4
+693,0IvNVJJuQd8RU4ogTOETEO,Jinsei,Sebastian Sellares,proghouse_melodic,4.09e-05,0.669,0.462,662037,0.942,0.815,8,0.0656,-8.47,1,0.0378,122.998,4
+694,55Cf8eiuiGr6M6Bapqknck,Lost on Origin - Imran Khan Sunset Mix,GMJ,proghouse_melodic,0.000777,0.781,0.579,448000,0.758,0.857,9,0.0482,-8.103,0,0.0442,120.02,4
+695,23g6gMM55VK6QComjf9q8e,Microclimate - Andrea Cassino Remix,GMJ,proghouse_melodic,0.00117,0.72,0.152,499835,0.8,0.818,2,0.0938,-9.825,1,0.0485,121.002,4
+696,47dbtAYsOOQ0AU5FV3h9zY,Deleted Scene - Original Mix,Nishan Lee,proghouse_melodic,0.00123,0.768,0.206,480000,0.737,0.874,4,0.0809,-9.378,0,0.0652,123.032,4
+697,2pSup1kLWxku0hcKL14WLz,December - Zankee Gulati Remix,Sebastian Busto,proghouse_melodic,0.00172,0.735,0.435,510533,0.938,0.888,2,0.111,-7.616,1,0.0394,121.993,4
+698,3hs0SPaHr0IXPkp8sERoKO,Lightbringers - Original Mix,Fenix J,proghouse_melodic,0.0223,0.693,0.0373,472131,0.568,0.873,9,0.167,-12.343,1,0.0653,121.977,4
+699,6n4BRQiYClPg36qiZj849K,December - Dmitry Molosh Remix,Sebastian Busto,proghouse_melodic,0.0346,0.808,0.103,468812,0.801,0.922,4,0.0981,-6.932,0,0.0605,121.01,4
+700,5hjLuZTDkn4hkORyw1dMHV,First Light,Marcelo Vasami,proghouse_melodic,0.0132,0.788,0.163,522000,0.954,0.918,2,0.0864,-8.748,0,0.0401,120.991,4
+701,0CdyBdcZCANbZUME7npWuB,The Space Between Us,Pete McCarthey,proghouse_melodic,0.000155,0.805,0.141,561290,0.762,0.858,1,0.103,-10.012,1,0.0594,124.004,4
+702,14VStJgvqXmizPFyvgbxR9,Last Dance,Antrim,proghouse_melodic,0.00311,0.648,0.361,472195,0.859,0.891,10,0.0824,-8.276,0,0.0433,123.005,4
+703,79nz0gEKxPQxH4rxx7lAuL,The Gopi's Song of Separation,Amir Telem,proghouse_melodic,0.13,0.624,0.083,476098,0.758,0.85,2,0.154,-9.755,1,0.0374,123.009,4
+704,2dhL84gkoYhzR2flcpmqlQ,August Morning - Matan Caspi Remix,Daniel Neuland,proghouse_melodic,0.0274,0.788,0.15,431890,0.606,0.926,7,0.687,-10.955,1,0.0531,123.015,4
+705,1nRx4EZAk3j2Gz56tDQOqH,Little Friend - Imran Khan Remix,Dmitry Molosh,proghouse_melodic,0.00205,0.802,0.148,437073,0.804,0.871,11,0.0789,-9.282,0,0.0465,122.994,4
+706,2e0ohaWNsFXNpDezBZsgJ7,Mediators - Original Mix,Berni Turletti,proghouse_melodic,0.00108,0.753,0.317,562000,0.96,0.848,11,0.649,-8.819,1,0.0509,122.997,4
+707,4RlJlPaIqYtNpg8nbT3u8G,I Wish You Were Here - Stan Kolev Remix,John Creamer,proghouse_melodic,0.0127,0.788,0.273,443049,0.487,0.408,7,0.101,-11.835,0,0.0459,123.003,4
+708,1rWmUQ5HVtoswLviuK0OwH,Consciousness Switch,Dmitry Molosh,proghouse_melodic,0.0028,0.808,0.569,539016,0.866,0.848,5,0.0731,-8.911,1,0.0774,121.99,4
+709,2gdXsGthLo8CtWhCHArcwX,Alpha - Simos Tagias Remix,Kamilo Sanclemente,proghouse_melodic,0.0264,0.663,0.348,478096,0.851,0.781,9,0.122,-7.634,0,0.0351,122.005,4
+710,4PTBCntOMjLISX0XgRuhIt,Space Donuts - Oliver & Tom Remix,Kay-D,proghouse_melodic,0.00118,0.769,0.232,456500,0.599,0.918,1,0.0868,-11.457,1,0.063,120.003,4
+711,3CWrDH0gWnpop1PNkm4kYI,Feels - Extended Mix,Boxer,proghouse_melodic,0.000461,0.674,0.222,479512,0.841,0.736,9,0.054,-9.001,1,0.0429,122.989,4
+712,1JM51Qjzd5SFbNlDtpkFn7,Universal Thoughts - Paul Hamilton Remix,jonas zstimer,proghouse_melodic,8.29e-05,0.735,0.0807,432787,0.891,0.908,8,0.221,-7.405,0,0.0402,122.001,4
+713,4JWOQSaqLjnsWS9rNSF1S4,Dark Night,Ewan Rill,proghouse_melodic,0.00119,0.769,0.367,418518,0.643,0.922,4,0.099,-7.908,0,0.0829,121.0,4
+714,2oKNuq4Up6VYswABo5VXlu,Lost In Space,Paul Hamilton,proghouse_melodic,4.96e-05,0.781,0.0684,437356,0.779,0.851,1,0.394,-6.814,1,0.0425,121.005,4
+715,05UvC6RpWXxe5sV3CgXfct,Urania - Stan Kolev Remix,Morttagua,proghouse_melodic,0.117,0.747,0.413,440529,0.819,0.89,7,0.0885,-10.284,1,0.0517,123.008,4
+716,31jGf7yh0mW8B1YaJ0inzu,Arya - Extended Mix,Sean & Dee,proghouse_melodic,0.000503,0.683,0.0397,468417,0.86,0.845,7,0.102,-7.878,1,0.0396,123.99,4
+717,7xp6X7IUmHVMrULWpJ0v3I,Ungovernable,Dmitry Molosh,proghouse_melodic,0.00027,0.769,0.154,448265,0.832,0.868,10,0.0596,-7.459,0,0.0477,121.004,4
+718,4MMT9rKXsPHpe1Gl2ve9lv,Waltz of the Dew - Subandrio Remix,André Moret,proghouse_melodic,0.000789,0.807,0.284,476000,0.727,0.829,6,0.0209,-6.212,1,0.0432,122.001,4
+719,0Z98hVVKQJ3SI4XrNgEOyt,Fade - Jerome Isma-Ae Remix,Sandeep Pai,proghouse_melodic,0.00134,0.72,0.0357,255484,0.907,0.86,7,0.0655,-8.408,1,0.052,124.005,4
+720,6WhbvKwZRhXIDk0yvkuDdA,"City Nights, City Lights - Sean & Dee Remix",Miss Monique,proghouse_melodic,0.00034,0.612,0.0381,408387,0.802,0.885,2,0.0773,-10.937,1,0.0351,124.008,4
+721,4GO2jlGCe4hV7VvpGrDKIY,Synchronicity - Ejaz Ahamed Remix,Juan Deminicis,proghouse_melodic,0.00354,0.807,0.315,476160,0.76,0.871,5,0.0465,-8.555,1,0.0505,122.001,4
+722,47nuUE36vl8zveTeebcUfd,Where Are We Going - Airsand & Wayward Brothers Remix,Italo Vieira,proghouse_melodic,0.000412,0.77,0.0305,416563,0.866,0.722,10,0.0906,-6.2,0,0.0411,121.999,4
+723,5c3MqPzFY1ztuzllkuffV1,Vigilant,Jamie Stevens,proghouse_melodic,0.00851,0.746,0.11,484000,0.582,0.871,2,0.0673,-7.152,1,0.043,120.019,4
+724,5k0GCaEwT8h04HCzN6KpzR,80s - GMJ & Matter Remix,Roger Martinez,proghouse_melodic,0.0169,0.752,0.324,524000,0.797,0.926,7,0.216,-9.727,1,0.0494,120.003,4
+725,138sDJ68JsnMsf0rbwCCMj,Désolé,DAVI,proghouse_melodic,0.000355,0.812,0.36,366228,0.738,0.789,2,0.0472,-8.221,1,0.0464,122.001,4
+726,5LBRfVGmayJrYV0Dsqwh9c,Sarayu,Matias Chilano,proghouse_melodic,0.0297,0.807,0.717,515122,0.944,0.909,10,0.0518,-8.519,0,0.0407,123.014,4
+727,6DzoUiYb9KIfcM8rtYZBxG,Blue Train,Julian Nates,proghouse_melodic,0.0228,0.793,0.283,444590,0.896,0.851,7,0.112,-8.186,1,0.1,121.994,4
+728,0q63DC08CUJVN0H66tVyKb,Epic Game,Axel Zambrano,proghouse_melodic,0.00318,0.761,0.244,448525,0.635,0.84,9,0.0669,-8.372,0,0.0678,122.002,4
+729,08wHZTpX9iRXwd3T6sLQKD,Meliora,Kenan Savrun,proghouse_melodic,0.102,0.711,0.249,466230,0.743,0.852,10,0.0885,-10.325,1,0.0512,122.008,4
+730,69SuHUCXqhHyKXSKMom3ol,Stoyote - Simos Tagias Remix,LADS,proghouse_melodic,0.0668,0.673,0.28,477658,0.907,0.846,7,0.142,-7.471,1,0.049,122.003,4
+731,046fgXuqyO6WrKwAimWi98,Ancient Future,GMJ,proghouse_melodic,0.00655,0.69,0.0398,551405,0.835,0.877,2,0.104,-7.897,1,0.041,121.006,4
+732,7oHqjeTUFu0nUsawxYzmaP,Suppose,Julian Nates,proghouse_melodic,0.000802,0.779,0.234,452231,0.894,0.923,7,0.0744,-7.095,1,0.0638,120.992,4
+733,26Gobyx9uF50SvnPx1BARH,Mesopotamia - Extended Mix,Rauschhaus,proghouse_melodic,0.00497,0.715,0.418,450000,0.946,0.851,7,0.0438,-7.11,1,0.0482,122.99,4
+734,5GOgXZjw8ZEydSGL0Px6Jd,Creative Sheet,Nōpi,proghouse_melodic,0.0251,0.808,0.305,452000,0.649,0.907,7,0.0646,-7.593,1,0.0701,120.007,4
+735,5xrg1YhYY9B3RrbdiJts2e,Sounds of Freedom - Subandrio 'Global Mission' Remix,Juan Deminicis,proghouse_melodic,0.00892,0.807,0.0597,480012,0.775,0.906,10,0.0542,-9.504,0,0.0426,121.002,4
+736,69bQiCfT73sNYJVSFJivFX,Hoffnung - Rauschhaus Remix,Antrim,proghouse_melodic,0.00186,0.795,0.682,436000,0.892,0.835,2,0.061,-8.454,0,0.0381,120.01,4
+737,1SpBIZ1vDvnxNYk4mszvDe,Pallas - Nick Warren & Nicolas Rada Remix,Morttagua,proghouse_melodic,0.0391,0.753,0.539,461695,0.408,0.876,6,0.123,-12.316,0,0.0519,118.004,4
+738,7nQ3MIjKZpAQk9S4VpCW4S,Chilling Moments - GMJ & Matter Remix,Shmuel Flash,proghouse_melodic,0.002,0.574,0.351,519669,0.878,0.89,2,0.583,-7.417,1,0.047,121.031,4
+739,2AIw7wXzBah5KikLrWroxB,Amathusia - Dmitry Molosh Remix,QDream,proghouse_melodic,0.0054,0.81,0.0976,479508,0.855,0.854,4,0.0831,-7.858,0,0.047,121.996,4
+740,1E1Y7fABOmRzqU54p6kpZ9,The Master Mind - Sebastian Haas Remix,High On Mars,proghouse_melodic,0.0147,0.668,0.129,238049,0.76,0.686,1,0.264,-8.795,0,0.0524,123.012,4
+741,3xZ86R1pgIICHAqNz3iW5v,Face To Face - Paul Hamilton Remix,G Monk,proghouse_melodic,0.0019,0.68,0.239,445087,0.936,0.916,0,0.0585,-8.548,1,0.0372,121.999,4
+742,1RfICOftgCrA6suRSldkIt,Cosmic Drum - Paul Deep Remix,Roger Martinez,proghouse_melodic,8.29e-05,0.804,0.545,542439,0.893,0.89,0,0.0627,-8.698,1,0.0555,123.012,4
+743,38zmEzRfCh7JDhQ6MbEYXo,Gardens of Eden - Paul Deep Remix,Arrab,proghouse_melodic,0.000291,0.8,0.121,495738,0.699,0.923,4,0.0767,-8.98,0,0.057,121.997,4
+744,73ea1GkoA8qOlgGMi9ojue,Sounds of Freedom - Alex O'Rion Remix,Juan Deminicis,proghouse_melodic,0.00214,0.685,0.109,520016,0.798,0.899,7,0.675,-8.301,1,0.0435,119.996,4
+745,2n9T6L0UfovdQ3zHDbg932,Blackhole - Nick Hayes Remix,Grum,proghouse_melodic,0.00313,0.565,0.0325,391920,0.846,0.904,11,0.104,-9.663,1,0.0375,124.999,4
+746,0dbZkBhNyI9BNiX1rm6jmA,Hot Foot - Jamie Stevens & Anthony Pappa Remix,Fabrication,proghouse_melodic,0.000933,0.685,0.26,529998,0.977,0.881,5,0.0556,-7.546,1,0.0478,124.997,4
+747,3tgy44ggW4T552fDKa7KMx,Orchard - Kasper Koman Remix,Dmitry Molosh,proghouse_melodic,0.000725,0.807,0.474,473190,0.739,0.884,7,0.0331,-7.634,1,0.0511,121.998,4
+748,4FGIXsyrVuv253bkwr292U,The Path - Alex O'Rion Remix,GMJ,proghouse_melodic,0.000147,0.69,0.07,511794,0.783,0.889,8,0.0381,-8.722,1,0.0409,121.012,4
+749,4l2zl9aWxi3aKO5NxjqACN,Perfect Storm,GMJ,proghouse_melodic,0.042,0.753,0.55,452231,0.597,0.867,0,0.107,-8.829,1,0.0626,121.009,4
+750,7wr1wzb0QCmxGnHroJwpoe,Purple Break - Hernan Cattaneo & Graziano Raffa Remix,Francesco Farfa,proghouse_melodic,0.0143,0.703,0.273,484000,0.833,0.854,7,0.564,-11.215,1,0.0451,123.0,4
+751,5YcVoE88eBNLKego5S731o,Elysium - Dmitry Molosh Remix,The Cobb,proghouse_melodic,0.00121,0.806,0.117,485433,0.946,0.872,5,0.143,-7.775,1,0.0638,121.996,4
+752,2OE9jp6cdGWJZTVvqmDaWn,Ground Control,Cid Inc.,proghouse_melodic,0.00885,0.766,0.44,548000,0.958,0.815,6,0.0715,-6.21,1,0.0415,123.016,3
+753,3ovuR3RdjMNuN3zctGPU1l,Dioptra,Paul Angelo,proghouse_melodic,0.0712,0.807,0.272,413138,0.608,0.886,0,0.105,-11.902,1,0.0659,121.997,4
+754,1Qspmjbb9Cj44JFUuyzGF3,Dark Magic,PROFF,proghouse_melodic,0.00402,0.778,0.222,257705,0.909,0.903,7,0.207,-5.091,1,0.051,122.012,4
+755,7FKcveK3RfaDyDbfifTXH9,Our Heart of Ruin,Hasith,proghouse_melodic,0.000931,0.809,0.197,448525,0.848,0.844,9,0.657,-7.79,0,0.0541,121.999,4
+756,2uHNGE4fAUqcKWmuIPR8D2,Foul Play,Alex O'Rion,proghouse_melodic,0.000103,0.73,0.239,518500,0.896,0.91,5,0.0922,-10.067,0,0.0391,120.006,4
+757,4pejH3VdOz3srtxs4PypGj,Endurance,Einmusik,proghouse_melodic,0.000114,0.796,0.148,410935,0.681,0.883,8,0.0719,-10.067,0,0.0716,125.004,4
+758,05yGhuzuF6e4L5Y3nCj2y3,Satare - Nick Warren & Nicolas Rada Remix,Joep Mencke,proghouse_melodic,0.00532,0.783,0.397,483967,0.798,0.944,2,0.105,-9.728,1,0.0514,121.007,4
+759,4TQgbkv9CF1Qy4GIfpZeSO,The World You See,Cristoph,proghouse_melodic,0.0119,0.545,0.0398,217515,0.903,0.0647,10,0.0803,-7.279,0,0.0485,126.0,4
+760,0Heb8NcaDucvgr8pWUjNqh,Silent Moments - Imran Khan Remix,Michael A,proghouse_melodic,0.00596,0.738,0.344,452231,0.772,0.805,8,0.0706,-8.259,1,0.0435,120.993,4
+761,1og8DAzqpByFH5eP2MjbWG,My Breath - Extended Mix,Dezza,proghouse_melodic,0.00423,0.777,0.513,250000,0.487,0.0558,7,0.0475,-6.142,1,0.0437,123.978,4
+762,38s3Me3SVmPA1wfuUTVthB,Of The Group,Fabri Lopez,proghouse_melodic,0.00017,0.727,0.312,528516,0.82,0.833,2,0.051,-8.484,1,0.0423,120.01,4
+763,6g8rUmB8hzW2pU69qhT6yn,Horizonz,Imran Khan,proghouse_melodic,0.00356,0.803,0.286,491901,0.828,0.91,10,0.078,-9.778,0,0.0508,121.007,4
+764,60wHYj5inqlH7kz9H0WUDV,Penelope,Futur-E,proghouse_melodic,0.0368,0.805,0.17,508000,0.78,0.906,4,0.127,-8.443,0,0.053,122.007,4
+765,69hEhuHaYAuW9ea9fA0OiK,Sayonara - Analog Jungs Remix,Golan Zocher,proghouse_melodic,0.000379,0.802,0.766,507317,0.864,0.823,2,0.177,-8.289,1,0.0607,123.007,4
+766,3PVFw2gNfk76psS4GS9D1X,Calling You - Nick Warren & Nicolas Rada Extended Remix,Kennedy One,proghouse_melodic,0.00884,0.8,0.188,516125,0.635,0.902,4,0.112,-11.428,0,0.0486,119.998,4
+767,2dOIGPtXgyIaI8MNkSmYY9,Route to North,Hicky & Kalo,proghouse_melodic,0.000519,0.727,0.111,416000,0.756,0.847,2,0.118,-6.26,1,0.0426,123.991,4
+768,5Aw5wujPRU7PjwPpMdA0cK,Vortex - Rick Pier O'Neil Remix,Jamie Baggotts,proghouse_melodic,0.000528,0.623,0.112,439355,0.844,0.895,4,0.0862,-9.552,0,0.0417,124.008,4
+769,2pllXA8B9U3KdHln4zbGeD,Eyes of Truth,Hicky & Kalo,proghouse_melodic,0.000128,0.806,0.0879,449000,0.757,0.83,5,0.112,-7.347,0,0.0512,119.995,4
+770,0so97YatEUdQ31lPml3Kas,Beyond Our Senses,Kabi (AR),proghouse_melodic,0.00355,0.741,0.357,522927,0.93,0.855,7,0.0765,-6.422,1,0.0437,123.004,4
+771,5TWC15bWYkl6Qok1WBIJLF,Imentet - Hernan Cattaneo & Marcelo Vasami Remix,Morttagua,proghouse_melodic,0.00122,0.806,0.26,485902,0.892,0.865,1,0.3,-9.602,1,0.0436,122.007,4
+772,3fdXEMBTjHNJ5Bug5c7rZi,Mystery - Tale Of Us & Mathame Remix,Adriatique,proghouse_melodic,0.017,0.728,0.0367,424431,0.579,0.682,5,0.0654,-9.778,0,0.0525,124.005,4
+773,798k2YAJs4gKuQlxhYfzgf,Our Heart of Ruin - Kamilo Sanclemente & Mauro Aguirre Remix,Hasith,proghouse_melodic,0.00131,0.803,0.328,492000,0.794,0.826,10,0.082,-7.614,0,0.0509,120.998,4
+774,2qPKDc1CMqAOLFhEd8kpZ8,Misery,Mariano Mellino,proghouse_melodic,0.0419,0.788,0.493,467107,0.94,0.813,7,0.0828,-10.215,1,0.0486,121.006,4
+775,1RSwsKoLq0lLduKmNZ23Xp,Empire - Cosmonaut Remix,Stan Kolev,proghouse_melodic,8.28e-06,0.662,0.0321,453659,0.842,0.867,4,0.0843,-6.804,0,0.0381,123.014,4
+776,1JKMxWadVQVjgDovJESMoN,Just You - Original Mix,Stan Kolev,proghouse_melodic,0.0366,0.795,0.395,439268,0.567,0.885,10,0.0987,-9.283,0,0.0627,123.012,4
+777,7wtEwsKb0dRzerPSVOqbSj,Manantial Virtual,Teleport-X,proghouse_melodic,0.0179,0.489,0.0658,476129,0.728,0.894,2,0.0867,-7.58,1,0.0525,121.996,4
+778,7uLbeF5ZyjoVLo4Da78iqw,Cuprum,Alex O'Rion,proghouse_melodic,0.000378,0.687,0.196,417463,0.936,0.876,0,0.0246,-10.045,1,0.0422,120.002,4
+779,2f2ECaKp7g8PSqdxMmchYk,Reflector,Dabeat,proghouse_melodic,0.00277,0.763,0.715,427750,0.873,0.915,9,0.0784,-10.927,1,0.0621,121.987,4
+780,2BrlLWPhn7H1bm5JwZ7HUh,You're Not Alone,Franky Wah,proghouse_melodic,0.00999,0.372,0.181,330240,0.708,0.519,7,0.242,-6.407,0,0.0361,124.978,4
+781,71wNW4xXyiS4YTYIpTntVA,Shattered Earth - Paul Thomas Remix,21street,proghouse_melodic,0.036,0.56,0.0343,215806,0.805,0.842,7,0.167,-11.744,1,0.044,123.997,3
+782,2Sn0F1VJZpcMXfvuOA634a,Summer Tribe,Pablo Gargano,proghouse_melodic,0.00035,0.714,0.786,427742,0.964,0.864,11,0.105,-6.656,1,0.0369,122.013,4
+783,1A85MgynatKd99p4XqjeoM,Push Thru,Imran Khan,proghouse_melodic,0.00449,0.811,0.54,434155,0.795,0.881,2,0.0407,-6.892,1,0.0483,120.027,4
+784,0IGytg9EIYeBLOFuQdvqja,Emotion,Simos Tagias,proghouse_melodic,0.00391,0.616,0.229,476098,0.861,0.849,1,0.49,-9.09,1,0.0508,123.013,4
+785,6arrOsLI6rR9YHO1QCaSkD,Astrona - Simply City Remix,NAHS,proghouse_melodic,2.95e-05,0.803,0.32,567000,0.739,0.873,11,0.0965,-7.775,1,0.0451,122.009,4
+786,5CVBSQlEEJSexION72hLvu,The Starry Night - Original Mix,Leandro Murua,proghouse_melodic,0.131,0.804,0.0389,425902,0.87,0.863,5,0.0818,-8.806,0,0.0404,122.0,4
+787,4APB4hJnxXWEXW33n83jBG,Technicalia - Andrés Moris Remix,Jero Nougues,proghouse_melodic,0.000371,0.787,0.35,476159,0.758,0.824,10,0.365,-9.034,0,0.0508,123.006,4
+788,3cMk8puifPxPPqhOnNXtia,In The Dark - Extended Mix,Boxer,proghouse_melodic,0.196,0.699,0.265,445574,0.806,0.82,9,0.0903,-7.181,0,0.0423,122.005,3
+789,6E8ueGkH5Mc6CmqI0BVwO6,Elixir - Fuenka Extended Remix,Kamilo Sanclemente,proghouse_melodic,0.0036,0.612,0.0662,450968,0.67,0.939,11,0.103,-11.565,0,0.0648,123.999,4
+790,5pLTkSt2eWlJHsR8ksHBIR,Solarcoaster - Marsh Remix,Solarstone,proghouse_melodic,0.00281,0.723,0.671,249056,0.727,0.817,3,0.082,-5.792,0,0.0376,124.996,4
+791,0q6rrujqWRct9VTXoec1JC,Surface - 2021 Rendition,Panoptic,proghouse_melodic,0.0418,0.762,0.204,468387,0.789,0.864,2,0.104,-9.447,1,0.0492,123.999,4
+792,7AWkzPsjCVGJ4MKoiw4c2j,Liquid Week - Hrag Mikkel & Pambouk Remix,Nōpi,proghouse_melodic,0.00115,0.809,0.58,440531,0.94,0.916,7,0.0822,-8.209,1,0.0474,120.009,4
+793,0aTMKTs3uy359sN3cdZJyt,Sonic - Original Mix,WO-CORE,proghouse_melodic,0.00255,0.643,0.228,346230,0.6,0.715,2,0.0792,-9.718,1,0.0361,121.993,4
+794,6iNoB90jmeopvTSBCqz62O,The Last Siren - Morttagua Remix,Stylo,proghouse_melodic,0.0027,0.359,0.379,417561,0.763,0.834,2,0.678,-10.822,1,0.048,121.331,4
+795,2d8sKnq9aOQ036JXtXI20T,Froggy - Extended Mix,Sound Quelle,proghouse_melodic,0.0136,0.74,0.553,346000,0.604,0.927,7,0.0606,-8.99,1,0.0491,123.003,4
+796,3JfGEwNnDrAykGyDYRlgz1,The Stars Above,Sebastian Sellares,proghouse_melodic,0.00346,0.751,0.15,493884,0.825,0.907,10,0.0362,-8.487,0,0.0525,121.007,4
+797,04NVfkO9eGJ0tFO41HFTYE,Toro - Original Mix,Mariano Mellino,proghouse_melodic,3.08e-05,0.767,0.0759,475500,0.804,0.88,11,0.0845,-8.53,0,0.051,122.005,4
+798,4hzqOcs4LqU0cQFQA05wFq,Dreamspace - Extended Mix,Movement Machina,proghouse_melodic,0.0025,0.669,0.315,307375,0.585,0.869,2,0.105,-9.538,1,0.0638,125.998,4
+799,4KKYmkByqdtrSCdcUyv17o,Carbon,Highjacks,proghouse_melodic,0.0026,0.63,0.138,311220,0.798,0.431,10,0.074,-8.775,0,0.0451,123.004,4
+800,4Vhq61z5cQKSf3ttKrBUX7,Aurora,Controlwerk,proghouse_melodic,0.00513,0.805,0.0855,605000,0.723,0.885,0,0.0643,-11.243,1,0.0451,120.001,4
+801,4rcpu8rdtR0G5Dj0Ym3Rq9,Wind Chimes,Cary Crank,proghouse_melodic,0.363,0.811,0.41,460517,0.61,0.901,7,0.115,-13.19,1,0.0566,124.004,4
+802,5V4HNVbqg1rAgrEMdd3G5v,Santorini,Fingerprint,proghouse_melodic,0.000852,0.598,0.173,426664,0.71,0.873,2,0.179,-7.67,1,0.0379,121.992,4
+803,5iAUTXNhJZH8IgxbF0qXN1,Collage,Integral Bread,proghouse_melodic,0.00229,0.818,0.333,375484,0.674,0.84,7,0.0797,-9.302,1,0.103,124.018,4
+804,06ZLEgfXosGhZVSbt1QJlw,Halkyon - TEIAO Remix,Nikko Mavridis,proghouse_melodic,0.0312,0.788,0.175,453250,0.869,0.909,1,0.165,-10.594,1,0.0812,121.011,4
+805,2EJJJVkp8itaWpnrLHWzfG,Ledokol - Cid Inc. Remix,Forty Cats,proghouse_melodic,0.000119,0.73,0.568,464262,0.828,0.835,2,0.0986,-8.106,1,0.0543,122.009,4
+806,4OUZtRyQJ5bA9rP8ouSFLz,Biocosmic Symphony - Antrim Remix,Kasey Taylor,proghouse_melodic,0.000651,0.804,0.0388,503415,0.683,0.891,6,0.0687,-8.882,0,0.0511,123.005,4
+807,0TPbfz3SCg9aTElj14jKoX,Pure Gold - Jean Vayat Remix,Evelynka,proghouse_melodic,0.000139,0.805,0.293,544625,0.67,0.533,9,0.0978,-9.632,1,0.047,120.003,4
+808,2B2f3xd8cAtoJUPn8Cxulj,Organism - Original Mix,SpringHill,proghouse_melodic,0.0388,0.717,0.241,420496,0.725,0.759,11,0.0785,-10.907,1,0.0466,121.019,4
+809,6HN1QNWZagpr10uNm0k15G,Octavia,Guy J,proghouse_melodic,0.0908,0.728,0.659,516835,0.928,0.906,3,0.14,-8.381,1,0.0356,124.002,4
+810,70P1tp2xmcPvuTuHscst57,Push the Button - SpringHill's Deep Down Low Remix,Underground Ticket,proghouse_melodic,0.0125,0.814,0.494,550820,0.84,0.831,8,0.104,-6.697,1,0.0603,122.002,4
+811,1vpOY0slxNwm6EO7ykjsfZ,Papillon,ARTBAT,proghouse_melodic,0.0591,0.785,0.0644,426058,0.644,0.915,5,0.0967,-12.324,0,0.0433,122.007,3
+812,7hVpgKcVxAivhYSD31ijaU,Anywhere But Here,Jessy Nimni,proghouse_melodic,0.138,0.627,0.175,263226,0.877,0.177,6,0.226,-7.983,1,0.0413,123.986,4
+813,3nDHawZh5iZcqCz8mx8RFS,The Art of Silence,Stereo Underground,proghouse_melodic,0.736,0.631,0.0911,404649,0.529,0.95,6,0.104,-17.231,1,0.0368,116.993,3
+814,7IywYlRVxbvQuRGee2Pl1o,Rush,SpringHill,proghouse_melodic,0.00388,0.736,0.498,495738,0.98,0.88,7,0.102,-6.524,1,0.0609,122.011,4
+815,02IeOU8jpEnBpRhcGFWCl3,Echostein,Bensus7,proghouse_melodic,0.00357,0.671,0.0963,420000,0.732,0.796,7,0.302,-7.783,0,0.0282,119.992,4
+816,0DAb8uXdSsQpuhfbOUWVOg,Aurora,Andfølk,proghouse_melodic,0.0143,0.729,0.18,267097,0.679,0.803,7,0.112,-11.341,1,0.0401,124.011,4
+817,2oHp3xsI8eklrFCAocYR4c,Der Tag Ist Gekommen - Radio Edit,Jessy Nimni,proghouse_melodic,0.177,0.696,0.43,228288,0.82,0.843,6,0.605,-6.885,0,0.0285,124.011,4
+818,7sV8Cr1HEmbXciads0ZZkg,Sunflower,SpringHill,proghouse_melodic,0.336,0.813,0.694,444298,0.628,0.703,8,0.11,-15.377,1,0.0759,121.022,4
+819,0N6o4OUbP0TWlvvIHhRob0,New Dawn,Jimmy V,proghouse_melodic,0.00238,0.806,0.363,407606,0.746,0.864,7,0.0959,-9.683,1,0.0465,123.012,4
+820,3z8Ib9cO2WNztgHKltXuwi,Ne Hiyama,Roma Nebo,proghouse_melodic,0.195,0.679,0.176,333000,0.797,0.232,10,0.149,-8.304,0,0.0385,111.009,4
+821,3O0Ay40IqtSyqCAvRvWS2a,Lost Dream,Aiwaska,proghouse_melodic,0.0237,0.649,0.119,215902,0.684,0.305,6,0.139,-10.025,0,0.0364,122.0,4
+822,54t0abZkmrmuYzPTzYTyiP,Inverse,Rupture // Rapture,proghouse_melodic,0.175,0.662,0.19,380909,0.722,0.923,10,0.0783,-8.865,0,0.0464,131.999,4
+823,1jmLHipSNa9CRhJhBemXrE,Blood,3VTR,proghouse_melodic,0.00353,0.734,0.0399,409699,0.736,0.835,9,0.0943,-9.305,1,0.0379,124.993,4
+824,2Qwe2qFDTRgYWLFneCB3tw,Seige,Jeremy Olander,proghouse_melodic,0.00685,0.807,0.452,433564,0.577,0.873,10,0.0788,-13.925,0,0.0589,123.994,4
+825,3TTQihQHgHXWxnvC8uGN4v,High,GALGO,proghouse_melodic,0.324,0.306,0.0388,483039,0.534,0.844,2,0.11,-14.834,0,0.0385,103.974,4
+826,0iEClQxJw6VHyXrSyifNJ1,Calling Me Back - Coeus Remix,Marino Canal,proghouse_melodic,0.0383,0.663,0.235,466462,0.608,0.873,8,0.107,-10.518,1,0.0483,123.996,4
+827,0laCsJPPHRzC8sBPYQz5Qt,City of Worries Feat; Barak Suban - Radio Edit,Jessy Nimni,proghouse_melodic,0.0093,0.69,0.214,238049,0.821,0.453,4,0.0737,-7.498,1,0.0306,123.005,4
+828,0WV6kmAh7cjWRKHfcHCgr6,Outside,Rupture // Rapture,proghouse_melodic,0.000905,0.332,0.183,332308,0.844,0.841,0,0.11,-8.828,0,0.04,130.024,4
+829,5pkFRCtBB0fIUT1UiTzuiD,Hold On - Original Mix Edit,Sam Parker,proghouse_melodic,0.0151,0.661,0.295,200976,0.87,0.568,10,0.0974,-7.304,0,0.0354,123.002,4
+830,0u4DzQ38WBchmFKREWCikf,Southern Sicily,Rizzo DJ,proghouse_melodic,0.00885,0.685,0.141,310122,0.874,0.898,1,0.11,-7.476,1,0.0416,124.008,4
+831,01EAhnRnwdB9h5zyN6XpuI,Liquid Castles - Original Mix,Cary Crank,proghouse_melodic,0.00124,0.78,0.0382,409756,0.751,0.94,5,0.0872,-14.925,0,0.0429,122.996,4
+832,59nXdsq1TuzAf6zjWOGBju,London - Anniversary Rework,John Johnson,proghouse_melodic,0.00526,0.746,0.35,428000,0.519,0.86,1,0.129,-11.374,1,0.0468,122.008,4
+833,39Rd8fiwnBxKLko7ESy68L,Matera,Tobias Koziol,proghouse_melodic,0.141,0.657,0.0604,270429,0.546,0.816,6,0.149,-14.397,0,0.0351,102.004,4
+834,4OVWUAUZbW8XyIlL6FN5ma,Comment Section Lovers,Bedrave,proghouse_melodic,0.724,0.648,0.322,380000,0.652,0.822,6,0.0771,-13.396,0,0.0436,115.01,4
+835,5fzxQUfmBVBFRPi5JcNE4K,Long Road To Nowhere,DeVante,proghouse_melodic,0.00039,0.822,0.335,489744,0.622,0.822,5,0.151,-9.818,1,0.0641,120.008,4
+836,5sbW84zLB10R64fqiukiEa,Poetry - Edit,Stella Bossi,proghouse_melodic,0.000219,0.542,0.0923,211579,0.978,0.0138,7,0.472,-4.555,1,0.0599,133.006,4
+837,3K3sNkphzlnrhVUUfia4Qi,Flight of Birds,Bedouin,proghouse_melodic,0.0182,0.8,0.113,548594,0.622,0.877,10,0.0935,-11.133,1,0.054,120.011,4
+838,3bRqVtAGCNBRSGupmykCjY,Antigone - Yotto Remix,Joris Voorn,proghouse_melodic,0.0144,0.688,0.131,242432,0.827,0.838,4,0.396,-8.345,1,0.0433,123.001,4
+839,7gZ6jfIh3nqzDYTxTLhWbN,Om Shanti - Let Peace Inside,Sina Vodjani,proghouse_melodic,0.0322,0.572,0.323,271854,0.699,0.0841,0,0.0808,-10.925,1,0.0333,100.014,4
+840,5dsyqIHgcZbhHKx3PEWUVp,London - Hernan Cattaneo & Marcelo Vasami Remix,John Johnson,proghouse_melodic,0.00148,0.679,0.55,507769,0.975,0.864,10,0.0893,-8.172,0,0.036,121.003,4
+841,1W34fm437pe2u3mWBpGyx0,Ray,Adriatique,proghouse_melodic,0.012,0.807,0.469,392674,0.497,0.886,7,0.112,-11.137,1,0.0415,123.009,4
+842,1Q2cAnDsiv9OEjGOMkUfUb,Tantra,Lauren Mia,proghouse_melodic,0.0119,0.602,0.0481,487750,0.647,0.789,11,0.113,-12.359,1,0.035,124.013,4
+843,04rWm2RE7Xmgk7jRlajUQH,Altitude,SpringHill,proghouse_melodic,0.174,0.799,0.577,480000,0.696,0.882,5,0.104,-9.407,0,0.0536,121.997,4
+844,7t4MdwfjiFCQziryb622Oc,No Distance - Original Mix,Guy Gerber,proghouse_melodic,0.00578,0.816,0.13,476857,0.719,0.939,5,0.157,-9.615,0,0.0656,122.001,4
+845,5LbFcPIWKMJEyMrTpKMV0T,Take Control,Moszq,proghouse_melodic,0.0472,0.504,0.0366,269479,0.71,0.923,1,0.112,-10.105,1,0.0334,122.016,4
+846,7utlRl7GaCEW9uoyt7mL6d,Altair - Guy J Remix,Hernan Cattaneo,proghouse_melodic,4.1e-05,0.606,0.691,588448,0.857,0.923,6,0.0576,-11.378,0,0.0431,124.001,4
+847,1uDzlerkbMCw8t1LJSYyMB,Night Call,Safran Safari,proghouse_melodic,0.424,0.726,0.394,160714,0.358,0.567,3,0.0883,-15.397,0,0.0447,112.028,4
+848,72kB1jI3G6H3zv33Qwmmhe,Closing Doors - Edit,Khen,proghouse_melodic,0.00126,0.784,0.79,228772,0.873,0.928,7,0.0775,-8.35,1,0.043,124.009,4
+849,54KQYYwE2OPX9Gjffu9iUZ,Untimed,biskuwi,proghouse_melodic,0.0286,0.693,0.036,319017,0.776,0.873,1,0.0783,-11.212,1,0.0359,123.995,4
+850,60WO4v7liH89RAmyQDMolU,Lolo Graziano,Lauren Mia,proghouse_melodic,0.000636,0.629,0.411,243713,0.687,0.865,4,0.0836,-12.002,0,0.0369,125.009,4
+851,2EZSBL4CawxiV3NKXDEZfO,Manginot,Khen,proghouse_melodic,0.00275,0.789,0.721,478217,0.66,0.869,8,0.0618,-9.844,1,0.0643,121.007,4
+852,1rQzgEIUunLMvAUSYJIzyl,Straight To The Heart,Bedouin,proghouse_melodic,0.0156,0.751,0.0589,437849,0.665,0.849,4,0.0934,-10.35,0,0.0519,115.995,4
+853,0qCiXEFQCtemGdMnXUKXpB,Lost Miracle - Original Version,Sébastien Léger,proghouse_melodic,0.00924,0.8,0.691,603717,0.91,0.865,1,0.0737,-9.12,1,0.0465,122.015,4
+854,7sHkd0hzmXfD7fHFN2KEOY,And I - Original Mix,DJ AroZe,proghouse_melodic,0.0223,0.705,0.298,435000,0.531,0.891,7,0.137,-12.009,1,0.0432,124.993,4
+855,24YKADxtBBCBGnmfE2Ga2A,Bullish Divergence,Hermanez,proghouse_melodic,0.000686,0.805,0.231,444590,0.811,0.896,1,0.106,-8.235,0,0.0398,121.993,4
+856,0J7mgdwCa8MDt2yzVUamqk,Rumbala,Roy Rosenfeld,proghouse_melodic,0.00926,0.677,0.444,537297,0.854,0.908,8,0.2,-9.439,1,0.0405,121.99,4
+857,6JocTHCkTOeTcF5TMbGCbV,Lost In Mind - Volen Sentir Vision,Ben Böhmer,proghouse_melodic,0.00994,0.757,0.409,265887,0.736,0.821,10,0.0712,-7.465,0,0.0387,124.003,4
+858,2o7F1X7WFNIS3KEuv5WIpX,Secret,Sébastien Léger,proghouse_melodic,0.00379,0.791,0.888,464262,0.896,0.887,2,0.0848,-6.753,0,0.0568,121.996,4
+859,6lkOzvmZS3MAYMtEYl3mm9,Irusu - Tomek Remix,oØmiak,proghouse_melodic,0.0894,0.691,0.0368,446937,0.353,0.837,1,0.107,-18.855,1,0.0474,123.017,3
+860,4p2huo3cTwy477D3Y9bKWP,Night Blooming Jasmine - Rodriguez Jr. Remix Edit,Eli & Fur,proghouse_melodic,0.000195,0.702,0.474,316000,0.695,0.716,5,0.141,-5.809,0,0.0311,120.007,4
+861,02WMhB0Ue7oBseQmLwdeMH,Whisper - Original Mix,SpringHill,proghouse_melodic,0.38,0.795,0.753,555372,0.943,0.872,7,0.222,-8.424,1,0.0568,121.016,4
+862,6vyxhI8ruVm9T6lu9rFCAV,Zebra - Original Mix,SpringHill,proghouse_melodic,0.0734,0.759,0.71,424000,0.745,0.866,7,0.0903,-9.089,1,0.094,120.013,4
+863,3D7yeOT7NsBIgKGJNrLifc,Our Foggy Trips,Guy Mantzur,proghouse_melodic,0.000816,0.687,0.292,619447,0.74,0.888,6,0.127,-6.375,0,0.0486,123.003,4
+864,6rYUB2dBfrgRGREblgrTRR,Ida - Original Mix,Renga Weh,proghouse_melodic,0.00401,0.813,0.666,356000,0.621,0.93,4,0.094,-11.688,0,0.0829,120.007,4
+865,1g6xdGrFdPaINytGydJmAW,Mysterious World,Armen Miran,proghouse_melodic,0.139,0.767,0.21,459535,0.702,0.833,11,0.0477,-9.368,0,0.0475,117.993,4
+866,6WuRDF03U3oeBLFc57sLcX,Polar Lights,Booka Shade,proghouse_melodic,0.00135,0.688,0.408,273385,0.592,0.336,1,0.0762,-9.991,0,0.0405,114.014,4
+867,0e6QtdXqX4gtA8gTPjJqEm,Mistique,Adriassi,proghouse_melodic,0.000327,0.622,0.6,344358,0.641,0.742,5,0.0716,-9.377,0,0.0682,127.997,4
+868,2G0gmDeySigZqRdOk4ZKhU,Reborn - Volen Sentir Sunset Mix,Armen Miran,proghouse_melodic,0.00375,0.767,0.506,434733,0.587,0.884,9,0.0711,-11.754,0,0.0566,122.007,4
+869,2gOXtBfv4orM0U8SMtY307,Halomot,Roy Rosenfeld,proghouse_melodic,0.00263,0.802,0.363,470707,0.717,0.925,0,0.0686,-9.549,1,0.0537,123.018,4
+870,3jOMazNBVMkKwBH4DhoYTv,I Feel,Hypeness,proghouse_melodic,0.0207,0.27,0.0372,236190,0.835,0.757,3,0.147,-8.793,0,0.0333,125.988,4
+871,2BzsHyqySE1tz1lXHNxbd8,Find A Better Way,Sam Allan,proghouse_melodic,0.00661,0.537,0.0563,173327,0.97,0.00107,9,0.282,-4.705,0,0.0586,123.997,4
+872,71QzpNzL1Q6KPOV5ilyBVW,Alone,Tale Of Us,proghouse_melodic,0.0341,0.802,0.0371,333570,0.556,0.914,8,0.079,-12.989,1,0.0437,126.001,4
+873,6vrlWGfg7uiTryozd46YyY,Bungalow,Guy J,proghouse_melodic,0.00425,0.8,0.584,456198,0.522,0.925,8,0.0677,-12.223,1,0.0528,121.013,4
+874,34cPHGkOQ2pu6evQnKJgUM,Ollie,Sahar Z,proghouse_melodic,0.000599,0.803,0.429,260069,0.62,0.892,9,0.0797,-8.646,0,0.0382,121.998,4
+875,73BP0vhEGfr8WwRBmpXhEy,Rythmo,SpringHill,proghouse_melodic,0.145,0.809,0.416,480000,0.711,0.901,4,0.0868,-11.599,0,0.0754,123.986,4
+876,0KMqE5uiL0eyYdwWO69lXg,Ten,Cid Inc.,proghouse_melodic,0.00626,0.694,0.153,521311,0.914,0.774,2,0.145,-8.539,1,0.0458,122.004,4
+877,458pLwQFmbw4MFPt2RpaI0,Feel the Delusion,Onien,proghouse_melodic,0.0357,0.685,0.191,488000,0.666,0.883,5,0.0981,-11.926,0,0.0579,120.003,4
+878,5zciRA56qtHJtFlNGCyfe4,Hi,Kasper Koman,proghouse_melodic,0.0752,0.761,0.297,483497,0.728,0.27,0,0.061,-9.474,1,0.068,120.01,4
+879,2kYNch15GwdeD4yDXF2Y33,Pert - ANMA Remix,Feri,proghouse_melodic,6.81e-05,0.794,0.0383,405854,0.911,0.904,0,0.0835,-8.949,1,0.0473,123.008,4
+880,34iVGDkkwBtxHH7usvb2Io,Throwback,Ionic,proghouse_melodic,0.00936,0.806,0.509,217031,0.917,0.928,11,0.079,-5.982,0,0.0413,125.0,4
+881,6paHW9PbLSAmM3axw3MdZn,Astray - Radio Edit,biskuwi,proghouse_melodic,0.00592,0.685,0.0395,238033,0.484,0.888,1,0.108,-13.096,1,0.037,122.019,4
+882,6MoTeX5dtuPZ3hwaecuBkz,Purple Noise,Boris Brejcha,proghouse_melodic,0.00143,0.88,0.209,539520,0.477,0.627,0,0.0922,-10.947,1,0.0732,125.017,4
+883,1HHxzXIdk5XJrG8TJHEWq5,Return to Oz - ARTBAT Remix,Monolink,proghouse_melodic,0.563,0.854,0.192,480000,0.93,0.697,2,0.0815,-7.528,1,0.0439,123.998,4
+884,1rGnpPG0QHfqjDgM8cIf4A,Closer,ARTBAT,proghouse_melodic,0.00527,0.731,0.19,460800,0.592,0.52,10,0.075,-9.577,0,0.0639,125.005,4
+885,6nSo8mNsaFLr4oMp8t7C1r,Irreversible,Matchy,proghouse_melodic,0.338,0.823,0.226,440656,0.696,0.869,10,0.0877,-9.585,0,0.0612,122.015,4
+886,2UKQCIKFDZqOqjSb9WOG2s,Close Your Eyes,Two Are,proghouse_melodic,0.00358,0.8,0.075,379672,0.866,0.908,1,0.0781,-8.592,1,0.047,122.001,4
+887,4OrydxiLDI87qibX07vvLK,Empire,Two Are,proghouse_melodic,0.0943,0.679,0.188,423415,0.652,0.878,10,0.108,-9.586,0,0.0473,123.003,4
+888,1V89AB14MqxFCQTSGkYgnT,People Of The Night,Maxim Lany,proghouse_melodic,0.0912,0.874,0.163,186008,0.404,0.817,7,0.106,-12.288,1,0.166,119.951,4
+889,63WYGCb5GLhAXCEA6Nzvlu,Dark Forest,Miss Monique,proghouse_melodic,0.0952,0.74,0.146,435484,0.69,0.928,0,0.0809,-8.614,1,0.0407,123.995,3
+890,6RCT4geaXTmDmtiwFLJv8j,To the Sea - Einmusik Remix,Booka Shade,proghouse_melodic,0.00706,0.741,0.124,452000,0.853,0.831,4,0.0757,-10.141,0,0.0406,123.998,4
+891,3sOq1thMcwDZ37oKpS60fQ,What Mama Said - Albert Marzinotto Remix,Manuel Riva,proghouse_melodic,0.0319,0.715,0.173,289655,0.867,0.466,8,0.117,-7.25,1,0.05,115.981,4
+892,1l2mk6MPdoi8RLvhIw3gnh,Sick Of The Silence,Lost Frequencies,proghouse_melodic,0.19,0.68,0.101,231374,0.751,0.00119,9,0.109,-6.838,0,0.0347,121.004,4
+893,0pcFsOq2tH5K0NmbSINzet,Noise,Denis Horvat,proghouse_melodic,0.00503,0.556,0.0394,441499,0.703,0.833,10,0.106,-10.164,0,0.0841,122.982,3
+894,6DsJ51gCYwiBvBtEi8VkAw,Underwater Breathtaking - Innellea Remix,Edu Imbernon,proghouse_melodic,0.0754,0.709,0.0394,424187,0.81,0.895,6,0.107,-9.28,0,0.0594,124.0,4
+895,4AVwLOMlkGC1F8BtZJpaSa,Set Me Free (Empty Rooms) - Pavel Khvaleev Extended Remix,Jam & Spoon,proghouse_melodic,0.0033,0.688,0.13,418285,0.756,0.148,7,0.773,-8.832,1,0.0548,123.997,4
+896,4ujZbpI8i3fbrnTC2SG85J,Lucid - Extended Mix,Dylhen,proghouse_melodic,0.00277,0.67,0.133,441290,0.741,0.853,7,0.443,-10.719,1,0.0523,123.998,4
+897,2XuphErolQuC7Q6YunLtJ2,Kira,Carsten Halm,proghouse_melodic,0.0378,0.751,0.198,486061,0.623,0.864,2,0.0938,-11.023,1,0.0452,123.017,4
+898,3y2b7uFFbUgtTFeh4TKHAp,Force,Laolu,proghouse_melodic,0.0075,0.773,0.895,454338,0.807,0.606,9,0.075,-9.562,1,0.0455,119.996,4
+899,5qRRnuJuzSzGOCAbCCeuqn,Tokyo,Alexander Alar,proghouse_melodic,0.000345,0.789,0.317,445053,0.853,0.818,10,0.0431,-6.294,0,0.0485,122.003,4
+900,2l2ONzeln0lkIzhuOVQHSL,Alien - Extended Mix,Space Motion,proghouse_melodic,0.00302,0.539,0.0361,450969,0.862,0.943,10,0.0904,-10.821,0,0.0562,123.856,4
+901,3QhtRPOiUFSChVkXMDVQ36,Heaven,Stylo,proghouse_melodic,0.000703,0.603,0.0367,394146,0.577,0.868,11,0.111,-9.935,0,0.0576,123.01,4
+902,0ihush2kQPtal6qEMEdJB4,Halos,Hollt,proghouse_melodic,0.0288,0.811,0.0388,411458,0.901,0.84,8,0.0948,-8.515,1,0.0565,122.001,4
+903,0ujzisRtH1q0ZzLP9MtQyo,Freedom - Matchy Remix,Circle of Life,proghouse_melodic,0.000798,0.793,0.231,403940,0.657,0.895,1,0.127,-8.706,1,0.0721,124.004,4
+904,5QYKmxfPsl69GgeZKDAVSx,House Arrest,Sofi Tukker,proghouse_melodic,0.0187,0.654,0.557,216442,0.818,0.103,0,0.0806,-6.27,0,0.0332,123.982,4
+905,2cOxMXnTwAQPpqRkyfw6xs,Don't Cry,Two Are,proghouse_melodic,0.00135,0.758,0.0386,430244,0.903,0.876,0,0.0657,-8.277,1,0.0428,123.016,4
+906,1jsFGbfsdElR5kevWphjFQ,Miracle,Two Are,proghouse_melodic,0.017,0.798,0.118,438689,0.911,0.893,7,0.0789,-8.083,1,0.0518,122.002,4
+907,6fDD3rLRNp7f6nm0frUZcJ,Sunshine,Stylo,proghouse_melodic,0.000565,0.806,0.37,405854,0.615,0.817,8,0.662,-9.984,0,0.0614,122.99,4
+908,2dj2eiAtpDJ9VY5m5jKj2L,Vagabond - Original Mix,Rafael Cerato,proghouse_melodic,0.00363,0.736,0.206,529150,0.88,0.753,1,0.105,-8.658,0,0.0535,124.984,4
+909,2FrssHBqZXBF3hMxhyI8CD,Addicted - Club Mix,Serge Devant,proghouse_melodic,0.00194,0.793,0.504,516000,0.677,0.506,7,0.486,-8.416,0,0.0648,128.001,4
+910,2nTPWZMSY7OsjoqfW68920,Roped In,Gorgon City,proghouse_melodic,0.0455,0.596,0.174,250161,0.875,0.881,9,0.297,-5.369,0,0.047,123.897,4
+911,2tXlRosY0nvmJvbrcQN7PS,My Boy (Meduza Remix) - Edit,R Plus,proghouse_melodic,0.0411,0.621,0.168,189677,0.804,0.342,1,0.341,-8.199,0,0.0418,123.968,4
+912,5EEhXlG2oUjNEycxDEsdk0,Redemption,Boris Brejcha,proghouse_melodic,0.0133,0.809,0.383,533760,0.691,0.908,7,0.113,-9.68,1,0.0648,125.008,4
+913,0CI0HCNxP3Nxcw723GB4OG,Apollo - Mike Spirit Remix,mikkelrev,proghouse_melodic,0.0145,0.705,0.546,401588,0.782,0.898,7,0.159,-8.127,1,0.0491,125.003,4
+914,2QI753qy0w8OI10LFuw4Lt,Away With Me - Fideles Remix – Extended,Ross Quinn,proghouse_melodic,0.0407,0.638,0.0853,412904,0.662,0.666,7,0.408,-10.189,1,0.0342,123.992,4
+915,28rYdHQBcPuEQQkHue8CFg,Playground,Space Motion,proghouse_melodic,0.000502,0.803,0.256,451000,0.769,0.885,6,0.135,-11.196,1,0.0459,124.996,4
+916,6tOyGXVcdz0JXWh3o8Sv3c,Thunderstorm,Boris Brejcha,proghouse_melodic,0.00126,0.919,0.474,454760,0.641,0.898,2,0.108,-9.377,1,0.0787,124.979,4
+917,2Zl7BFy5LjDaW5tFG3Bv0D,Never Look Back - Edit,Boris Brejcha,proghouse_melodic,0.000849,0.883,0.489,205440,0.638,0.9,0,0.0923,-7.894,1,0.0631,124.998,4
+918,1wjQEAV31X26Za9KRAmqwz,For a Feeling (feat. RHODES),CamelPhat,proghouse_melodic,0.000766,0.64,0.0357,296324,0.903,0.632,0,0.0636,-7.577,1,0.0358,122.016,4
+919,1U6kcn79YLI9m8PahAYvRV,Ground Zero,George Nikolaou,proghouse_melodic,0.0789,0.756,0.162,474294,0.447,0.88,10,0.0825,-10.419,0,0.0493,123.025,4
+920,6kvgeyNduS0YwPKPc6hOmH,In This Dark Time - Two Are Remix,Aime Simone,proghouse_melodic,0.00779,0.696,0.271,473115,0.817,0.656,11,0.107,-7.488,0,0.0388,122.004,4
+921,7f5nA6mscFeELd6shDHxOl,Burning - Terrace Dub,Gorgon City,proghouse_melodic,0.0052,0.787,0.801,347880,0.914,0.684,6,0.0497,-7.514,1,0.0455,124.003,4
+922,5jpe3La1qz7jKxTRv85JE9,Retrida,Angelov,proghouse_melodic,0.00576,0.797,0.339,499208,0.832,0.919,1,0.101,-10.4,1,0.0476,123.001,4
+923,5pAnUuQ8rFqgjjnyWor3gK,Bessabia,Angelov,proghouse_melodic,0.0013,0.805,0.803,379288,0.79,0.877,11,0.0601,-8.269,0,0.0525,122.009,4
+924,1vk5NG0J6yuI3PdZtsEnXk,Best of Me,ARTBAT,proghouse_melodic,0.00019,0.552,0.0715,552960,0.892,0.651,4,0.163,-7.991,0,0.0389,124.999,4
+925,39zV5zT04fDhtCECIoLWZf,Luminous,Fabrication,proghouse_melodic,0.266,0.504,0.544,368380,0.735,0.864,9,0.0958,-11.06,1,0.0726,125.989,4
+926,2T6SmtDkNCPqWVu05XzeRn,Desire,S.ONE,proghouse_melodic,0.00035,0.774,0.0339,402295,0.708,0.915,1,0.223,-9.905,1,0.0476,124.004,4
+927,5x1Txw51gBws1SMQcCSQCE,Love Me,AVIRA,proghouse_melodic,0.00272,0.802,0.415,253770,0.547,0.77,8,0.0574,-11.371,1,0.0467,122.0,4
+928,6I5qB9Zjs7yJFUg6Ox5paT,So Hooked On Your Lovin - Gorgon City Extended Remix,Selace,proghouse_melodic,0.0104,0.754,0.566,341438,0.601,0.825,7,0.106,-8.496,1,0.0531,123.996,4
+929,6lmripld3KRxdQIwBzSL3E,Say You Love Me - Gorgon City Remix,Jessie Ware,proghouse_melodic,0.00293,0.76,0.296,304230,0.659,0.79,4,0.0615,-8.527,0,0.0407,123.027,4
+930,2w1xa6Xq4QXqT4P1ZRBBCD,Eve,Gvido Binelli,proghouse_melodic,0.0107,0.843,0.193,400667,0.409,0.89,1,0.0854,-10.847,1,0.112,120.011,4
+931,6I9RdlRSBF3NNcwZ9eNXaV,Spektrum (feat. Ali Love),CamelPhat,proghouse_melodic,0.398,0.535,0.0347,319103,0.707,0.335,1,0.174,-7.055,1,0.0489,122.979,4
+932,3wK37814vyrRNUvTV4R2MU,Waiting,CamelPhat,proghouse_melodic,0.097,0.701,0.249,331511,0.758,0.289,0,0.144,-9.247,1,0.0461,120.001,4
+933,2ts4aOzrLbo8VmVIV6yz18,Breathe (feat. Jem Cooke) - Dark Matter Edit,CamelPhat,proghouse_melodic,0.00404,0.598,0.0364,375101,0.86,0.12,9,0.169,-7.706,0,0.0423,124.988,4
+934,31ks035qNIgKVNCzRpeoDL,Moonlight - Original Mix,Indifferent Guy,proghouse_melodic,0.0727,0.702,0.116,240000,0.95,0.709,11,0.104,-6.136,0,0.045,123.997,4
+935,1wY8KPBGYYQyeKpFCzsFiv,Wrong or Right,Stylo,proghouse_melodic,0.00135,0.746,0.119,422661,0.865,0.529,6,0.0839,-10.15,0,0.0419,124.005,4
+936,5WtP6OFE5HivYcdukEW5ml,Delusions - LORRAINNE Remix,Ben Deeper,proghouse_melodic,0.00868,0.494,0.366,456585,0.696,0.765,1,0.0974,-7.369,1,0.0556,102.866,1
+937,22bNlvnDQbYAq0Ex2sduSu,Orbital,ARTBAT,proghouse_melodic,0.0443,0.776,0.0325,546341,0.853,0.901,1,0.351,-10.264,0,0.0523,123.032,4
+938,6hizzLN6GI5rWUWX2EiKR0,All I Want (feat. Goatchy),Tube & Berger,proghouse_melodic,0.00171,0.605,0.27,224978,0.722,0.831,10,0.0665,-7.315,1,0.037,123.991,4
+939,2lyGyRBBTgvD01duoCwAQC,Dark - Mila Journée Remix,Eleonora,proghouse_melodic,0.0956,0.778,0.322,413658,0.947,0.936,7,0.0932,-7.16,1,0.047,123.029,4
+940,6iRSsdRMHkkJfAqT4Zg5oM,Inside Your Head,Giolì & Assia,proghouse_melodic,0.465,0.609,0.0866,253440,0.716,0.124,11,0.382,-6.871,0,0.045,124.977,4
+941,38MbUy2C0FLv6exayPlImu,Midnight (The Hanging Tree),HOSH,proghouse_melodic,0.00243,0.655,0.538,178823,0.893,0.00888,7,0.124,-5.127,1,0.0428,123.992,4
+942,1KPSW5gu2c72KYsIBTemQ7,Take Me Away - Original Mix,Savin,proghouse_melodic,0.000662,0.777,0.137,410847,0.865,0.72,6,0.0642,-8.237,1,0.0904,117.998,4
+943,01Ilow6n6c06tN2LbEF1SC,Reaction (feat. Maverick Sabre),CamelPhat,proghouse_melodic,0.00429,0.599,0.136,288374,0.812,0.175,2,0.258,-8.105,0,0.0491,123.264,4
+944,2ln2FU3b7QtduYe0g3riPL,Children - Extended Mix,Tinlicker,proghouse_melodic,0.0201,0.761,0.0372,429798,0.863,0.896,5,0.0945,-10.321,0,0.052,123.995,4
+945,3KaZ7oiFLWrftVHsswk0z6,Future,Boris Brejcha,proghouse_melodic,0.000161,0.801,0.12,432000,0.771,0.895,10,0.113,-8.826,0,0.0426,125.016,4
+946,6j0ao2DgHem5dpnGeHwufi,Walking Away,Mind Against,proghouse_melodic,0.00305,0.636,0.0686,425907,0.519,0.847,1,0.0933,-10.363,1,0.0581,119.995,4
+947,3G9muO6LcDxtByrxmRY0wM,Fire in the Jungle - Lunar Plane Remix,Oliver Koletzki,proghouse_melodic,0.00639,0.783,0.16,407929,0.711,0.878,7,0.0776,-10.013,0,0.0603,123.002,4
+948,2kCZ8eOCU6nMnXp3FzyhUE,Your Voice - Enoo Napa Remix,AWEN,proghouse_melodic,0.00246,0.719,0.459,450461,0.723,0.801,6,0.11,-9.392,1,0.0406,120.005,4
+949,43ra6sCSWB4vttGezXhGG3,Rain,Matteo Bruscagin,proghouse_melodic,0.393,0.583,0.366,318611,0.667,0.228,6,0.0786,-9.658,0,0.0302,121.714,4
+950,47X73EUPjNVtzBGiYyohgG,Before Tonight,Stylo,proghouse_melodic,0.000805,0.728,0.0367,389032,0.914,0.749,6,0.113,-9.503,0,0.0388,123.988,4
+951,2685tEEAMh783l1keQpoiE,Illusion,Grigoré,proghouse_melodic,0.021,0.652,0.0359,284153,0.748,0.306,1,0.111,-9.155,1,0.0551,123.99,4
+952,2uYjqajgzEy3VAajOnNf24,Voyageur - Fur Coat Remix,UNDERHER,proghouse_melodic,0.000793,0.625,0.188,378587,0.671,0.472,3,0.131,-12.166,1,0.0335,122.999,4
+953,2zebh9lWXm3hMe0fchgn8R,Betablocker,Drumstone,proghouse_melodic,0.00166,0.588,0.103,454355,0.883,0.741,3,0.101,-8.952,1,0.0418,123.971,4
+954,2snpDDIB99jU24zOFoCWPe,The Sea,Solayre,proghouse_melodic,0.162,0.768,0.122,476686,0.857,0.773,11,0.0885,-12.428,0,0.0499,122.008,4
+955,5Y4ag6Rc3BlHUAE9yGQAnK,Flora,Goom Gum,proghouse_melodic,0.0018,0.782,0.388,482605,0.66,0.901,7,0.0488,-6.149,1,0.0741,120.99,4
+956,4cTW1QdgCJiqE1Pvreb80L,Moon Rocks,Enrico Sangiuliano,proghouse_melodic,0.0016,0.788,0.439,453120,0.625,0.905,1,0.299,-6.428,1,0.0375,125.012,4
+957,5RLzPiEqJKP7AJbTOfr1io,Edge Of Our Mind,Monophase (IT),proghouse_melodic,0.0141,0.59,0.029,492195,0.802,0.787,6,0.103,-10.579,0,0.0586,125.011,4
+958,1bq4KOoCMzQQNexmTU12bh,Trapdoor,Gorgon City,proghouse_melodic,0.00156,0.669,0.374,248614,0.825,0.913,7,0.0924,-6.8,1,0.0411,124.992,4
+959,4u7IGG3nLSAqQDZdvvn6BE,Milky Way,AfterU,proghouse_melodic,0.000484,0.799,0.0991,374000,0.729,0.83,7,0.112,-9.353,1,0.0695,124.014,4
+960,4s26oKjoJvQj1ILeRgL0ky,The Time Traveler's Watch,SKALA,proghouse_melodic,0.163,0.75,0.0319,468036,0.841,0.936,9,0.0697,-9.523,0,0.0428,123.012,4
+961,0YludRHvePQ6wgu1I032FO,Puzzle (feat. Malena Maria),Boris Brejcha,proghouse_melodic,0.000105,0.736,0.421,485760,0.72,0.868,5,0.0868,-10.587,1,0.046,124.991,4
+962,61Br6cEo47EecOu7su6dGO,Vanilla Pulse - Original Mix,Modeplex,proghouse_melodic,0.0355,0.743,0.177,419032,0.608,0.829,10,0.0938,-13.083,0,0.0526,124.0,4
+963,0YngBJ4YqtIzoUo24r5qNT,Cultum,Mia Mendi,proghouse_melodic,0.000289,0.608,0.467,411791,0.732,0.792,2,0.0921,-8.705,1,0.0458,121.997,4
+964,47ZtIbXcqQt0z3YFmcscDI,Roadtrip,Ann Clue,proghouse_melodic,0.0141,0.576,0.0375,493440,0.386,0.92,7,0.102,-12.604,1,0.061,124.994,4
+965,0RMQgXHIBTsAVcaS7qahLq,What To Do - &ME Remix,Guy Gerber,proghouse_melodic,6.54e-05,0.904,0.408,504590,0.727,0.86,7,0.0737,-9.992,0,0.0591,122.001,4
+966,2jCQb8JzlAyKMd62R6OVeZ,It Makes You Forget (Itgehane) - I:Cube Remix,Peggy Gou,proghouse_melodic,0.0307,0.633,0.757,401721,0.79,0.349,0,0.0768,-8.755,1,0.0387,125.0,4
+967,2Cmg7EmXqZoZmFrasUoGSp,Young And Stupid,Boris Brejcha,proghouse_melodic,0.00142,0.833,0.196,504960,0.482,0.861,2,0.0929,-9.979,1,0.0498,125.018,4
+968,2Z8TDEAPAhcQ08KjCor7l8,Don't Miss,Fake Mood,proghouse_melodic,0.327,0.635,0.271,487193,0.716,0.848,0,0.0575,-8.139,0,0.0385,121.012,4
+969,3OX5mIP9bV8POI42tE4cBA,Trapdoor - SOSA Remix,Gorgon City,proghouse_melodic,0.0593,0.784,0.0751,405100,0.589,0.912,2,0.0961,-12.378,0,0.0768,125.015,4
+970,2G4dPCpm8jaEiM37lwUgti,Kalina,Space Motion,proghouse_melodic,0.00772,0.762,0.148,466342,0.576,0.878,7,0.0892,-9.093,1,0.0414,123.003,4
+971,7oWKQrFAffaiyfROl2GAcI,Mura,Gardens of God,proghouse_melodic,0.215,0.756,0.0419,422653,0.587,0.927,11,0.112,-12.675,1,0.0457,124.995,4
+972,5S0hocpVHzTPWS38XO7iNS,Change,Fabrication,proghouse_melodic,0.02,0.638,0.068,407055,0.738,0.845,2,0.637,-10.499,1,0.0416,124.988,4
+973,3vRZ3T4SEZ1ZdYNAzScYPA,Breathing,Fake Mood,proghouse_melodic,0.065,0.845,0.302,456193,0.85,0.805,7,0.173,-9.852,1,0.0456,120.004,4
+974,62F0yfVTEnjOBWKiXEEELZ,Trinidad Dreams,Analog Sol,proghouse_melodic,0.00114,0.538,0.398,218182,0.893,0.836,1,0.107,-6.178,1,0.05,121.021,4
+975,5RI6j8oqmB0WgErBYqh1si,Renaissance,Maxim Lany,proghouse_melodic,0.228,0.483,0.0387,233860,0.427,0.86,2,0.0914,-12.585,1,0.072,123.001,3
+976,1J0mAukQsBPxDJu8hVUAdM,Purple Noise - Boris Brejcha Re-Noise Edit 2021,Boris Brejcha,proghouse_melodic,0.000738,0.799,0.269,599520,0.551,0.887,5,0.103,-11.883,1,0.0453,125.0,4
+977,70gd2bCYCuVXqHDoc0W3AX,Rider - Extended Mix,Pavel Khvaleev,proghouse_melodic,0.0553,0.735,0.154,363404,0.681,0.917,6,0.0893,-10.197,1,0.0483,123.994,4
+978,4gGDPZNE4rDlmPbOQH5wzU,Feel My Body - Extended Mix,Space Motion,proghouse_melodic,0.00082,0.802,0.598,408000,0.825,0.841,6,0.0575,-5.451,1,0.0421,124.004,4
+979,5YU1JZYLCtrdN5vzizIN2Q,Slowly Drowning - Betical Remix,UNDERHER,proghouse_melodic,0.0264,0.757,0.0454,368781,0.478,0.535,8,0.106,-11.201,0,0.0444,123.006,4
+980,770zzJRmEN0sudaxuD7GkB,Fading,ARTBAT,proghouse_melodic,0.0924,0.615,0.0543,487869,0.655,0.8,7,0.144,-9.968,0,0.0412,122.002,4
+981,5k9JC4apQfkADSizXjbacn,The Verge,Innellea,proghouse_melodic,0.031,0.669,0.104,350401,0.563,0.697,6,0.115,-11.742,0,0.0367,121.997,4
+982,7lc6kGBWIiseOkCUTa8FOG,Origins,ENØS,proghouse_melodic,0.0201,0.731,0.0333,396468,0.629,0.902,2,0.552,-11.212,1,0.0439,125.994,4
+983,18XoiSzpBYBGBhDb52acQw,Lose Your Head - CamelPhat Remix,London Grammar,proghouse_melodic,0.0141,0.554,0.0712,216201,0.872,0.027,6,0.585,-7.155,0,0.0392,122.999,4
+984,3L5LIZs4OOxQrLNrwPUYAK,COL,Circle of Life,proghouse_melodic,0.035,0.72,0.0363,460503,0.525,0.915,1,0.104,-14.092,1,0.0673,122.985,4
+985,3ZuBihe2QVKGN88F4RTWu6,Wish We Could,Nico de Andrea,proghouse_melodic,0.000474,0.652,0.367,234250,0.865,0.725,6,0.0721,-7.573,1,0.0412,120.01,4
+986,1SxBUUuaMAzdzqiggMGMmb,You've Done Enough - Terrace Dub,Gorgon City,proghouse_melodic,0.00654,0.77,0.477,309333,0.761,0.681,0,0.0835,-7.3,1,0.0419,124.998,4
+987,0WUI5sIb9cmFeRfNptr0eu,In A Dream,Ali Bakgor,proghouse_melodic,0.219,0.656,0.339,222545,0.955,0.87,1,0.221,-5.338,1,0.0358,124.017,4
+988,4295uEtEdRRhir4ojRDoXb,Feed the wolf - Original Mix,Marat Mode,proghouse_melodic,0.0182,0.682,0.12,421033,0.707,0.529,1,0.109,-8.675,1,0.0336,118.996,4
+989,0iPbUgt2XOEK6VeTPw8Sjh,My Skills - Original Mix,Helen&Boys,proghouse_melodic,0.000857,0.668,0.0395,262810,0.896,0.743,10,0.342,-5.049,0,0.0338,121.019,4
+990,655pS6xOEA1Hkvk5jNPr3r,Voyage,Mode Apart,proghouse_melodic,0.0495,0.697,0.6,444939,0.751,0.861,0,0.0941,-7.575,1,0.0572,123.016,4
+991,4gVgW5a6W7mdrZtKj6TT9E,On The Beach - Kryder Extended Remix,York,proghouse_melodic,0.00183,0.685,0.377,342192,0.75,0.868,1,0.134,-7.598,1,0.0405,123.99,4
+992,2WZfx2pn22JH6WrKcco2lU,Boy in the Garden - Moonwalk Remix,Marc Holstege,proghouse_melodic,0.00303,0.715,0.128,393130,0.684,0.877,10,0.0991,-10.094,0,0.0626,124.022,4
+993,2Q4lQGE9b0bTA2so8pbLsr,Legend,Moonwalk,proghouse_melodic,0.00275,0.788,0.0295,347619,0.793,0.923,4,0.112,-10.471,0,0.0441,123.021,4
+994,09rK8Qkszp54ED3OscHXZB,Inside My Head,Roumex,proghouse_melodic,0.0777,0.752,0.665,380750,0.7,0.721,2,0.0975,-8.747,1,0.0467,126.019,4
+995,2Jw60ZUSk0DZ9pFLO6kOBA,Without You (feat. Lydia Lyon) - Extended,BLR,proghouse_melodic,0.0189,0.724,0.0384,301935,0.615,0.811,9,0.105,-10.506,0,0.0732,123.991,4
+996,0kTS3DISfOqmujH8OrY7BN,Immortali - Original,Mia Mendi,proghouse_melodic,0.0781,0.814,0.288,508570,0.561,0.926,2,0.104,-9.778,1,0.132,122.004,4
+997,1W2VVvmhalVZb3v2bRCMIE,What They Say - Ian Tosel Remix,Josh Lake,proghouse_melodic,0.00115,0.76,0.553,436245,0.498,0.811,8,0.138,-10.178,0,0.0404,115.002,4
+998,5LugiSgbBi978F37f1K0Ba,Empire - Remix,Sugar Hill,proghouse_melodic,0.00448,0.787,0.335,443000,0.951,0.687,7,0.0764,-6.089,1,0.0637,123.969,3
+999,5SUdq2J276rHG8nfH0uMV6,Namatik,Alan Cerra,proghouse_melodic,0.18,0.71,0.133,479632,0.724,0.852,1,0.605,-10.715,1,0.0558,121.987,4
+1000,5OwqK4w9V8c0oNpHw1kaWZ,Teotihuacan,Alar,proghouse_melodic,0.000158,0.804,0.149,451089,0.836,0.887,8,0.0909,-8.293,1,0.054,124.007,4
+1001,1yyqiSqtyfAaMTMbibExnS,Raindrop,Miss Monique,proghouse_melodic,0.123,0.73,0.0361,417049,0.77,0.903,1,0.11,-9.717,0,0.0433,121.986,4
+1002,4SkmZvciMZmMinCeEA7g5L,4 to the Floor (feat. Nikol Apatini),HUGEL,proghouse_melodic,0.00379,0.606,0.154,176585,0.894,0.0994,6,0.0689,-7.37,0,0.0376,122.983,4
+1003,5EyxAbeZDTyFfsu6sHbp2h,Hindiedance,HIGHLITE,proghouse_melodic,0.00876,0.725,0.299,426885,0.7,0.524,5,0.0722,-10.85,1,0.0923,121.99,4
+1004,7ehBoh9FIeIiEnORzexRZ2,For Every Forever,Mathame,proghouse_melodic,0.00237,0.713,0.0556,382500,0.537,0.387,4,0.0856,-8.741,0,0.0421,128.034,4
+1005,2USGf4LHx8YAgzsewSDzM5,Sinner - Mathame Remix,Monolink,proghouse_melodic,0.00215,0.762,0.401,404078,0.657,0.358,4,0.238,-8.091,0,0.0473,123.004,4
+1006,4EMHeoQ2e2WgUKtALdLvLw,Get Down - Short Edit,Alegant,proghouse_melodic,0.00661,0.703,0.0333,214122,0.778,0.425,2,0.107,-6.571,1,0.044,122.013,4
+1007,3xaYNulG8k2OZaAOpPbvbu,Doubts,Stephan Jolk,proghouse_melodic,0.000479,0.733,0.221,340831,0.508,0.882,7,0.0923,-11.183,0,0.0386,126.002,4
+1008,3obZOZxYE2oH7qT5TwniHr,Mucho Bien - VA MO LA Remix,MR.BLACK,proghouse_melodic,0.00394,0.695,0.0388,205161,0.754,0.432,3,0.111,-7.711,0,0.0538,124.06,4
+1009,2qAFFpp3V1IL2OrNPlbuin,Cliche,Space Motion,proghouse_melodic,0.00247,0.616,0.146,237049,0.806,0.666,9,0.135,-8.678,1,0.0391,122.017,4
+1010,0cfTaqEGSpFZCCmH7Pczfn,Dismay - Pavel Khvaleev Extended Remix,Pavel Khvaleev,proghouse_melodic,0.0347,0.708,0.113,360003,0.856,0.84,1,0.123,-6.784,1,0.0321,120.002,4
+1011,1nayZKC9k8THUCxxSPi39f,Dancing in the Desert,Stylo,proghouse_melodic,0.00148,0.806,0.0394,458831,0.908,0.88,9,0.0846,-6.87,1,0.0485,121.989,4
+1012,7eV7iE9PaAmpfZyYViqQeW,Should Have Seen It Coming,Franky Wah,proghouse_melodic,0.228,0.4,0.0582,238073,0.87,0.0105,3,0.319,-5.749,0,0.0439,119.991,4
+1013,6uPpN1s2XOsnK5m39VsFh5,Goodbye,Atribút,proghouse_melodic,0.00141,0.78,0.0632,412917,0.845,0.401,9,0.442,-6.158,1,0.0419,122.997,4
+1014,4O4WO1Squm4pHpm83a8KbY,Sweet Disposition - Camille Luciani Mix,The Temper Trap,proghouse_melodic,0.0274,0.664,0.251,405610,0.645,0.616,7,0.086,-10.002,1,0.0375,124.994,4
+1015,4TQgbkv9CF1Qy4GIfpZeSO,The World You See,Cristoph,proghouse_melodic,0.0119,0.545,0.0398,217515,0.903,0.0647,10,0.0803,-7.279,0,0.0485,126.0,4
+1016,7E1251gqwQhtKB4QQxg4gA,Singapore - Extended Mix,Anturage,proghouse_melodic,0.0377,0.802,0.342,424000,0.923,0.706,6,0.033,-7.88,1,0.0626,119.986,4
+1017,0OuGUoNWe91oGkJ0Wh0Je6,Everlasting World - Massano Remix,Four Hands (GER),proghouse_melodic,0.326,0.604,0.333,394839,0.794,0.894,10,0.145,-10.852,0,0.0449,123.992,4
+1018,40Zxb6fRX7Oeu9cY2Rvxgf,Even Closer,Jose Amnesia,proghouse_melodic,0.000198,0.7,0.0705,197277,0.623,0.344,1,0.0771,-9.285,1,0.0391,123.982,4
+1019,3Allgqu3MaHE8QFvzoP90S,Hold Me To The Light - Tale Of Us Remix,KAS:ST,proghouse_melodic,0.00363,0.643,0.0854,398095,0.822,0.749,7,0.13,-9.29,1,0.0497,125.969,4
+1020,3sMQ55H79frDZG6TXam3UC,The Prey - Mind Against Remix,Monolink,proghouse_melodic,0.0987,0.656,0.0728,444738,0.564,0.408,11,0.111,-11.818,0,0.0452,123.998,4
+1021,1tpRmp2ieQXnIGDdNrkRuq,Breath - Binaryh Remix,Kommodo,proghouse_melodic,0.00568,0.797,0.0956,416000,0.866,0.865,7,0.0821,-10.373,1,0.0531,123.996,4
+1022,3CEu4XGa50ASfqNh46fY4A,Everything You've Done - Original Mix,Steve Levi,proghouse_melodic,0.0044,0.675,0.292,281500,0.745,0.837,7,0.0953,-8.468,1,0.0442,120.004,4
+1023,6DuTXPpowLA1vk8fzqaLtB,Nothing Around Us,Mathame,proghouse_melodic,0.00369,0.589,0.309,345600,0.889,0.165,10,0.127,-7.62,0,0.0358,124.988,4
+1024,3qhW02v4Yo6d5lPhxE6iZb,New Era,Yotto,proghouse_melodic,0.0658,0.588,0.0589,221066,0.92,0.717,8,0.107,-10.149,0,0.0388,122.026,4
+1025,1PjFPRW9tBjjNUrUy7hX2T,Rapture,Moonwalk,proghouse_melodic,0.00461,0.625,0.149,269153,0.863,0.863,1,0.113,-7.195,1,0.0382,123.998,4
+1026,0WSnUhRRlumxvGQAYWdR9m,I Won't Let You Fall - Space Motion Remix,Aly & Fila,proghouse_melodic,0.00483,0.693,0.273,449032,0.731,0.543,2,0.112,-8.552,1,0.0438,122.987,4
+1027,5ovAmYzYLeEmOX6P3bmlzV,Dreams (feat. Lanie Gardner),David Guetta,proghouse_melodic,0.0904,0.61,0.0723,204103,0.896,0.000157,9,0.0943,-4.471,0,0.0384,128.056,4
+1028,169tYLFL8xLZNEKIHuUNfH,Alone,Daav One,proghouse_melodic,0.232,0.624,0.0892,186000,0.955,0.677,10,0.366,-5.362,0,0.0429,124.993,4
+1029,3GDgDOywpFJh6fszQ6C7cA,Different Life - Dmitry Molosh Remix,Anton Ishutin,proghouse_melodic,2.74e-05,0.804,0.494,451500,0.66,0.4,7,0.077,-7.428,1,0.0448,120.009,4
+1030,6rGqiK4oKP9RtRdTjGepNH,The Future Is The Past,Colyn,proghouse_melodic,0.000114,0.747,0.331,283867,0.817,0.809,10,0.106,-9.034,0,0.0528,126.041,4
+1031,5ebmgjX1AIlMPXmAvmxfoH,Spicy (feat. Ginger) - Edit,Boris Brejcha,proghouse_melodic,0.000243,0.711,0.142,211200,0.472,0.827,7,0.0838,-10.52,0,0.0464,125.013,4
+1032,7qmj6GXCoataBL3kBYBrII,Bridges In The Sky (feat. Maurits Colijn),Colyn,proghouse_melodic,0.101,0.751,0.641,345366,0.729,0.918,11,0.113,-9.282,0,0.0389,122.988,4
+1033,4oWDaJpusSH1lqIQQkEHsS,Father Ocean - Ben Böhmer Remix Edit,Monolink,proghouse_melodic,0.396,0.609,0.0391,318675,0.74,0.749,2,0.113,-11.046,1,0.0342,122.008,4
+1034,65bMFgIYR9rxMR9GeYraIh,A Declaration of Love,Stephan Jolk,proghouse_melodic,0.0124,0.66,0.0883,334433,0.676,0.877,7,0.0886,-10.05,0,0.0343,126.0,4
+1035,5k9JC4apQfkADSizXjbacn,The Verge,Innellea,proghouse_melodic,0.031,0.669,0.104,350401,0.563,0.697,6,0.115,-11.742,0,0.0367,121.997,4
+1036,720zug7OF2GcoCbQuc3yOb,Weakness (feat. Liz Cass),Will Easton,proghouse_melodic,0.0669,0.589,0.0918,202106,0.856,0.00933,11,0.078,-9.819,0,0.0367,123.012,4
+1037,0so587BGO1K3OU3fMqF25I,Skywalking,Mathame,proghouse_melodic,0.0215,0.683,0.0308,374721,0.824,0.918,8,0.0661,-7.779,1,0.0882,127.411,4
+1038,5S9CVtHlcWHDNwznSfdkUt,Wicked Game - Jerome Isma-Ae & Kamilo Sanclemente Remix,Varun Fernandes,proghouse_melodic,0.0903,0.653,0.097,257705,0.915,0.604,10,0.102,-8.945,0,0.0413,122.008,4
+1039,1eV81a6H4xDdpi8r2C4tQT,Gravity,Boris Brejcha,proghouse_melodic,0.00149,0.783,0.0734,216000,0.616,0.769,7,0.117,-11.131,1,0.0691,125.023,4
+1040,2ykhrgTr3tyGFni7nBzVmT,Signal in the Noise - Matchy Remix,Stil & Bense,proghouse_melodic,0.0735,0.714,0.0851,491613,0.7,0.787,7,0.0768,-10.074,0,0.0505,123.995,4
+1041,736MgYHdLtKTBKGJTutpGz,Nobody,Gorgon City,proghouse_melodic,0.0236,0.701,0.281,199173,0.663,0.0107,1,0.114,-9.076,1,0.0277,120.039,4
+1042,5r43Rwy2cBKF6HQYIS41Bw,Hide U - Tinlicker Remix,Sian Evans,proghouse_melodic,0.00149,0.498,0.126,221048,0.868,0.113,0,0.139,-6.863,0,0.0327,123.979,4
+1043,7odKesrr8BMPPeKAj9EzQy,Feels Good - Patrice Bäumel Remix,Audiojack,proghouse_melodic,0.000965,0.767,0.189,444337,0.565,0.5,5,0.115,-10.693,0,0.0326,125.995,4
+1044,2C6vhYPPt0OKbPaiuohicj,Sacrifice - Gorgon City Remix,Bebe Rexha,proghouse_melodic,0.0186,0.662,0.576,224944,0.923,0.103,11,0.383,-5.028,0,0.0508,123.958,4
+1045,5XJQMzNZnNLOTUulOtyJFe,Drift Away - Alex Hook Edit,Mika Olson,proghouse_melodic,0.000709,0.757,0.488,240000,0.805,0.279,5,0.709,-5.166,1,0.0376,115.04,4
+1046,5fxbsDKgnDZvuXayxcTMgL,Katalam,Angelov,proghouse_melodic,0.189,0.811,0.7,399265,0.854,0.907,5,0.0941,-9.196,0,0.0742,121.01,4
+1047,1yBGkMuZCL5JfRfRAUWzj1,Time Again,Jan Blomqvist,proghouse_melodic,0.00108,0.629,0.242,501737,0.865,0.857,2,0.0613,-6.873,1,0.0413,122.989,4
+1048,5qcp6MEFlyqR1E90wlKYoT,Stay With Me,Lyke,proghouse_melodic,0.154,0.676,0.0445,303398,0.75,0.186,5,0.0787,-11.298,0,0.0426,125.011,4
+1049,7ijPdgqrIsjgyzgSxGxqoj,Breath - Mathame Remix,Alessandro Martire,proghouse_melodic,0.0221,0.749,0.377,314880,0.641,0.881,1,0.108,-12.407,1,0.054,124.993,4
+1050,2dJMGjWyyJoiW8Xmw5zSLW,Arctic - Morttagua Remix,Rauschhaus,proghouse_melodic,0.0018,0.617,0.294,429268,0.798,0.81,6,0.116,-11.689,1,0.0431,122.988,4
+1051,004UNGJWRbWoXwlF1qCfbU,The Center Will Not Hold - Club Edit,Solomun,proghouse_melodic,0.193,0.753,0.808,354107,0.627,0.905,6,0.11,-9.357,1,0.0419,119.999,4
+1052,4BK0F46XtXRSXcjCkKqBSJ,Scifi,Xandl,proghouse_melodic,0.002,0.774,0.126,334426,0.898,0.913,7,0.381,-7.63,1,0.0409,122.001,4
+1053,1Z7U3SZxDkuRgbqQFY3BEi,Falling Alone,Lyke,proghouse_melodic,0.0101,0.662,0.0725,328944,0.496,0.702,0,0.19,-11.249,0,0.0499,125.99,4
+1054,2y9Sbx0B3zN6svs7oS75gG,Right On,Space Motion,proghouse_melodic,0.000143,0.727,0.422,440277,0.72,0.903,6,0.101,-7.108,1,0.0511,123.0,4
+1055,3HV3ivLLMhSzfJ7Y1Vz2fX,Wowshit,Karmon,proghouse_melodic,0.00549,0.807,0.41,421651,0.71,0.909,2,0.102,-9.121,1,0.0567,119.012,4
+1056,2Kok6mTnBEaM41T9q4PgJD,The Pursuit of Loneliness,Joe Rowe,proghouse_melodic,0.0656,0.863,0.417,391680,0.511,0.861,0,0.0581,-11.617,1,0.0662,125.003,4
+1057,0zYEBFVtY3xi5yc0xq23WI,Ocean,Ali Bakgor,proghouse_melodic,0.0509,0.813,0.624,201125,0.693,0.0018,4,0.11,-6.285,0,0.0574,119.994,4
+1058,7ejkF9KOwiMsOzwLJpJRD6,Silent Summer,Budakid,proghouse_melodic,0.00187,0.761,0.179,385581,0.893,0.833,2,0.0523,-8.9,1,0.0671,120.992,4
+1059,61eyaitcIdl1jpnc6Kb8M3,Deep End,John Summit,proghouse_melodic,0.00418,0.797,0.835,156210,0.843,0.527,1,0.123,-7.672,0,0.0442,125.992,4
+1060,4nIIFMZnEq5jVl8julgd6t,Still,Glowal,proghouse_melodic,0.000188,0.793,0.0931,458361,0.742,0.927,11,0.112,-9.725,0,0.0787,122.004,4
+1061,6HP6B6kUAaYWto5QPDWIPO,Don't speak,Moonlight,proghouse_melodic,0.274,0.715,0.356,141979,0.474,5.67e-05,2,0.204,-7.87,0,0.0519,125.998,4
+1062,3aAgQEbQUFMhXqk9fz3fcK,House Music (feat. Arctic Lake) - Edit,Boris Brejcha,proghouse_melodic,0.000299,0.818,0.334,179520,0.35,0.0103,7,0.124,-12.34,1,0.0558,125.002,4
+1063,0QtfZjnSP9CqZg3vK92jIW,Different People,Moonwalk,proghouse_melodic,0.00197,0.702,0.229,381405,0.7,0.794,11,0.0998,-7.86,0,0.0448,121.996,4
+1064,5syEp3BeXTxh4CIExEuY9L,Resize - Alar & Korolova Remix,Bondi,proghouse_melodic,0.00467,0.806,0.365,474344,0.643,0.749,3,0.0786,-8.614,0,0.0475,120.014,4
+1065,33ilA1PbMGh6rzL6MJfBA7,How Does It Feel - Paul Woolford Remix,London Grammar,proghouse_melodic,0.0264,0.63,0.417,197034,0.719,0.0,9,0.0995,-6.258,1,0.0347,122.013,4
+1066,5xgLtnA49zXCJspN8ATIk0,Foolproof,Hayden James,proghouse_melodic,0.155,0.638,0.26,267349,0.83,0.0999,5,0.0713,-6.207,0,0.0343,124.004,4
+1067,4USLGNbRll2M1H9WFuNF6M,Naboo,Hot Since 82,proghouse_melodic,0.000124,0.808,0.917,313078,0.951,0.769,0,0.0421,-4.006,1,0.0437,121.012,4
+1068,2XPBDZ550pUK7EA7XAnEU6,Suspended In Air - Sascha Braemer Remix,Off Night,proghouse_melodic,0.000892,0.712,0.238,375737,0.757,0.814,4,0.112,-10.324,1,0.0395,123.0,4
+1069,1tvYWv4r2XR2zDy3CfWGbZ,Don't Come Back (feat. JOSEFINA),Miss Monique,proghouse_melodic,0.00227,0.37,0.0745,284628,0.648,0.75,5,0.167,-11.656,0,0.0365,121.004,4
+1070,0SwaZg1r9nxof3fZPRLvJI,Patchouli - Original Mix,SuperFrogz,proghouse_melodic,0.0393,0.782,0.187,468293,0.889,0.826,11,0.0858,-8.753,0,0.0425,123.007,3
+1071,2E8P3yflD1F5nTJqamcfNF,Tales & Dreams - Eran Hersh Remix,Passenger 10,proghouse_melodic,0.00245,0.684,0.259,376320,0.868,0.75,1,0.0742,-6.343,1,0.0508,124.999,4
+1072,1xuQ8AKOH3Q4IQTW6jLptV,Together,AMAD,proghouse_melodic,0.0037,0.712,0.198,369836,0.565,0.827,10,0.117,-10.536,0,0.063,122.007,4
+1073,4UwtgYX9wp4z9zLIfzVviV,Lost Gravity,Tinlicker,proghouse_melodic,0.0018,0.326,0.0317,305402,0.881,0.882,5,0.122,-7.806,1,0.0393,120.319,4
+1074,7eUfrv3UCF4XkkhXRyZqTc,Compound,Tinlicker,proghouse_melodic,0.00828,0.607,0.191,267218,0.835,0.899,1,0.201,-7.223,1,0.0409,124.009,4
+1075,3w3FNdoX0K3XvfE9o3ENoj,Symphony (feat. Yann Menge),Alar,proghouse_melodic,8.14e-05,0.677,0.273,263607,0.89,0.777,5,0.19,-6.28,0,0.032,122.011,4
+1076,7pokvcD4CKPjuuH2tFTmZe,Her Entrance - Innellea's Interstellar Remix,Parra for Cuva,proghouse_melodic,0.00171,0.606,0.0384,428853,0.816,0.806,9,0.0779,-7.11,0,0.034,121.995,4
+1077,0ThPAtLfX0NbibIrEfWFHi,Out Of Reach,Cristoph,proghouse_melodic,0.00102,0.504,0.0317,255992,0.762,0.701,10,0.128,-7.861,0,0.036,123.968,4
+1078,7tj8BiT5B8vPjOExexs6Zf,Player,Stylo,proghouse_melodic,0.000111,0.789,0.028,380656,0.684,0.862,11,0.0912,-10.096,1,0.0525,121.995,4
+1079,1I2LyO8tTB72DB0X6BSzxs,Give You Nothing - Extended Mix,Kryptic (UK),proghouse_melodic,0.0219,0.73,0.136,400925,0.554,0.604,10,0.12,-12.608,0,0.043,121.0,4
+1080,6cZ3lNJnKyHC8Dyoojl0mD,Dance Away The Pain,Da Capo,proghouse_melodic,0.000495,0.631,0.3,517759,0.594,0.87,8,0.106,-8.905,0,0.0414,123.005,4
+1081,2dZbpigXWlwOi6wNjGFtwN,Another You Another Me,S.I.D (US),proghouse_melodic,0.0057,0.653,0.0382,377884,0.717,0.647,7,0.107,-11.192,0,0.038,122.003,4
+1082,5y59JmtOuwsS3rZA1mV27i,Made of Cashmere,Oliver Koletzki,proghouse_melodic,0.000671,0.802,0.0382,353051,0.808,0.892,7,0.0981,-9.75,1,0.059,121.006,4
+1083,4HtBM0zUi3ieJgkSi5L7TF,Come Back Around,Eli & Fur,proghouse_melodic,0.0078,0.753,0.569,231350,0.678,0.198,7,0.474,-8.492,0,0.0384,125.003,4
+1084,0megFGFoMy2ueMv48YHDGw,Pulling Me Back Ft. Lovlee,Eli Brown,proghouse_melodic,0.00115,0.616,0.338,198750,0.922,0.509,8,0.149,-5.587,1,0.0414,127.998,4
+1085,03TJFoEoHpo9vxCKJo60Ln,Rigel - Extended Vocal mix,Massimo Logli,proghouse_melodic,0.000847,0.746,0.399,387128,0.74,0.0287,2,0.529,-8.447,1,0.0899,121.988,4

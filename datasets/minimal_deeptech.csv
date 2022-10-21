@@ -1,0 +1,1042 @@
+,id,name,artist,genre,acousticness,danceability,valence,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature
+0,6KGbhJPOENeLN06ESWq7ov,Cheval Blanc,Matt Sassari,minimal_deeptech,0.00194,0.911,0.859,372480,0.636,0.499,9,0.358,-10.507,1,0.124,125.025,4
+1,6moLbr3q11gHX3vuMbHfca,Lose Your Body,Joseph Edmund,minimal_deeptech,0.000925,0.808,0.873,393071,0.921,0.87,1,0.0716,-7.857,1,0.0548,127.008,4
+2,5F26UXJqCASSw2Bz2IW5bv,Reported - DeMarzo Remix,BADEO,minimal_deeptech,0.0373,0.802,0.491,398095,0.918,0.867,10,0.0703,-10.662,0,0.0964,126.012,4
+3,3O53fPrJW90rwI16QRrRP0,Recoil - Stiven Escarraga Remix,Del Fonda,minimal_deeptech,5.2e-05,0.892,0.748,424000,0.888,0.906,6,0.244,-12.768,0,0.0775,120.008,4
+4,4NjU896U6n8U1veURdHA2l,Weke,Dennis Cruz,minimal_deeptech,2.8e-06,0.805,0.735,372487,0.904,0.908,1,0.0418,-8.663,1,0.0652,124.997,4
+5,3ZqGNX8fFg05hxov2o1FlS,Serendipity,James My & Criss,minimal_deeptech,8.77e-05,0.767,0.737,404000,0.973,0.885,10,0.0851,-7.909,0,0.0593,125.009,4
+6,0aF10rSAtBqkmH4x9RNPfx,The Three,Manuel De Lorenzi,minimal_deeptech,0.00111,0.81,0.258,429105,0.956,0.917,8,0.0171,-7.876,1,0.0537,126.002,4
+7,0rMbCXXiZB3fDSJfwRB84M,Taxidermia - Gustaff Remix,Omaroff,minimal_deeptech,0.000728,0.812,0.466,400328,0.893,0.91,1,0.0374,-8.093,1,0.0576,122.996,4
+8,4Df6yfdszMis5G0YcJIl5y,Neverthought,OuiOui,minimal_deeptech,0.00683,0.805,0.391,491339,0.636,0.922,5,0.0649,-10.224,0,0.0499,127.017,4
+9,5Zl9JZWOscAYJesQkc4cIr,Little Helper 361-7,Fredo Guerre,minimal_deeptech,0.00744,0.861,0.683,410114,0.897,0.866,10,0.0756,-10.273,0,0.0953,122.997,4
+10,1U0YBRCZESbUvmSLfxbHt6,DeputaMa - Original Mix,Jay Oss,minimal_deeptech,0.000857,0.805,0.762,403320,0.951,0.815,9,0.0369,-10.158,1,0.0704,124.997,4
+11,1NmvDGxTrwdIPBhrD1YaVo,Akuni - Radio Edit,Ron Costa,minimal_deeptech,0.00228,0.811,0.742,208537,0.893,0.866,8,0.0478,-8.349,1,0.0609,126.028,4
+12,1Rkpu169e88mbz0xWDTCb1,The Family,Rone White,minimal_deeptech,0.00455,0.81,0.5,390968,0.869,0.919,0,0.0513,-13.363,1,0.0561,124.008,4
+13,275jUippVlgL5h5Q8Nl1k1,Haste - Original Mix,Vele,minimal_deeptech,0.00693,0.805,0.13,365476,0.683,0.917,7,0.0907,-11.458,1,0.0724,126.012,4
+14,5rverxNZjw8JZg6rDSG9PP,Go Go Go,Rone White,minimal_deeptech,4.37e-05,0.808,0.507,379355,0.931,0.913,4,0.0762,-11.15,0,0.0429,124.009,4
+15,1YAhmCqSIj8AMSF9IUNe6K,La More - Astre Remix,Uriah Persie,minimal_deeptech,0.00363,0.794,0.444,390000,0.963,0.897,11,0.0851,-8.807,0,0.0752,128.015,4
+16,3GeRM3GG4W1fifFecrpBi8,Alienation,Artslaves,minimal_deeptech,2.44e-05,0.797,0.145,417590,0.943,0.936,7,0.063,-8.696,1,0.065,125.005,4
+17,1rT54MGZdAY7bK8YrhTAfN,Jolean - Damian Lazarus Re-Shape,Claude VonStroke,minimal_deeptech,0.000148,0.817,0.314,523041,0.459,0.834,5,0.0962,-12.913,1,0.0562,125.002,4
+18,6ujCSZul2KdHNjruXJ3vln,Mafia Groove,Ben Murphy,minimal_deeptech,0.00926,0.81,0.354,464751,0.793,0.891,10,0.0697,-9.337,0,0.047,124.995,4
+19,14grNUvfAkx2efCorLGbkQ,"Something Special - Fhaken, Raul Figueroa Remix",DJ Lugo,minimal_deeptech,0.000245,0.814,0.386,373548,0.621,0.794,9,0.0565,-10.069,1,0.0588,124.01,4
+20,6dGW4erohN77BeSO0zX7r2,Games,Gustaff,minimal_deeptech,0.00103,0.812,0.548,387095,0.845,0.895,6,0.296,-8.288,0,0.0498,124.021,4
+21,08fXVOzkLBOa0yz57QfEsb,Bang Bang,Mancini,minimal_deeptech,0.000353,0.812,0.725,413333,0.646,0.9,11,0.064,-10.54,0,0.104,126.007,4
+22,1dJxpoU11yCzqaikkfz0Dw,Wachufleiva 26-1 - Behache Remix,Kassier,minimal_deeptech,0.0047,0.807,0.774,372712,0.941,0.897,5,0.0867,-6.933,1,0.0769,124.017,4
+23,59kmluWhLpMs6MJmZnJQE4,1st Chant - Original Mix,Nicolas Ming,minimal_deeptech,0.0025,0.834,0.492,399360,0.853,0.218,0,0.048,-8.937,1,0.142,125.009,4
+24,6Dx0FgFNU06qiCs0GSOUwY,Recoil - Original Mix,Del Fonda,minimal_deeptech,0.000292,0.813,0.228,351074,0.678,0.938,1,0.132,-8.838,1,0.0703,121.007,4
+25,44HUumVyrosCzcpWS8NDQ1,Unexpected - Original Mix,Fhaken,minimal_deeptech,0.000888,0.812,0.503,366947,0.755,0.862,7,0.0901,-9.563,1,0.0734,123.002,4
+26,090kchKYToPpWnUhJBpZb7,No Doubt,Rone White,minimal_deeptech,0.000388,0.81,0.54,422697,0.789,0.939,1,0.274,-5.525,1,0.0588,125.014,4
+27,2Fv4foAhQABIae6VO6Mr2a,Crocante,Simas,minimal_deeptech,0.000146,0.805,0.473,405000,0.95,0.928,6,0.0818,-8.784,0,0.0549,128.017,4
+28,0VcHkVdaTkhFWyELC3u0jz,Hold Me Down - Original Mix,Pickisius,minimal_deeptech,0.00715,0.805,0.713,330000,0.853,0.69,7,0.0554,-4.922,0,0.0512,128.0,4
+29,1WsYZzqLQ4Y9EwlcYEUiVG,Like You - Original Mix,Pickisius,minimal_deeptech,0.0042,0.809,0.801,362837,0.858,0.82,7,0.0471,-6.882,1,0.0693,127.013,4
+30,5S8cqMnTVUV3f5JiTjpMl4,What Is This,James Dexter,minimal_deeptech,0.000143,0.814,0.714,410000,0.841,0.788,7,0.0901,-10.652,1,0.132,123.011,4
+31,1aEfjrS6oLigw0bxN6VbaO,Who Said That,James Dexter,minimal_deeptech,0.000104,0.809,0.649,416000,0.75,0.872,6,0.233,-11.771,1,0.053,124.008,4
+32,1vB82fr7FCfQRj79TqXm4X,Talking Whatever,James Dexter,minimal_deeptech,0.00892,0.807,0.818,423000,0.789,0.895,7,0.113,-10.42,1,0.0702,124.005,4
+33,351BGS9dxj6lLSSm3e5mzk,Area 51,James Dexter,minimal_deeptech,0.000472,0.8,0.232,483917,0.654,0.889,1,0.103,-9.146,1,0.0634,117.01,4
+34,43QpgMrNW4hivBGPtkvltF,Split,James Dexter,minimal_deeptech,0.008,0.784,0.42,431263,0.849,0.892,7,0.102,-9.295,1,0.0578,124.98,4
+35,42O2un9ZJ7KD5e9Fs37cA4,Trapped,James Dexter,minimal_deeptech,0.00534,0.811,0.621,409500,0.885,0.8,10,0.0377,-7.013,1,0.0578,123.019,4
+36,6wFg9hCGc3KA6qWrSbIjnH,Departure,Adisyn,minimal_deeptech,0.000118,0.814,0.27,380880,0.821,0.89,1,0.0696,-7.441,1,0.0704,122.006,4
+37,0l5v98YZPm3TR9bxSttLmv,The Truth,James Dexter,minimal_deeptech,0.000687,0.811,0.586,449872,0.84,0.814,10,0.102,-9.904,1,0.108,125.02,4
+38,7laGPkU1KguqmRSurxLl0U,The Universe,Archie Hamilton,minimal_deeptech,0.00208,0.808,0.541,470062,0.552,0.895,11,0.0556,-11.756,0,0.0667,125.013,4
+39,5nUS4bSN0cFZB0knxyM4LZ,Bass Control,iO (Mulen),minimal_deeptech,0.0158,0.825,0.277,448683,0.757,0.941,6,0.132,-8.995,1,0.0456,122.994,4
+40,1MxeXqqsCYq6wnWHEriBGn,Monkey Mind,Hraach,minimal_deeptech,0.00597,0.815,0.447,354431,0.745,0.904,2,0.0616,-8.463,0,0.0463,120.005,4
+41,7in08L1GdV0wvIWNw0du5G,Empty Space,Hraach,minimal_deeptech,0.000612,0.813,0.326,418587,0.627,0.847,9,0.0702,-9.833,1,0.0466,120.021,4
+42,1DoNOJFP4O8qOMl0MbDY6d,Murphy's Law,Hoods,minimal_deeptech,0.000443,0.805,0.599,396939,0.791,0.871,4,0.0769,-11.975,0,0.0617,125.971,4
+43,6LZStaukBIUV0By0vjbuFj,Seems To Be,James Dexter,minimal_deeptech,0.00217,0.848,0.523,368678,0.793,0.865,0,0.0871,-7.089,0,0.229,125.021,4
+44,1tmSdGNbUvx85gmxOTnecA,Take It,Legit Trip,minimal_deeptech,0.000443,0.809,0.234,374634,0.64,0.888,2,0.043,-10.713,1,0.0689,123.009,4
+45,5CYpe0RKozROJukwcLFURZ,Activity,Bassel Darwish,minimal_deeptech,8.92e-05,0.809,0.754,388064,0.949,0.909,7,0.0482,-6.275,1,0.0666,124.008,4
+46,42SGYcoN0EqFw2z4gAyUxF,Flux,Mihai Popoviciu,minimal_deeptech,1.26e-05,0.815,0.622,406860,0.813,0.883,5,0.101,-11.13,0,0.0628,122.983,4
+47,6mSrv6yDGI7v3B7awKfZtd,Circles,Lucio Agustin,minimal_deeptech,0.000751,0.814,0.453,403099,0.82,0.938,1,0.0926,-9.369,0,0.0583,124.006,4
+48,3gI42RGu4HBBLP1pE0FMYs,Cloudy,Frink,minimal_deeptech,0.0107,0.812,0.516,410180,0.573,0.838,9,0.0769,-8.186,0,0.071,121.996,4
+49,1g2bDxZ4XNg6AVGYrPRvXy,Give It A try - Original,PolarNL,minimal_deeptech,0.00672,0.802,0.469,385057,0.786,0.911,11,0.0825,-10.286,0,0.113,126.047,4
+50,2qUN6Not37j4ZuCLfmUvZ7,Equinoxe,Janeret,minimal_deeptech,0.00629,0.793,0.442,401575,0.829,0.922,11,0.0811,-9.999,0,0.087,127.026,4
+51,5iLiKv58I9v5ERgYt1ADwC,Indica Mornings - Ben Rau Remix,Ben Rau,minimal_deeptech,0.0448,0.81,0.417,412000,0.915,0.927,0,0.107,-9.724,1,0.0752,123.999,4
+52,5JcTPYvJmKbgQa9tffD3fg,Stick Out,iO (Mulen),minimal_deeptech,0.00959,0.793,0.0548,545807,0.727,0.889,5,0.106,-9.58,0,0.0484,123.997,4
+53,5VOxs6X2qCyR0TBLHc1TtU,Instate - Original Mix,Rich NxT,minimal_deeptech,6.82e-05,0.812,0.708,360737,0.71,0.91,11,0.463,-8.917,0,0.0475,123.991,4
+54,3y6ELVd4jmy4pQvMN3l4W8,De Ja Vu - Original Mix,Nu Zau,minimal_deeptech,0.0138,0.806,0.671,487752,0.769,0.869,1,0.108,-12.564,0,0.0508,123.995,4
+55,3TUo9PV9eB2BC85XTmCJLc,Expand,Ben Rau,minimal_deeptech,0.0161,0.797,0.492,439500,0.727,0.914,11,0.173,-10.641,0,0.102,126.033,4
+56,5VNqHNtFUs36fz18ud6UFv,Système Solaire,Ben Rau,minimal_deeptech,0.0452,0.807,0.517,487500,0.755,0.863,4,0.31,-9.538,0,0.058,124.998,4
+57,6mCcBLQBtfVALUqCgSyJ6T,Criminal Stuff,iO (Mulen),minimal_deeptech,0.0515,0.82,0.854,454564,0.871,0.575,2,0.0717,-9.762,1,0.0631,122.999,4
+58,5st07VG4qV7ToNNka4wUXN,"Hostom001, pt. 2",Hostom,minimal_deeptech,0.000319,0.79,0.405,526748,0.708,0.725,6,0.106,-11.498,0,0.0566,125.005,4
+59,2wKRJPbR0ldaIcWJqnGLZm,Anatrack,Cristi Cons,minimal_deeptech,0.00769,0.801,0.461,626000,0.756,0.754,4,0.106,-13.573,0,0.0507,126.017,4
+60,2ZK7nxIBWsiAQbnvzpNcxv,"Hostom003, pt. 2",Hostom,minimal_deeptech,0.00241,0.809,0.618,556800,0.703,0.937,4,0.0913,-10.424,0,0.0885,125.009,4
+61,1if58hXFkKn7GtkEVwzApA,Disco Dance - Original Mix,Zendid,minimal_deeptech,0.00862,0.802,0.683,418313,0.698,0.915,7,0.0862,-12.848,1,0.0744,128.033,4
+62,0Bfetq21XDiL09v0zOJaiw,Desire - Original Mix,Enzo Siragusa,minimal_deeptech,0.000335,0.809,0.535,493333,0.568,0.895,4,0.0918,-9.098,0,0.0662,126.005,4
+63,0EYDgeIVaegU9borSJJZTN,Argo,East End Dubs,minimal_deeptech,0.00208,0.813,0.518,470013,0.715,0.829,1,0.0953,-12.616,1,0.0597,120.022,4
+64,219J1uBxrICSHVSsZHZeXM,Hope,Code Deploy,minimal_deeptech,0.0108,0.788,0.223,519508,0.775,0.897,6,0.103,-10.796,0,0.138,126.021,4
+65,2Ulp3eFPiHuvdBSO8WYSrO,Air,Janeret,minimal_deeptech,0.00054,0.804,0.653,480000,0.526,0.85,10,0.0697,-11.803,0,0.0492,124.993,4
+66,0HowWb0VhdMnWxQuh80kWo,"Hostom002, pt. 1",Hostom,minimal_deeptech,0.000153,0.809,0.307,515906,0.64,0.912,8,0.0743,-10.434,0,0.0516,127.013,4
+67,1g20wNMTWrplLdobVo67Lg,Kuro,Gustavo Cerati,minimal_deeptech,0.136,0.872,0.139,243907,0.343,0.898,5,0.13,-15.11,0,0.0809,120.657,4
+68,0FarX44w3qSezsAYhWmE7Q,Mir - Cab Drivers Remix,iO (Mulen),minimal_deeptech,0.00151,0.802,0.166,404720,0.636,0.898,7,0.0964,-15.61,1,0.0699,125.986,4
+69,7qxgCEZ35EskMA2kQlweGQ,Yond,Varhat,minimal_deeptech,0.00894,0.801,0.587,561290,0.869,0.908,11,0.0375,-9.193,1,0.0633,124.02,4
+70,0kVxwc9uHPiVitnoN3ec9T,Outbreak - Original Mix,Paolo Macrì,minimal_deeptech,0.000264,0.829,0.526,400328,0.936,0.893,11,0.0508,-8.839,1,0.0745,124.003,4
+71,3tDFUHTGQfAgYg1iHljqpR,The Playmaker - Dyed Soundorom Remix,Anthea & Celler,minimal_deeptech,0.000939,0.806,0.157,430508,0.6,0.824,1,0.0928,-11.852,1,0.0967,124.987,4
+72,76M3CpU4603Wnhx70fKs3b,Ever - Original Mix,Audio Werner,minimal_deeptech,0.000873,0.742,0.261,661083,0.664,0.755,10,0.262,-11.775,0,0.043,125.005,4
+73,2tH2kG8Sqg4N0lZfRYspVM,We Are - Ben Rau Remix,Philipp Lichtblau,minimal_deeptech,0.0131,0.811,0.35,440315,0.756,0.919,2,0.178,-9.324,1,0.0935,124.978,4
+74,6n4pu5OZstVVqAbkAevupL,Roar,iO (Mulen),minimal_deeptech,0.00232,0.862,0.57,422523,0.894,0.634,1,0.0807,-7.379,1,0.0474,123.013,4
+75,7r4lKtN0gXblXGc0h8ilBU,Flexin - Original Mix,Enzo Siragusa,minimal_deeptech,0.000297,0.799,0.433,431685,0.683,0.929,11,0.0997,-11.933,0,0.126,124.99,4
+76,1zLTeIJW4KSF0ioQxnMhAj,"Quattro, pt. 1",Varhat,minimal_deeptech,0.000162,0.804,0.16,495360,0.719,0.93,6,0.0566,-10.61,1,0.0656,124.985,4
+77,3ibwCcfLMHbHPEfZUoGT2W,"Quattro, pt. 2",Varhat,minimal_deeptech,3.84e-05,0.808,0.0884,525714,0.497,0.848,7,0.057,-8.119,1,0.0742,126.009,4
+78,7B5LfiBtD1ND0DzBnARj9v,Anthem,Varhat,minimal_deeptech,0.00349,0.795,0.886,419556,0.734,0.905,4,0.0939,-13.328,0,0.083,135.007,4
+79,0TPoK7IlxyZZ4qJnPIijTm,Ad Astra,Ben Rau,minimal_deeptech,0.000364,0.807,0.422,489500,0.708,0.89,9,0.319,-8.361,1,0.0788,126.021,4
+80,6BFrb4WhyAddeWX65jjol4,Avocado - (Original Mix),Microlab,minimal_deeptech,0.00423,0.806,0.325,498070,0.554,0.911,1,0.115,-10.467,1,0.0547,124.029,4
+81,31LisiPy2V47PBFiiRbnBg,Kraut,Jichael Mackson,minimal_deeptech,0.0101,0.806,0.39,421848,0.668,0.948,7,0.0732,-10.421,1,0.0577,123.038,4
+82,6KMOHL0EvumhNk4FghOieq,Sigh Of Relief - Original,Brett Johnson,minimal_deeptech,0.000116,0.75,0.249,586000,0.516,0.927,7,0.0419,-12.153,1,0.0571,126.008,4
+83,3FIPf6MKi2EwpMrkg5resM,Right Hook - Original Mix,Archie Hamilton,minimal_deeptech,0.0172,0.802,0.724,466737,0.681,0.855,5,0.0824,-10.453,1,0.0679,125.901,4
+84,6Rs8d54uKgJ7zGg3IwFQRk,Foreal - Djebali Remix,Enzo Siragusa,minimal_deeptech,0.000945,0.806,0.146,432666,0.724,0.937,7,0.0856,-10.654,1,0.0702,126.002,4
+85,6YNoeaHpGIxJzxiJWTRyj1,Lifted Spirits - Original Mix,Enzo Siragusa,minimal_deeptech,0.000897,0.803,0.498,381179,0.628,0.928,7,0.113,-8.246,0,0.0637,127.007,4
+86,5Z76074clRPE8ZeL05zD5j,Telegram - Original Mix,Archie Hamilton,minimal_deeptech,0.00314,0.81,0.726,464747,0.78,0.914,0,0.124,-9.09,1,0.0637,125.976,4
+87,1Dsb5smidF9yZfigdaentb,Raum,Raresh Rush,minimal_deeptech,0.00277,0.801,0.223,398137,0.626,0.921,1,0.0806,-12.359,1,0.0564,126.002,4
+88,543dfE0NdAoYVu0pvwcCvp,Two Is A Pair - Original Mix,Chris Lattner,minimal_deeptech,5.29e-05,0.812,0.311,422213,0.729,0.937,5,0.117,-9.627,1,0.0739,123.003,4
+89,2XRvfF2VJBH0ASLTzQf3vl,Platonic - Inspirational Techhouse Mix,Rhadoo,minimal_deeptech,0.000191,0.812,0.097,512100,0.634,0.883,8,0.0703,-14.149,1,0.0937,124.001,4
+90,0dZppx82IvnFdkPY6QMlBU,Jodo Dune - Original Mix,Ray Okpara,minimal_deeptech,0.000174,0.807,0.507,408462,0.568,0.906,7,0.0853,-10.503,0,0.0589,122.998,4
+91,7gojuJSoP28W0Q0MVWWLN4,Do Your Thing,Ben Rau,minimal_deeptech,0.0132,0.811,0.104,469500,0.778,0.867,11,0.122,-8.621,0,0.0447,125.004,4
+92,54FoplP2RaSk7kgnP3qHsq,Work Hard,Ben Rau,minimal_deeptech,0.000203,0.798,0.183,482931,0.761,0.844,7,0.189,-7.207,1,0.0491,124.999,4
+93,5xkZgeLjNpjgRJEi2baguM,Wild Thing - Original Mix,Archie Hamilton,minimal_deeptech,0.000567,0.808,0.614,491928,0.765,0.817,9,0.0259,-10.139,0,0.0619,126.037,4
+94,0UomQTVBbAfHWsZnXEgNDi,La Créme Bonjour,Petre Inspirescu,minimal_deeptech,0.0588,0.805,0.483,710680,0.597,0.925,1,0.126,-14.307,1,0.059,127.041,4
+95,5oKmdroEBcfHvHVNW1cYqC,All City Brother - Original Mix,Fabe (Ger),minimal_deeptech,0.0166,0.909,0.534,435140,0.538,0.727,11,0.0968,-10.611,0,0.261,125.984,4
+96,7nfhL9Ztui5OPV6iqnfAjN,Wonder,Mihai Pol,minimal_deeptech,1.86e-05,0.809,0.328,592000,0.492,0.894,0,0.0854,-13.624,1,0.0609,124.02,4
+97,41Z0AF7ci3so7x4dXtwaV6,"Hostom ZZZ, pt. 3",Hostom,minimal_deeptech,0.234,0.812,0.384,404516,0.65,0.94,6,0.111,-10.397,0,0.0759,123.993,4
+98,1gItqb0tLV6vJL3N6psP1S,Khū,Varhat,minimal_deeptech,0.000871,0.814,0.0282,474098,0.633,0.925,11,0.069,-10.976,0,0.0742,121.999,4
+99,7DvnyHSrbSLVfac3tZVYO1,Serious - Original Mix,Rich NxT,minimal_deeptech,0.00019,0.81,0.214,446470,0.655,0.938,4,0.113,-12.085,0,0.0642,126.001,4
+100,3mKr8NuxjqyjmwN0WpwZtd,String Theory (Original Mix),Mandar,minimal_deeptech,0.00535,0.742,0.54,604451,0.813,0.846,10,0.129,-10.353,0,0.0544,125.004,4
+101,3stA2W01BmMBEbnMQc6IO1,Correspondance,Cab Drivers,minimal_deeptech,0.000616,0.801,0.361,556549,0.545,0.915,11,0.107,-13.568,1,0.0758,127.395,4
+102,4pruuUCTcYxUYXCw4i8o27,Dos Equis - Original Mix,Archie Hamilton,minimal_deeptech,0.000513,0.809,0.883,462319,0.636,0.913,2,0.0826,-10.916,1,0.0527,126.001,4
+103,5uSuWFMv3z6V1Ah2nragRa,Confusion - Original Mix,Archie Hamilton,minimal_deeptech,0.000102,0.811,0.621,452623,0.805,0.903,7,0.066,-9.19,1,0.053,126.009,4
+104,4A5QVNHkO8WSxtx4a67xPK,Sense Is None,Fabe (Ger),minimal_deeptech,0.0287,0.796,0.607,436503,0.83,0.775,1,0.0959,-8.569,1,0.0902,124.006,4
+105,67fny5BVwcIu27jACjNiKr,Din Vale,Microlab,minimal_deeptech,0.00639,0.88,0.245,454291,0.335,0.847,9,0.103,-15.858,1,0.0876,126.01,4
+106,1ObJvawdSHnZzxUIRAQKB5,Varazslat,Viktor Udvari,minimal_deeptech,0.000799,0.801,0.381,460800,0.683,0.739,6,0.0625,-9.53,0,0.0567,125.011,4
+107,6jhWUyqqJHBo6gnu5BTAlg,Con Leche,Brothers' Vibe,minimal_deeptech,0.0405,0.805,0.672,495547,0.739,0.345,0,0.0917,-11.219,1,0.058,121.012,4
+108,6yfD72xilriBiQDHr0zMFC,Easygoing,Audio Werner,minimal_deeptech,0.00819,0.797,0.372,710147,0.595,0.9,1,0.15,-15.185,1,0.0643,126.015,4
+109,3kJUIF5JCUW16yTRcgZNC7,Classroom,Traumer,minimal_deeptech,0.0155,0.805,0.185,516496,0.46,0.846,1,0.0722,-10.943,1,0.054,126.0,4
+110,2rbYmaJFhSP9nw8MEQuAyI,Galantar,Petre Inspirescu,minimal_deeptech,0.129,0.796,0.474,516080,0.464,0.686,1,0.115,-14.054,1,0.22,125.006,4
+111,2TpF95CAwzpsZAtNLxCFFo,Fever - Hook & Seimon Remix,Santiago Santamaria,minimal_deeptech,0.156,0.891,0.0954,488000,0.253,0.785,5,0.0989,-13.891,0,0.199,120.045,4
+112,7wtn4FwUIRsyPKPgkUkGey,Morning Light,BRYZ,minimal_deeptech,3.4e-05,0.815,0.182,492406,0.84,0.761,1,0.0646,-13.223,1,0.0568,123.032,4
+113,5WDQOef6IXuDkLNm8sz2fi,New Life,Fresh & Low,minimal_deeptech,0.066,0.817,0.262,432367,0.7,0.923,10,0.102,-10.545,0,0.0472,124.887,4
+114,2vlIartJftVJWt4hPa14tK,Mounting,Mihai Pol,minimal_deeptech,0.000165,0.81,0.232,528821,0.737,0.926,7,0.077,-10.383,1,0.0503,124.005,4
+115,3sk3i6mB14VJe1qLQLL0EJ,Funatics,Barem,minimal_deeptech,0.000273,0.806,0.477,542335,0.724,0.752,7,0.117,-10.397,1,0.0572,124.003,4
+116,4kaXQGUYaVWsl2yPFEsGxJ,Wingspan,Camelia,minimal_deeptech,0.0316,0.786,0.593,497067,0.657,0.851,7,0.214,-11.524,1,0.0437,125.006,4
+117,7oDEM7HjDpQ8TDcpgxengt,The Line Control - Original Mix,Addex,minimal_deeptech,5.58e-05,0.855,0.822,405263,0.568,0.875,11,0.51,-8.383,0,0.0613,122.004,4
+118,2GfgaTAmEmtQTzpCbHOIs1,Quasar,Mark Alow,minimal_deeptech,0.0069,0.929,0.606,214215,0.478,0.868,7,0.1,-8.102,1,0.203,120.998,4
+119,4cvSDFmLRPlVAsifdslU07,Gordon's Bay,James Pepper,minimal_deeptech,0.285,0.783,0.671,341919,0.79,0.37,3,0.152,-7.576,0,0.0448,125.012,4
+120,0qF61oVeh4ENCmzc6wCmyc,Global Warming,James Pepper,minimal_deeptech,0.487,0.774,0.456,397597,0.791,0.155,7,0.403,-9.472,0,0.0759,125.031,4
+121,5Fk6OMCuNNLlTnZd67DxeB,Dx7 Trippin,Black Loops,minimal_deeptech,0.0109,0.805,0.575,451429,0.808,0.901,11,0.0892,-9.048,1,0.0579,126.01,4
+122,2Kb4bNPzGY9IDvqEyPP7Pg,Unity,Mike Sharon,minimal_deeptech,0.000811,0.811,0.597,420000,0.928,0.89,11,0.0781,-9.594,1,0.0684,124.008,4
+123,2aJDlirz6v2a4HREki98cP,Glue,Bicep,minimal_deeptech,0.0158,0.853,0.42,269150,0.798,0.948,4,0.0967,-7.995,0,0.068,129.983,4
+124,0BnWUbxVNb5DsiezJkROgS,Alone In The Dark,Chris Stussy,minimal_deeptech,0.0254,0.791,0.3,397862,0.92,0.926,8,0.0781,-9.057,1,0.08,126.015,4
+125,6tmQHqTITtCOyjVo8rk0F4,"You & Me, Together",Chris Stussy,minimal_deeptech,0.0353,0.809,0.585,364729,0.787,0.923,8,0.0933,-8.907,0,0.0858,126.997,4
+126,1yrRHFlktfkVBh1NcWI6LX,Text - Original Mix,Mihai Popoviciu,minimal_deeptech,0.000981,0.812,0.836,466697,0.807,0.902,7,0.109,-11.991,1,0.0445,123.992,4
+127,4fYPyPZdz9YRQ6ByDnwQaM,Sentiment - Original,Toman,minimal_deeptech,6.58e-05,0.805,0.461,485136,0.888,0.828,6,0.0622,-9.279,0,0.0812,126.999,4
+128,03Bp2qJMl8ahUM68mbxERO,Modulation Simplified,Jesse Maas,minimal_deeptech,0.00122,0.804,0.786,376851,0.823,0.822,11,0.0798,-9.682,0,0.0657,128.011,4
+129,49GHnWwq2q7aMujCR9roC4,Be With You - Mehlor Remix,Beau,minimal_deeptech,0.00649,0.781,0.544,404000,0.92,0.794,4,0.0617,-8.611,0,0.193,127.038,4
+130,3CoXzpJExs6A23Y9r8WM4c,Lanarka,Sébastien Léger,minimal_deeptech,0.00802,0.785,0.438,568454,0.698,0.834,5,0.0537,-9.491,0,0.0589,121.993,4
+131,7iUxHYCYe2fhlJ7YbBZ9Nh,Deeply,Frink,minimal_deeptech,0.031,0.813,0.734,388097,0.634,0.886,6,0.0742,-11.769,0,0.0646,124.003,4
+132,24F9MxiPW48WmLh601EpTP,Create Culture,Beneath Usual,minimal_deeptech,0.000321,0.814,0.546,375947,0.431,0.852,4,0.073,-10.938,0,0.11,124.003,4
+133,2S0VDio3ogzdW8lJv6wO8k,Cameron,Markus Homm,minimal_deeptech,0.0165,0.812,0.197,414000,0.849,0.91,1,0.42,-8.552,0,0.0486,123.015,4
+134,1AUWmktqlwuaJyCpje3eZc,Wall Smash - Original Mix,Die Vogelperspektive,minimal_deeptech,2.49e-05,0.811,0.421,441000,0.633,0.936,9,0.0978,-7.563,0,0.101,121.997,4
+135,2qtasccv5Zc0RGb1Jmj9hJ,Calatoria,Mrsch,minimal_deeptech,0.000375,0.803,0.779,372484,0.801,0.823,0,0.0544,-10.262,1,0.046,124.986,4
+136,1xDQydL4oMCfLxT3avdiEr,Vertigo,Mrsch,minimal_deeptech,0.000593,0.803,0.289,403231,0.737,0.924,11,0.138,-11.998,0,0.0521,125.021,4
+137,4k8zndDAaW6607lBmYXsUm,Vertigo - Bonaparte Remix,Mrsch,minimal_deeptech,0.00576,0.805,0.218,583684,0.613,0.725,11,0.0966,-10.665,0,0.0491,125.002,4
+138,5GWq0rpD0lGo9Yjj11kYRb,Connection,Mrsch,minimal_deeptech,0.0183,0.809,0.095,409001,0.659,0.796,1,0.196,-11.281,1,0.0499,125.024,4
+139,4ixwmtLlJDGVJ1iPw8lUz7,Gone,James Dexter,minimal_deeptech,0.00206,0.809,0.532,402486,0.81,0.901,1,0.0855,-10.114,1,0.0438,124.01,4
+140,0GvtoTbEFtwOKCJobGsaBd,Peta - Extended Mix,MA-T,minimal_deeptech,0.00159,0.808,0.307,374634,0.574,0.908,1,0.0423,-16.901,0,0.0686,122.993,4
+141,11D2NtYPVcNmq6JZmYjMQa,Alma,TIBASKO,minimal_deeptech,0.15,0.801,0.435,462785,0.847,0.88,9,0.0715,-8.242,0,0.0421,124.993,4
+142,43XEYFomgrPaNXxqLheCgQ,Jam on the moon - Limitu & Jesse Maas Remix,Alessio Viggiano,minimal_deeptech,0.00019,0.806,0.74,348100,0.721,0.867,11,0.0991,-8.786,0,0.0445,127.009,4
+143,4dJ5Yb1FoH0gx6MPtPU1MB,Find Yourself - Original Mix,Franco Radetich,minimal_deeptech,0.00747,0.805,0.471,449498,0.68,0.935,0,0.0701,-9.265,1,0.0614,124.998,4
+144,4ZHqQxduWJoHmFcWnzep5C,Point Of Warm,iO (Mulen),minimal_deeptech,0.0103,0.791,0.343,450952,0.877,0.894,7,0.0734,-9.511,1,0.0503,128.017,4
+145,5eB8WS2Lb8JB3wYdjdGMer,Infinito - Original Mix,Lucio Agustin,minimal_deeptech,0.000424,0.809,0.214,402581,0.601,0.893,1,0.0733,-9.786,1,0.0465,123.986,4
+146,67NpA0J0WSgH8P9ihuqeSp,Shake,Mehlor,minimal_deeptech,0.00364,0.682,0.465,393869,0.797,0.9,7,0.082,-12.725,1,0.28,128.077,4
+147,5vDzvI1hbqalonNOVIGn0U,Luck,Arkady Antsyrev,minimal_deeptech,0.0422,0.798,0.287,368955,0.513,0.929,4,0.111,-13.581,0,0.0918,124.0,4
+148,1EDEGVW1lonalfF0n4Rwen,Politics Of Dancing X Sebo K,Politics of Dancing,minimal_deeptech,0.00248,0.806,0.197,374050,0.806,0.916,6,0.0463,-11.974,1,0.122,124.0,4
+149,5i6oXQ079nFUszXyRZu4uY,6EQUJ5 - Original Mix,Audiojack,minimal_deeptech,0.00362,0.805,0.179,474924,0.62,0.879,4,0.115,-8.551,0,0.095,123.986,4
+150,4Y4Ysh479dmIWj8TPGL8XI,Make The Difference,Archie Hamilton,minimal_deeptech,0.000199,0.8,0.786,451535,0.594,0.912,4,0.113,-8.485,1,0.0636,128.003,4
+151,3d8SZshwgqhkfj2rerjmSg,Carlitos 909,Sidney Charles,minimal_deeptech,0.0177,0.791,0.374,415416,0.849,0.74,10,0.0482,-7.928,0,0.0814,123.022,4
+152,5bhcLsUgUfav0ufHjqdAao,Be Like Water,Harrison BDP,minimal_deeptech,0.00176,0.798,0.858,441752,0.547,0.812,9,0.0311,-11.979,0,0.0728,126.011,4
+153,0PScxqVsG6O2Cqvg4VMgmF,Baiana - Cosme Martin & Christian Vila Remix,Barbatuques,minimal_deeptech,0.00625,0.825,0.533,467817,0.817,0.773,7,0.114,-5.373,1,0.0734,117.988,4
+154,63wS0WdJKVQlzJKCEvi0nk,Psico Hour,Zendid,minimal_deeptech,0.019,0.802,0.397,465145,0.675,0.906,11,0.108,-11.955,1,0.0487,126.995,3
+155,6tvqiOiNkA73ivZV5lZ36u,Yoh,Mirco Caruso,minimal_deeptech,0.0179,0.816,0.666,438718,0.795,0.549,1,0.0726,-7.878,1,0.0485,123.013,4
+156,6Xnh98jbTN3dCBtkCIZzvB,Recall,Mihai Popoviciu,minimal_deeptech,3.61e-05,0.81,0.727,369604,0.736,0.922,9,0.0498,-9.085,0,0.0617,125.007,4
+157,6kBJafLern4pONJc0rs8IB,Katamaran,Mihai Popoviciu,minimal_deeptech,4.99e-05,0.814,0.653,433703,0.638,0.899,11,0.0993,-10.963,0,0.0731,124.004,4
+158,6pHjS9Zio91MmVappuNEBx,Less Attention,James Dexter,minimal_deeptech,1.35e-05,0.812,0.36,495494,0.845,0.893,6,0.0499,-9.827,0,0.0636,124.007,4
+159,5UmY0ZRbVZWzYsSjR6BXDG,Fifty 9,Okain,minimal_deeptech,0.00254,0.809,0.337,435971,0.891,0.903,4,0.0768,-7.885,0,0.0575,125.007,4
+160,0j2syjz3EWx3MYxFU5nlJp,Something,Josh Butler,minimal_deeptech,3.92e-05,0.811,0.754,352955,0.808,0.831,11,0.0523,-8.472,0,0.138,123.476,4
+161,42GhVmh9syEPMVEbCJrLAi,Multiply,Nick Curly,minimal_deeptech,0.016,0.812,0.494,414594,0.937,0.942,0,0.0516,-6.29,1,0.0409,123.972,4
+162,2p5W2E63K1VNby59ZEUGOX,Faustino,Nick Curly,minimal_deeptech,0.000574,0.768,0.201,414938,0.947,0.919,1,0.0585,-8.288,1,0.0733,125.003,4
+163,2oasTbHMK6mhhb34viLKji,Spacey,Dimmish,minimal_deeptech,0.000203,0.8,0.756,449526,0.912,0.864,5,0.0388,-9.246,0,0.144,126.044,4
+164,4nIxxXV50oGs0opOEd48Hd,Paradise Lost,Reset Robot,minimal_deeptech,0.000257,0.797,0.0335,389430,0.939,0.826,5,0.0992,-4.526,0,0.0523,123.979,4
+165,2q1vB2MCGw5sk8vb6pMJCZ,Help,ANOTR,minimal_deeptech,0.0164,0.832,0.824,213871,0.953,0.866,6,0.155,-7.16,1,0.0657,123.985,4
+166,1LtD3HgIONgw58BPPtVDOS,Revoke,Franky Rizardo,minimal_deeptech,6.67e-05,0.801,0.134,356171,0.876,0.91,3,0.0755,-6.832,0,0.1,123.99,4
+167,6E47RDd8CCCiDxZweBjljs,Parallax,Harrison BDP,minimal_deeptech,0.00161,0.773,0.566,540333,0.782,0.908,6,0.227,-11.36,1,0.0499,128.003,4
+168,5tMX6pIl7lgZCWGgvSRZLs,Riddle - Toman Remix,Dimmish,minimal_deeptech,0.00453,0.809,0.257,424403,0.825,0.926,6,0.0971,-10.267,0,0.0567,127.005,4
+169,07QTvj3huGCcNZ5oONvyFu,Brain Tornado,Dimmish,minimal_deeptech,0.000729,0.812,0.815,416655,0.859,0.938,0,0.058,-9.627,1,0.0866,125.0,4
+170,2Mc7Z37wYJEsu5Xos2Yh5q,Twister,Dimmish,minimal_deeptech,0.000343,0.797,0.709,462873,0.976,0.921,4,0.081,-10.025,1,0.0782,126.02,4
+171,2whSEIBgshDfZKuPns3CvS,Brain Tornado - Casey Spillman Remix,Dimmish,minimal_deeptech,0.0341,0.805,0.454,483750,0.533,0.914,10,0.076,-13.632,1,0.0652,127.991,4
+172,3MGtyHKUPUzeC3EqA8MNvu,Meusa,Dimmish,minimal_deeptech,0.000494,0.798,0.686,413825,0.969,0.912,10,0.088,-9.07,0,0.055,126.015,4
+173,4tPxhzXi8zR0R9UvVsAnv7,Riddle,Dimmish,minimal_deeptech,0.00389,0.81,0.367,493749,0.965,0.949,7,0.0815,-9.317,1,0.0955,124.998,4
+174,0BKzN46Y2E5dVAkxFklL7O,Barren Chords,Dimmish,minimal_deeptech,0.00183,0.918,0.498,448000,0.796,0.926,9,0.14,-8.657,1,0.287,124.922,4
+175,6PJEGFtgKlD4lFp1eJAW1Y,Bamboozle,Dimmish,minimal_deeptech,0.00195,0.799,0.153,434000,0.78,0.912,5,0.101,-9.473,0,0.118,125.059,4
+176,0tZYMilkQtE8SFOuYzGtsL,Monsieur Lee,Reyam,minimal_deeptech,0.00539,0.839,0.513,434420,0.905,0.819,0,0.0864,-8.965,1,0.148,125.01,4
+177,6QgVLvWnkFKOW3teLnsk3V,Untitled #2,Arapu,minimal_deeptech,2.53e-05,0.812,0.83,637446,0.615,0.891,7,0.0998,-15.09,1,0.0467,126.015,3
+178,1AG8clucdwW0dFYsEoo4oF,A1,Gruuv',minimal_deeptech,0.0317,0.822,0.301,433548,0.556,0.802,11,0.124,-13.192,0,0.145,124.013,4
+179,2qOC2DHxvrzKdiOPJvGXg3,Elixir,Mehlor,minimal_deeptech,0.0295,0.809,0.408,403208,0.87,0.882,1,0.0999,-8.224,0,0.111,124.994,4
+180,4Gb7a65Xi5GxaEw2vOjgTo,Planet 34,Jesse Maas,minimal_deeptech,0.0346,0.792,0.714,367629,0.836,0.797,11,0.0647,-10.702,0,0.0656,126.014,4
+181,3acn6yzeTT7vt2YRnxlK8b,Water Tower,Fabe (Ger),minimal_deeptech,0.000182,0.805,0.607,382731,0.714,0.876,10,0.0742,-9.724,1,0.0714,127.983,4
+182,6H4mPbpdKsEBxN8F8dpkRR,Catch This,Aron Volta,minimal_deeptech,0.0146,0.758,0.267,438400,0.848,0.861,8,0.105,-8.929,0,0.0525,123.994,4
+183,0IdGTxTUp6GfsPtPOOAeAe,C-Floor,Manu Desrets,minimal_deeptech,0.012,0.801,0.946,368000,0.926,0.895,10,0.083,-8.461,0,0.0528,126.001,4
+184,20sMQdnK4ZZODeoCNatpC3,Saint,Arkady Antsyrev,minimal_deeptech,0.000423,0.811,0.295,399740,0.785,0.865,2,0.0479,-14.037,0,0.0616,125.005,4
+185,7N1Oss5OE1PS3qjd6qseKc,Que bel epoque 2006,Ricardo Villalobos,minimal_deeptech,0.512,0.792,0.137,777347,0.728,0.919,9,0.132,-11.712,0,0.0552,131.075,4
+186,1F1xZATe7FdDUL8iLG34Ho,St Eustache,Mandar,minimal_deeptech,0.00146,0.809,0.394,468907,0.626,0.923,1,0.0655,-9.457,1,0.0633,124.999,4
+187,07g45grNnpK1iSJcFGSfTZ,Tempered,Cateran,minimal_deeptech,7.73e-05,0.808,0.515,393071,0.571,0.899,1,0.0823,-12.958,1,0.0633,127.012,4
+188,6XpVdfBQEz1cLM69OOuHcp,Wink - No Rules (UK) Remix,Prodot,minimal_deeptech,0.0434,0.799,0.335,404516,0.965,0.917,1,0.0883,-10.083,1,0.0742,124.045,4
+189,5N470ZptQhO35M2D1wMUtJ,Pulsaţii Profunde - S.A.M. Remix,Teluric,minimal_deeptech,0.0243,0.857,0.317,478000,0.636,0.904,10,0.087,-10.638,0,0.0767,125.021,4
+190,3aXvoECuoIJJaPqN5sNKWB,Some Kind Of Up And Down Yes - Asusu Remix,efdemin,minimal_deeptech,0.00934,0.705,0.286,462253,0.633,0.899,11,0.236,-14.661,1,0.0539,126.013,4
+191,3cvj55I1F2hMsh2ugHr7ur,Topo,Reyam,minimal_deeptech,0.0606,0.808,0.593,450969,0.714,0.739,9,0.106,-13.492,1,0.0803,124.027,4
+192,5aK96r0oCeaOTdpwKPfdAP,Candelaea,AWSI,minimal_deeptech,0.179,0.8,0.536,426000,0.638,0.925,7,0.109,-12.092,1,0.112,124.006,4
+193,6yxw9yfxEnSCFx4exMclic,21514 - Priku Remix,Archie Hamilton,minimal_deeptech,1.75e-05,0.808,0.319,466034,0.611,0.81,7,0.104,-12.79,1,0.0885,122.951,4
+194,07a3tBZnFXXIs5vtk56n60,Tadhg's Groove,Patrick Weblin,minimal_deeptech,0.0473,0.8,0.176,473500,0.748,0.9,1,0.0865,-10.703,1,0.0655,125.987,4
+195,4SDHVBpy9MdlXwkCrPngZZ,Have Mercy,Beau,minimal_deeptech,0.003,0.805,0.495,373118,0.826,0.831,1,0.314,-9.468,1,0.0584,127.017,4
+196,76p01107IKsCVwbSrTdqRM,Pacific,Prunk,minimal_deeptech,0.00157,0.81,0.667,321928,0.918,0.887,7,0.0738,-9.74,1,0.0642,125.996,4
+197,77salKd4J00yAYwLIj4Xsl,Subtly,Toman,minimal_deeptech,0.000255,0.811,0.534,369896,0.674,0.897,8,0.0597,-9.666,1,0.058,126.012,4
+198,0SU6LcMXEwmrx0V9yCCMOU,Polar,Chris Stussy,minimal_deeptech,0.0128,0.797,0.31,404779,0.894,0.909,11,0.0871,-6.967,0,0.105,124.034,4
+199,29k2L8fEEQRpUtCOluZuv3,Strix - Original Mix,Prodot,minimal_deeptech,0.0106,0.81,0.472,470459,0.718,0.914,5,0.103,-10.125,0,0.0797,124.01,4
+200,52vIroGBQ0huJSJFMNBTSQ,The Inner Truth,Kerouac & Smile,minimal_deeptech,0.00126,0.811,0.433,376320,0.72,0.884,8,0.0721,-8.813,0,0.0586,124.996,4
+201,7fg1qBcYuM0Cl8UYZluuOr,Camel Toe - Swoy Remix,Wlad,minimal_deeptech,0.00136,0.803,0.641,450000,0.829,0.931,1,0.0764,-11.063,1,0.0892,123.996,4
+202,3TyBF9NcFKFovvxVwpxao8,Where You Are,Beau,minimal_deeptech,0.00116,0.797,0.667,448700,0.859,0.855,7,0.351,-10.538,1,0.124,127.023,4
+203,3JphBauX9FJz0INPkHPNiw,Fury's Laughter,S.A.M.,minimal_deeptech,0.00233,0.748,0.466,478889,0.678,0.947,6,0.125,-10.849,0,0.0544,127.985,4
+204,4gYN0RorW2UO3ld5Pkbbp7,Ruth,Jorge Savoretti,minimal_deeptech,0.000227,0.81,0.77,464783,0.741,0.898,7,0.0668,-9.546,1,0.0576,125.025,4
+205,1XsgK3Zg0BniDYkWXXH8If,Ne vspominaem,Arkady Antsyrev,minimal_deeptech,0.0289,0.807,0.27,421479,0.53,0.555,2,0.0686,-13.661,0,0.0928,123.014,4
+206,65k04gAmn9xzQLG2Ssw8FO,Mind on Prisma,Fabe (Ger),minimal_deeptech,0.0435,0.798,0.651,436539,0.654,0.909,0,0.0899,-13.514,1,0.0872,127.989,4
+207,2FSW4ZFP8MjUyheWtSpKJF,Solar,BRYZ,minimal_deeptech,0.0382,0.81,0.174,538844,0.56,0.886,1,0.11,-15.341,0,0.0512,123.009,4
+208,23brKCyS7UPqaqqlg5vUc9,Penelope,Patrizio Gabrielli,minimal_deeptech,0.039,0.802,0.521,453937,0.49,0.889,4,0.08,-11.12,0,0.12,126.999,4
+209,4jtfPz8MINYNvF556nSdUd,Whatudo,Chris Stussy,minimal_deeptech,0.16,0.805,0.478,427500,0.813,0.854,10,0.091,-11.709,0,0.0624,126.996,4
+210,4Zv75TRbzoTuFNeAz127ix,Blue Dream - Original Mix,Devv,minimal_deeptech,0.0117,0.801,0.384,555669,0.728,0.892,4,0.0645,-10.189,0,0.0617,125.021,4
+211,5Q9T8bZ6gBAhFSNBbKZNPb,Politics Of Dancing X Chris Stussy,Politics of Dancing,minimal_deeptech,0.0032,0.81,0.213,375484,0.797,0.941,0,0.0981,-11.527,0,0.0654,124.0,4
+212,0BYZOT1DGjhm9LmjSWecHf,At The Centre Of The Groove - AJ Couque Remix,Kerouac & Smile,minimal_deeptech,3.93e-05,0.692,0.439,442686,0.868,0.895,6,0.675,-9.168,0,0.0527,126.007,4
+213,7lhHebMDE3lwfDBVihV7G8,Activator You Need Some - Deep Dish Edit,Whatever Girl,minimal_deeptech,0.00179,0.884,0.346,626760,0.709,0.863,11,0.03,-8.559,0,0.183,126.007,4
+214,6VKdpSY4otto9sL8LCDFHI,Sparkling Controversy,Floating Points,minimal_deeptech,0.000364,0.725,0.259,473144,0.651,0.852,1,0.115,-10.016,1,0.0857,125.085,4
+215,3e6MkWJWrSFsf4SNHxk8UD,High Fashion,Coral O'Connor,minimal_deeptech,0.00373,0.793,0.209,434919,0.869,0.765,6,0.0679,-8.558,0,0.0757,124.995,4
+216,1mZulofpgtgwPwn3xWUuGl,Spaceport,IULY.B,minimal_deeptech,0.0163,0.752,0.278,441016,0.674,0.881,11,0.107,-10.436,0,0.0497,123.0,4
+217,1VuWSa93HbGJlqahM7vufV,Mi Casa Su Casa - Ben Rau Meta Remix,Rhymos,minimal_deeptech,0.0125,0.805,0.244,398000,0.878,0.884,2,0.66,-6.477,1,0.0609,126.019,4
+218,6O15uLFuXfLc0ff2Yo02bb,UNTITLED A - S.A.M. Reshape,S.O.N.,minimal_deeptech,0.0275,0.796,0.254,579190,0.724,0.879,8,0.0556,-11.91,1,0.0786,125.002,4
+219,2o8SVNRvnB0SlfXPEXmag5,Spacefunk,Alci,minimal_deeptech,0.000288,0.988,0.72,458507,0.433,0.871,7,0.102,-10.786,1,0.325,125.991,4
+220,3uUl2Xo2OntNJvzbAYYKAM,Prolly,Marcu Rares,minimal_deeptech,0.0287,0.78,0.301,739672,0.604,0.91,5,0.17,-14.09,0,0.0429,121.996,4
+221,6xhnv7MpF5nj19vILJpbNi,Artefacts,Diego Krause,minimal_deeptech,6.01e-05,0.81,0.711,420952,0.759,0.903,1,0.106,-11.211,1,0.0603,126.001,4
+222,7zhUWdsS5aAV9RXPT5Djum,MOI004 A,Moi,minimal_deeptech,0.00425,0.808,0.208,609762,0.575,0.881,9,0.0889,-10.166,1,0.0588,126.019,4
+223,5sfpIlapX6JeDbynzdTquT,Orion - Michael James Mix Online Edit,Niko Maxen,minimal_deeptech,0.0105,0.799,0.767,331429,0.93,0.863,8,0.108,-12.826,1,0.0916,126.001,4
+224,3VnOMvhqwbDh7G5tM85xek,Tagzimi - Original Mix,Stephan Bazbaz,minimal_deeptech,0.00116,0.808,0.614,509517,0.683,0.826,1,0.0936,-8.723,1,0.0485,125.007,4
+225,5oQFTb6ADajD4NbfXYN0Mp,Forme,Ben Rau,minimal_deeptech,0.000607,0.805,0.313,488500,0.854,0.876,6,0.153,-8.56,1,0.0875,125.999,4
+226,0fQ1nlBqvT1xNdZf8abhGl,Swing Riddim,East End Dubs,minimal_deeptech,0.00132,0.81,0.598,447541,0.626,0.941,7,0.14,-11.653,1,0.0509,127.007,4
+227,0dRwjJ8xVaDVzQhf6HpO6c,Jojoman - Djebali Remix,Premiesku,minimal_deeptech,5.77e-05,0.812,0.632,431100,0.592,0.925,6,0.138,-11.454,0,0.0396,122.009,4
+228,2mkbXA734d7MJbm0ln7tQZ,Neverending,Devv,minimal_deeptech,0.0461,0.795,0.229,474375,0.668,0.912,1,0.0953,-9.043,1,0.101,128.024,4
+229,6MkRsbQoHATzhric2wnvrk,Zularic Tree,Guy From Downstairs,minimal_deeptech,0.00295,0.809,0.541,420956,0.58,0.946,7,0.106,-15.825,1,0.0589,126.011,4
+230,5nhzB671phAf95uaTpR6MN,HONOLULU,FEEL [IT],minimal_deeptech,0.0171,0.806,0.301,464516,0.827,0.834,7,0.119,-8.412,1,0.0496,124.025,4
+231,4KN5RYadecTTLJBaFFwZ8N,Fantanized,Toman,minimal_deeptech,0.000295,0.81,0.723,490339,0.933,0.921,11,0.0648,-9.4,0,0.0615,126.007,4
+232,3e6aztKaSnahyhUX6usaWZ,Take 'Em Up To The Empire State Building,Cateran,minimal_deeptech,0.0193,0.804,0.588,408220,0.877,0.892,1,0.105,-11.905,1,0.0797,127.022,4
+233,2K3G9huTi98CbZ6tNP51CF,Terza Rima,Nami,minimal_deeptech,0.012,0.807,0.384,438095,0.744,0.871,1,0.129,-12.991,1,0.0809,126.013,4
+234,1qYY9LCkc3cB9lI0bTE954,Shades,Laughing Man,minimal_deeptech,0.00973,0.76,0.692,522151,0.637,0.852,11,0.0348,-14.769,0,0.0538,124.999,4
+235,2uussxp8alwBGG1bzMkyqx,SFX / ORY,Sebo K,minimal_deeptech,0.09,0.804,0.661,397401,0.762,0.867,1,0.0981,-13.689,0,0.0747,125.002,4
+236,616fKnWC7UOoBNPoaX09VY,Suprapus - Original Mix,Floog,minimal_deeptech,0.000282,0.807,0.675,457143,0.67,0.922,1,0.102,-13.459,1,0.0501,126.015,4
+237,1B2vNJcpnWPX24hAArrz4N,Their Mind,Sublee,minimal_deeptech,0.00131,0.807,0.31,676198,0.649,0.847,11,0.0884,-16.781,0,0.0592,125.996,4
+238,3YYo4xpuQJAjfnF3UbA716,Can’t Be Serious,Archie Hamilton,minimal_deeptech,0.00031,0.805,0.83,498427,0.919,0.916,6,0.158,-7.025,0,0.0495,127.002,4
+239,2gjVwcPuZV1rHzKym4ERdc,Solo,Slythe,minimal_deeptech,0.238,0.795,0.377,447969,0.571,0.885,6,0.095,-11.781,0,0.186,122.007,4
+240,3NS9fNS5D8lORo6P9HdYWx,Untitled #1,Arapu,minimal_deeptech,0.00157,0.853,0.355,613912,0.301,0.923,1,0.112,-14.7,1,0.161,126.99,4
+241,6IeWwHGCdQ34mbqOtguFdO,A Quarter to Ten,Durrrred,minimal_deeptech,0.000163,0.814,0.79,588589,0.674,0.929,1,0.0947,-11.752,1,0.0537,123.984,4
+242,2TMTqyY5dck7Ac7fNVjpC8,Black Men & White - Original Mix,AWSI,minimal_deeptech,0.0231,0.809,0.647,530459,0.868,0.886,1,0.0706,-8.757,1,0.0609,127.017,4
+243,1XVjiNcde0imx72IOHjca7,Aden,Viceversa,minimal_deeptech,0.0261,0.793,0.233,517377,0.535,0.866,8,0.103,-15.502,1,0.103,127.012,4
+244,4tV9UsJZS6oU2TOfodJfM0,Flat Earth,Viceversa,minimal_deeptech,0.0141,0.781,0.659,497705,0.705,0.821,6,0.079,-14.422,0,0.206,124.991,4
+245,5TeReAOnefd89K6QgDxori,Dome,Viceversa,minimal_deeptech,0.00502,0.794,0.331,493440,0.706,0.888,7,0.104,-16.566,1,0.0882,124.997,4
+246,2sdA2oCExVMCsBhU8zyP79,Zoner - Original Mix,Vincent Casanova,minimal_deeptech,0.00113,0.809,0.172,422400,0.579,0.866,11,0.162,-9.117,0,0.0779,125.003,4
+247,4iQ6jTY9XdFwnRCrkpJFnq,Stade Varembe,Okain,minimal_deeptech,0.000488,0.804,0.39,437760,0.799,0.924,9,0.0765,-7.167,1,0.0875,125.0,4
+248,70C6DSwUSk4dgVV3Yd1SLQ,Hyperspace,IULY.B,minimal_deeptech,0.0359,0.761,0.204,600983,0.887,0.892,7,0.122,-8.985,1,0.156,123.014,4
+249,2QU1J7iGqQWCBJ6rkOxQxx,Pari Passu,Coral O'Connor,minimal_deeptech,0.00281,0.8,0.582,443392,0.95,0.904,6,0.273,-8.145,0,0.167,124.043,4
+250,6LTELzwH7iylE6rZ0RZ3Nc,Interception with interceptor,Masomenos,minimal_deeptech,0.0167,0.808,0.118,517933,0.346,0.942,5,0.112,-14.428,0,0.0592,126.018,4
+251,1ygP5tNbFXWW392LiXWqKI,April Fool's,Alex Ranerro,minimal_deeptech,0.0105,0.806,0.649,407055,0.942,0.883,6,0.0593,-8.676,0,0.132,125.013,4
+252,6B7c0BLlnX3OmHrRo7sugO,Morning Hours,Giuliano Lomonte,minimal_deeptech,0.171,0.813,0.742,451168,0.805,0.923,6,0.0928,-11.577,1,0.0579,124.033,4
+253,5NnRBy1Gd9N0aEvo0na3RE,Don't Thank Me - Casey Spillman Remix,Ray Mono,minimal_deeptech,0.0106,0.806,0.616,430897,0.915,0.891,8,0.647,-10.424,1,0.102,127.006,4
+254,0RbqqgK90gRnLvOmobpCQW,West Coast Style - DJOKO Remix,Klein (UK),minimal_deeptech,0.0396,0.809,0.647,392191,0.834,0.885,6,0.0455,-7.468,1,0.0857,124.009,4
+255,0aM1woscdL19B2iBkLNsRm,Shine Bright,DJOKO,minimal_deeptech,0.012,0.828,0.364,351511,0.654,0.852,10,0.0766,-10.309,0,0.096,127.005,4
+256,5BrdPPYsE74cz4GTO7eCk9,Nowhere To Go,Alex Ranerro,minimal_deeptech,0.000312,0.773,0.735,407040,0.969,0.494,0,0.187,-8.4,1,0.0966,125.044,4
+257,0CRLzuejNdxqY93RkFbGOp,PSK,Gunnter,minimal_deeptech,0.0283,0.797,0.423,409273,0.871,0.834,8,0.117,-8.961,0,0.0739,124.004,4
+258,5LPEk7U6n6POe3Zw5uUQAb,Cold Memories,Toman,minimal_deeptech,0.00186,0.807,0.333,430897,0.884,0.889,7,0.0653,-9.052,1,0.0567,127.011,4
+259,6TCsFqjtmPtLJpehJrlg8m,Hava,East End Dubs,minimal_deeptech,0.189,0.81,0.704,461703,0.57,0.946,7,0.12,-10.582,1,0.0922,124.996,3
+260,2kq6hvNpdexfDWr30fLOqd,Downtown,Toman,minimal_deeptech,0.0145,0.809,0.0928,434496,0.692,0.85,6,0.084,-9.424,0,0.054,124.992,4
+261,6ZuqpFD6oFdortRGNbR3rF,Triangles,Lucio Agustin,minimal_deeptech,0.000772,0.806,0.0622,407469,0.559,0.919,0,0.109,-10.081,1,0.0501,123.011,4
+262,0HfkevNDVBb1IIyfweYdbG,Atlas,Chris Stussy,minimal_deeptech,0.0286,0.807,0.84,368005,0.761,0.868,10,0.102,-12.369,0,0.0851,125.923,4
+263,14vFA4l8WRa2FIxDyFUaw6,What's Possible,Drew Dapps,minimal_deeptech,0.00632,0.802,0.414,369524,0.935,0.857,11,0.111,-7.883,0,0.104,126.004,4
+264,26KgJXExAOA8g8BRWTLh6g,Solano - Original Mix,Ale Kis,minimal_deeptech,0.00363,0.813,0.442,400000,0.611,0.897,6,0.086,-12.666,0,0.0611,125.996,4
+265,52oBvcNyynFmSP0snOrvgp,Funk Slap,Anderson M,minimal_deeptech,0.021,0.861,0.482,405826,0.538,0.689,7,0.103,-12.833,1,0.248,125.974,4
+266,6f23Ge4MxQfRKB25tkWZao,Shoulders,DeMarzo,minimal_deeptech,0.0271,0.797,0.671,423752,0.822,0.794,5,0.0638,-7.578,0,0.0624,127.999,4
+267,6yEAnwHtAAAn7JOcNs6QLy,Wanna Move,Drew Dapps,minimal_deeptech,0.00188,0.802,0.801,375943,0.957,0.891,0,0.114,-8.315,1,0.0733,128.014,4
+268,5aJZ6zu8uDg8FQr9kMP7vh,Thinkin About U - Coral O'Connor Remix,Ken Kelly,minimal_deeptech,0.00118,0.797,0.772,373141,0.987,0.938,11,0.098,-9.706,1,0.0814,126.009,4
+269,2UuVQdQ2judT27m8BztE7R,Not Secure,MartinoResi,minimal_deeptech,0.00214,0.808,0.935,367619,0.943,0.931,11,0.08,-7.145,0,0.0447,126.008,4
+270,5ibQjdQZlIAU0fCKqa7JON,Union Square - Drew Dapps Remix,Victor Montero,minimal_deeptech,0.076,0.807,0.706,366300,0.957,0.839,4,0.0498,-9.976,0,0.0577,126.007,4
+271,14wT1XCoSjcYzMJFSmMvEG,The Source,Drew Dapps,minimal_deeptech,0.0057,0.802,0.395,410187,0.921,0.9,6,0.0881,-10.875,0,0.053,126.985,4
+272,4YTPSp7yfXPuI5IitD9jKE,Move With Me,Drew Dapps,minimal_deeptech,0.0513,0.798,0.5,322435,0.669,0.825,0,0.0477,-12.584,1,0.145,125.991,4
+273,0ND8TPHStmpP4KrxDjsy6U,Funk Slap - Legit Trip Remix,Anderson M,minimal_deeptech,0.0259,0.639,0.655,418075,0.934,0.938,11,0.0592,-10.36,0,0.23,247.993,4
+274,4VNWl1GFef9kXyf66DZJeV,Playing With Fire,Coral O'Connor,minimal_deeptech,0.00257,0.804,0.375,419610,0.721,0.767,6,0.0789,-8.383,0,0.0962,123.989,4
+275,1GoNewb3GNsgwJTyPRsNAs,Break Out - Original Mix,Drew Dapps,minimal_deeptech,0.00411,0.81,0.587,339840,0.845,0.86,11,0.0956,-8.248,0,0.0616,124.998,4
+276,1Q4ri822ppT47FLFpjUGtX,Show the Money - Original Mix,Drew Dapps,minimal_deeptech,0.0059,0.808,0.881,378916,0.933,0.924,7,0.0584,-10.837,1,0.0591,127.012,4
+277,0FJcEwzk2yUp03PrUEwBgn,Amazing Style,Drew Dapps,minimal_deeptech,0.000611,0.787,0.592,334500,0.98,0.74,7,0.0856,-7.311,1,0.0699,127.033,4
+278,1ApdI0BBg8EtE66ZIIvSEz,Where's My Chord,Attek,minimal_deeptech,3.79e-05,0.813,0.738,362969,0.924,0.903,10,0.0477,-8.452,0,0.0593,125.007,4
+279,2mrOcYE2GsN7ILSKcxmA7i,Funk Slap,Anderson M,minimal_deeptech,0.021,0.861,0.482,405826,0.538,0.689,7,0.103,-12.833,1,0.248,125.974,4
+280,3DwFQxtn28qXM1P1pAgjoK,Apart,Genetika,minimal_deeptech,0.0277,0.792,0.652,350712,0.974,0.859,6,0.166,-7.184,0,0.0736,127.992,4
+281,4XCNnjO7S9KzdPyHAOFgwo,Everybody Freakin,Drew Dapps,minimal_deeptech,0.0163,0.799,0.798,358630,0.695,0.497,7,0.0905,-10.826,0,0.0701,125.978,4
+282,74qVZvtU0QlJWkaRmbZIhH,Chaise Lounge,Drew Dapps,minimal_deeptech,0.00442,0.808,0.647,371429,0.729,0.757,0,0.205,-9.58,1,0.0448,126.013,4
+283,3bbugDVdlAY4gLKxnZvgTz,Jynx,Coral O'Connor,minimal_deeptech,0.009,0.81,0.589,420483,0.748,0.922,11,0.101,-12.509,0,0.0936,123.998,4
+284,49eHTsMNqvLfRIbsh0F90l,Anti-Racism,Guterres,minimal_deeptech,0.0547,0.794,0.496,384010,0.796,0.896,4,0.082,-10.246,0,0.0676,124.994,4
+285,5458stfe17muZ4Fl5je90o,Go Crazy - Original Mix,Drew Dapps,minimal_deeptech,0.0111,0.808,0.441,308142,0.764,0.897,11,0.112,-11.595,0,0.0489,127.007,4
+286,1RMnIQaC3X0A15xIYNQfOB,Down For Whatever - Original Mix,Drew Dapps,minimal_deeptech,0.0684,0.849,0.679,430000,0.775,0.891,6,0.107,-8.989,1,0.16,126.0,4
+287,59rySe5VOW7Nasg7QPc2ej,Dapptech,Drew Dapps,minimal_deeptech,0.0219,0.76,0.149,261721,0.499,0.872,9,0.0814,-12.433,0,0.0844,121.968,4
+288,1QUcdIRbKVQ8FnmzHQ0IFo,Ya Dig Me - Original Mix,Drew Dapps,minimal_deeptech,0.000734,0.804,0.884,366619,0.696,0.818,10,0.0653,-10.278,0,0.159,126.998,4
+289,3Vig1OpzG8rh8PxtoyZ9D7,Proper - Original Mix,Drew Dapps,minimal_deeptech,0.00107,0.804,0.581,318828,0.693,0.813,1,0.0641,-11.866,1,0.064,128.032,4
+290,6GY1cxyOEcwIjdRJlIzmKp,Play til they cut the lights out,Sarge Malone,minimal_deeptech,0.0286,0.8,0.503,394016,0.697,0.879,2,0.101,-13.788,1,0.083,127.003,4
+291,6tJonzbD4WlLfxHMBh84h3,Make The Move,Drew Dapps,minimal_deeptech,0.00159,0.805,0.648,359106,0.721,0.743,9,0.0783,-9.307,0,0.11,125.022,4
+292,3kW5GzETrUPjla8BTMnHGv,We Are,Drew Dapps,minimal_deeptech,0.064,0.788,0.191,365907,0.567,0.899,2,0.106,-12.971,1,0.0527,122.043,4
+293,7L1TvGJYrs6SczQYRguXQp,Jack Mate,Max Kernmayer,minimal_deeptech,0.0567,0.801,0.223,202502,0.994,0.898,8,0.0614,-7.385,1,0.067,128.016,4
+294,1XyXMn0WWavvR7g5tJ3MvU,Make me Feel,Drew Dapps,minimal_deeptech,0.00588,0.825,0.387,308000,0.611,0.798,3,0.108,-10.665,0,0.137,122.019,4
+295,4QtPZqLNlhEof4aQeruMnu,Go Crazy - Original Mix,Drew Dapps,minimal_deeptech,0.0111,0.808,0.441,308142,0.764,0.897,11,0.112,-11.595,0,0.0489,127.008,4
+296,6XllFT2tDu8xd85UM6sNDj,Take A Leap Of Faith,Chris Stussy,minimal_deeptech,0.0763,0.798,0.617,398374,0.524,0.859,7,0.13,-12.628,1,0.0529,132.003,4
+297,3LSgwApVQGw8OtijY63003,Universal Connection,Drew Dapps,minimal_deeptech,0.000354,0.801,0.409,354286,0.897,0.844,10,0.0681,-5.827,0,0.0603,125.979,4
+298,0VukiEpbAMr17OByp7jIRj,Cabinet,Sidney Charles,minimal_deeptech,0.00689,0.793,0.882,468750,0.976,0.894,6,0.0691,-8.167,0,0.0778,128.037,4
+299,43QY7XpXZpWtDF9PBZryoP,Sheeple - Drew Dapps Remix,Meet,minimal_deeptech,0.00793,0.799,0.297,355276,0.822,0.861,1,0.0607,-8.116,1,0.0536,127.01,4
+300,1wmcfFY7FVuD8Gq7Qclw9q,Stellar,Dimmish,minimal_deeptech,0.000312,0.791,0.964,421082,0.994,0.818,1,0.0504,-7.274,1,0.0631,128.997,4
+301,4o8Iw79V7V7M8InQONaZCh,Hidden Texture,John Amy,minimal_deeptech,0.0284,0.804,0.484,395079,0.468,0.832,5,0.0755,-13.11,0,0.0946,127.013,4
+302,1XYaApl90puahIXjd942tI,Strannik,Legit Trip,minimal_deeptech,0.0194,0.811,0.815,426731,0.572,0.847,9,0.0582,-9.903,1,0.0591,126.001,4
+303,0Nue9OJDcnVA5zMgVhUKiu,So Real - Original Mix,ANATTA,minimal_deeptech,0.000235,0.807,0.453,365714,0.717,0.857,5,0.0448,-6.706,0,0.0542,126.006,4
+304,3N8RilPIBFc1tFluHk8haA,Confuse,RA.MA,minimal_deeptech,0.00662,0.804,0.803,422401,0.922,0.846,1,0.11,-6.723,0,0.0515,125.013,4
+305,2DuvJfMsafvuU58T5EjzE2,Vibrant,Womack,minimal_deeptech,0.0371,0.785,0.572,457143,0.912,0.932,2,0.116,-7.449,1,0.0563,126.039,4
+306,1EjrsWzBte4W8hpzAWZxtB,The Stache,Wyatt Marshall,minimal_deeptech,0.0245,0.795,0.507,435000,0.931,0.902,4,0.0589,-11.023,0,0.0568,128.022,4
+307,7FfH23X12FTsBNi50p9BUh,You Turn Me On,Vales,minimal_deeptech,0.00275,0.785,0.471,261000,0.918,0.597,6,0.0383,-6.337,0,0.089,126.976,4
+308,5S9ofaHMkVf3wv6BRBCPdU,Write A Song,CORMAC,minimal_deeptech,0.0309,0.737,0.307,212126,0.797,0.904,11,0.124,-7.977,1,0.0769,127.018,4
+309,3IxqGf13cEMoYaOQvssF0P,Way - Original mix,Dmitry Stelmakhov,minimal_deeptech,0.000765,0.805,0.818,396853,0.855,0.899,4,0.0691,-9.096,0,0.0807,127.008,4
+310,4rMmjYdO4V0gzfHNV0PcBh,Clean the Needle,ANATTA,minimal_deeptech,0.00113,0.805,0.483,362837,0.831,0.675,11,0.0718,-9.206,0,0.0733,127.0,4
+311,2tOrlythHpPmtYwyFUKqiC,Where to Go? - Extended Lounge Mix,K 77,minimal_deeptech,0.0182,0.763,0.32,349355,0.692,0.891,1,0.596,-13.304,1,0.135,123.995,4
+312,34gJbBXqwaUGTwnTXYbkI4,Wachufleiva 72-3 - Ignacio Lex Remix,Milos Pesovic,minimal_deeptech,0.0103,0.8,0.101,350164,0.765,0.88,7,0.036,-12.111,1,0.0746,122.009,4
+313,4uJZmYfYiig6SsdaPW4Xmm,Exit Way - Original Mix,Ignacio Lex,minimal_deeptech,0.0151,0.79,0.307,367875,0.625,0.912,1,0.289,-10.375,0,0.0858,122.05,4
+314,2Ja5AocgPhuXHlqZQYJJOX,Sundown,Anderson M,minimal_deeptech,0.0637,0.772,0.325,390484,0.789,0.858,9,0.0767,-10.765,0,0.0398,125.98,4
+315,7F6NteFnxqdIAwJub6OIQT,I Work Hard (feat. Big Mike) - Thomas Garcia's 4AM Dub Remix,MING,minimal_deeptech,0.00112,0.72,0.595,229839,0.938,0.0601,11,0.296,-4.564,0,0.187,129.033,4
+316,2C7OVPKQzNWCVIXuG9TmkZ,Falling - Radio Edit,TC21G,minimal_deeptech,0.164,0.804,0.707,224804,0.839,0.471,9,0.0949,-8.796,0,0.0808,122.008,4
+317,6jcELy6GEvvtH8mOQuJu4r,Gathering - Original Mix,Alex Field (DE),minimal_deeptech,0.0288,0.799,0.646,424248,0.859,0.91,11,0.314,-8.845,0,0.0622,128.995,4
+318,7F6NteFnxqdIAwJub6OIQT,I Work Hard (feat. Big Mike) - Thomas Garcia's 4AM Dub Remix,MING,minimal_deeptech,0.00112,0.72,0.595,229839,0.938,0.0601,11,0.296,-4.564,0,0.187,129.033,4
+319,6UzXnJxbkYsm3nF6q0Ayvg,W.F.U.N.K.,ANATTA,minimal_deeptech,0.00783,0.808,0.95,287244,0.805,0.478,11,0.0522,-10.518,0,0.0598,127.001,4
+320,6YtIOF1AgIq7W2AIlWM9uR,Mesmerized (Deep Dub),CORMAC,minimal_deeptech,0.000541,0.841,0.757,453934,0.71,0.765,11,0.0728,-5.872,0,0.148,128.002,4
+321,5TUdIr44brwL8HOnjtZJz8,Bring It Over Here - Original Mix,Douse,minimal_deeptech,0.0195,0.805,0.877,363071,0.976,0.831,7,0.0854,-9.193,1,0.059,127.0,3
+322,3n0uEik1ZI6XyHGpZhA5bL,Sonne - DJOKO Remix,Thalo Santana,minimal_deeptech,0.00488,0.8,0.654,358154,0.929,0.862,7,0.0392,-10.009,1,0.0561,130.005,4
+323,6SEElDmDvk30qGNamyQi4p,Because I Am,John Amy,minimal_deeptech,0.0234,0.803,0.525,428601,0.426,0.88,0,0.0983,-14.708,1,0.0889,125.991,4
+324,6Zfg18lPrJL0DH4vI5ThFm,Celestial,NatQosmic,minimal_deeptech,0.0044,0.807,0.498,346000,0.557,0.869,5,0.0577,-15.757,0,0.0819,128.004,4
+325,7zPRnp4mvmcDEzTGTKDZVx,Tuesday Night - Terrace Mix,Relativ (NL),minimal_deeptech,0.00708,0.808,0.595,335600,0.493,0.905,11,0.103,-11.861,0,0.108,125.994,4
+326,440bVSpSWxjLXz8ojxI59j,Come Back,Womack,minimal_deeptech,0.0257,0.81,0.666,457242,0.572,0.888,8,0.122,-13.243,1,0.0477,126.004,4
+327,0MnrQHchfTVPDK1hvtQnb1,Revelation - Radio Edit,CORMAC,minimal_deeptech,0.0598,0.805,0.382,233280,0.916,0.893,11,0.0841,-7.678,0,0.0437,125.007,4
+328,0L5PWDw2xwUSmwAU4xXGXR,Playland,Roger Torroni,minimal_deeptech,0.00239,0.805,0.62,368640,0.869,0.809,8,0.0643,-8.273,1,0.0631,124.977,4
+329,2G4O72EHcwRcgQGwzkFV9q,All Due Respect,Saes,minimal_deeptech,0.000159,0.808,0.377,365382,0.605,0.914,1,0.0248,-12.451,1,0.0875,126.982,4
+330,0HbM54HMkhEnYuK58EaUtp,Rule of Cool,Coral O'Connor,minimal_deeptech,0.00235,0.788,0.431,408480,0.948,0.335,11,0.146,-7.948,0,0.15,125.001,4
+331,3a3WH8V7UdLfDdQfJUgylH,Just A Line - Mihai Popoviciu Remix,Sunday Noise,minimal_deeptech,0.0108,0.802,0.931,195474,0.753,0.894,11,0.0673,-12.491,0,0.0852,128.021,4
+332,0BfRjebxA1SDUT6yTmks5R,Promise - Christian Bistany Remix,Lucio Agustin,minimal_deeptech,0.0284,0.803,0.641,410000,0.922,0.881,4,0.1,-8.376,0,0.0742,127.048,4
+333,2RCVrSkNzZ2PgxNCYz37u4,Ridicule - Edit,Ky William,minimal_deeptech,0.00856,0.789,0.714,236308,0.877,0.83,6,0.0789,-9.003,0,0.0784,129.998,4
+334,0xkqrmWGgm03fKZZCKkJ3m,Balboa - Will Taylor (UK) Edit,New Stereo,minimal_deeptech,0.00107,0.776,0.42,196615,0.869,0.783,7,0.0667,-8.755,1,0.0581,130.049,4
+335,2FnzWbKUPevcGUrAu3cqyr,Patch & Tweak,Sly Turner,minimal_deeptech,0.00126,0.794,0.657,434646,0.781,0.693,1,0.0434,-8.874,1,0.0815,129.034,4
+336,2yiLWXJp0lESOyYF3pVjJp,We Miss The Crowd,THEOS,minimal_deeptech,0.038,0.797,0.491,412437,0.882,0.922,6,0.05,-9.734,0,0.0691,127.006,4
+337,77jxftrn7Gh1VYSJU45hfy,Arp City - Edit,Andrew Azara,minimal_deeptech,0.0941,0.792,0.262,189213,0.816,0.889,10,0.107,-10.381,1,0.0498,127.007,4
+338,0pSZmff2yzWfSptUUdxz2u,Fly Away - Original Mix,James Wyler,minimal_deeptech,0.00364,0.805,0.606,409386,0.996,0.906,7,0.0728,-7.166,1,0.0874,128.948,4
+339,7tUriZ7km2uLyjtEXrhPrZ,Julio's Mayhem - Edit,The Mekanism,minimal_deeptech,0.0024,0.793,0.57,241860,0.742,0.894,6,0.121,-7.914,1,0.0624,129.102,4
+340,1l4nId2iDQ83ZEJagHVR0H,The Journey,Ken Kelly,minimal_deeptech,0.000266,0.781,0.47,395865,0.788,0.49,7,0.122,-8.245,1,0.0681,128.01,4
+341,6br8Hf8biFTGYRkE8Of9HU,Suspension - Edit,Andrew Azara,minimal_deeptech,0.125,0.801,0.412,192756,0.801,0.922,0,0.111,-9.417,1,0.072,126.976,4
+342,7F6NteFnxqdIAwJub6OIQT,I Work Hard (feat. Big Mike) - Thomas Garcia's 4AM Dub Remix,MING,minimal_deeptech,0.00112,0.72,0.595,229839,0.938,0.0601,11,0.296,-4.564,0,0.187,129.033,4
+343,6J3gxbYyx6dxZGEwVqRr0h,Far From You,Ky William,minimal_deeptech,0.142,0.803,0.332,367619,0.879,0.878,7,0.0687,-8.74,1,0.0518,126.011,4
+344,5AORdeQG1uohuN3H3992rc,Lie Machine,THEOS,minimal_deeptech,0.0263,0.802,0.335,413392,0.708,0.88,5,0.0967,-6.874,0,0.0592,127.003,4
+345,6fBn2opdkwa7FgG8ZSLuRb,20000 Leagues Under The Sea - WLAD Remix,Jeff Sorkowitz,minimal_deeptech,0.000592,0.802,0.726,344921,0.873,0.931,11,0.151,-6.097,0,0.11,130.004,4
+346,54xWQIcHVNAeK6yjthYvVg,Lipid - Mihai Popoviciu Remix,MADVILLA,minimal_deeptech,0.00206,0.808,0.608,394023,0.734,0.914,11,0.078,-9.437,1,0.0844,126.984,4
+347,01893sZf03H7GRcNV2AZJm,Acid Desires,New Stereo,minimal_deeptech,0.00418,0.808,0.851,427208,0.922,0.888,2,0.0728,-6.953,1,0.0657,127.024,4
+348,3vaJMMhHpoWNkdSkVQ0Sa4,Your Number,Jennings.,minimal_deeptech,0.00913,0.801,0.429,499341,0.744,0.917,2,0.0895,-9.138,1,0.0626,126.001,4
+349,7I12GjWWBLHwA7uyHlNj0e,Fly Away - Lotrax Remix,James Wyler,minimal_deeptech,0.00485,0.793,0.545,420000,0.833,0.861,1,0.061,-6.972,1,0.143,129.013,4
+350,34vJm67XsMX5FzVdbr3cUD,Gain Slide,Sidney Charles,minimal_deeptech,0.00135,0.796,0.736,258750,0.928,0.803,11,0.0625,-6.872,0,0.0824,128.007,4
+351,7F6tk8t5K8rwXeObIipfPn,Freq Machine - Edit,Wyatt Marshall,minimal_deeptech,0.00133,0.793,0.462,213256,0.932,0.901,1,0.0807,-10.417,1,0.0682,129.016,4
+352,5l2RHaTulHweNsxcohy9UY,Arpeggiated Dreams,Sly Turner,minimal_deeptech,0.000256,0.803,0.472,451998,0.843,0.874,0,0.0587,-8.782,1,0.0486,127.991,4
+353,4nHZMJqDonyP45doo5PgHQ,Balboa - Edit,New Stereo,minimal_deeptech,0.000847,0.808,0.348,209280,0.842,0.869,7,0.0711,-8.349,1,0.0746,125.001,4
+354,05mIscz32zUbtr3AxnV0kx,Sinner (From The Ghetto),Drillisch,minimal_deeptech,0.00772,0.798,0.347,370007,0.658,0.774,6,0.0814,-9.377,1,0.0809,126.008,4
+355,1G8ByIoNJCObR6zrMIXW03,Inspiration By Sensation,Sly Turner,minimal_deeptech,0.000231,0.806,0.867,405492,0.768,0.891,4,0.117,-10.04,0,0.0868,127.979,4
+356,4yweoCcJZ0835vXFydRZFz,The Stache - Edit,Wyatt Marshall,minimal_deeptech,0.0451,0.788,0.503,218218,0.93,0.892,5,0.11,-10.984,0,0.057,128.041,4
+357,5hI2yao0fidssZCxHanDl7,Arpeggiated Dreams - Ben Balance Remix,Sly Turner,minimal_deeptech,0.000292,0.725,0.531,377510,0.72,0.835,7,0.0986,-7.19,1,0.0412,129.005,4
+358,5vYHf0DY2jhfl8MFiNuVXv,Off My Mind,Mallin,minimal_deeptech,0.0128,0.854,0.695,181491,0.467,0.517,6,0.109,-9.649,1,0.0608,121.998,4
+359,5MkA3hnxRf2c8Tnqe5tqaH,Building Blocks - Edit,Wyatt Marshall,minimal_deeptech,0.0051,0.796,0.449,211436,0.926,0.931,7,0.108,-9.631,1,0.0562,128.006,4
+360,4LWhh6k2i8cecK8CRXcHZP,Constant Emotion,Sidney Charles,minimal_deeptech,0.0226,0.8,0.558,257345,0.926,0.898,11,0.0721,-7.874,0,0.0912,127.003,4
+361,0uuMqlPEGeeSSwduBubjas,Lose Control,Luuk Van Dijk,minimal_deeptech,0.00149,0.798,0.755,365489,0.936,0.904,4,0.0599,-7.348,0,0.0802,129.022,4
+362,5uFdRE1W7BH271xdOwe0dv,Velo City,Sidney Charles,minimal_deeptech,0.0367,0.797,0.555,250394,0.958,0.877,7,0.0699,-7.494,1,0.0802,126.982,4
+363,3fMThizYi0G9KoxdQbgywr,Got Sum - Nick Beringer Remix,Luuk Van Dijk,minimal_deeptech,0.00192,0.799,0.391,443431,0.773,0.885,1,0.0747,-8.525,1,0.0725,126.0,3
+364,7K8k5nwIMndF5VRvUkCfcv,Tired of Pleasure,Ky William,minimal_deeptech,0.00365,0.804,0.405,381732,0.791,0.898,11,0.0699,-12.514,0,0.0572,126.999,4
+365,5vIKrnAH67NVIHeP7q2tCg,Morning Sunrise - Wheats Remix,Ryan Resso,minimal_deeptech,2.02e-05,0.804,0.951,170079,0.874,0.842,10,0.0811,-7.248,0,0.044,126.985,4
+366,3tjjZLt0X1LQEbrjhiLENR,MARVIN - Original Mix,RAOOU,minimal_deeptech,0.00306,0.81,0.802,365826,0.914,0.845,7,0.0784,-6.413,1,0.0545,126.022,4
+367,4wUFjTEGGI9BFAe63jpbgD,Make You Feel,Ben Murphy,minimal_deeptech,0.00115,0.799,0.486,387541,0.853,0.566,1,0.029,-6.491,1,0.065,129.978,4
+368,2kx5btsGcVc1lNc2f2O56v,Velo City - Leon (Italy) Remix,Sidney Charles,minimal_deeptech,0.00138,0.834,0.616,251517,0.714,0.92,1,0.0341,-8.411,1,0.0547,126.028,4
+369,6daxLoDaCoSNR5fd2fRcHh,Bizzi,Wheats,minimal_deeptech,0.00012,0.799,0.709,376598,0.748,0.743,8,0.0875,-9.833,0,0.0789,128.02,4
+370,25RBHN07HQwlCyuCi5sizy,The Tuna Groove,Wyatt Marshall,minimal_deeptech,0.046,0.795,0.187,397377,0.932,0.926,10,0.105,-9.22,0,0.0478,127.024,4
+371,33PrVxSfvFTJJLuZOilEZg,Minimal Flavour - Radio Edit,Mendo,minimal_deeptech,0.000468,0.787,0.699,211875,0.917,0.886,7,0.0878,-7.764,1,0.0782,128.014,4
+372,3nYjvyg4SLss26iNKO1pig,Rookie of the Year,Slugg,minimal_deeptech,0.00388,0.815,0.899,198750,0.973,0.0246,11,0.325,-5.905,0,0.0799,128.014,4
+373,7v7gUJHiRfjbNLYS0xd2RO,Get Two,Ammo Avenue,minimal_deeptech,0.125,0.843,0.583,199094,0.947,0.0584,7,0.112,-6.726,1,0.0863,127.004,4
+374,3Ojq04VL3rYmoFATik9WCu,U Too Good - Original Mix,Chicks Luv Us,minimal_deeptech,0.00343,0.832,0.737,364426,0.714,0.836,9,0.0742,-7.564,0,0.0741,128.009,4
+375,3FDPpAmF5X7LO0Q3ReeoxA,Wata Mood,Hector Couto,minimal_deeptech,0.00553,0.806,0.635,343484,0.924,0.925,10,0.0748,-9.893,0,0.0705,128.981,4
+376,5Cj8QjrIl8VqlnyWSe179P,Reach Me,Luca Donzelli,minimal_deeptech,0.0572,0.786,0.594,385512,0.951,0.907,6,0.163,-8.186,0,0.0661,126.992,4
+377,6DHVUcja12Z5DFd2VkFT8A,Moulin Rouge,Oden & Fatzo,minimal_deeptech,0.00899,0.781,0.577,407172,0.916,0.857,5,0.0449,-8.042,0,0.0985,130.001,4
+378,10zPwdkvlVMPVGi5BHSwKr,Sunset Boulevard,LondonGround,minimal_deeptech,0.00103,0.81,0.805,396436,0.968,0.902,10,0.13,-8.322,0,0.0767,126.024,4
+379,6CuB8VfA1srHfD97xghJOx,Soul Drip,Iban Montoro,minimal_deeptech,0.00448,0.698,0.351,361951,0.495,0.916,5,0.0968,-8.241,0,0.0383,122.998,4
+380,53eU8SHvBciSBwKopALuXH,Daylight,Sweely,minimal_deeptech,0.0115,0.864,0.782,284980,0.655,0.71,7,0.0961,-9.045,1,0.133,129.992,4
+381,6NoIYdn5wa7hkD4e2Edq9u,Days After Rona,Demuir,minimal_deeptech,0.000531,0.805,0.664,328725,0.966,0.925,4,0.424,-7.82,0,0.0484,127.994,4
+382,20dQeW3wSWeS9M4KXlgkaL,Pressure Disco - Laidlaw Remix,Mennie,minimal_deeptech,0.00011,0.799,0.684,396362,0.892,0.905,11,0.0803,-11.125,0,0.0456,132.01,4
+383,7rUcBIrCdMysE8i74ry9rq,Key To Success - Casey Spillman Remix,Stephan Bazbaz,minimal_deeptech,0.00132,0.807,0.702,483750,0.784,0.897,0,0.0788,-9.624,1,0.0774,128.008,4
+384,0mp5vc9amL8Jf6QjvTLNxp,Sub Zero,James Saunders (UK),minimal_deeptech,0.0134,0.805,0.765,390984,0.845,0.799,9,0.0575,-8.16,1,0.0651,129.037,4
+385,2gkO2A37CZsBL1jiLKlj5E,Yeah Duh,Timmy P,minimal_deeptech,0.0242,0.797,0.41,256961,0.895,0.883,8,0.0653,-6.418,1,0.0773,127.998,4
+386,4YKn48v3I01GPZno1BHhnt,Big T,Dale Howard,minimal_deeptech,0.00127,0.795,0.612,181386,0.913,0.887,6,0.121,-8.455,0,0.0699,127.013,4
+387,0P1HrrvmzeqzZbX0T6AyoE,Trap's Groove,Lucas Alexander,minimal_deeptech,0.0036,0.847,0.733,240744,0.851,0.922,10,0.0653,-7.434,0,0.234,127.987,4
+388,0ofNsu5dESl4rYet0anV5F,What The Funk,Immature,minimal_deeptech,0.00707,0.807,0.386,396191,0.569,0.866,1,0.0804,-11.786,1,0.0614,126.013,4
+389,2tgxdcgjP1ktJb8Iqamr9J,Plastic Surgery,Daan Steenman,minimal_deeptech,0.00266,0.806,0.759,363443,0.961,0.942,4,0.0273,-9.09,0,0.061,127.01,4
+390,30iPMgNcnGgtRczqNGJ2YZ,Pipe Dream,Milion (NL),minimal_deeptech,0.026,0.797,0.735,232600,0.892,0.858,0,0.0436,-6.665,1,0.0499,129.021,4
+391,5NH7LLO9TIL9GoiZxgWdBd,Polonio - Cosenza Remix,Sam Haskin,minimal_deeptech,0.000435,0.796,0.42,396850,0.726,0.901,1,0.0714,-10.905,1,0.0715,127.005,4
+392,1J5OPuYSii4cWxS0JKdGjq,L'Abaltros,Jesse Jacob,minimal_deeptech,0.000922,0.798,0.861,380000,0.94,0.87,6,0.06,-8.291,0,0.0633,127.968,4
+393,1I6tOm4JufSBVLtMh5brP6,Do It Again,Hart & Neenan,minimal_deeptech,0.00336,0.802,0.601,225238,0.875,0.888,7,0.0553,-7.05,1,0.0808,125.995,4
+394,6gTuvK0VVCdrdqV2TpZuB7,Natural - Skream Remix,Rich NxT,minimal_deeptech,0.00318,0.747,0.57,487558,0.73,0.851,1,0.0584,-7.354,1,0.0677,126.99,4
+395,7pRbvUg7wTBtg7AMp1e1ER,Sleep It Off,Charlie Banks,minimal_deeptech,0.00168,0.805,0.886,412500,0.845,0.922,9,0.0784,-8.599,0,0.0545,128.003,4
+396,44UHGAN0vpx5zaAiawyeVx,Constant Time,Chris Stussy,minimal_deeptech,0.00538,0.802,0.538,383461,0.923,0.943,11,0.0825,-10.921,1,0.0582,128.004,4
+397,3UzHqCK8ewNLH6EiY4yVdy,Dubby Love - Original Mix,Filizz,minimal_deeptech,0.0243,0.797,0.962,380402,0.932,0.894,10,0.073,-11.475,0,0.0678,126.994,4
+398,3catL0AYK78KDglOArIbeo,I'll Let You In,The Checkup,minimal_deeptech,0.0247,0.79,0.581,453333,0.722,0.856,8,0.0186,-10.694,0,0.124,125.995,4
+399,3GfUkBtXyQta3pGfSUqrHy,Together,Max Chapman,minimal_deeptech,0.0189,0.796,0.572,370394,0.933,0.894,0,0.0803,-6.661,1,0.101,127.004,4
+400,2tNM1x30mtyUoftuY1uXbZ,Satoshi's Groove,PAWSA,minimal_deeptech,9.37e-06,0.808,0.961,380004,0.728,0.962,6,0.0971,-10.212,1,0.0936,129.005,4
+401,0osktlGdruk2qienl2KKF2,She Gives,Copasetic,minimal_deeptech,0.000954,0.801,0.465,395125,0.865,0.804,9,0.0977,-8.591,1,0.0488,127.99,4
+402,6oeKxJTUMDcsaZ3PS69MDH,2027,Smoud Beats,minimal_deeptech,0.00296,0.796,0.337,376603,0.816,0.892,8,0.109,-9.767,1,0.0563,130.018,4
+403,2NQ6SxvatR3dmFROFGDejY,Ass Up - Hector Couto Remix,Reboot,minimal_deeptech,0.000137,0.805,0.804,365718,0.892,0.871,6,0.0877,-8.895,0,0.114,126.003,4
+404,1ah4pcgQ7xEkXWXSyB2HFu,Cosmos - De La Swing Remix,Dxnby,minimal_deeptech,0.000925,0.801,0.114,420625,0.744,0.852,4,0.0951,-9.366,0,0.0668,129.007,4
+405,3Cv0dz5Pakd7pdkHRxhXLf,Sultry,Conor Harris,minimal_deeptech,0.00383,0.789,0.302,338400,0.978,0.911,11,0.0456,-5.568,0,0.0563,124.981,4
+406,5QEN5yAeNcDHW5O9zmSfxs,Cast Plate,Iron1,minimal_deeptech,0.00257,0.8,0.0798,451875,0.721,0.909,0,0.0769,-11.081,1,0.0775,128.012,4
+407,4eS27r2BoibdKWe1GSf9jv,Set Breaker - Original Mix,Ikem,minimal_deeptech,0.00606,0.806,0.553,380160,0.681,0.901,1,0.0483,-11.56,1,0.0793,125.0,4
+408,6WZHPlF6YGhcpe0HT0Ia9a,Portrait,Juliche Hernandez,minimal_deeptech,0.0118,0.795,0.544,445716,0.863,0.871,1,0.386,-7.595,1,0.0651,126.005,4
+409,7jKmCbRjk496bFO1RqoKws,Brimstone - Oden & Fatzo Remix,T.Bunts,minimal_deeptech,0.000152,0.759,0.601,415000,0.848,0.876,10,0.0999,-9.061,0,0.0646,132.002,4
+410,6FPEIlIWjxURQuXryXL5ng,Right Order,Casey Spillman,minimal_deeptech,0.00225,0.793,0.62,477359,0.902,0.818,6,0.0887,-9.876,0,0.0833,129.002,4
+411,0IhS4J44RXxrdEy3BildBW,How Deep - Original Mix,Alex Pervukhin,minimal_deeptech,0.122,0.808,0.293,400010,0.696,0.897,1,0.095,-11.505,0,0.0902,126.012,4
+412,2GJe5atrDLXtrPPV4o7gjQ,Sonic - Radio Edit,Juan (AR),minimal_deeptech,0.000598,0.785,0.788,210000,0.929,0.839,1,0.171,-6.595,1,0.0583,126.049,4
+413,3UlWRjSls7L3r4xaQjuiMq,Turn Me Up,Oumu,minimal_deeptech,0.0186,0.959,0.809,363500,0.901,0.265,1,0.113,-10.27,1,0.411,130.014,4
+414,2ObNkFtuCAcCjVdJjECfe3,Take That Step,VANROY,minimal_deeptech,0.000474,0.786,0.305,357225,0.934,0.595,7,0.0911,-10.316,1,0.0911,129.005,4
+415,5P7QG0hvpLDSX7kyrjVsNt,Waves - Original Mix,Vilchezz,minimal_deeptech,0.0259,0.797,0.528,424985,0.879,0.858,1,0.103,-9.786,1,0.138,126.983,4
+416,0YVEsDZxvsUxwTZyHKC58j,Kessel Run,Max Kernmayer,minimal_deeptech,0.0135,0.793,0.613,225231,0.879,0.844,3,0.0862,-9.863,0,0.152,130.018,4
+417,52f3HxTDnKQ6Z4ImJXkPgt,Module Play - Stephan Bazbaz Remix,SAT,minimal_deeptech,0.00537,0.791,0.863,424085,0.866,0.894,4,0.0811,-9.672,0,0.0533,134.009,4
+418,0ESiOkdccpeGlPHhaeSL9j,MoskoSky,Riccardo Ricci,minimal_deeptech,0.00805,0.812,0.622,368640,0.991,0.792,2,0.0652,-8.993,1,0.0709,125.025,4
+419,1qizwDrzksvb3nU3JWNGvq,Fast Beat - Pirate Copy Remix (Extended Version),Leonardo Gonnelli,minimal_deeptech,0.000612,0.803,0.384,354178,0.866,0.92,7,0.0665,-8.352,1,0.0556,126.005,4
+420,3ZHTVwaytgH8gqCfPSoWE9,Pentatonic,Relativ (NL),minimal_deeptech,0.000384,0.805,0.633,342000,0.927,0.898,6,0.0545,-7.526,0,0.0508,130.007,4
+421,0FrFih3njclZ8y3QjyxaVg,Takeout,MADVILLA,minimal_deeptech,0.00264,0.707,0.243,415748,0.874,0.747,1,0.117,-7.313,1,0.0504,127.014,4
+422,6qh5ZDxwRryT4taCoabl68,Ipotetic,Stoian,minimal_deeptech,0.00765,0.667,0.643,368487,0.998,0.612,11,0.351,-5.359,0,0.0709,126.016,4
+423,6tkU6DzeG4M7K5owyxskAf,Impress Me,Project89,minimal_deeptech,0.00615,0.801,0.568,394709,0.827,0.894,7,0.0894,-10.858,1,0.0559,126.999,4
+424,6bmKsVXsDInpwdNvBnxrHR,Rip City - Fabe Remix,LEON (Italy),minimal_deeptech,0.00869,0.851,0.769,443607,0.88,0.852,7,0.0955,-8.631,1,0.12,126.995,4
+425,16voGobt01ArzEksTuTpbf,Grindin,Sidney Charles,minimal_deeptech,0.0466,0.794,0.598,390698,0.978,0.873,10,0.159,-8.424,0,0.067,129.005,4
+426,2UXF6Sz2y6cYk1tF5f1X7U,Whatever,Kreech,minimal_deeptech,0.164,0.777,0.541,226047,0.933,0.306,7,0.107,-8.641,0,0.0551,128.992,4
+427,4LGKdv5jWblhWDrCskvgmq,Shade - Original Mix,Di Chiara Brothers,minimal_deeptech,0.00038,0.809,0.599,435692,0.875,0.468,11,0.0658,-7.726,0,0.23,130.021,4
+428,2THxskift0F2b5wCjjLpzw,Chutoro,Franky Rizardo,minimal_deeptech,0.116,0.802,0.617,350771,0.884,0.857,6,0.0959,-8.57,1,0.0744,127.978,4
+429,6jx0kwGUxGmzD50yESCRRH,After Midnight,DJ Sidefx,minimal_deeptech,0.000437,0.809,0.808,393075,0.906,0.868,11,0.574,-7.398,0,0.0862,127.011,4
+430,7i3SjKt2xhtl493xoAYOkV,Deranged,strippd,minimal_deeptech,0.0103,0.802,0.622,216744,0.683,0.85,11,0.0728,-9.143,0,0.0524,129.019,4
+431,5DKhkYXIGLOABBykwddkEg,Be Loving You - Original Mix,Jay House,minimal_deeptech,0.000212,0.8,0.582,383375,0.939,0.914,7,0.0515,-6.821,1,0.061,126.013,4
+432,4c62iyI8uWuMAUC43l4E9A,My House,Jizz,minimal_deeptech,0.0496,0.789,0.659,223511,0.845,0.611,9,0.0662,-5.794,1,0.108,130.986,4
+433,2TO844Gr7hhLUEBmD4zbhv,Seafood,Kreature,minimal_deeptech,0.000544,0.806,0.567,363934,0.812,0.899,6,0.124,-7.953,1,0.0551,127.014,4
+434,2SsKXyYpHIvgnLGhDmPtOm,Chapter,Bassel Darwish,minimal_deeptech,0.000784,0.809,0.563,363898,0.833,0.944,2,0.053,-8.982,1,0.0512,127.003,4
+435,5ODoVU4RKJXw8trRXasWTl,Little Helper 378-2,Roni Be,minimal_deeptech,0.00412,0.799,0.511,398507,0.686,0.883,7,0.0898,-9.683,1,0.0884,126.03,4
+436,1UiJg2IsuxcNbJiGTbBiKD,Looking At You,Nathan Alzon,minimal_deeptech,0.000245,0.798,0.713,445195,0.903,0.769,4,0.0906,-7.871,0,0.0426,130.987,4
+437,7mFfLTFHU3MHVttJVSq7JP,What You Think - Radio Edit,Mendo,minimal_deeptech,0.0561,0.792,0.431,200625,0.897,0.82,1,0.085,-9.537,1,0.218,127.978,4
+438,5YODbMqoiOiFVckCVBAiSC,Arp City,Andrew Azara,minimal_deeptech,0.118,0.793,0.179,377953,0.825,0.905,7,0.106,-10.351,0,0.0549,127.026,4
+439,0ymR6Bcov2z6gc47bmYshG,Balloons For Breakfast,LewRaz,minimal_deeptech,0.0061,0.788,0.762,367500,0.995,0.822,11,0.167,-7.066,0,0.0846,127.99,4
+440,6URoiLqCpH4Uv8gKGa4jR7,I Didn't Mean It - Stephan Bazbaz Remix,Kreutziger,minimal_deeptech,0.00103,0.795,0.505,363750,0.902,0.762,2,0.0555,-9.358,1,0.0475,127.977,4
+441,4iizViLdcfIX3BYljzetRG,Grace,Perky Wires,minimal_deeptech,0.0137,0.786,0.566,409302,0.97,0.905,1,0.0748,-7.002,0,0.0588,129.002,4
+442,0YXw1yv7UBhUIRnCWbHax3,What Is Funk - Extended Mix,Waitz,minimal_deeptech,0.00748,0.786,0.566,376244,0.944,0.514,11,0.0524,-8.444,0,0.134,128.007,4
+443,7F6NteFnxqdIAwJub6OIQT,I Work Hard (feat. Big Mike) - Thomas Garcia's 4AM Dub Remix,MING,minimal_deeptech,0.00112,0.72,0.595,229839,0.938,0.0601,11,0.296,-4.564,0,0.187,129.033,4
+444,75efJXDihBA9AQqLqGedBI,Plaits Time,Mancini,minimal_deeptech,0.000221,0.795,0.678,406875,0.73,0.902,4,0.0546,-10.47,0,0.0943,128.006,4
+445,3HiyqRYp2aMsw9hp9gYCyD,Voyager 1,Okain,minimal_deeptech,0.00382,0.792,0.822,404661,0.699,0.873,7,0.153,-10.608,1,0.065,131.99,4
+446,0qPOCMd0CASwtOZhp91zlG,Waddabout Chu ft. T.O.S.,Paolo Rocco,minimal_deeptech,0.0287,0.801,0.619,384000,0.828,0.772,2,0.109,-8.479,0,0.071,130.0,4
+447,5lewHmlZGOvcZASyzAz3co,Systematic,Cerillo,minimal_deeptech,0.257,0.811,0.594,369836,0.951,0.958,7,0.0826,-8.557,0,0.073,126.016,4
+448,4LQGq54hdaI6lPwzfeOtdz,Holy Kush,Vitess,minimal_deeptech,0.00348,0.695,0.603,362951,0.908,0.589,4,0.0632,-6.909,0,0.049,134.012,4
+449,54ItHFHIBbt626iif4WfEf,Reconocer-me,Federika,minimal_deeptech,0.0577,0.808,0.692,424725,0.716,0.914,6,0.0867,-10.518,0,0.0617,126.996,4
+450,0ZYKyJpSgkQ7r9no9G8M8g,Temperature,Davide Mentesana,minimal_deeptech,0.0623,0.789,0.637,362835,0.676,0.852,7,0.0657,-11.453,1,0.0803,127.018,4
+451,0loqGE32XJFyo1I0lpi4nS,Symbiosis,Jo.an Julian,minimal_deeptech,0.0796,0.798,0.756,450273,0.949,0.878,2,0.0782,-8.738,1,0.0869,124.03,4
+452,1AwbMlbsaLuUqoapG2GDBL,Jaffa,Josh Baker,minimal_deeptech,0.000352,0.787,0.349,414441,0.933,0.924,9,0.0856,-7.383,1,0.0534,129.991,4
+453,5UT3T2kBJaihRdGogx7ptj,Out of Tune - Prok & Fitch Extended Remix,Roberto Pagliaccia,minimal_deeptech,0.0203,0.799,0.148,331319,0.786,0.844,6,0.102,-8.045,0,0.0671,128.004,4
+454,1LZsoo24VuxmsKZunfsOSG,I Need It - Ray Mono Remix,Richy Ahmed,minimal_deeptech,0.0095,0.802,0.773,394898,0.694,0.853,2,0.0611,-10.249,1,0.0844,128.012,4
+455,0qqDuwg56rFDYOTuNZVrqy,Just A Feeling Now,The Mekanism,minimal_deeptech,0.000412,0.798,0.645,453543,0.787,0.877,9,0.0788,-9.532,1,0.117,127.008,4
+456,2yk8Ov90RZfX61oUAmElwb,Sending Love - Alessio Viggiano Remix,Acid Kids,minimal_deeptech,0.00102,0.762,0.532,237231,0.955,0.873,8,0.0946,-9.776,1,0.0962,130.023,4
+457,3FNOjsGI5d5vPOZAfaHOhF,Bread and Break - Original Mix,Juliche Hernandez,minimal_deeptech,0.00602,0.802,0.96,412112,0.887,0.805,6,0.222,-8.022,1,0.0546,126.015,4
+458,2T2TJP1H3zhUmX3LOoPlhp,Pleasured,Cessy,minimal_deeptech,0.0454,0.806,0.693,457500,0.892,0.89,2,0.0765,-8.475,1,0.0498,128.015,4
+459,6MTykDcBBeOfHMvX3JBa6e,Freaky Chic,Gabriel Evoke,minimal_deeptech,0.00864,0.803,0.707,365000,0.714,0.876,5,0.053,-8.454,0,0.0732,127.991,4
+460,2Uzq97fkvKIe08lEOOFXfm,Exodus - Original Mix,Guilherme Rossi,minimal_deeptech,0.0228,0.803,0.934,358372,0.964,0.92,8,0.037,-6.893,0,0.051,129.001,4
+461,2onSu6qc9Q94M09IRqC8Mu,Midi Fight,Juan (AR),minimal_deeptech,0.00408,0.805,0.509,380497,0.958,0.911,2,0.0574,-10.458,1,0.0486,125.012,4
+462,1aosnOkyr1EaozxgchZS9A,Treat U Right,Milion (NL),minimal_deeptech,0.000157,0.793,0.771,239070,0.876,0.694,10,0.0819,-7.237,1,0.0529,129.002,4
+463,74jV6Ybnakm2MdvpgXI42S,I'm Back - Londonground Remix,Sous Sol,minimal_deeptech,0.00381,0.807,0.573,391680,0.858,0.886,10,0.53,-8.916,0,0.0855,125.002,4
+464,3f2HyBa8aWn9LxmpduoX4t,Once Again - Mihai Popoviciu Remix,Markus Homm,minimal_deeptech,0.000122,0.81,0.713,366114,0.692,0.908,5,0.0501,-9.805,0,0.0526,126.009,4
+465,45lfRqmWyLTrJSv3ajX9cE,La Farfalla,Daniele Bussoleni,minimal_deeptech,0.00285,0.775,0.614,386000,0.919,0.715,9,0.075,-9.84,1,0.0738,130.011,4
+466,6a9tZdYKvqwjjcW7qAEHT0,The Day After,Fran Bortolossi,minimal_deeptech,0.00014,0.811,0.643,457143,0.665,0.917,6,0.0468,-8.748,0,0.0771,126.015,4
+467,5VLIG6YImrVZFJpsUlmUnL,Glow Ride,Local Dub,minimal_deeptech,0.0021,0.795,0.467,427036,0.796,0.905,2,0.0914,-8.747,1,0.0425,130.006,4
+468,14GnlEEfuEQwec1AVgF54P,What You Know,Parsec,minimal_deeptech,0.0412,0.805,0.66,488000,0.693,0.856,11,0.0772,-9.974,0,0.0569,128.037,4
+469,3JbP47ZpEbhXnDcLFLR3ny,Dream Thief,Darius Syrossian,minimal_deeptech,0.00446,0.796,0.26,401500,0.907,0.905,11,0.331,-6.485,0,0.0546,127.012,4
+470,0Zi6yi6lMZxBnPv0zd8yw4,Push It,Immature,minimal_deeptech,0.00577,0.788,0.425,387097,0.987,0.889,6,0.0684,-6.894,0,0.0676,123.995,4
+471,6yAW9zKkKf1fbxAMgtjb7a,Want Me To - Ramin Rezaie Remix (Extended Mix),Ben Murphy,minimal_deeptech,0.0045,0.795,0.593,360341,0.911,0.931,2,0.0387,-9.388,1,0.0933,130.063,4
+472,1XFH9lrAI9ZXXFilgwk3kq,Like A Bee,Eddy M,minimal_deeptech,0.00171,0.807,0.632,253023,0.793,0.281,7,0.111,-10.488,1,0.0513,129.004,4
+473,2qyEllGq6GUtvSdOKRqHyx,The Notion,Dipzy,minimal_deeptech,0.00212,0.787,0.847,206769,0.969,0.573,9,0.124,-7.838,1,0.115,130.008,4
+474,79ahn3D8iZxpH8E38Xe6ge,Fantasizing - ASH-R Extended Mix,Dani Pana,minimal_deeptech,0.0017,0.797,0.563,380000,0.944,0.924,0,0.0488,-6.955,1,0.053,132.005,4
+475,5sYEginFzPh8bQGdZCLnMH,Dmoni - Giorgio Maulini Remix,Ildec,minimal_deeptech,0.0915,0.792,0.428,350977,0.584,0.888,1,0.126,-9.718,1,0.067,127.991,4
+476,44f96erN4PZScpkWnQfZrL,Capsula,Truvor,minimal_deeptech,0.00339,0.804,0.354,480240,0.734,0.935,5,0.126,-12.724,0,0.0656,127.999,4
+477,12MKig8zt2UgN71eVFbs9p,Foxy,Perky Wires,minimal_deeptech,0.00457,0.799,0.894,427508,0.916,0.921,7,0.0882,-9.129,1,0.0559,127.995,4
+478,0ioq3BQ5WuRrWUkrXHVwhT,Our Grind - Extended Mix,Late Replies,minimal_deeptech,0.0146,0.805,0.751,360750,0.945,0.543,5,0.053,-7.932,0,0.0712,127.995,4
+479,1HxIhAufmy6Q64Vx4NBWbP,Rebelz of 2021,Luca Donzelli,minimal_deeptech,0.0423,0.791,0.89,230625,0.941,0.87,11,0.085,-7.321,0,0.052,128.001,4
+480,4kax6BxwzXo90opgDDcHH2,Fiducia - Mihai Popoviciu Remix,Pornbugs,minimal_deeptech,0.000384,0.813,0.311,465031,0.832,0.873,0,0.081,-9.183,1,0.0644,124.007,4
+481,40OA0hjJzwoJMnVDAGHoPB,Sharky and George,zAr zAr,minimal_deeptech,0.00106,0.765,0.739,421271,0.711,0.798,10,0.0841,-8.883,0,0.0533,127.999,4
+482,3aumvSGu3JMmZI41soUuhu,Rubber,Lucio Agustin,minimal_deeptech,0.00905,0.797,0.625,360015,0.976,0.823,11,0.0669,-9.259,0,0.106,128.026,4
+483,65q6SdYF4FcbkpM5eWTQrm,HYYGE,Yogi P,minimal_deeptech,0.0148,0.825,0.576,411436,0.874,0.822,7,0.152,-9.061,1,0.113,126.003,4
+484,16voGobt01ArzEksTuTpbf,Grindin,Sidney Charles,minimal_deeptech,0.0466,0.794,0.598,390698,0.978,0.873,10,0.159,-8.424,0,0.067,129.005,4
+485,2UXF6Sz2y6cYk1tF5f1X7U,Whatever,Kreech,minimal_deeptech,0.164,0.777,0.541,226047,0.933,0.306,7,0.107,-8.641,0,0.0551,128.992,4
+486,2QEbp61MYSsQMUmyGp7g5O,Bah,Reboot,minimal_deeptech,0.00216,0.834,0.153,438464,0.732,0.917,11,0.0776,-9.949,1,0.0611,127.006,4
+487,2THxskift0F2b5wCjjLpzw,Chutoro,Franky Rizardo,minimal_deeptech,0.116,0.802,0.617,350771,0.884,0.857,6,0.0959,-8.57,1,0.0744,127.978,4
+488,0u4lHkRzwzx1VW3QYcM34m,Again,Latmun,minimal_deeptech,0.00041,0.808,0.952,313490,0.934,0.867,2,0.0418,-7.302,1,0.0517,129.007,4
+489,2f3aqWFootFk3PJWM8lfU5,Complicated,Project89,minimal_deeptech,0.0242,0.8,0.408,421589,0.74,0.898,2,0.101,-10.324,1,0.0455,128.016,4
+490,5TcVVRYvMnMsN5V1kxfGIi,Let's Go,Casey Spillman,minimal_deeptech,0.00166,0.878,0.435,397500,0.52,0.83,11,0.0431,-10.781,0,0.186,128.012,4
+491,4LGKdv5jWblhWDrCskvgmq,Shade - Original Mix,Di Chiara Brothers,minimal_deeptech,0.00038,0.809,0.599,435692,0.875,0.468,11,0.0658,-7.726,0,0.23,130.021,4
+492,5C7wOiWGoNcw2uobOfCV2M,Fast Beat - Pirate Copy Remix,Leonardo Gonnelli,minimal_deeptech,0.00147,0.796,0.336,184917,0.883,0.897,7,0.111,-8.134,1,0.0604,126.023,4
+493,6jx0kwGUxGmzD50yESCRRH,After Midnight,DJ Sidefx,minimal_deeptech,0.000437,0.809,0.808,393075,0.906,0.868,11,0.574,-7.398,0,0.0862,127.011,4
+494,7i3SjKt2xhtl493xoAYOkV,Deranged,strippd,minimal_deeptech,0.0103,0.802,0.622,216744,0.683,0.85,11,0.0728,-9.143,0,0.0524,129.019,4
+495,4c62iyI8uWuMAUC43l4E9A,My House,Jizz,minimal_deeptech,0.0496,0.789,0.659,223511,0.845,0.611,9,0.0662,-5.794,1,0.108,130.986,4
+496,0qPOCMd0CASwtOZhp91zlG,Waddabout Chu ft. T.O.S.,Paolo Rocco,minimal_deeptech,0.0287,0.801,0.619,384000,0.828,0.772,2,0.109,-8.479,0,0.071,130.0,4
+497,1vHUJYQZCB1gpwEUxXPiAz,Arp City - Alex Ranerro Remix,Andrew Azara,minimal_deeptech,0.00426,0.795,0.224,372480,0.874,0.893,7,0.0631,-8.181,1,0.0527,124.993,4
+498,5lewHmlZGOvcZASyzAz3co,Systematic,Cerillo,minimal_deeptech,0.257,0.811,0.594,369836,0.951,0.958,7,0.0826,-8.557,0,0.073,126.016,4
+499,4yJ2fn3bL0Se3D6zjW8XXe,Shifter,Minitronik,minimal_deeptech,0.0435,0.799,0.685,371434,0.881,0.84,8,0.0832,-10.839,0,0.147,126.048,4
+500,6lBOoWGMONGHBUNYQ9BTPg,Balade Malade - Luuk van Dijk Remix,Nathan Alzon,minimal_deeptech,0.00444,0.801,0.395,395193,0.866,0.88,11,0.097,-8.9,0,0.0727,129.032,4
+501,7mFfLTFHU3MHVttJVSq7JP,What You Think - Radio Edit,Mendo,minimal_deeptech,0.0561,0.792,0.431,200625,0.897,0.82,1,0.085,-9.537,1,0.218,127.978,4
+502,5YODbMqoiOiFVckCVBAiSC,Arp City,Andrew Azara,minimal_deeptech,0.118,0.793,0.179,377953,0.825,0.905,7,0.106,-10.351,0,0.0549,127.026,4
+503,0ymR6Bcov2z6gc47bmYshG,Balloons For Breakfast,LewRaz,minimal_deeptech,0.0061,0.788,0.762,367500,0.995,0.822,11,0.167,-7.066,0,0.0846,127.99,4
+504,75efJXDihBA9AQqLqGedBI,Plaits Time,Mancini,minimal_deeptech,0.000221,0.795,0.678,406875,0.73,0.902,4,0.0546,-10.47,0,0.0943,128.006,4
+505,3HiyqRYp2aMsw9hp9gYCyD,Voyager 1,Okain,minimal_deeptech,0.00382,0.792,0.822,404661,0.699,0.873,7,0.153,-10.608,1,0.065,131.99,4
+506,4skrpmp7gKlGrkiweKuEJ2,1234,Matthew Dekay,minimal_deeptech,0.000368,0.811,0.626,613928,0.695,0.876,6,0.0933,-10.235,0,0.0623,123.991,4
+507,1LZsoo24VuxmsKZunfsOSG,I Need It - Ray Mono Remix,Richy Ahmed,minimal_deeptech,0.0095,0.802,0.773,394898,0.694,0.853,2,0.0611,-10.249,1,0.0844,128.012,4
+508,4Qr03eM0tBiinRHiRWnuBK,Just A Feeling Now - Edit,The Mekanism,minimal_deeptech,0.00141,0.81,0.635,241890,0.852,0.897,8,0.112,-9.359,0,0.103,127.042,4
+509,40OA0hjJzwoJMnVDAGHoPB,Sharky and George,zAr zAr,minimal_deeptech,0.00106,0.765,0.739,421271,0.711,0.798,10,0.0841,-8.883,0,0.0533,127.999,4
+510,4kax6BxwzXo90opgDDcHH2,Fiducia - Mihai Popoviciu Remix,Pornbugs,minimal_deeptech,0.000384,0.813,0.311,465031,0.832,0.873,0,0.081,-9.183,1,0.0644,124.007,4
+511,3R8z6KCyK2tI29DAyAj3qV,Ornella,YokoO,minimal_deeptech,0.0044,0.806,0.595,437130,0.536,0.909,7,0.101,-9.3,1,0.0832,125.994,4
+512,2yk8Ov90RZfX61oUAmElwb,Sending Love - Alessio Viggiano Remix,Acid Kids,minimal_deeptech,0.00102,0.762,0.532,237231,0.955,0.873,8,0.0946,-9.776,1,0.0962,130.023,4
+513,3t8nehSYI3uTFKVoP1fKSy,Infinite Galaxy,Zone+,minimal_deeptech,0.00465,0.812,0.595,533374,0.409,0.791,8,0.0792,-10.592,1,0.0983,123.999,4
+514,6yAW9zKkKf1fbxAMgtjb7a,Want Me To - Ramin Rezaie Remix (Extended Mix),Ben Murphy,minimal_deeptech,0.0045,0.795,0.593,360341,0.911,0.931,2,0.0387,-9.388,1,0.0933,130.063,4
+515,5EXDyFW3RjO4pfpZ4qD8T5,Square 1 - KRS Two Remix,PRiiMO,minimal_deeptech,0.00777,0.784,0.665,338000,0.911,0.906,6,0.128,-11.781,0,0.0994,128.007,1
+516,4cow8QzWf198V081xK1kXr,Hateful,Davide Mentesana,minimal_deeptech,0.00609,0.799,0.54,360000,0.849,0.647,1,0.0449,-7.393,1,0.0768,128.02,4
+517,35p74V4O99fReg2EsHWBWo,Directions,Eddy M,minimal_deeptech,0.000917,0.9,0.611,255000,0.572,0.921,0,0.0821,-9.917,0,0.103,127.991,4
+518,79ahn3D8iZxpH8E38Xe6ge,Fantasizing - ASH-R Extended Mix,Dani Pana,minimal_deeptech,0.0017,0.797,0.563,380000,0.944,0.924,0,0.0488,-6.955,1,0.053,132.005,4
+519,0ioq3BQ5WuRrWUkrXHVwhT,Our Grind - Extended Mix,Late Replies,minimal_deeptech,0.0146,0.805,0.751,360750,0.945,0.543,5,0.053,-7.932,0,0.0712,127.995,4
+520,44f96erN4PZScpkWnQfZrL,Capsula,Truvor,minimal_deeptech,0.00339,0.804,0.354,480240,0.734,0.935,5,0.126,-12.724,0,0.0656,127.999,4
+521,6HsTfzTndzSDhFNxRcE7ZY,Signals,Perky Wires,minimal_deeptech,0.0804,0.799,0.905,431254,0.844,0.862,10,0.65,-10.947,0,0.0648,127.994,4
+522,1HxIhAufmy6Q64Vx4NBWbP,Rebelz of 2021,Luca Donzelli,minimal_deeptech,0.0423,0.791,0.89,230625,0.941,0.87,11,0.085,-7.321,0,0.052,128.001,4
+523,2gJKKQbQnlkSETAYH0aVuc,Without You,Dennis Quin,minimal_deeptech,0.00511,0.804,0.12,391875,0.683,0.947,8,0.0989,-8.467,1,0.0498,127.999,4
+524,6Pg6ilPrFKLBjJnC6LSJex,Sex Machine,David Balmont,minimal_deeptech,0.0085,0.804,0.882,371250,0.918,0.839,1,0.166,-7.217,0,0.058,127.991,4
+525,5morLv6PcOzJ9hZydFZisF,Adjuvant Register,NTFO,minimal_deeptech,0.038,0.798,0.718,430105,0.64,0.926,10,0.112,-13.981,0,0.0781,125.003,4
+526,0uuMqlPEGeeSSwduBubjas,Lose Control,Luuk Van Dijk,minimal_deeptech,0.00149,0.798,0.755,365489,0.936,0.904,4,0.0599,-7.348,0,0.0802,129.022,4
+527,13xa2elKREYBs4j0H0dWyl,Interlock,Rigzz,minimal_deeptech,0.000209,0.795,0.799,350476,0.901,0.869,11,0.11,-9.234,0,0.071,126.05,4
+528,0SYFDsmGhvL44ekqHN8R7L,Lovin' U,Kreech,minimal_deeptech,0.103,0.792,0.752,210698,0.94,0.569,5,0.0944,-8.05,0,0.0859,128.999,4
+529,3pi4WVAqYqhjX6zHYGGauF,Sunset,Deniro,minimal_deeptech,6.11e-05,0.712,0.0305,484565,0.572,0.826,4,0.113,-12.23,0,0.0432,126.019,4
+530,5Cj8QjrIl8VqlnyWSe179P,Reach Me,Luca Donzelli,minimal_deeptech,0.0572,0.786,0.594,385512,0.951,0.907,6,0.163,-8.186,0,0.0661,126.992,4
+531,15WjjTgORrcnslX1YWi0RO,Freq Machine,Wyatt Marshall,minimal_deeptech,0.000645,0.795,0.613,431628,0.924,0.9,1,0.0657,-10.326,1,0.0744,129.014,4
+532,1P8IgsqamHkkH64GwlkFBL,Maybe So - Original Mix,Robin Fett,minimal_deeptech,0.000318,0.787,0.597,396854,0.781,0.828,6,0.279,-9.655,0,0.118,127.045,4
+533,44lOsgCyWdsUn09I8yhdoA,Planet Zero,Dimmish,minimal_deeptech,0.0446,0.796,0.559,420915,0.851,0.873,10,0.0726,-9.281,0,0.0574,128.013,4
+534,4KN5RYadecTTLJBaFFwZ8N,Fantanized,Toman,minimal_deeptech,0.000295,0.81,0.723,490339,0.933,0.921,11,0.0648,-9.4,0,0.0615,126.007,4
+535,2KtFkBwQUNdASTyEqAQuxA,Turn On Me,ANOTR,minimal_deeptech,0.0175,0.8,0.788,404160,0.891,0.816,9,0.051,-10.207,1,0.0707,130.012,4
+536,2bo1vtJLYUNk1x8uXaXDAX,Make The Difference - Dub,Archie Hamilton,minimal_deeptech,0.000134,0.802,0.825,394219,0.644,0.93,4,0.106,-8.669,1,0.0598,128.005,4
+537,3JphBauX9FJz0INPkHPNiw,Fury's Laughter,S.A.M.,minimal_deeptech,0.00233,0.748,0.466,478889,0.678,0.947,6,0.125,-10.849,0,0.0544,127.985,4
+538,6pHjS9Zio91MmVappuNEBx,Less Attention,James Dexter,minimal_deeptech,1.35e-05,0.812,0.36,495494,0.845,0.893,6,0.0499,-9.827,0,0.0636,124.007,4
+539,7FhGxoqncVR4nilX3vmEjh,Tokyo Nights,Joss Moog,minimal_deeptech,0.0869,0.862,0.51,381905,0.303,0.947,8,0.0797,-10.54,1,0.0892,126.006,4
+540,49GHnWwq2q7aMujCR9roC4,Be With You - Mehlor Remix,Beau,minimal_deeptech,0.00649,0.781,0.544,404000,0.92,0.794,4,0.0617,-8.611,0,0.193,127.038,4
+541,4ZHqQxduWJoHmFcWnzep5C,Point Of Warm,iO (Mulen),minimal_deeptech,0.0103,0.791,0.343,450952,0.877,0.894,7,0.0734,-9.511,1,0.0503,128.017,4
+542,43XEYFomgrPaNXxqLheCgQ,Jam on the moon - Limitu & Jesse Maas Remix,Alessio Viggiano,minimal_deeptech,0.00019,0.806,0.74,348100,0.721,0.867,11,0.0991,-8.786,0,0.0445,127.009,4
+543,5VNqHNtFUs36fz18ud6UFv,Système Solaire,Ben Rau,minimal_deeptech,0.0452,0.807,0.517,487500,0.755,0.863,4,0.31,-9.538,0,0.058,124.998,4
+544,40VdDM7RP5dBfQtNJh61NK,Raas Riddim,Seb Zito,minimal_deeptech,0.0311,0.797,0.132,522248,0.805,0.939,0,0.112,-10.262,1,0.0564,125.034,4
+545,6tmQHqTITtCOyjVo8rk0F4,"You & Me, Together",Chris Stussy,minimal_deeptech,0.0353,0.809,0.585,364729,0.787,0.923,8,0.0933,-8.907,0,0.0858,126.997,4
+546,3TUo9PV9eB2BC85XTmCJLc,Expand,Ben Rau,minimal_deeptech,0.0161,0.797,0.492,439500,0.727,0.914,11,0.173,-10.641,0,0.102,126.033,4
+547,5tMX6pIl7lgZCWGgvSRZLs,Riddle - Toman Remix,Dimmish,minimal_deeptech,0.00453,0.809,0.257,424403,0.825,0.926,6,0.0971,-10.267,0,0.0567,127.005,4
+548,1EDEGVW1lonalfF0n4Rwen,Politics Of Dancing X Sebo K,Politics of Dancing,minimal_deeptech,0.00248,0.806,0.197,374050,0.806,0.916,6,0.0463,-11.974,1,0.122,124.0,4
+549,4VyMOtII9DNZQa3QwDuHLT,Dub Inventions: A1,Rossi.,minimal_deeptech,0.00702,0.812,0.671,418080,0.827,0.882,7,0.0411,-7.293,1,0.0606,125.016,4
+550,2uussxp8alwBGG1bzMkyqx,SFX / ORY,Sebo K,minimal_deeptech,0.09,0.804,0.661,397401,0.762,0.867,1,0.0981,-13.689,0,0.0747,125.002,4
+551,07QTvj3huGCcNZ5oONvyFu,Brain Tornado,Dimmish,minimal_deeptech,0.000729,0.812,0.815,416655,0.859,0.938,0,0.058,-9.627,1,0.0866,125.0,4
+552,1V4ik8IUnOhdqJtlq7LWba,Paradise (feat. Insight) - Extended,Rossi.,minimal_deeptech,0.00815,0.797,0.378,402520,0.79,0.474,11,0.0917,-8.978,0,0.117,127.016,4
+553,1h70MENhF0kfc8gAjRqfu2,Take Care - Original Mix,Casey Spillman,minimal_deeptech,0.03,0.794,0.455,483571,0.874,0.795,11,0.0678,-11.671,0,0.0844,128.022,4
+554,0KOLnDHirajwcZMqsTxrkL,Bubbles,Rich NxT,minimal_deeptech,0.000452,0.812,0.836,425195,0.841,0.89,5,0.0979,-10.842,0,0.0513,126.995,4
+555,76p01107IKsCVwbSrTdqRM,Pacific,Prunk,minimal_deeptech,0.00157,0.81,0.667,321928,0.918,0.887,7,0.0738,-9.74,1,0.0642,125.996,4
+556,4ITqLR7lmVi5w0eE2NMklU,Brigade - Original Mix,Rich NxT,minimal_deeptech,0.00123,0.805,0.766,446860,0.802,0.918,1,0.0738,-9.923,1,0.0556,126.993,4
+557,3acn6yzeTT7vt2YRnxlK8b,Water Tower,Fabe (Ger),minimal_deeptech,0.000182,0.805,0.607,382731,0.714,0.876,10,0.0742,-9.724,1,0.0714,127.983,4
+558,7crejCF0CPnwjuXbcofQI8,Asakusa,DJOKO,minimal_deeptech,0.0189,0.864,0.541,434646,0.966,0.715,6,0.521,-9.942,0,0.0634,127.011,4
+559,3hzd2Wu4xPx1sz5YcP0xGo,More Luv,Rossi.,minimal_deeptech,0.00179,0.804,0.571,433920,0.75,0.724,2,0.0749,-8.047,1,0.0597,124.991,4
+560,2oasTbHMK6mhhb34viLKji,Spacey,Dimmish,minimal_deeptech,0.000203,0.8,0.756,449526,0.912,0.864,5,0.0388,-9.246,0,0.144,126.044,4
+561,2Mc7Z37wYJEsu5Xos2Yh5q,Twister,Dimmish,minimal_deeptech,0.000343,0.797,0.709,462873,0.976,0.921,4,0.081,-10.025,1,0.0782,126.02,4
+562,5iLiKv58I9v5ERgYt1ADwC,Indica Mornings - Ben Rau Remix,Ben Rau,minimal_deeptech,0.0448,0.81,0.417,412000,0.915,0.927,0,0.107,-9.724,1,0.0752,123.999,4
+563,3nrwq2UMT025ZfuNzZdCGS,Jazz Fusic,Chris Lattner,minimal_deeptech,0.00214,0.813,0.491,401907,0.537,0.645,11,0.0684,-9.94,0,0.0608,123.006,4
+564,5AOwjFzPB5Z5g1bEJas7mE,Lucy Liu,Dimmish,minimal_deeptech,0.000118,0.809,0.623,413341,0.944,0.895,7,0.0848,-8.93,1,0.082,126.016,4
+565,63nWJiMAQWODosjPh0SrqN,E3,Rich NxT,minimal_deeptech,0.000764,0.808,0.638,472440,0.678,0.894,6,0.0952,-10.474,0,0.0631,127.002,4
+566,4yKTlZ98KQO46zETZUisyk,Holiday - Ben Rau Meta Remix,Roy Ayers,minimal_deeptech,0.00275,0.809,0.452,496500,0.914,0.886,7,0.101,-7.344,1,0.0557,125.997,4
+567,2yZmrYLg1BQONzZ2wm4Jz4,The Step Up,Rossko,minimal_deeptech,0.00605,0.809,0.704,474082,0.932,0.887,7,0.0254,-7.612,1,0.11,126.003,4
+568,6E03r21rDoScjCz9ADtTL5,Something - Original Mix,Moonlit Vision,minimal_deeptech,0.0224,0.819,0.608,456000,0.851,0.864,11,0.0927,-7.485,0,0.0935,125.001,4
+569,6uzMeKXA4jvrUFVCuFCnUe,Tabebula - Seb Zito Remix,Mariano Mateljan,minimal_deeptech,0.038,0.791,0.288,408300,0.895,0.9,10,0.11,-11.672,0,0.0508,128.0,4
+570,77salKd4J00yAYwLIj4Xsl,Subtly,Toman,minimal_deeptech,0.000255,0.811,0.534,369896,0.674,0.897,8,0.0597,-9.666,1,0.058,126.012,4
+571,7DvnyHSrbSLVfac3tZVYO1,Serious - Original Mix,Rich NxT,minimal_deeptech,0.00019,0.81,0.214,446470,0.655,0.938,4,0.113,-12.085,0,0.0642,126.001,4
+572,1qaklWvrn8RIrdU3QpIzqL,Noir Infusion,Chris Stussy,minimal_deeptech,0.0624,0.807,0.368,400500,0.893,0.878,4,0.0803,-9.511,1,0.0574,126.002,4
+573,4jtfPz8MINYNvF556nSdUd,Whatudo,Chris Stussy,minimal_deeptech,0.16,0.805,0.478,427500,0.813,0.854,10,0.091,-11.709,0,0.0624,126.996,4
+574,0HfkevNDVBb1IIyfweYdbG,Atlas,Chris Stussy,minimal_deeptech,0.0286,0.807,0.84,368005,0.761,0.868,10,0.102,-12.369,0,0.0851,125.923,4
+575,7JeVrHRAzCaMyMpJcSOhjQ,Unplugged,Ray Mono,minimal_deeptech,0.0281,0.809,0.645,450488,0.764,0.899,5,0.0473,-11.19,0,0.0601,125.986,4
+576,0VLJskl52OEbeGrUKJ99GZ,Swift Eviction,Josh Baker,minimal_deeptech,0.0139,0.807,0.7,404500,0.834,0.888,10,0.0733,-6.797,0,0.0883,125.005,4
+577,4Ko0KM7siVF6HiMqB5P367,First Contact,Ray Mono,minimal_deeptech,0.00147,0.827,0.481,444500,0.731,0.885,0,0.109,-6.304,1,0.184,126.01,4
+578,5FieQclE9rGl7MICSgRcjJ,Moonlight,Blackchild (ITA),minimal_deeptech,0.0049,0.597,0.548,362000,0.913,0.923,11,0.0804,-10.408,0,0.0626,129.001,4
+579,2tH2kG8Sqg4N0lZfRYspVM,We Are - Ben Rau Remix,Philipp Lichtblau,minimal_deeptech,0.0131,0.811,0.35,440315,0.756,0.919,2,0.178,-9.324,1,0.0935,124.978,4
+580,6Cj3pqkzV6JlfI3Zg0jGKM,Swerve - Original Mix,Archie Hamilton,minimal_deeptech,0.000838,0.81,0.683,442226,0.643,0.882,1,0.0699,-10.428,1,0.0581,124.996,4
+581,6t1YxAHU3a4NXY4XJUgKeo,Cosmo,Chris Stussy,minimal_deeptech,0.00473,0.806,0.677,367639,0.722,0.923,11,0.101,-10.312,1,0.0573,126.019,4
+582,4Gb7a65Xi5GxaEw2vOjgTo,Planet 34,Jesse Maas,minimal_deeptech,0.0346,0.792,0.714,367629,0.836,0.797,11,0.0647,-10.702,0,0.0656,126.014,4
+583,5Fk6OMCuNNLlTnZd67DxeB,Dx7 Trippin,Black Loops,minimal_deeptech,0.0109,0.805,0.575,451429,0.808,0.901,11,0.0892,-9.048,1,0.0579,126.01,4
+584,2hUg3numWDAw5Ewlvjz5A7,Algorithum,Rossi.,minimal_deeptech,0.012,0.808,0.66,372381,0.77,0.868,10,0.0473,-9.139,0,0.0948,126.025,4
+585,7gojuJSoP28W0Q0MVWWLN4,Do Your Thing,Ben Rau,minimal_deeptech,0.0132,0.811,0.104,469500,0.778,0.867,11,0.122,-8.621,0,0.0447,125.004,4
+586,67NpA0J0WSgH8P9ihuqeSp,Shake,Mehlor,minimal_deeptech,0.00364,0.682,0.465,393869,0.797,0.9,7,0.082,-12.725,1,0.28,128.077,4
+587,5oKmdroEBcfHvHVNW1cYqC,All City Brother - Original Mix,Fabe (Ger),minimal_deeptech,0.0166,0.909,0.534,435140,0.538,0.727,11,0.0968,-10.611,0,0.261,125.984,4
+588,5Z76074clRPE8ZeL05zD5j,Telegram - Original Mix,Archie Hamilton,minimal_deeptech,0.00314,0.81,0.726,464747,0.78,0.914,0,0.124,-9.09,1,0.0637,125.976,4
+589,0TPoK7IlxyZZ4qJnPIijTm,Ad Astra,Ben Rau,minimal_deeptech,0.000364,0.807,0.422,489500,0.708,0.89,9,0.319,-8.361,1,0.0788,126.021,4
+590,7yvlMYvR6TFdpGREG93hCq,Interrobang - Original Mix,Rich NxT,minimal_deeptech,9.73e-05,0.807,0.722,425668,0.73,0.847,1,0.166,-10.858,1,0.0424,124.999,4
+591,6xujbNldQAko8XA6ulJN6F,Mi Casa Su Casa (Ben Rau Remix),Rhymos,minimal_deeptech,0.00357,0.791,0.297,397549,0.718,0.905,10,0.428,-12.208,0,0.0614,126.015,4
+592,0JXSUt0MnQnjBvdxidoEJv,Dansep - James Dexter Remix,Rich NxT,minimal_deeptech,0.0238,0.804,0.609,369762,0.517,0.883,9,0.103,-10.81,0,0.0643,126.009,4
+593,4oplVVpscJuheBB8ThRTAv,Back Then,James Dexter,minimal_deeptech,0.000258,0.81,0.731,338966,0.872,0.904,7,0.0937,-11.162,0,0.0489,126.068,4
+594,4QHcojnUz1aXRUVUu4ARds,The Dogs,Manuel De Lorenzi,minimal_deeptech,3.51e-05,0.811,0.652,432500,0.702,0.937,9,0.0685,-8.435,0,0.0454,125.011,4
+595,27Dq5CvzEon6hOBOe1nA2g,Usual Thing,Alex Ranerro,minimal_deeptech,0.0195,0.786,0.605,430820,0.9,0.917,4,0.0457,-10.357,0,0.0796,126.002,4
+596,07Hi6AVGUXktmjeGnVArMn,Tayo - Original Mix,Legit Trip,minimal_deeptech,0.00265,0.813,0.509,340645,0.729,0.861,0,0.0604,-11.824,1,0.0527,124.016,4
+597,6SEtRQlbjVFSEoWR5uH6UJ,Young Boy Pt 1 - Original Mix,Legit Trip,minimal_deeptech,2.06e-05,0.814,0.564,398049,0.708,0.94,7,0.116,-11.727,1,0.0639,123.025,4
+598,09ArEnrF8ACOdgfpSx7ATr,Endure,Casey Spillman,minimal_deeptech,0.0502,0.787,0.579,414584,0.883,0.863,2,0.0701,-7.678,1,0.133,130.078,4
+599,088OIpkog0NNIxL1gCCKS0,Avec Moi - Enzo Siragusa Remix,Casey Spillman,minimal_deeptech,0.000412,0.808,0.466,393071,0.896,0.887,8,0.0912,-9.851,0,0.0555,127.005,4
+600,5zIajCplQpDZ1nSEPAQ8mH,Wake & Bake,Alessio Bianchi,minimal_deeptech,0.0107,0.811,0.739,412000,0.855,0.62,11,0.0396,-11.924,0,0.0623,123.999,4
+601,4P0IDIHNMm4Qmd8qq5VmDB,Dubbing Again,James Dexter,minimal_deeptech,0.00274,0.861,0.853,364033,0.821,0.905,11,0.11,-11.276,0,0.0577,126.998,4
+602,5VqRRjvQGHVIl8P7XrcfpA,Together,De La Swing,minimal_deeptech,0.00374,0.773,0.642,260117,0.816,0.311,10,0.0957,-7.702,0,0.0477,126.997,4
+603,1QgTzIaVZGc34tfvlUVrxp,Overdose,Calvin Clarke,minimal_deeptech,0.0001,0.774,0.313,416640,0.836,0.883,4,0.094,-7.848,0,0.0655,125.02,4
+604,7o2cMGuSYYdCQPsZBneeNS,Rose Amongst Thorns,Mariano Mateljan,minimal_deeptech,0.303,0.971,0.346,439507,0.566,0.925,9,0.0848,-13.775,0,0.83,127.973,4
+605,670uShdO0nrzpSIPwWiSGO,First record,Parsec (UK),minimal_deeptech,0.202,0.767,0.7,470164,0.869,0.905,11,0.631,-9.05,0,0.0889,127.985,4
+606,7hzUxcS03auuygECNGgRAN,001,LondonGround,minimal_deeptech,0.00355,0.815,0.606,442623,0.934,0.927,7,0.261,-8.683,1,0.0945,122.004,4
+607,72UDMclCcKF560YE7LJNfu,Blue Notes,Enzo Siragusa,minimal_deeptech,0.00139,0.809,0.452,430079,0.792,0.913,10,0.0678,-12.484,1,0.177,125.028,4
+608,6uFs37payYUROJxTazAEWO,Next Friday,Okain,minimal_deeptech,0.0107,0.827,0.436,372468,0.645,0.897,4,0.0993,-10.125,0,0.174,125.003,4
+609,2whSEIBgshDfZKuPns3CvS,Brain Tornado - Casey Spillman Remix,Dimmish,minimal_deeptech,0.0341,0.805,0.454,483750,0.533,0.914,10,0.076,-13.632,1,0.0652,127.991,4
+610,5kzCXvSIo0Sfdm0dsUjeSy,Can't Stop - Casey Spillman Remix,Jhonsson,minimal_deeptech,0.00356,0.806,0.651,434520,0.909,0.417,10,0.0386,-7.125,0,0.0824,124.001,4
+611,3zHCHsR5bXO93iQYrF9R8S,Avec Moi,Casey Spillman,minimal_deeptech,0.0026,0.785,0.828,349545,0.837,0.863,10,0.0429,-10.826,0,0.133,132.004,4
+612,2qUN6Not37j4ZuCLfmUvZ7,Equinoxe,Janeret,minimal_deeptech,0.00629,0.793,0.442,401575,0.829,0.922,11,0.0811,-9.999,0,0.087,127.026,4
+613,3K8ypFZnShaHqLmuY4AMk3,Jam on the moon - Josh Baker Remix,Alessio Viggiano,minimal_deeptech,0.000263,0.808,0.522,385512,0.788,0.881,11,0.103,-7.929,0,0.0784,126.993,4
+614,235cnbfzYAmtQkvjkvPoAt,Paragon - Chris Stussy Remix,DeMarzo,minimal_deeptech,0.00184,0.802,0.615,367629,0.879,0.745,7,0.0813,-9.606,1,0.0881,126.01,4
+615,2KYVGZYjFqeJhnWfdVQ3tr,Paragon,DeMarzo,minimal_deeptech,0.0021,0.798,0.81,387871,0.922,0.753,11,0.0962,-8.387,0,0.076,124.996,4
+616,4bhys9lXFLlXX4dxv0pGsR,The Dogs - Dimmish Remix,Manuel De Lorenzi,minimal_deeptech,0.00948,0.798,0.504,433000,0.869,0.899,7,0.0655,-10.324,1,0.0857,126.008,4
+617,3INORRw0e0GHu6CTJnS66D,She Got Me,Toman,minimal_deeptech,0.0122,0.808,0.526,394521,0.924,0.933,1,0.0751,-7.986,1,0.046,126.992,4
+618,46v55emTfEyy4ZOevU5cS6,Haze,Cosenza,minimal_deeptech,0.0161,0.881,0.366,368504,0.803,0.835,11,0.114,-10.358,0,0.166,127.019,4
+619,5pIERepOOAHWdhntI3OLgn,Temperature,Casey Spillman,minimal_deeptech,0.0457,0.729,0.966,494545,0.914,0.887,6,0.083,-9.664,1,0.0934,132.055,4
+620,7bRCC4CijYnkUviLrrKht6,Sunday Cooling,Azteca,minimal_deeptech,0.0031,0.81,0.294,433496,0.857,0.921,11,0.093,-13.033,0,0.137,124.011,4
+621,7clgJyJiLAX6OJ8C1rpnxG,Jade,East End Dubs,minimal_deeptech,0.0376,0.809,0.615,394985,0.638,0.892,10,0.0968,-11.611,0,0.0974,127.004,4
+622,1RdqpWEzpZ2G2fYPSzHvyV,Universal Love,ANOTR,minimal_deeptech,0.00036,0.806,0.54,339055,0.888,0.924,1,0.0903,-8.747,1,0.0557,125.997,4
+623,5GrOl4I5zXdoEtO2m5wZWw,I Like It - Original Mix,Seb Zito,minimal_deeptech,0.00119,0.804,0.739,378016,0.951,0.903,0,0.0632,-8.022,1,0.0727,126.991,4
+624,4olK3ATRo3fPhp58cHsVJ1,UK tINGZZZZ - Nick Beringer Remix,Seb Zito,minimal_deeptech,0.00513,0.802,0.751,399576,0.936,0.909,6,0.0972,-10.5,0,0.0883,125.009,4
+625,1KDiwtv4a6AXRbjgGAk9Ea,Opera Says,Mason Collective,minimal_deeptech,0.000228,0.808,0.427,375496,0.96,0.942,1,0.0696,-8.301,1,0.103,127.997,4
+626,2m7o8oJrdfTQtMguSZIIi2,Walk Down,Mason Collective,minimal_deeptech,0.00436,0.803,0.645,391475,0.925,0.912,8,0.077,-7.994,0,0.0526,128.003,4
+627,7mFufL2zk0mlkvdaI9wviV,Despertar,Frink,minimal_deeptech,0.0532,0.791,0.919,408000,0.884,0.896,1,0.0992,-8.937,1,0.0617,123.003,4
+628,0OT7qcLoKACPo6cVPX7E8B,For Us,Arkady Antsyrev,minimal_deeptech,0.00606,0.813,0.135,387033,0.717,0.939,10,0.0912,-12.849,0,0.0597,124.008,4
+629,5VFkbEukLURKyaExKu9XA1,Old City - Rossi. Remix,II Faces,minimal_deeptech,0.0059,0.807,0.664,417638,0.722,0.803,11,0.046,-9.438,1,0.0481,126.99,4
+630,2BLuJkNAHnEDhhFx3u7COI,Ozero,Legit Trip,minimal_deeptech,0.000797,0.812,0.453,495482,0.66,0.85,11,0.051,-16.599,1,0.0949,124.023,4
+631,1qXRYFZbClhHASFbvvbTQp,Mikrogroove,Rhythm Box,minimal_deeptech,0.00208,0.799,0.59,472441,0.858,0.883,11,0.0959,-11.683,0,0.072,126.997,4
+632,3R5XgWot8xMsSct8WSDsfm,Pleasure,Markus Homm,minimal_deeptech,0.0655,0.81,0.372,434094,0.677,0.926,3,0.0512,-9.213,0,0.0589,124.012,4
+633,6BVw3fc6qOdFTEoy4jwJZB,Transcendense,East End Dubs,minimal_deeptech,0.000526,0.805,0.453,487575,0.712,0.88,8,0.112,-9.763,0,0.0605,127.005,4
+634,4x6VzOQTLIrkkCWcDPh5Y0,bRave,East End Dubs,minimal_deeptech,0.000301,0.803,0.754,394960,0.919,0.926,8,0.102,-8.667,0,0.0702,127.029,4
+635,1pfzLnAtrZYuCJkF85CmZr,Ego,Joss Moog,minimal_deeptech,0.000533,0.839,0.0966,400076,0.71,0.778,6,0.0359,-8.002,1,0.0626,125.009,4
+636,3aSSXpW72ldp3CqA9Zzfne,Middle - Original Mix,Daniel Meister,minimal_deeptech,0.125,0.789,0.482,432000,0.744,0.906,7,0.0998,-11.227,1,0.0536,124.995,4
+637,7GvdxV94AQzw0NvQFPKzEv,First Sign,Philipp Lichtblau,minimal_deeptech,0.0446,0.79,0.402,458725,0.718,0.884,4,0.11,-10.466,0,0.0615,125.984,4
+638,1p80B8S2T2zLwFEkrMgZVF,Shuttle Vector,Parsec (UK),minimal_deeptech,0.0606,0.783,0.686,484180,0.832,0.935,6,0.0724,-10.051,1,0.145,128.004,4
+639,3hgEieLMsf19tYBSuGrF3i,Moments,Dieru,minimal_deeptech,0.00449,0.83,0.459,450897,0.873,0.889,0,0.109,-11.008,1,0.14,128.018,4
+640,5DARqf6nyzTpG6SBfegz7q,Kramer,MYR (UK),minimal_deeptech,0.0318,0.796,0.774,396520,0.857,0.852,4,0.0558,-10.554,0,0.105,128.017,4
+641,0ugd66mZ3hsZl4pCFStPmZ,Styx,Rangø,minimal_deeptech,0.00141,0.814,0.071,432170,0.564,0.945,2,0.067,-10.399,1,0.0687,125.011,4
+642,11H8UjmYnKDctWKVvfZPyO,Anagram,Rangø,minimal_deeptech,0.159,0.813,0.256,558144,0.806,0.953,1,0.0941,-13.343,1,0.0667,124.003,4
+643,5DwCeT6PdfJIMTmlOYxpn1,Seduction,Polar (NL),minimal_deeptech,0.00517,0.798,0.483,397143,0.673,0.849,6,0.067,-10.97,0,0.182,126.004,4
+644,4r3G4ItUtrBCTkSw1HUdAK,Deeper Cuts,Polar (NL),minimal_deeptech,0.0128,0.804,0.462,315469,0.869,0.91,6,0.041,-10.84,0,0.0656,127.973,4
+645,2VGsqkEM72p53hjXsIowYC,Ah,Polar (NL),minimal_deeptech,0.0299,0.802,0.577,352381,0.823,0.834,5,0.0605,-9.656,1,0.0724,126.013,4
+646,7GTXZxdKcVGRVj7F6pUJwy,Is It Right - Seb Zito Remix,Leonardo Gonnelli,minimal_deeptech,0.0521,0.793,0.649,413538,0.97,0.943,6,0.0829,-7.695,0,0.0529,130.003,4
+647,3igfsmB1mMBRk7xR0GJxO8,Shades,Djebali,minimal_deeptech,0.00567,0.802,0.359,425181,0.788,0.826,7,0.0709,-10.541,0,0.133,126.985,4
+648,7kmFHmQNAqi9gNTkokHks9,Odorin,Djebali,minimal_deeptech,0.00531,0.804,0.381,404525,0.92,0.918,6,0.0468,-8.903,0,0.0686,124.084,4
+649,4CTZ70bBS3nM4ET0aoWGTP,One: Bs,Adonis Rivera,minimal_deeptech,0.0245,0.808,0.465,448000,0.622,0.901,10,0.0403,-12.931,0,0.075,126.013,4
+650,1uqnIq2IEAYlGZZg0bIr0P,Little Helper 351-1,REME,minimal_deeptech,0.00234,0.812,0.453,437000,0.802,0.951,11,0.0913,-10.93,1,0.0587,123.981,4
+651,3ViNT54GOublxAZZhyivxt,Get Closer - Original Mix,Artslaves,minimal_deeptech,0.00371,0.808,0.068,407055,0.534,0.87,7,0.0518,-11.195,1,0.112,124.992,4
+652,2xo3NpDHhCNeuRhIpKeCHr,La Farsa,LondonGround,minimal_deeptech,0.00146,0.809,0.605,218710,0.947,0.884,11,0.11,-6.317,0,0.0566,123.991,4
+653,3GDbrQA4O9Yb6KQsAzqtGm,For Us - James Dexter Remix,Arkady Antsyrev,minimal_deeptech,0.000264,0.814,0.931,376895,0.735,0.917,4,0.0857,-12.492,0,0.0609,124.014,4
+654,5nHpvzyYqWqYP83uDLoSiV,Solar,Mara Lakour,minimal_deeptech,0.00899,0.809,0.891,430800,0.654,0.767,7,0.0845,-8.585,0,0.0745,125.0,4
+655,3apejEDeFSssS9jOvle4HK,Eprom Burner,Aron Volta,minimal_deeptech,0.00462,0.786,0.347,371862,0.805,0.904,11,0.127,-9.229,0,0.0756,126.015,4
+656,71SItvFBcF7JIUdK4pd7Hg,Archway - Silverlining Remix,TIJN & Daines,minimal_deeptech,0.017,0.81,0.34,521286,0.811,0.879,6,0.666,-11.342,1,0.0781,125.001,4
+657,5NnRBy1Gd9N0aEvo0na3RE,Don't Thank Me - Casey Spillman Remix,Ray Mono,minimal_deeptech,0.0106,0.806,0.616,430897,0.915,0.891,8,0.647,-10.424,1,0.102,127.006,4
+658,6mfHLZxoq4JdelSx1pTIZr,A Heart That Beats You - Jade Remix,Maher Daniel,minimal_deeptech,0.0211,0.804,0.189,423511,0.458,0.665,1,0.111,-12.679,1,0.0552,126.996,4
+659,5TB8foE4TwneIBdNkQH4yg,Waves,Toman,minimal_deeptech,0.0432,0.802,0.355,461872,0.815,0.88,7,0.062,-8.143,1,0.0588,125.002,4
+660,7aHy23fTGJtXCSbPzW4mTY,Last One - James Dexter Remix,Mihai Popoviciu,minimal_deeptech,0.041,0.814,0.646,400438,0.775,0.821,9,0.362,-11.651,0,0.133,126.005,4
+661,0cwXa7EruE4p6qJFNkll61,Daurica,Javier Labarca,minimal_deeptech,0.0187,0.842,0.67,440187,0.684,0.884,6,0.118,-10.735,0,0.0767,124.008,4
+662,3fdfZs4bpd9uIVwVZtoc9x,Misty High - LondonGround,Azteca,minimal_deeptech,0.0131,0.811,0.756,393213,0.913,0.943,7,0.0565,-11.856,0,0.0637,125.044,4
+663,6w1ALUP4FY3kzwbs6l9QgG,It's Mine - Juliche Hernandez Remix,Kerouac & SMILE,minimal_deeptech,0.00411,0.811,0.939,382859,0.785,0.886,1,0.0622,-8.718,1,0.0653,126.008,4
+664,4fZx4g7KnxxuQfR2dBosQ4,Shifting Down - Vanguardist Remix,Kerouac & SMILE,minimal_deeptech,0.00158,0.809,0.845,365902,0.948,0.874,8,0.0573,-7.135,1,0.0588,126.997,4
+665,4lU2hTfl5puClaMeQl8Xk7,Mental Bug,ImAman,minimal_deeptech,0.00225,0.794,0.545,336000,0.469,0.337,4,0.0652,-12.817,0,0.0535,126.978,4
+666,2xurMhiUShs2VTAl8K8eZy,DeeperMode,Alffie,minimal_deeptech,0.0189,0.812,0.503,474000,0.874,0.952,10,0.0487,-11.19,0,0.0529,126.01,4
+667,7x0LHfm4K6pd84FJYxInvj,Retlaw,Erick Ray,minimal_deeptech,0.0211,0.811,0.934,369524,0.801,0.925,8,0.0908,-13.053,1,0.0696,126.032,4
+668,5zaytHN2Hxas4NPMUFtd5X,Back To The B - Edit,Dalfie,minimal_deeptech,0.00173,0.767,0.555,251429,0.737,0.81,1,0.1,-5.046,1,0.0409,125.999,4
+669,2MZW1EmQr3vKCKCw1NPHnq,Back To The B - Alex Ranerro Remix (Edit),Dalfie,minimal_deeptech,0.00112,0.784,0.481,217500,0.761,0.698,1,0.117,-8.663,1,0.068,128.012,4
+670,7rzdlQ66XFR3cYeX9kEKZk,News Flash,Mike.D,minimal_deeptech,1.81e-05,0.812,0.676,430870,0.7,0.929,9,0.0651,-11.161,1,0.0596,127.005,4
+671,1M7pSOWjajp6yZ1uNQYXe8,Vivid,Burnski,minimal_deeptech,0.00077,0.793,0.564,440382,0.639,0.884,10,0.13,-7.934,0,0.0822,133.012,4
+672,1FtrLPMafuXST41xjbpBEa,Reflex - Original Mix,Steve Moore,minimal_deeptech,0.00219,0.81,0.799,399360,0.983,0.736,8,0.0621,-10.767,0,0.0602,125.02,4
+673,6PQg7N68lgrm807ccRMbMI,Stella - Original Mix,Steve Moore,minimal_deeptech,0.0314,0.797,0.616,396191,0.989,0.928,6,0.0507,-9.265,0,0.106,125.963,4
+674,47KCYVBMDe36id9FBNOGFC,Drift - Original Mix,Steve Moore,minimal_deeptech,0.129,0.799,0.379,387097,0.598,0.92,4,0.078,-10.555,0,0.104,123.982,4
+675,2FyD1sXwpi3OBLH11Tt6wh,How We Live - Rich NxT Remix,Steve Bug,minimal_deeptech,0.000249,0.804,0.64,514016,0.713,0.88,11,0.102,-7.927,0,0.0443,127.006,4
+676,0P9w2koWHZLnydTHKLgeoF,13,Parsec (UK),minimal_deeptech,0.121,0.725,0.58,495500,0.799,0.879,3,0.105,-11.538,0,0.109,126.047,4
+677,0wu783qUNGB832YC43zw8c,Know When To Fold 'Em,Ray Mono,minimal_deeptech,0.00273,0.81,0.651,441905,0.556,0.864,5,0.108,-13.821,0,0.0488,126.003,4
+678,1adrchxYl6K5MI8F7UYM3k,One Way,Raretone,minimal_deeptech,0.000709,0.811,0.68,410880,0.744,0.889,10,0.0948,-10.385,0,0.0566,124.998,4
+679,52giLzzhzrkMwYlfF4QbIX,On the Run,Audiojack,minimal_deeptech,0.0089,0.797,0.372,469440,0.906,0.878,6,0.172,-7.733,1,0.0538,126.994,4
+680,3A1cgC0QzItplLMWrAGsgl,Ritmo De Acid,DJ Dashcam,minimal_deeptech,0.00147,0.775,0.304,439200,0.603,0.902,11,0.0711,-11.257,0,0.0907,124.012,4
+681,6BShcCuiBm5knrmaeHQiqn,Starlight,ANOTR,minimal_deeptech,0.000909,0.8,0.738,354477,0.979,0.779,0,0.0422,-9.33,1,0.0518,130.016,4
+682,5qrd21CdTLW35e8a7Pyrgb,Sintonia,Roberto Surace,minimal_deeptech,6.61e-05,0.806,0.24,400000,0.701,0.936,7,0.117,-8.753,1,0.0874,125.987,4
+683,7B1j8qnMbdxeu0ss2fzkue,Studio Business - Picasso(UK) Remix,Not Brothers,minimal_deeptech,0.22,0.783,0.885,369524,0.66,0.879,10,0.0926,-11.008,0,0.321,126.03,4
+684,4iTqQ44vVyDVw4GydyCN3N,Atomic Pulse,DJOKO,minimal_deeptech,0.0245,0.814,0.543,326656,0.906,0.899,11,0.0917,-8.177,0,0.148,129.985,4
+685,3ezoQo67ATmt7QasexSRTq,Orbit,DJOKO,minimal_deeptech,0.0967,0.792,0.693,370401,0.978,0.88,8,0.0424,-8.8,0,0.0821,127.01,4
+686,2CEBmhdDISV48MI7838PNB,Extension Of The Mind,DJOKO,minimal_deeptech,0.00586,0.808,0.756,445745,0.892,0.868,9,0.0877,-9.121,0,0.0787,125.981,4
+687,4lESQZ7GqXqZ331dwsYBtQ,Groovisme,Dubphone,minimal_deeptech,0.00956,0.814,0.611,510000,0.66,0.799,4,0.192,-9.301,0,0.0992,122.003,4
+688,4THGsijwlOOjPFhezjIhB0,Inside My Head - Original Mix,Audiojack,minimal_deeptech,3.88e-05,0.775,0.18,460312,0.666,0.779,10,0.0861,-9.929,0,0.0438,124.992,4
+689,2kq6hvNpdexfDWr30fLOqd,Downtown,Toman,minimal_deeptech,0.0145,0.809,0.0928,434496,0.692,0.85,6,0.084,-9.424,0,0.054,124.992,4
+690,71ruY6NSUURRvZDC2icQgS,Mistral,Mihai Popoviciu,minimal_deeptech,3.75e-05,0.813,0.646,464562,0.715,0.903,11,0.0965,-12.421,1,0.0802,123.993,4
+691,1VNeh0rxafcAHsjOuN9pds,Soulstice,Secondcity,minimal_deeptech,0.0182,0.808,0.819,395906,0.905,0.883,5,0.0604,-9.825,0,0.0924,126.996,4
+692,1TdACXufDqwi9ADEaXB8U1,Close Call - Josh Baker Remix,DJOKO,minimal_deeptech,0.00555,0.802,0.454,205714,0.672,0.941,7,0.0632,-8.443,1,0.0612,126.001,4
+693,56dqdixcUAhGzQ7zGWPgns,Out There,Ben Rau,minimal_deeptech,0.00101,0.808,0.697,440000,0.906,0.869,0,0.0959,-6.994,1,0.0639,125.997,4
+694,1AdzO3pRLNO8qr1x6bfgnG,What is Love,Ben Rau,minimal_deeptech,0.00711,0.804,0.41,499000,0.873,0.857,2,0.324,-8.193,1,0.0643,125.001,4
+695,3ZnAXYwKL8WFoftVMm7XAn,Falling - DJOKO Remix,The Willers Brothers,minimal_deeptech,0.0392,0.792,0.583,395410,0.896,0.871,2,0.0804,-8.458,1,0.0974,127.0,4
+696,45KuNCJYHM4LAlVdhTxz0R,Space Weed,Ray Mono,minimal_deeptech,0.00155,0.804,0.367,423307,0.832,0.924,7,0.0533,-8.568,1,0.0835,126.993,4
+697,1ubVsBhpVkk5z9JBY6A03z,Warped Riddim,East End Dubs,minimal_deeptech,4.68e-05,0.811,0.541,457325,0.804,0.948,1,0.126,-11.823,0,0.0554,126.999,4
+698,5F8VC6XvNq6g1yMTLru9za,420 - Mason Collective Remix,Jean Pierre,minimal_deeptech,0.00101,0.809,0.763,390000,0.82,0.931,1,0.0695,-9.398,1,0.0652,127.996,4
+699,1HL6CYg4nDO7gvCxuxAyrZ,Boost,DiSKOP,minimal_deeptech,0.00174,0.796,0.424,446984,0.815,0.917,6,0.048,-12.447,0,0.0835,129.015,4
+700,4bf8ga6K7R58MIatKufamI,Close Call,DJOKO,minimal_deeptech,0.00492,0.714,0.27,177638,0.835,0.849,11,0.0926,-8.347,0,0.0533,127.005,4
+701,7oWys2D21QLQUHRioOtkd3,Pressure Baby,Lazare Hoche,minimal_deeptech,6.84e-05,0.811,0.756,355533,0.686,0.722,9,0.063,-9.452,0,0.0773,126.009,4
+702,1JYFG990YRPAke0VrMJHJv,Varoska,Dj Steaw,minimal_deeptech,7.75e-05,0.796,0.567,368640,0.869,0.897,10,0.117,-6.802,0,0.0401,124.991,4
+703,5Re4IfV0BHuzqzcdr4vEWI,Filtri Organi - Ohmme Remix,Alëem,minimal_deeptech,0.0145,0.809,0.617,431000,0.99,0.905,11,0.0373,-6.712,0,0.0595,122.997,4
+704,0M2dqeUpxBGm8vujMTMhMV,The Break Up - Original Mix,Dam Swindle,minimal_deeptech,0.0355,0.707,0.241,476050,0.808,0.0335,8,0.671,-9.887,0,0.0503,119.996,4
+705,6wnHWx40gPD9DURnvRGPT7,Marmoni,Arthus,minimal_deeptech,0.0243,0.808,0.604,383413,0.916,0.945,10,0.112,-10.644,1,0.0554,128.009,4
+706,3YLAaU9FFGguSiKhTNnZWk,Holiday - Ben Rau Inkal Remix,Roy Ayers,minimal_deeptech,0.00436,0.804,0.485,471000,0.875,0.886,1,0.112,-8.017,1,0.0603,126.015,4
+707,0B38GMlul6xXbv28dSO3Kt,Creature,James Dexter,minimal_deeptech,0.000107,0.808,0.712,395826,0.911,0.911,11,0.0541,-8.296,0,0.0569,124.006,4
+708,6o3MTYzrgudrQKI8TZLtJf,Kooky,Luuk Van Dijk,minimal_deeptech,0.0162,0.806,0.465,430548,0.831,0.921,8,0.0649,-7.776,1,0.0524,126.01,4
+709,47VjOj7XaJo2rUtl0Kletw,Audio Slave,James Dexter,minimal_deeptech,0.000413,0.812,0.602,441330,0.652,0.859,1,0.0517,-8.356,1,0.0528,123.994,4
+710,2YL7HK74rjdZR8lP3I1utE,Tracks,Josh Butler,minimal_deeptech,0.000173,0.828,0.445,373029,0.735,0.893,1,0.0598,-10.528,1,0.126,125.016,4
+711,35yCHZ2nZGHfO3vXf8xosl,Five Dive,Dimmish,minimal_deeptech,0.0259,0.876,0.667,441000,0.787,0.74,1,0.129,-10.577,1,0.367,128.07,4
+712,5j7Q4Rc3FQLcEa3S7XlBeM,Everyday Thing,James View,minimal_deeptech,0.0832,0.798,0.517,470613,0.964,0.953,10,0.277,-11.31,0,0.0735,127.017,4
+713,23cPY38zBd2qvCoyqKGa2o,What You Do,Devv,minimal_deeptech,0.000963,0.816,0.479,493333,0.852,0.895,5,0.0637,-7.208,0,0.0649,126.002,4
+714,6YnyGeWWLTc9GkxpndTjIM,Micromaya,Cuartero,minimal_deeptech,0.0689,0.763,0.624,400625,0.918,0.892,10,0.0557,-8.305,0,0.0878,127.011,4
+715,7rpphghzueVtEnCrQorw4j,Aire Libre,Cuartero,minimal_deeptech,0.00237,0.795,0.449,368919,0.785,0.751,10,0.117,-10.852,0,0.155,126.036,4
+716,5UO3iSWmlcmJFwBfDGS1kv,Table Tennis,Lose Endz,minimal_deeptech,0.00113,0.794,0.308,364736,0.625,0.917,1,0.08,-9.658,1,0.101,127.028,4
+717,5b3ahuI1K0poudoqV7aTAa,Stay Strong,Lose Endz,minimal_deeptech,0.00273,0.825,0.617,395425,0.916,0.898,5,0.106,-9.713,0,0.177,127.015,4
+718,1UBTF840gTUTQquwK34wib,Arcade,Hector Couto,minimal_deeptech,0.00596,0.792,0.409,365500,0.913,0.9,1,0.0846,-8.535,1,0.0824,126.987,4
+719,6HeGV2AEhHncmtFYeRqMTO,Forever Moving,Chris Stussy,minimal_deeptech,0.00971,0.807,0.233,407045,0.821,0.895,11,0.0814,-9.028,0,0.0469,125.023,4
+720,2SL1r5PsUI5sjl8fPT6YlO,Synchronicity,Chris Stussy,minimal_deeptech,0.00234,0.786,0.18,364734,0.807,0.945,8,0.108,-9.308,1,0.05,127.015,4
+721,4t20PaxvJkYUxlSJpqiZ64,Lunar,Dimmish,minimal_deeptech,0.00805,0.796,0.169,480008,0.634,0.839,10,0.107,-10.935,0,0.0588,124.987,4
+722,4QEiHucPgkmL30LE52deHG,Bocado,Prunk,minimal_deeptech,0.000451,0.797,0.263,432818,0.93,0.887,5,0.0539,-8.13,0,0.0617,126.127,4
+723,1aQxx3RF802MO76WTbHohS,Listen Up,REME,minimal_deeptech,0.000746,0.805,0.815,407720,0.893,0.894,4,0.294,-9.764,0,0.0861,127.999,4
+724,2wzh1Hid0fjNyu8z2FY6mE,Meraki - Ray Mono Remix,Sonoma (MX),minimal_deeptech,0.0535,0.803,0.337,408387,0.913,0.924,0,0.0713,-9.04,1,0.0715,124.044,4
+725,7p7CguEArYNUarpdRfr9Qs,Join The Tribe - REME Remix,Rone White,minimal_deeptech,0.00437,0.799,0.676,398000,0.85,0.924,11,0.556,-9.463,0,0.075,128.004,4
+726,7aHEptTxyzDLK57NCcRgu0,Come Alive,Rich NxT,minimal_deeptech,0.00166,0.811,0.517,397440,0.795,0.926,6,0.0879,-9.166,0,0.0464,125.017,4
+727,3Ei0Z5wF6a0ANcx5Jhnfyg,Recluse,LaRosa,minimal_deeptech,0.212,0.794,0.512,420557,0.885,0.894,1,0.0532,-7.851,1,0.0862,129.009,4
+728,59Dn7rnTfZIp3MTPrD4M2S,Sunny - Original Mix,Ron Costa,minimal_deeptech,0.000528,0.843,0.763,288320,0.808,0.809,9,0.0905,-7.788,0,0.0871,127.005,4
+729,1AKzRUHh5lE10NqCPlJGgM,Altered Carbon,Ray Mono,minimal_deeptech,0.015,0.81,0.605,458880,0.505,0.922,1,0.0789,-10.801,1,0.102,126.071,4
+730,5iSgGZ2ZAM6SKbZvQDW2h0,District Line - Original Mix,Casey Spillman,minimal_deeptech,0.0882,0.798,0.715,477510,0.912,0.87,8,0.112,-9.564,0,0.155,130.012,4
+731,22KloSoN4ypMQmp5w2IbLc,Rollin' Riddm ft. MC Rossko,Enzo Siragusa,minimal_deeptech,0.000145,0.795,0.782,423307,0.687,0.894,1,0.0624,-10.414,0,0.0962,127.077,4
+732,0yH8eQmH9uWMyIiitz65UN,On It - Dub,Seb Zito,minimal_deeptech,0.000126,0.796,0.58,413965,0.728,0.814,11,0.253,-8.997,0,0.0779,126.002,4
+733,3yi4z1Mi6fAIdtf4Km7xtI,Century,Jesse Maas,minimal_deeptech,0.00599,0.806,0.459,360234,0.834,0.892,11,0.0753,-8.636,0,0.0779,127.988,4
+734,2u85Fi47LeAJKzFU9lOf8w,Hollistic Approach,DJOKO,minimal_deeptech,0.0133,0.843,0.815,355276,0.792,0.649,11,0.075,-8.781,1,0.0948,126.979,4
+735,5BrdPPYsE74cz4GTO7eCk9,Nowhere To Go,Alex Ranerro,minimal_deeptech,0.000312,0.773,0.735,407040,0.969,0.494,0,0.187,-8.4,1,0.0966,125.044,4
+736,4Dz1SZwde06LUxoqjHTzvb,Mixed Emotions,Enzo Siragusa,minimal_deeptech,0.000229,0.807,0.455,362835,0.62,0.927,10,0.1,-8.194,0,0.0479,126.995,4
+737,6QsRqITRDF2mgpCHGrVxLq,Hypnosis - James Dexter Remix,ANOTR,minimal_deeptech,0.0045,0.73,0.459,432350,0.876,0.848,11,0.189,-8.211,0,0.0586,125.999,4
+738,51L64VgIAL57Aorz1AWorq,Enriched,Enzo Siragusa,minimal_deeptech,0.00387,0.808,0.573,423307,0.857,0.912,7,0.0956,-10.003,1,0.0442,126.994,4
+739,0ksrbTGkU1bcIAVMBQzUoD,Dreamers,Enzo Siragusa,minimal_deeptech,0.00437,0.808,0.662,423307,0.686,0.883,11,0.102,-9.418,0,0.051,127.019,4
+740,55XII96AbPIub1j9kkjntO,See You In Ten,Enzo Siragusa,minimal_deeptech,0.00103,0.806,0.512,604725,0.66,0.868,11,0.101,-8.136,1,0.0423,127.013,4
+741,4TJqjwLrdRum3gZw5uYJMJ,Aviva,Enzo Siragusa,minimal_deeptech,0.000114,0.803,0.425,403810,0.727,0.92,0,0.286,-10.713,1,0.0493,126.007,4
+742,7sTBS6d9LuXcfaXeLmjLIt,4 Ever - Edit,Seb Zito,minimal_deeptech,0.0197,0.846,0.968,219524,0.954,0.913,11,0.116,-8.533,0,0.0532,127.017,4
+743,7r2GS9zRVOSb2gYZ5tD7ag,We Need Love - Edit,Seb Zito,minimal_deeptech,0.00548,0.82,0.484,219213,0.773,0.00642,10,0.0673,-5.817,0,0.0598,126.996,4
+744,488OjD8tUZQ3BFawTpiQW7,We Need Love - Robert James & Jack Michael Remix,Seb Zito,minimal_deeptech,0.00596,0.782,0.857,401269,0.714,0.875,0,0.0755,-8.644,1,0.0545,134.02,4
+745,1c5I6g2Dr6SumvFhKrjWGw,Da Beat,Luuk Van Dijk,minimal_deeptech,4.35e-05,0.811,0.336,260952,0.783,0.957,6,0.122,-9.723,0,0.0705,125.99,4
+746,3tRzOvwB0iKoO52DXHh550,Acid Roll,East End Dubs,minimal_deeptech,0.000714,0.808,0.437,394287,0.746,0.902,1,0.0528,-8.043,1,0.059,127.017,4
+747,4ZFT08RTKzSXU59JX43WQJ,Rhythm 494,East End Dubs,minimal_deeptech,0.000657,0.811,0.314,424148,0.847,0.888,4,0.0957,-11.502,0,0.062,127.019,4
+748,0lqjjsJcgkrb3UeKGaJtdp,Feel Good,mrT & SimoV,minimal_deeptech,0.000369,0.806,0.426,368745,0.856,0.372,1,0.0726,-11.171,1,0.0666,125.012,4
+749,2AMcPqiPQ9dF62EKvUhGht,Conference Call,Nicolas Sara,minimal_deeptech,0.0496,0.965,0.556,416744,0.393,0.863,11,0.109,-11.811,0,0.261,128.987,4
+750,280cFwcQoqTD5QHctY9RSx,Heartbreaker,DiSKOP,minimal_deeptech,0.000396,0.805,0.93,472631,0.938,0.856,8,0.0642,-7.316,1,0.0609,130.002,4
+751,5F7iR109Y7RtMZ8o7wzplh,What Is Real,Toomy Disco,minimal_deeptech,0.000925,0.81,0.873,432756,0.762,0.913,1,0.0392,-8.652,1,0.0624,127.009,4
+752,1KEp7bnAtkYzCocDWHw04k,Afternoon,Den Haas,minimal_deeptech,0.0195,0.79,0.569,426667,0.708,0.873,7,0.0881,-10.617,1,0.0736,126.014,4
+753,6B5DZ6uGLfd8sHlwc4qdI6,O - Original Mix,Moodbeat,minimal_deeptech,0.000238,0.812,0.703,590323,0.765,0.887,7,0.0635,-9.677,1,0.0591,123.998,4
+754,7otscfvLMoV5GVpnWiwwAz,Rare Garden,Cuartero,minimal_deeptech,0.0363,0.826,0.573,347105,0.761,0.842,4,0.101,-10.36,0,0.161,127.994,4
+755,5tllSxISZF6ZNMekOF5UOP,Rudys Blonde,Joe Tatt,minimal_deeptech,0.0214,0.805,0.805,393750,0.587,0.941,3,0.0889,-12.146,0,0.0765,127.998,4
+756,5zQbYL2akszPnCKkP7DFfs,13,Parsec (UK),minimal_deeptech,0.121,0.725,0.58,495500,0.799,0.879,3,0.105,-11.538,0,0.109,126.047,4
+757,4pudmRjGyv3HqKdJprLBXX,Finalize,Kreature,minimal_deeptech,0.0234,0.813,0.392,474240,0.975,0.795,11,0.0738,-8.666,0,0.0894,125.05,4
+758,03eu4vYsgbOouuRPToPxsv,As It Was,Beau,minimal_deeptech,0.00775,0.794,0.914,574426,0.942,0.879,6,0.269,-10.135,0,0.0972,127.007,4
+759,4N7N4w2avMBzo8UXcORB4a,Ava's Groove,Josh Lee,minimal_deeptech,0.000362,0.812,0.928,410000,0.977,0.865,1,0.0512,-8.153,1,0.066,125.008,4
+760,2PDhyW824lNJ3NUfMci6Gq,Downside,DJOKO,minimal_deeptech,0.00805,0.792,0.391,337158,0.967,0.838,11,0.0551,-8.214,0,0.0646,126.037,4
+761,2h62LemKRPxRphAaGfOBZe,Nur,East End Dubs,minimal_deeptech,0.000748,0.811,0.419,425206,0.574,0.907,7,0.106,-14.591,1,0.0649,126.985,4
+762,5jc1RbuewsyQXzOUIfhpe7,Grace,East End Dubs,minimal_deeptech,0.000587,0.811,0.863,439099,0.444,0.919,5,0.11,-15.014,0,0.109,126.999,4
+763,2SlD8d44WvC5elpnxSiW1f,What's The Case,Fabio Della Torre,minimal_deeptech,0.000851,0.798,0.373,449513,0.857,0.662,11,0.113,-11.028,0,0.121,128.022,4
+764,3xBAXvef9xosUViT7B2MUQ,Thomas Jefferson,Alex Pervukhin,minimal_deeptech,0.000317,0.809,0.315,428141,0.781,0.918,10,0.0998,-10.963,0,0.0588,126.001,4
+765,3gtvMRLJyCUHvRCaOHu4fe,Racu,YSC,minimal_deeptech,0.0445,0.778,0.0767,434286,0.717,0.879,6,0.0654,-11.334,1,0.0535,126.004,4
+766,4DpvmeZZ4mkuXDB0Khfvbk,Lil' Souvenir,Alex Pervukhin,minimal_deeptech,0.0248,0.807,0.518,437695,0.517,0.843,1,0.0646,-11.795,1,0.078,123.99,4
+767,3dnKe0CCHjphkhMRcbfT1b,Lifetime,Polar (NL),minimal_deeptech,0.0507,0.795,0.539,336364,0.817,0.945,1,0.0911,-10.171,1,0.0624,132.013,4
+768,4e3TLB0I6M22dqRfRqel01,Split The Bill,ANOTR,minimal_deeptech,0.000102,0.809,0.371,411012,0.849,0.951,11,0.047,-8.266,0,0.0531,127.003,4
+769,5MywAW33o57rxGbpmOEPSP,Gamba Roja - Dimmish Remix,ANOTR & Toman,minimal_deeptech,0.00416,0.807,0.797,462880,0.915,0.905,7,0.0613,-8.978,1,0.0752,126.039,4
+770,1vOJM2oGNsKmKDsMwOIzp0,I Came To Party,DeMarzo,minimal_deeptech,0.253,0.791,0.353,369000,0.838,0.889,2,0.0823,-10.598,1,0.0593,125.543,4
+771,4xyBiFKkZfJLzhPqWggDGr,Don't Hesitate,Toman,minimal_deeptech,0.00067,0.81,0.607,180735,0.853,0.799,1,0.065,-8.206,1,0.0589,127.012,4
+772,5I1cqmfFVPk3xIFOqQ5Uc0,Solid Moonshine - Original Mix,Fyrone,minimal_deeptech,0.23,0.803,0.355,431145,0.797,0.919,6,0.0736,-11.168,0,0.135,125.997,4
+773,27jBOaZLRxRiHI87YSKsDl,Sky - DJOKO Interpretation 2,Alex Ranerro,minimal_deeptech,0.0239,0.798,0.496,354316,0.915,0.915,2,0.0324,-8.7,1,0.0782,126.049,4
+774,7hjokadTpqNeZvVjkJB5vU,Shake,Archie Hamilton,minimal_deeptech,0.00127,0.803,0.757,417619,0.69,0.872,6,0.0772,-12.661,1,0.0662,125.996,4
+775,0xN6re4hdDxQabFRfY8IfO,Sleepy Rhythm,Prunk,minimal_deeptech,0.0143,0.793,0.747,398365,0.924,0.932,9,0.101,-8.866,1,0.0742,127.051,4
+776,0RbqqgK90gRnLvOmobpCQW,West Coast Style - DJOKO Remix,Klein (UK),minimal_deeptech,0.0396,0.809,0.647,392191,0.834,0.885,6,0.0455,-7.468,1,0.0857,124.009,4
+777,4s14UKnVrUGdrI7LvqSyaL,Report,iO (Mulen),minimal_deeptech,0.0019,0.805,0.427,450484,0.904,0.912,4,0.119,-10.548,0,0.119,127.997,4
+778,29wowckIoI4ddGsoKRS8ki,Camp Trip,iO (Mulen),minimal_deeptech,0.00109,0.81,0.323,442849,0.941,0.877,7,0.0699,-7.727,1,0.0749,126.01,4
+779,62nRY3g2qXNl1Xpm6qaBnK,As We Are,Casey Spillman,minimal_deeptech,0.0169,0.859,0.506,380000,0.478,0.817,9,0.103,-10.202,0,0.284,124.984,4
+780,6udFr3rrZHdTxKuyIcKUei,Pure Country,Shaf Huse,minimal_deeptech,0.00384,0.784,0.469,401102,0.923,0.925,1,0.108,-8.154,1,0.0526,126.997,4
+781,2QLlGPzBYeixEyqJKqzqj9,Troll,Dimmish,minimal_deeptech,0.00131,0.805,0.655,462869,0.972,0.754,7,0.227,-7.721,0,0.0757,125.997,4
+782,35nQLSyQO79bDH7O5LVdgU,Tadellos,DJOKO,minimal_deeptech,0.052,0.78,0.166,321275,0.873,0.891,10,0.108,-10.125,0,0.111,127.022,4
+783,1cpYDO5zX50yDEqJg9J01v,Balaba,Cuartero,minimal_deeptech,0.0107,0.728,0.72,364275,0.818,0.938,0,0.111,-12.484,1,0.0897,127.046,4
+784,4kkInD8upycKCiODcc5M4p,Rat Slap,Dimmish,minimal_deeptech,5.15e-05,0.809,0.862,430718,0.84,0.929,2,0.0532,-10.301,1,0.0743,126.005,4
+785,7IDSsfxSdX4IPT4jCTfq1z,Jumbo,Dimmish,minimal_deeptech,0.000495,0.802,0.606,377084,0.582,0.691,7,0.0425,-9.835,1,0.0639,128.021,4
+786,7jG51WRGrQ3W2IBamhW6x6,Irritate,REME,minimal_deeptech,0.00417,0.808,0.386,438425,0.736,0.913,8,0.0904,-12.176,1,0.0958,126.986,4
+787,4oYUiozhr3ibRP5hc2qE4P,Pristine Worldwide,DeMarzo,minimal_deeptech,0.0475,0.804,0.813,386557,0.878,0.906,10,0.115,-10.06,0,0.0607,124.997,4
+788,25iuPAsp2Rd7GRnnn2yHjo,Evening Drive,Chris Stussy,minimal_deeptech,0.0115,0.803,0.572,421853,0.801,0.877,5,0.07,-9.826,0,0.0633,128.006,4
+789,5zhonbz7RJBgoYxMVLTuqF,Glace Circle,DJOKO,minimal_deeptech,0.00742,0.776,0.418,405201,0.872,0.879,7,0.0916,-10.12,1,0.131,129.997,4
+790,6YX5Q48gZ80GJpD5k2fwyF,Higher Self,Aron Volta,minimal_deeptech,0.00062,0.793,0.57,371803,0.933,0.904,6,0.0908,-8.81,0,0.0674,128.019,4
+791,2nBMmnv22qn84ecH17TnpD,Subtle,Rossi.,minimal_deeptech,0.00389,0.808,0.555,423754,0.853,0.929,1,0.0607,-10.648,1,0.0649,128.017,4
+792,3wzHx89ZeA9u9VCRb7JRnl,Trying To Start,Seb Zito,minimal_deeptech,0.00031,0.744,0.565,363021,0.903,0.91,7,0.0559,-7.056,1,0.097,127.012,4
+793,374gHczgtv7ytoKcmxOIck,Distant Memory - Original Mix,Nautica (UK),minimal_deeptech,0.035,0.799,0.474,423750,0.873,0.894,6,0.0616,-10.755,1,0.084,128.001,4
+794,03cy6hMyW9Y07tJuF2bIg3,10AM Fuse,Seb Zito,minimal_deeptech,0.00401,0.806,0.501,423307,0.934,0.934,10,0.0689,-7.86,0,0.0578,127.006,4
+795,3rMvOnZXUsfoWZ6z170ebC,Control Freak,Jaden Thompson,minimal_deeptech,0.000239,0.8,0.102,381333,0.724,0.781,9,0.109,-9.964,1,0.0635,130.993,4
+796,0lLcLuQit3Gx1j7JRxpAq1,I Get Deep - Late Nite Tuff Guy Remix,DJ Le Roi,minimal_deeptech,0.116,0.834,0.404,404119,0.711,0.00812,8,0.102,-10.434,1,0.111,126.008,4
+797,7G6FYnCXmsJiMr3jj0uOgB,Nesrib - Archie Hamilton's Nose Rub,SIS,minimal_deeptech,0.00147,0.801,0.302,457156,0.781,0.613,0,0.105,-9.601,1,0.0527,128.019,4
+798,6nV1FC1kYPOd7dZKgMA6MP,Rembrandt Square - Matichap Remix,Agus Garcia,minimal_deeptech,0.000403,0.788,0.502,441633,0.935,0.883,9,0.0847,-8.609,1,0.118,127.959,4
+799,5aqGsI4K1Co798IJskGgc1,Flight Mode - Archie Hamilton Remix,Charlie Banks,minimal_deeptech,0.00596,0.806,0.515,521772,0.77,0.929,9,0.682,-8.061,1,0.0719,127.0,4
+800,5eUgxRlgtI0I9mHuV0q24E,Deja Vu - Original Mix,Di Chiara Brothers,minimal_deeptech,0.00019,0.87,0.609,375062,0.666,0.807,3,0.328,-8.853,0,0.162,128.018,4
+801,0kSbiANoN8YD2SzZTTHJjY,Parallax,Parsec (UK),minimal_deeptech,0.00584,0.791,0.524,548032,0.669,0.922,6,0.0851,-10.601,0,0.0858,127.033,4
+802,5X5YXaEZAIT4r5pVczK7Ef,Shimmer,Parsec (UK),minimal_deeptech,0.0122,0.795,0.385,487559,0.877,0.728,2,0.156,-10.961,1,0.172,127.065,4
+803,6enhMryqTbP3bjx7Uv7BTV,Seductive,Avante (UK),minimal_deeptech,0.000208,0.803,0.731,372000,0.578,0.874,0,0.0827,-8.986,1,0.069,129.98,4
+804,0AyHWARjglpd141ACTKfm5,Haze,East End Dubs,minimal_deeptech,0.000329,0.808,0.62,546333,0.688,0.928,7,0.121,-14.933,1,0.153,127.014,4
+805,7MiM3bhXs8fMoCYRGSTKgY,RLZ,Luca Donzelli,minimal_deeptech,0.00416,0.795,0.933,398880,0.938,0.845,6,0.0405,-6.545,1,0.047,127.997,4
+806,5GOhH79od9cFyTzIg3Hdtp,By My Side,Kate Simko,minimal_deeptech,0.000215,0.808,0.622,461296,0.875,0.921,0,0.0625,-10.362,1,0.0841,125.005,4
+807,2XBoRTu07XrcMDkwZH8pnu,Moonbootz - Original Mix,Azteca,minimal_deeptech,0.000982,0.808,0.162,460815,0.891,0.922,1,0.102,-11.018,1,0.0615,125.017,4
+808,20irQM5bCkLQWDl9XcLabq,Horizon,Parsec,minimal_deeptech,0.188,0.551,0.477,483780,0.955,0.943,7,0.0742,-10.295,1,0.13,127.047,4
+809,1mRMBs81QWg0RnsWNOq0vt,Arcane,Parsec,minimal_deeptech,0.00689,0.801,0.638,485669,0.687,0.89,10,0.0599,-11.098,0,0.136,126.986,4
+810,6LNB187E8CeCATEzQDa2pf,Losing Control,Stefano Crabuzza,minimal_deeptech,0.000923,0.804,0.844,375020,0.954,0.881,1,0.0709,-9.465,1,0.0587,125.033,4
+811,04x0WXZyCCej3Ab5LS3sVn,Momento - Nick Curly Remix,Luca Donzelli,minimal_deeptech,0.000334,0.806,0.829,416640,0.952,0.851,11,0.0755,-8.678,0,0.0613,125.001,4
+812,3BIuqx09D432FYs30nstVe,Washed Away,DJOKO,minimal_deeptech,0.00514,0.822,0.44,360934,0.659,0.858,8,0.0279,-8.716,1,0.15,129.009,4
+813,2RR47Gjs1h1qhcKFUEchWv,Rise Together,DJOKO,minimal_deeptech,0.0171,0.807,0.609,315738,0.754,0.902,8,0.0741,-9.617,1,0.072,126.008,4
+814,3Tcf8TRUzxWZdQR8xMyGqV,Thank U - Rossi. Remix,LEON (Italy),minimal_deeptech,0.00968,0.809,0.881,406305,0.903,0.836,2,0.0622,-8.959,1,0.0531,127.005,4
+815,3X6bdo8GEyvyk8hc7MBO2L,RYdM,Rossi.,minimal_deeptech,0.0023,0.819,0.876,451475,0.917,0.867,11,0.0836,-8.91,0,0.0857,128.013,4
+816,2XdBGgiLAsNVZQQAaGrGjv,Fury's Laughter - Lauren Lo Sung Remix,S.A.M.,minimal_deeptech,0.000869,0.781,0.54,224999,0.973,0.874,11,0.149,-7.712,1,0.099,128.007,4
+817,72nE3Xty5Nq5JSe5F0CyFr,Rex Press - East End Dubs Remix,Rich NxT,minimal_deeptech,3.35e-05,0.81,0.684,401148,0.838,0.896,11,0.148,-7.927,0,0.0606,127.011,4
+818,4UOZlqglON2HnnW0jQR6rJ,Bull Stomp - Ben Rau Remix Edit,Darius Syrossian,minimal_deeptech,0.00183,0.782,0.659,236190,0.937,0.772,9,0.0909,-9.113,1,0.0483,126.003,4
+819,5WozVXeV5iMNqKsi46QaSd,Don't Trip - Okain Remix,Charlie Banks,minimal_deeptech,0.0005,0.793,0.635,383607,0.959,0.945,6,0.0659,-8.04,1,0.0548,126.995,4
+820,4i1o6NFYisEYpOgy61Fy1Q,Sleepwalking,Mihai Popoviciu,minimal_deeptech,0.00877,0.809,0.581,394560,0.495,0.918,1,0.11,-12.774,1,0.115,122.003,4
+821,32K9R31epl2LXPlDYOXi2v,Synthasy,East End Dubs,minimal_deeptech,0.00132,0.801,0.485,485902,0.71,0.86,10,0.111,-8.871,0,0.0641,127.01,4
+822,1QVpstpsagNEkUQ9CuSouu,Nightingale,East End Dubs,minimal_deeptech,0.00398,0.787,0.576,394991,0.87,0.887,7,0.0795,-8.809,1,0.0626,127.007,4
+823,0kYjnvWKtxufOXois18K85,Vizzle,East End Dubs,minimal_deeptech,0.00433,0.808,0.545,440656,0.59,0.926,11,0.11,-11.543,1,0.0724,126.99,4
+824,49FdeR4HCPoRrVGztUAo0H,Blunted,Luuk Van Dijk,minimal_deeptech,0.000231,0.8,0.36,231562,0.643,0.862,9,0.693,-9.922,1,0.103,127.986,4
+825,7afhtZ0n7PvL1fm6qvUZv1,In The District,Luuk Van Dijk,minimal_deeptech,0.000294,0.804,0.534,233672,0.721,0.69,1,0.104,-10.261,1,0.0488,128.001,4
+826,3dUXHtjR4CQC5V8hejmmnm,Doctor High - Archie Hamilton Remix,More Than Material,minimal_deeptech,9.8e-05,0.81,0.415,480741,0.767,0.901,8,0.133,-8.086,0,0.0444,123.01,4
+827,6PMJy2z3LEYSWioHeuPM3E,Ardent,Chris Stussy,minimal_deeptech,0.0195,0.806,0.215,404542,0.692,0.941,7,0.0961,-12.514,0,0.0725,124.042,4
+828,69eD60uk5BKKbUw7wF96ph,No Drama,Dimmish,minimal_deeptech,0.00603,0.804,0.627,433500,0.959,0.834,1,0.115,-8.35,1,0.0802,126.017,4
+829,6OHe6Vu8N7uelvy0WtIDX0,Emotional Closure - Toman Remix,Santé,minimal_deeptech,0.00109,0.804,0.592,420561,0.805,0.907,5,0.0683,-9.604,0,0.0552,127.996,4
+830,673cLGcTUIWc71uQeuex8R,Lost Souls - The Willers Brothers Remix,Santé,minimal_deeptech,0.0217,0.798,0.369,412245,0.927,0.928,7,0.111,-11.481,1,0.0765,126.009,4
+831,26JboI7ov05nqluJ9dHWzM,Pepper & Spice,Wax On Mare St.,minimal_deeptech,0.000197,0.809,0.561,408531,0.513,0.921,9,0.0797,-10.522,1,0.128,127.999,4
+832,7t6dLm05biTfyw7zjaRrJ6,Basscamp,Josh Baker,minimal_deeptech,0.00419,0.806,0.726,479049,0.935,0.896,7,0.0489,-5.752,1,0.0661,125.995,4
+833,2wCwkqxcsJVlq07Z2W3ZhK,I Want You,Tommy Vercetti,minimal_deeptech,0.000192,0.798,0.243,200096,0.871,0.824,5,0.0695,-9.227,0,0.0791,123.991,4
+834,4s1MMQL6hbu735yo1e8Grj,Sub Society - Edit,Sidney Charles,minimal_deeptech,0.000156,0.8,0.577,222992,0.953,0.907,7,0.0628,-4.82,1,0.0595,126.988,4
+835,463P1vQ94GtEfLWqoNVenU,Trust Issues - Dimmish Remix,Santé,minimal_deeptech,0.00485,0.805,0.731,458863,0.872,0.904,8,0.0867,-9.296,1,0.0856,126.001,4
+836,1GLOzg0jqgMwAFEohS26f4,Reaction,Kylin Tyce,minimal_deeptech,5.7e-05,0.796,0.327,491448,0.987,0.903,10,0.0845,-9.572,0,0.0527,126.015,4
+837,6djVLL8wt6CuM2MveIZvGR,Stay Together,Kylin Tyce,minimal_deeptech,0.0014,0.797,0.708,399836,0.955,0.891,6,0.0793,-9.228,0,0.0934,124.979,4
+838,2k9lrQPjZOkySdJfhDaj3I,Atlantis,Kylin Tyce,minimal_deeptech,0.0074,0.777,0.337,460743,0.804,0.944,6,0.0822,-8.742,0,0.0599,126.032,4
+839,7p1jTvgw2DdXFn8J2xQN5F,Flangosh,Luuk Van Dijk,minimal_deeptech,0.00144,0.808,0.693,257143,0.802,0.893,6,0.1,-9.887,1,0.0558,126.012,4
+840,5F9wcRcuZUqjRPVzvs7NK3,Suavo,Luuk Van Dijk,minimal_deeptech,0.0228,0.797,0.717,278095,0.95,0.777,11,0.0778,-7.704,1,0.0601,126.021,4
+841,41SxWGHaoSZhSoAzY0w2S4,Suavo - Sidney Charles Remix,Luuk Van Dijk,minimal_deeptech,0.00754,0.797,0.602,272126,0.967,0.905,10,0.654,-5.701,0,0.0813,127.02,4
+842,7569xIV2DUTrgJHk9iHO1i,"Eiglee - Max Chapman, Kodewerk Remix",Jholeyson,minimal_deeptech,0.00702,0.802,0.699,370394,0.902,0.822,11,0.0789,-8.265,0,0.0837,127.005,4
+843,5kBwvhjhzxb8jtlgb34sOk,Classico,Christian Bistany,minimal_deeptech,0.00378,0.811,0.504,399360,0.792,0.937,8,0.0872,-10.822,1,0.0763,125.001,4
+844,5jiTsjw9ifwE8Qm14rAf59,Backward - Per Hammar Remix,Christian Burkhardt,minimal_deeptech,0.000789,0.802,0.782,428919,0.844,0.883,10,0.0531,-7.578,0,0.0554,127.007,4
+845,29fwKTe0KKahTH6eibHWDr,Don't Fear Change - Rossi. Remix,Tommy Vercetti,minimal_deeptech,0.037,0.806,0.629,200091,0.655,0.838,11,0.0863,-10.792,1,0.0791,128.032,4
+846,0FBt8P8pgCXHJgC6p6SbQ1,Punta Popy,Victor Montero,minimal_deeptech,0.0263,0.809,0.605,260520,0.967,0.91,11,0.0676,-9.116,0,0.0675,126.005,4
+847,1HWHk1lPaQbnmgtILEZ8Ey,Hygiene,Litmus,minimal_deeptech,0.00951,0.798,0.73,345000,0.939,0.772,10,0.105,-8.043,0,0.0463,128.006,4
+848,2CGV6MgGR7sDSSQdKfbjux,Bamen - Original Mix,Di Chiara Brothers,minimal_deeptech,0.00223,0.788,0.497,364687,0.89,0.498,10,0.0878,-6.217,0,0.0603,128.012,4
+849,2bL03dLIsL4BZWiEezkmS0,Mega Pop,Josh Baker,minimal_deeptech,0.00497,0.807,0.596,391692,0.737,0.904,11,0.106,-9.123,0,0.0563,126.0,4
+850,3Wv1szR3276jztODuJRp3I,Dimentional - RAW Mix,Toomy Disco,minimal_deeptech,0.000786,0.802,0.566,384000,0.837,0.541,4,0.115,-8.224,0,0.246,124.98,4
+851,15B4U1RMGPd1USeY0GvTN8,"Whatever It Is - James Dexter, ANOTR Remix",Den Haas,minimal_deeptech,0.102,0.805,0.617,345157,0.753,0.469,2,0.0456,-10.72,1,0.0547,129.992,4
+852,6L1YdGG7BYc8PVL8uvOrTg,Artizan - Demarzo Remix,Andrew Azara,minimal_deeptech,0.0205,0.791,0.522,409180,0.957,0.859,7,0.0743,-9.082,1,0.0855,127.028,4
+853,7zb6lvw6F9UkTPbvkhPNcq,Solao,Rossi.,minimal_deeptech,0.00623,0.792,0.794,437500,0.898,0.908,11,0.0457,-6.14,1,0.0777,128.021,4
+854,1lVUc9ewKZwMTNTzAJETvK,Cyclops,Mehlor,minimal_deeptech,0.00172,0.807,0.452,396847,0.918,0.901,7,0.0805,-10.626,1,0.0516,127.003,4
+855,3A5twTvGjpFH3fIe0n1Da4,Get Deeper - Santé Remix,Artslaves,minimal_deeptech,0.00625,0.803,0.603,360246,0.966,0.909,6,0.0417,-8.235,0,0.069,128.014,4
+856,0LFaqDDe7hRQsXqx9TTmCG,That's Gas,Mason Collective,minimal_deeptech,0.00163,0.8,0.743,332598,0.778,0.878,10,0.1,-9.408,0,0.0881,126.985,4
+857,4tgVHmJylmMyE1IpH8ppFb,Ready To Work,Mason Collective,minimal_deeptech,0.000106,0.805,0.804,391875,0.704,0.886,5,0.101,-8.746,0,0.124,128.028,4
+858,6SIefciiEZeulLQib375Ek,Art Is Long,Mason Collective,minimal_deeptech,0.000499,0.798,0.262,377953,0.826,0.864,0,0.0784,-8.897,1,0.0682,126.996,4
+859,39EAajItiYXH7Qj60LsSRs,Thirsty Eyes,Jaden Thompson,minimal_deeptech,0.000135,0.801,0.912,402522,0.815,0.673,9,0.0971,-8.525,1,0.066,127.008,4
+860,7jQJifDZF9zdLgRB8C8AJg,Thirsty Eyes - Archie Hamilton Remix,Jaden Thompson,minimal_deeptech,2.35e-05,0.8,0.303,430881,0.758,0.894,4,0.065,-7.59,0,0.103,127.006,4
+861,4Mw0EP9WkyJ4TPpD2YVTT5,Soul Fire - Dimmish Remix Edit,Darius Syrossian,minimal_deeptech,0.00121,0.793,0.882,213750,0.991,0.91,5,0.0836,-8.743,0,0.0702,128.0,4
+862,4LhkbM5M3Hb2tDCv1gAL8w,The Possibility,The Willers Brothers,minimal_deeptech,0.00308,0.789,0.493,423467,0.535,0.773,1,0.0987,-11.357,1,0.0792,126.964,4
+863,5ku3l3UKkSqtFZpHCIjqVx,Whotor - Original Mix,Vele,minimal_deeptech,0.00425,0.794,0.564,362835,0.922,0.927,5,0.119,-10.077,0,0.0766,126.998,4
+864,275jUippVlgL5h5Q8Nl1k1,Haste - Original Mix,Vele,minimal_deeptech,0.00693,0.805,0.13,365476,0.683,0.917,7,0.0907,-11.458,1,0.0724,126.012,4
+865,7FVfJ9o7NKcLNXPBx8GJB4,Fancy,Luuk Van Dijk,minimal_deeptech,0.000721,0.807,0.664,382531,0.739,0.925,11,0.139,-8.704,1,0.0674,128.001,4
+866,69wHcnHBSDm0UBWY0i5HJ4,Games,George Smeddles,minimal_deeptech,0.00779,0.806,0.962,431429,0.978,0.886,4,0.0888,-8.821,0,0.0646,126.015,4
+867,0YPKpRglLcXCgQJn6GtR1D,The Player,Ben Rau,minimal_deeptech,0.00507,0.797,0.609,412500,0.991,0.92,6,0.0665,-5.488,0,0.0447,125.987,4
+868,2a8DXepttmRJjOcD6GEf7b,Fat Earth,Michael James,minimal_deeptech,0.000125,0.808,0.638,506250,0.873,0.921,0,0.127,-9.425,1,0.0578,128.004,4
+869,1Pc6QvffZ2EqsQOBUFGGMh,O.H. Groove,Michael James,minimal_deeptech,0.000261,0.793,0.317,421875,0.853,0.579,11,0.102,-7.218,0,0.0746,128.014,4
+870,1x9T5AF8WfkSTuY78tVMt8,Ye Know,Luuk Van Dijk,minimal_deeptech,0.000556,0.808,0.927,423934,0.953,0.877,8,0.235,-8.599,0,0.0532,128.012,4
+871,1vjjYwtTziwlraPahdhIjw,2 Pole,Luuk Van Dijk,minimal_deeptech,0.000232,0.79,0.771,394223,0.838,0.856,11,0.119,-8.11,0,0.12,126.013,4
+872,5sw9LDLGVect72Lc4xK4BM,Torino,Chris Stussy,minimal_deeptech,0.00442,0.796,0.65,364750,0.93,0.888,1,0.0997,-10.619,1,0.0967,127.013,4
+873,4bEI0JqDeLtyl0Zi4U7PUY,Oblivion,MANESSY,minimal_deeptech,0.00103,0.803,0.749,421206,0.978,0.932,8,0.0769,-8.626,1,0.0752,128.067,4
+874,7o6E86aRJsUFM8pUVXcO3A,Transcendent State,DJOKO,minimal_deeptech,0.0434,0.801,0.514,329771,0.676,0.842,6,0.0614,-10.808,0,0.0946,131.013,4
+875,4FpywtMvrcQhJurDhgkTtK,Valencia,Avante (UK),minimal_deeptech,0.0199,0.81,0.529,403284,0.942,0.71,11,0.0265,-6.578,0,0.0681,131.019,4
+876,3uVPS6VCHVt2vvnX1060tV,Hipnotico,Sergio Saffe,minimal_deeptech,0.00108,0.791,0.323,368176,0.944,0.9,2,0.0452,-8.042,1,0.109,126.009,4
+877,5Ulu3PpT26r2RLF3pnQtpz,That Feeling,No Emotion,minimal_deeptech,0.00427,0.79,0.36,472812,0.744,0.615,10,0.103,-10.36,0,0.0907,130.006,4
+878,2fBZmBSUr8wF3IrJ3cRDfM,Right To Move,Djoko,minimal_deeptech,0.00341,0.805,0.645,323150,0.799,0.921,11,0.0984,-11.922,0,0.0524,127.041,4
+879,4XiVEz1KtBhWTMaoqchlkk,As Days Go By - Original Mix,Gregor Tresher,minimal_deeptech,8.74e-05,0.813,0.561,431428,0.782,0.908,11,0.0485,-9.481,0,0.0583,125.003,4
+880,42ZGcXnIUCTQiTwzmTU4YC,Don't Mind Ya Weight,ANOTR,minimal_deeptech,0.047,0.803,0.674,213333,0.925,0.697,5,0.617,-9.351,0,0.0927,126.007,4
+881,7kUlmO7AYztfYIWC6bDhYw,Street Walker,Sante,minimal_deeptech,0.00174,0.808,0.587,363638,0.782,0.827,10,0.0638,-9.241,1,0.0692,128.012,4
+882,6Eg9WFWAJvoeIOvd2YedIj,Ride On,DJOKO,minimal_deeptech,0.00344,0.791,0.766,359091,0.768,0.886,11,0.37,-9.468,1,0.0648,131.028,4
+883,331RmjCoBK09BrHBNF7cPP,Azidi,Djebali,minimal_deeptech,0.000112,0.804,0.931,393443,0.762,0.943,1,0.0676,-8.835,1,0.0579,126.961,4
+884,3F0RBDkYZFPjpMoFtwE898,Feel For You,Toman,minimal_deeptech,0.000147,0.808,0.476,424126,0.884,0.915,0,0.112,-9.286,1,0.0498,127.01,4
+885,3ANEFR0SZIUfWq9LUECrBf,Sexy Thing,Blackchild (ITA),minimal_deeptech,0.006,0.806,0.907,361397,0.708,0.406,1,0.0661,-9.41,1,0.0556,128.989,4
+886,0HpV7wU035W1kW8bZjbtaq,STOOSHY,PAWSA,minimal_deeptech,0.0231,0.807,0.478,237734,0.961,0.316,6,0.424,-12.347,0,0.157,131.023,4
+887,5v5OwjCFXHiKn5xCh8NpjH,Reality Check - Original Mix,The Willers Brothers,minimal_deeptech,0.00289,0.848,0.401,373333,0.511,0.861,10,0.118,-12.737,0,0.234,125.999,4
+888,4FVSeI10uxhfKOKlRvnlxk,Soul Fire,Darius Syrossian,minimal_deeptech,0.0052,0.785,0.242,316875,0.941,0.912,1,0.105,-8.614,0,0.0563,127.974,4
+889,7g2Wrg1gVBRaYnWZTU25FZ,Turbulencia,Toman,minimal_deeptech,0.000183,0.803,0.512,424277,0.926,0.927,8,0.086,-8.899,0,0.0663,127.032,4
+890,1tmgp1ahh2kYteTEdqs5w5,Talasa,Cuartero,minimal_deeptech,9.74e-05,0.804,0.162,417027,0.848,0.819,1,0.0658,-8.552,1,0.116,128.997,4
+891,6ikRr3ErFs10OtmJxf357H,Reach,Jesse Maas,minimal_deeptech,0.000648,0.805,0.728,423780,0.732,0.871,9,0.0842,-9.077,1,0.046,126.984,4
+892,2de9TgLIyP2uFNvraA7xDB,Neio,Jesse Maas,minimal_deeptech,0.00134,0.808,0.404,371617,0.966,0.798,7,0.0569,-8.312,1,0.107,124.033,4
+893,1Dnnan3HsC45IN6APnYoFX,The Funk,Fear & Lowe,minimal_deeptech,0.113,0.803,0.785,468661,0.676,0.715,9,0.0606,-10.681,0,0.0559,127.009,4
+894,45cCp8PnuY2mDz05sgE6rx,Get Clapped,Revivis,minimal_deeptech,0.00193,0.808,0.262,411860,0.93,0.904,6,0.0817,-7.875,0,0.0781,127.016,4
+895,4jUfyayDwhZ8k3c5ExQTyk,Liquid Lessons,Ozzie Guven,minimal_deeptech,0.00534,0.801,0.404,392803,0.975,0.759,4,0.105,-8.862,0,0.0999,128.005,4
+896,4Ey3uGwZVtZImlZDPct10Y,Back It,Henry Jacobs,minimal_deeptech,0.000265,0.806,0.668,386464,0.878,0.789,0,0.0932,-9.596,0,0.0678,127.007,4
+897,1wV85M01qQoGrRdFCSfsZU,Talked About,DeMarzo,minimal_deeptech,0.017,0.793,0.809,395144,0.871,0.814,10,0.0834,-9.65,0,0.104,127.023,4
+898,3tPsOQON8s1InICK5mT4am,Illy With It,Mason Collective,minimal_deeptech,0.000319,0.806,0.727,372097,0.914,0.932,1,0.0623,-8.921,1,0.0678,128.994,4
+899,2ZYc9F1Bezydj7s02I7Dnl,Lookin,FLETCH,minimal_deeptech,0.00185,0.799,0.518,368032,0.867,0.737,10,0.0402,-7.183,0,0.171,131.999,4
+900,2hUDOM8IiOGHpy0VdPYBki,Mind Body Soul,Santé,minimal_deeptech,0.0178,0.809,0.794,373752,0.625,0.923,11,0.0768,-10.398,1,0.0696,126.017,4
+901,6GAL7vpL2wxJpRNY0bUPOu,Around the Bend,David Berrie,minimal_deeptech,0.00738,0.802,0.9,406239,0.879,0.923,1,0.112,-10.026,1,0.0641,130.007,4
+902,2qLldXHMibaWYVhBbLg15p,Bipolar - Original,Fosky,minimal_deeptech,0.00405,0.805,0.475,422400,0.927,0.855,8,0.101,-8.909,1,0.104,124.989,4
+903,4FHRnFMgEmNNRpW7doysnt,Line ZeroUno,Juliche Hernandez,minimal_deeptech,0.00265,0.811,0.877,413333,0.886,0.922,8,0.0684,-9.277,0,0.0651,126.002,4
+904,0fJm8fquozJRImFiiLsBZU,NOW JAZZ - MIDNIGHT MIX,GOLFOS,minimal_deeptech,0.0127,0.866,0.783,704000,0.407,0.895,11,0.059,-12.174,0,0.0771,127.996,4
+905,7bkhmJHz0rq8uFhKNIHfSH,Sound Waves,James Wyler,minimal_deeptech,0.126,0.803,0.401,363757,0.943,0.602,1,0.0874,-6.225,1,0.111,128.004,4
+906,0j1rMfyET8OtrzCRcd3rsC,In My House,Steve Kelley,minimal_deeptech,0.000307,0.863,0.406,399697,0.709,0.573,5,0.0758,-8.162,0,0.249,125.005,4
+907,76e8JRyWYC1ZXMfIqNbaGc,Space Pirate - Edit,Darius Syrossian,minimal_deeptech,6.39e-05,0.738,0.113,208125,0.9,0.884,1,0.0827,-8.436,1,0.0393,127.97,4
+908,5veHxkxAaYUnm3X6y6uWDy,Moved By Me,Luuk Van Dijk,minimal_deeptech,8.28e-05,0.803,0.763,243692,0.968,0.925,11,0.0253,-8.95,0,0.0688,130.001,4
+909,09ERnpIaAkAQljEieAuTvV,Something,James Dexter,minimal_deeptech,0.000719,0.811,0.691,408250,0.851,0.794,4,0.0914,-9.963,0,0.0519,123.993,4
+910,6XvQPWTBqL5mbrm2OdChBx,Love Control,Max Chapman,minimal_deeptech,0.0192,0.808,0.346,373333,0.836,0.944,6,0.0781,-8.128,0,0.0554,126.011,4
+911,69nsGmNzti8t5x1razUYMl,Feels So Good,Max Chapman,minimal_deeptech,0.00702,0.794,0.28,394961,0.855,0.894,7,0.0681,-8.501,1,0.0811,126.99,4
+912,08j5TwJvYrDcutTWfdK7nA,Perception Of Groove,Prunk,minimal_deeptech,0.00382,0.802,0.558,386669,0.946,0.886,7,0.0933,-8.424,1,0.0711,126.004,4
+913,2Ps1fYFcUdqIbgJW5DqgHj,Everything You Say,ANOTR,minimal_deeptech,0.00307,0.798,0.423,376721,0.857,0.857,1,0.0701,-10.112,1,0.0574,126.003,4
+914,2MTL86WhogLiNlgC6UJVOe,Sonaris,Chris Stussy,minimal_deeptech,0.00526,0.803,0.356,428814,0.76,0.88,7,0.11,-10.552,1,0.065,126.011,4
+915,1rZBduEqzWmiDCUjF6LvKo,Hip,East End Dubs,minimal_deeptech,0.000125,0.805,0.456,387541,0.732,0.908,8,0.106,-10.283,0,0.0812,129.009,4
+916,5rApZW8l9ZPrdLlECeSCL9,Guah,Daniel Aguilar (ES),minimal_deeptech,0.0579,0.799,0.566,354236,0.85,0.929,6,0.0426,-8.322,0,0.0555,126.013,4
+917,5gb7YlpX6S29JPjdWlrHr1,Setting Sun - East End Dubs Remix,James Solace,minimal_deeptech,0.0078,0.785,0.257,424961,0.824,0.893,10,0.119,-10.202,0,0.046,127.033,4
+918,57hLVPTuPVIagys50TdOAR,Swing Dreams,Neverdogs,minimal_deeptech,9.39e-05,0.804,0.565,398095,0.827,0.878,8,0.0904,-8.09,0,0.0532,126.012,4
+919,3Kg4vgWo3ZCywNYSr0SfD5,Dimension,Avante (UK),minimal_deeptech,0.033,0.862,0.497,457000,0.888,0.888,7,0.29,-7.316,1,0.0862,128.013,4
+920,5TwpRp00E830QGg7OzskxC,Stepper,Kreature,minimal_deeptech,0.00448,0.81,0.51,353982,0.919,0.908,4,0.117,-8.642,0,0.118,127.007,4
+921,14bt5uYJaq3ol3Qocr8Xx7,Hindsight Bias,Toman,minimal_deeptech,0.00153,0.807,0.483,424744,0.931,0.947,0,0.0744,-6.55,1,0.0501,127.008,4
+922,5X7GTMXhpbpO90tNe3SuMv,Applause,Rossi.,minimal_deeptech,0.00333,0.795,0.339,436875,0.936,0.906,4,0.0464,-8.834,0,0.0613,128.007,4
+923,3s23Na4o0WZllmQ53q4LK6,Onyx,Jizz,minimal_deeptech,0.00639,0.799,0.847,354258,0.88,0.834,10,0.0544,-6.805,0,0.0809,126.002,4
+924,4Yhq45AkxUJzKPucSfGN9Y,SaintLaurentYSL - The Martinez Brothers Re-Edit,Lil Yachty,minimal_deeptech,0.000632,0.896,0.648,363636,0.721,0.131,11,0.0725,-5.891,0,0.204,131.992,4
+925,2jwuoLt3YGAjuztk6bqK2S,Harmonize,Enzo Siragusa,minimal_deeptech,0.0104,0.796,0.383,453750,0.901,0.93,11,0.0954,-9.188,0,0.0553,128.006,4
+926,3OHidCAxuwucn6iBtjtz06,Atom Shuffle,The Willers Brothers,minimal_deeptech,0.0119,0.802,0.576,379672,0.829,0.929,7,0.104,-12.687,1,0.0658,127.011,4
+927,4EBi7WMGarXfmfzKdajp2X,The Never Ending Groove,Sweely,minimal_deeptech,0.0249,0.793,0.702,503304,0.902,0.923,0,0.048,-5.553,1,0.131,130.008,4
+928,2sKH8vYxAfcbntcfGpWkmX,Make A Move,Max Chapman,minimal_deeptech,0.0727,0.787,0.671,200000,0.915,0.397,7,0.123,-7.602,1,0.0608,126.065,4
+929,1PA95zDN91WfGpL4sMcS5F,Boujie,PAWSA,minimal_deeptech,0.000118,0.801,0.647,210000,0.495,0.0183,10,0.0575,-11.471,0,0.155,130.001,4
+930,7cZLxXwF4EtWuAwePlkpmn,Dis,East End Dubs,minimal_deeptech,0.000454,0.807,0.578,483706,0.629,0.83,8,0.0656,-8.027,1,0.0637,127.025,4
+931,0Je2xI64a1yliuXWPmNIW5,Mr Flamingo,Rich NxT,minimal_deeptech,0.00075,0.8,0.519,232500,0.86,0.88,1,0.112,-8.454,1,0.0586,128.017,4
+932,24w3iuzSPNICfBrZSFjNz5,Doin' It Right,Ray Mono,minimal_deeptech,0.0919,0.747,0.512,439000,0.895,0.781,4,0.0737,-6.411,0,0.0434,126.003,4
+933,185Ht5rpJvKZaWXX8TIpIZ,Breakage,Ray Mono,minimal_deeptech,0.0215,0.801,0.379,430500,0.869,0.912,1,0.0561,-7.521,1,0.0506,126.025,4
+934,2JD3Y7QN9K9RqhnKnx5aQ2,Lookin' At Me,Mason Maynard,minimal_deeptech,0.037,0.808,0.724,211827,0.781,0.89,10,0.128,-7.765,0,0.118,126.993,4
+935,2wL7FC6nS8jMeakZhPrMRc,Ease My Mind (feat. The Smoothness),Archie Hamilton,minimal_deeptech,0.000838,0.803,0.484,491374,0.677,0.911,6,0.0992,-12.229,0,0.0526,126.998,4
+936,0washXlWqFEj5oCjNWwA2E,Hooked on You,DJOKO,minimal_deeptech,0.108,0.856,0.796,383613,0.863,0.668,8,0.0649,-7.494,0,0.083,131.0,4
+937,3Newel9xyrQTy31MZeV5ZI,Feel It - Den Haas Remix,SY (DE),minimal_deeptech,0.0695,0.8,0.781,400000,0.843,0.868,0,0.11,-9.019,0,0.0749,128.006,4
+938,59FjO3rOlCsI4zAlPrrC85,Le Premier,Toman,minimal_deeptech,0.000154,0.807,0.676,391475,0.923,0.921,2,0.0561,-8.12,1,0.0672,128.001,4
+939,4u2mmaLZPNSjYsrLoSmTDK,Pre Almads,Mason Collective,minimal_deeptech,0.0019,0.815,0.635,410083,0.657,0.911,11,0.0922,-8.065,0,0.112,127.009,4
+940,44QiPgxcPKKUUGnjgIPHkW,Office Gossip,Prunk,minimal_deeptech,0.000379,0.793,0.567,367449,0.902,0.915,7,0.072,-9.008,1,0.0772,125.985,4
+941,26GEo1RUJFh17nkLM4Kx6a,Shade,Archie Hamilton,minimal_deeptech,9.94e-05,0.812,0.868,432843,0.885,0.926,6,0.0724,-8.093,0,0.043,124.984,4
+942,0j7yaq7AvLexqBRNy14jNZ,Moving On,Archie Hamilton,minimal_deeptech,0.00165,0.805,0.944,365637,0.813,0.897,3,0.0634,-10.71,1,0.0484,128.007,4
+943,3QdMuOXzMuOX8yHgeySZco,Patience - Edit,Hart & Neenan,minimal_deeptech,0.0101,0.798,0.489,193228,0.832,0.913,4,0.081,-8.272,1,0.0866,127.0,4
+944,5wRAtkna6uOgRjj3UUGpvP,Tempo,LondonGround,minimal_deeptech,0.136,0.794,0.499,369739,0.837,0.911,10,0.56,-11.012,0,0.0984,125.074,4
+945,6yiWkF8zL7FxLzJCVKo5Xl,What's Goin On,East End Dubs,minimal_deeptech,0.00199,0.811,0.745,457403,0.906,0.878,3,0.0847,-8.939,1,0.0764,127.002,4
+946,2wbs62hP9xOFEHFzRX94sT,One on One,Mason Collective,minimal_deeptech,0.000136,0.806,0.896,324938,0.805,0.773,9,0.0607,-8.715,0,0.1,129.994,4
+947,7wBZDetfWry3QrfRuGL4jH,Ten Hours - ANOTR Remix,James Saunders (UK),minimal_deeptech,0.000267,0.802,0.662,342873,0.899,0.919,2,0.387,-7.62,1,0.0451,126.0,4
+948,66bX3uZVIy5dAGj8QnTeWO,Back,Josh Butler,minimal_deeptech,0.00382,0.8,0.508,398769,0.729,0.669,9,0.0951,-10.568,1,0.0621,129.99,4
+949,17tvfzYNAc4GgNgjk5Oy3Y,Sundown,Rossi.,minimal_deeptech,0.0022,0.807,0.57,342341,0.724,0.903,7,0.0533,-10.495,1,0.0852,129.008,4
+950,3cd7wbxVtXDDokyyWibJv3,Move Papi - Luuk van Dijk Remix,Mason Collective,minimal_deeptech,0.00308,0.806,0.602,411984,0.854,0.825,11,0.0771,-9.145,0,0.0626,127.023,4
+951,2obAH2lpHIPQz9s9jOXTRu,Need You Too,Milion (NL),minimal_deeptech,0.00488,0.799,0.22,388881,0.789,0.887,0,0.07,-8.386,1,0.103,128.995,4
+952,35MQ5WQ5mREm1EwKOVccGC,Bossy - Dub,East End Dubs,minimal_deeptech,0.000171,0.811,0.852,402556,0.679,0.912,8,0.0744,-8.096,1,0.0585,126.995,4
+953,0URaSsFcKFE7Yb7AWMawOp,Auto-Pilot - Edit,Ray Mono,minimal_deeptech,0.000935,0.802,0.663,210000,0.92,0.947,0,0.107,-8.736,1,0.0543,127.999,4
+954,11fW6yumAjAfQjSMgKonci,Little Angel,Enzo Siragusa,minimal_deeptech,0.00029,0.808,0.709,445984,0.675,0.88,3,0.0537,-10.179,0,0.0719,127.007,4
+955,5bgO7AUCpGQwRbG2NbRhl0,In My Mind - Edit,Secondcity,minimal_deeptech,0.0142,0.803,0.744,263810,0.872,0.898,10,0.0653,-8.737,0,0.0576,126.012,4
+956,16YU5XNzzU7abEYvGSYxM6,I Know You,Black Loops,minimal_deeptech,0.00195,0.773,0.799,439970,0.971,0.86,5,0.122,-7.638,0,0.0633,126.032,4
+957,6MesNJvo9rfS1GbWorm7iv,Feelings,Rossi.,minimal_deeptech,0.000916,0.81,0.813,420004,0.728,0.925,11,0.0872,-10.022,1,0.0833,128.071,4
+958,6v29e9ZravvxVPW9ICCmIn,One Moment,Carloh,minimal_deeptech,0.000546,0.804,0.61,345000,0.74,0.805,1,0.159,-7.34,0,0.0512,128.007,4
+959,5LAbdYCh4FxdrGqMUcqJsQ,Lemonade,Michael Bibi,minimal_deeptech,2.87e-05,0.802,0.347,373740,0.703,0.903,6,0.0538,-8.252,0,0.0733,131.002,4
+960,2HD4pdjl5gmuMJb3V8Bx6N,Boosta Us - The Mekanism Remix,LEON (Italy),minimal_deeptech,2e-05,0.805,0.64,361046,0.731,0.933,1,0.0855,-10.45,1,0.0645,129.005,4
+961,3cnFb685dm1p3dq0IIFVex,Broadcast,Boran Ece,minimal_deeptech,0.000688,0.81,0.157,420000,0.606,0.434,7,0.0655,-12.122,0,0.0936,123.976,4
+962,4fgRKrOUQV8Da8Qb9dRzbi,Yeah Yeah,Kreutziger,minimal_deeptech,0.00498,0.808,0.499,363953,0.723,0.933,5,0.0923,-10.086,1,0.0582,127.003,4
+963,6VGDJwkGAxK0aIxQtxEG8O,Straight To Abu,Wlad,minimal_deeptech,0.0129,0.807,0.716,420000,0.984,0.93,1,0.0403,-8.552,1,0.0592,127.991,4
+964,6tq5T4Jfp8jidWCSC7iECj,Move Your Body,Aguilar (Italy),minimal_deeptech,0.107,0.801,0.71,347717,0.981,0.832,11,0.0466,-8.536,1,0.0754,127.008,4
+965,1Xa5LreojrdDPDRkoBTmQs,In and Around - Edit,Seb Zito,minimal_deeptech,0.005,0.643,0.733,214154,0.957,0.836,2,0.127,-7.819,1,0.0337,130.011,4
+966,1eYND77E5VwGUhNeedVrxN,The Way It Goes (Track 1) - Chris Stussy Dub,Kerri Chandler,minimal_deeptech,0.017,0.801,0.411,396393,0.807,0.89,10,0.0915,-8.95,0,0.0488,128.028,3
+967,6W73mUJoTeNXvbVOSoZvs3,Da Revolution,Luuk Van Dijk,minimal_deeptech,0.00065,0.801,0.798,250313,0.929,0.704,7,0.0951,-8.11,1,0.0629,127.999,4
+968,4N5ueYJmFI7jyJWSSpxR1y,Retpoid,ANOTR,minimal_deeptech,0.00159,0.787,0.473,371621,0.953,0.93,7,0.0747,-9.106,0,0.0815,123.988,4
+969,194m6MQ9VIZhelcVVWu3LB,Lucid Dream,Lauren Lo Sung,minimal_deeptech,0.0534,0.781,0.473,347077,0.992,0.87,0,0.137,-9.112,0,0.0688,130.009,4
+970,1ATG41jcMbM9WPPDzdgKKY,Swing Theory,Sidney Charles,minimal_deeptech,0.0174,0.801,0.579,433488,0.913,0.909,6,0.105,-7.571,0,0.0584,129.0,4
+971,69TMZ1dGC383U2fivvVol4,OUTRAGEOUS,TREASURE SERIES,minimal_deeptech,0.000109,0.799,0.675,265649,0.761,0.384,7,0.106,-11.625,1,0.103,131.023,4
+972,6r9KwL9wXVVcc47PRexUqc,Catch 22,Charlie Banks,minimal_deeptech,0.0362,0.808,0.334,458101,0.653,0.913,7,0.0508,-8.295,1,0.0959,127.961,4
+973,0myShXi81ODkBuVLCf0ikR,Dance With Me,Charlie Banks,minimal_deeptech,0.00147,0.806,0.396,427426,0.792,0.902,8,0.0866,-7.564,1,0.0627,127.001,4
+974,6LT0DV0sBIsgeMxGF8oQ0u,Take A Ride,Cessy,minimal_deeptech,0.0119,0.806,0.984,357209,0.941,0.953,9,0.0829,-7.792,1,0.0408,129.011,4
+975,2d3Q2guF1zakOf6BpGjBEX,On The Grind,Ray Mono,minimal_deeptech,0.00333,0.787,0.538,366402,0.972,0.883,11,0.0725,-9.317,0,0.0767,126.002,4
+976,4xtQD5nkeEp5CAnzxFzCUw,Pressure,Mr.Diamond,minimal_deeptech,0.00105,0.809,0.526,405071,0.815,0.93,2,0.127,-9.728,1,0.0432,125.977,4
+977,1IwuNyTglKXZEQvQ4Iu69u,Isolation - Mr.Diamond Remix Edit,Seb Zito,minimal_deeptech,0.0116,0.795,0.315,229385,0.899,0.898,9,0.0725,-7.283,1,0.0439,129.953,4
+978,0zzRPUfnwkfiFOlpKcsLQe,House Brause - Toman Remix,Christian Burkhardt,minimal_deeptech,0.00036,0.787,0.733,424918,0.914,0.878,10,0.0718,-8.895,0,0.0545,126.987,4
+979,6mM7LJHKDVhduD428lv5OD,Overflow,DJOKO,minimal_deeptech,0.00153,0.8,0.709,196875,0.929,0.904,9,0.0927,-6.94,1,0.0606,128.024,4
+980,5XalZrlA1pcYbU6V7NE5Jl,The Truth - Ruze Remix,Friend Within,minimal_deeptech,0.00295,0.78,0.81,202969,0.99,0.875,7,0.0639,-5.717,1,0.0545,128.01,4
+981,1IacbqqroqGaNNopD9MxCe,Relish,Samuele Scelfo,minimal_deeptech,0.00158,0.805,0.219,400617,0.696,0.749,1,0.0563,-11.377,1,0.0486,127.0,4
+982,05zloQ6NcCctGxTttwefT9,Get Up - Max Chapman Remix,Christian Burkhardt& Daniel Roth,minimal_deeptech,0.000756,0.811,0.789,372792,0.914,0.923,5,0.0367,-7.574,0,0.0766,125.997,4
+983,60C5ttgBZMfyNvYCXtDlsx,Serious Danger - Edit,Luuk Van Dijk,minimal_deeptech,0.00679,0.776,0.456,254646,0.926,0.866,3,0.0947,-8.399,0,0.0516,127.02,4
+984,2WhnfkiNIKoQyRoi393sEE,Keep On,Sidney Charles,minimal_deeptech,0.00702,0.807,0.602,358125,0.894,0.934,6,0.0575,-9.013,0,0.0953,127.996,4
+985,5wAnExccLvql2h8YdSs4GX,Signals Thru the Silence,Artmann,minimal_deeptech,0.0281,0.818,0.415,448154,0.861,0.808,7,0.115,-9.861,1,0.0621,130.0,4
+986,5WAR1eMCWQPn5Il3tcNxiR,Le Cockpit - Chris Stussy Remix,Mandana,minimal_deeptech,0.00446,0.802,0.876,381613,0.78,0.927,5,0.0871,-9.654,0,0.0732,127.001,4
+987,7AwS6fDqKvdRDJ6SKNwsKn,Machines - Rossi. Remix,Politics of Dancing,minimal_deeptech,0.00438,0.807,0.887,436875,0.898,0.488,7,0.069,-10.428,1,0.054,128.007,4
+988,74UtvwkGfAEo74V6dgIQzX,Masterplan - Edit,TwoSlice,minimal_deeptech,0.0221,0.803,0.769,201630,0.979,0.912,7,0.0625,-6.558,1,0.0825,125.008,4
+989,3xbmqeBSLYHOEQr8bJoYt4,Easy Rider,The Willers Brothers,minimal_deeptech,0.00496,0.794,0.759,375031,0.879,0.84,2,0.0725,-9.855,1,0.0903,128.013,4
+990,2M7ZkdRMpCzrVMKS47tPma,Stop - Original Mix,Augusto Gagliardi,minimal_deeptech,0.00182,0.83,0.643,360238,0.909,0.895,7,0.0589,-8.862,0,0.0857,128.018,4
+991,6LT5fQhkNyHnwe2yOYGSll,Burnin' - Art edit,Stef Davidse,minimal_deeptech,0.000217,0.804,0.323,345000,0.898,0.898,0,0.0356,-8.002,1,0.0438,128.012,4
+992,4jgzBgMaTwUYVGK5TMv95I,Only You,Tommy Vercetti,minimal_deeptech,0.000273,0.737,0.868,338000,0.75,0.733,6,0.0229,-11.041,1,0.0364,132.013,4
+993,6frzeht6Tn5UbgKG0yZA56,Keep the Faith - Black Loops Remix,Matrefakt,minimal_deeptech,0.0174,0.819,0.854,418817,0.914,0.805,1,0.0266,-7.599,1,0.0821,130.029,4
+994,68zDIhLUGbvcMoof7MUuRU,Tweezy,Luuk Van Dijk,minimal_deeptech,0.00156,0.809,0.737,213938,0.68,0.815,10,0.0927,-9.475,0,0.0662,128.008,4
+995,4Vgk1AMbCP0pjL5e4IkSP5,Seventh Sense - Archie Hamilton Remix,Isaac carter,minimal_deeptech,0.000689,0.791,0.58,463291,0.716,0.891,0,0.0936,-11.48,1,0.0619,129.997,4
+996,38WPEAWS4DvWhALCBkBXbJ,Crazy Horse,Dimmish,minimal_deeptech,0.000859,0.806,0.903,355287,0.839,0.763,7,0.0545,-9.28,1,0.0732,127.012,4
+997,3QllPjCHSiAQyA2YTKYdtQ,Insomnia,Toman,minimal_deeptech,0.0223,0.827,0.637,417495,0.92,0.921,9,0.112,-8.503,0,0.0623,129.008,4
+998,5TmLUtqeA5cXe7B1UGM2h9,Paint A Picture,ANOTR,minimal_deeptech,0.000284,0.795,0.735,384590,0.984,0.94,2,0.0444,-8.225,1,0.0801,126.012,4
+999,19rAipMxpXYBYIGi2Kufr8,Closer with You - Original Mix,Secondcity,minimal_deeptech,0.0038,0.773,0.882,401009,0.9,0.649,10,0.0493,-9.643,0,0.147,125.982,4
+1000,7Kza0jU8L3dnFrBgwGECYG,Thoughts,James Dexter,minimal_deeptech,0.00438,0.807,0.762,369477,0.798,0.784,4,0.0743,-9.38,0,0.0654,126.028,4
+1001,3uvq5PJITiooMXcxmy6GpJ,Daylight,DJOKO,minimal_deeptech,0.0228,0.796,0.9,356393,0.904,0.915,1,0.217,-8.027,1,0.057,130.001,4
+1002,4edAhrBRCoHQKUYSUOvCg6,The Witness - Luuk Van Dijk Remix Edit,Kreature,minimal_deeptech,0.0061,0.803,0.764,219692,0.891,0.855,11,0.0839,-11.078,0,0.0431,129.989,4
+1003,4DpVvNt3kz5jWjSfg4rmUR,In Village,Rossi.,minimal_deeptech,0.00213,0.806,0.84,373301,0.899,0.881,0,0.0485,-8.177,1,0.0662,129.011,4
+1004,2ZbMR5il3IaLwljszO0FDB,Resurrection,Archie Hamilton,minimal_deeptech,0.000456,0.765,0.648,484914,0.907,0.9,10,0.0846,-6.331,1,0.034,128.004,4
+1005,7F71zcqxJUin07a0rFQWXC,CHEEKY LEFT,PAWSA,minimal_deeptech,0.185,0.797,0.763,404077,0.691,0.939,7,0.0922,-16.778,1,0.121,131.011,3
+1006,2Q4Vd6Cja5tSxUueXx5bv5,Homesick,Black Loops,minimal_deeptech,0.000355,0.786,0.487,398151,0.753,0.884,1,0.371,-8.336,1,0.0703,126.024,4
+1007,2MUb54vFVlQyzthGg9o1wi,So Bare,DeMarzo,minimal_deeptech,0.00608,0.806,0.867,457869,0.918,0.914,11,0.11,-10.293,0,0.066,126.003,4
+1008,56He5p7GIaEFhRzl3mUZkk,Close,James Dexter,minimal_deeptech,0.000461,0.813,0.936,423566,0.994,0.925,11,0.0583,-8.167,0,0.049,127.009,4
+1009,5dg4F4PPKLe3rFyCDkpYrP,Closer,Jaden Thompson,minimal_deeptech,0.00256,0.843,0.889,393440,0.723,0.231,8,0.0781,-9.324,1,0.112,127.001,4
+1010,6V7MqzjuQQG4jy6MnWvJC4,Work - Lauren Lo Sung Remix,Piem,minimal_deeptech,0.0238,0.795,0.57,209997,0.927,0.639,10,0.116,-6.986,0,0.0891,127.984,4
+1011,0TBAvJw4fgV94ivSqy87bO,Espresso,Dimmish,minimal_deeptech,9.74e-05,0.8,0.723,516900,0.966,0.848,1,0.0434,-8.459,0,0.0606,129.996,4
+1012,5qq51Yd0p6Y7yx19qJ4lRs,Lose Control - Darius Syrossian Remix,Luuk Van Dijk,minimal_deeptech,0.0124,0.817,0.326,404500,0.792,0.736,5,0.494,-8.892,0,0.0645,127.012,4
+1013,2HaI3hiwPPAbshCj2BzMvO,Sing,East End Dubs,minimal_deeptech,0.00608,0.718,0.556,306142,0.8,0.499,0,0.0834,-8.521,0,0.045,126.996,4
+1014,44lOsgCyWdsUn09I8yhdoA,Planet Zero,Dimmish,minimal_deeptech,0.0446,0.796,0.559,420915,0.851,0.873,10,0.0726,-9.281,0,0.0574,128.013,4
+1015,3cKS5lTbRVVPkd5QYBjpam,What U Want - Chris Stussy & Djoko Remix,Enrico Mantini,minimal_deeptech,0.0854,0.727,0.702,526856,0.81,0.29,1,0.073,-10.036,1,0.168,124.977,4
+1016,22Eace1JWK9JRkD3NLt69K,Organica,Sidney Charles,minimal_deeptech,0.0118,0.797,0.562,375246,0.919,0.863,10,0.0707,-7.279,0,0.0725,128.994,4
+1017,1xnE19A8muQQE7AZEF9oIs,Palermo,Sidney Charles,minimal_deeptech,0.00162,0.778,0.556,463125,0.977,0.879,7,0.0436,-5.903,1,0.0914,128.012,4
+1018,2nDjcNEg0mZgaPR32kzizj,Harlem Lights - Prunk Remix,Darius Syrossian,minimal_deeptech,0.00836,0.807,0.77,395000,0.673,0.902,7,0.0779,-8.42,1,0.057,127.004,4
+1019,3dXaSLiMYMmAz92NULWbmg,It All Comes to an End,DJOKO,minimal_deeptech,0.0539,0.792,0.812,398829,0.954,0.833,9,0.0679,-8.152,0,0.0827,131.001,4
+1020,4eV8CIvLKYUlk9L14GPme5,Got Sum,Luuk Van Dijk,minimal_deeptech,0.00569,0.791,0.39,335111,0.877,0.899,10,0.108,-8.769,0,0.133,127.997,4
+1021,5HAPqMiSPqhC09bUVFMco4,Rewind,Riaz Dhanani,minimal_deeptech,0.001,0.799,0.81,363000,0.924,0.903,6,0.147,-8.208,0,0.0628,128.006,4
+1022,3tB4MNRBK3mPJbAq2LLpwp,Other Side - Rossi. Remix,Rich NxT,minimal_deeptech,0.00205,0.804,0.852,359457,0.815,0.911,10,0.0334,-9.754,0,0.062,129.015,4
+1023,63ceU7GQf3oQtQMz094B3S,Be Yourself - Enzo Siragusa Remix,Yaya,minimal_deeptech,0.00108,0.797,0.595,446665,0.744,0.89,1,0.377,-8.624,1,0.128,129.041,4
+1024,0ZyQzsbnHnYl2uLlsllYep,U & ME,Dale Howard,minimal_deeptech,0.00393,0.801,0.668,180000,0.84,0.806,6,0.107,-6.757,0,0.0657,128.023,4
+1025,34vJm67XsMX5FzVdbr3cUD,Gain Slide,Sidney Charles,minimal_deeptech,0.00135,0.796,0.736,258750,0.928,0.803,11,0.0625,-6.872,0,0.0824,128.007,4
+1026,0uuMqlPEGeeSSwduBubjas,Lose Control,Luuk Van Dijk,minimal_deeptech,0.00149,0.798,0.755,365489,0.936,0.904,4,0.0599,-7.348,0,0.0802,129.022,4
+1027,57ZNFaUn4fr57zhYwckAcw,Goody Two Shoes - Max Chapman Remix,Timmy P,minimal_deeptech,0.00559,0.794,0.432,249449,0.927,0.243,6,0.0831,-8.187,0,0.0861,126.987,4
+1028,2Ov5Uzz0M2etwxFrmbOYiT,Slippers All Summer,Josh Baker,minimal_deeptech,0.0472,0.798,0.727,387680,0.889,0.899,4,0.0857,-8.751,0,0.0429,129.978,4
+1029,6r1eU45hv7JTIb7WScMJJ0,Don't Call Me,Vales,minimal_deeptech,0.00169,0.801,0.706,346000,0.976,0.867,11,0.0929,-6.783,1,0.0826,128.007,4
+1030,7F6NteFnxqdIAwJub6OIQT,I Work Hard (feat. Big Mike) - Thomas Garcia's 4AM Dub Remix,MING,minimal_deeptech,0.00112,0.72,0.595,229839,0.938,0.0601,11,0.296,-4.564,0,0.187,129.033,4
+1031,4vbuXAJkHYb43Xr3KjI32g,Dreaming,ZYNK,minimal_deeptech,0.00755,0.797,0.54,360000,0.961,0.682,7,0.0557,-8.073,1,0.0688,130.008,4
+1032,15NkeIxqUpkI48zGWd8lwv,Space Garden,MITA (BR),minimal_deeptech,0.12,0.781,0.38,230551,0.967,0.885,7,0.0659,-8.974,1,0.0631,127.018,4
+1033,4n3Nhbk8yAkKP2Ywe0LrIO,Spank the Wurli,DJOKO,minimal_deeptech,0.00602,0.746,0.686,346082,0.737,0.866,1,0.0812,-9.733,1,0.107,128.991,4
+1034,6Ok27KSkHiqXxGkgPpfh1q,Sunny Days,DJOKO,minimal_deeptech,0.000698,0.801,0.723,385512,0.91,0.44,10,0.0538,-11.158,0,0.0594,126.985,4
+1035,08FdVm5a2MkKZrPfDmePyj,Secret to Happiness,DJOKO,minimal_deeptech,1.15e-05,0.791,0.839,351756,0.691,0.877,4,0.182,-10.117,0,0.0528,131.002,4
+1036,6bmKsVXsDInpwdNvBnxrHR,Rip City - Fabe Remix,LEON (Italy),minimal_deeptech,0.00869,0.851,0.769,443607,0.88,0.852,7,0.0955,-8.631,1,0.12,126.995,4
+1037,2UXF6Sz2y6cYk1tF5f1X7U,Whatever,Kreech,minimal_deeptech,0.164,0.777,0.541,226047,0.933,0.306,7,0.107,-8.641,0,0.0551,128.992,4
+1038,3NYSAj8EmsvR1JzwtjDJkf,So Bad,MADVILLA,minimal_deeptech,0.000888,0.693,0.573,364651,0.847,0.736,11,0.643,-6.987,1,0.127,129.0,4
+1039,3CHlMX7taYdncYgOgMk61v,Old Flame feat. Shyam P,MADVILLA,minimal_deeptech,0.0182,0.771,0.79,367500,0.695,0.8,4,0.312,-7.853,0,0.101,127.99,4
+1040,0FrFih3njclZ8y3QjyxaVg,Takeout,MADVILLA,minimal_deeptech,0.00264,0.707,0.243,415748,0.874,0.747,1,0.117,-7.313,1,0.0504,127.014,4
